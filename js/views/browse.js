@@ -92,7 +92,7 @@
         detail.appendChild(h('div', { class: 'br-full', dir: 'auto', html: fmt(q.text) }));
         if (def) { try { detail.appendChild(def.view(q, {})); } catch (e) { /* malformed question */ } }
         if (q.explanation) detail.appendChild(h('div', { class: 'expl' }, h('div', { class: 'expl-head' }, QZ.icon('info', 18), h('span', null, t('browse.note'))), h('div', { class: 'expl-text', dir: 'auto', html: fmt(q.explanation) })));
-        detail.appendChild(h('div', { class: 'br-actions' }, UI.btn(t('browse.editQ'), { icon: 'edit', variant: 'ghost', small: true, href: '#/editor/subject/' + w.subject + '/lesson/' + w.lesson + '/q/' + encodeURIComponent(w.id) })));
+        if (QZ.editorMode.on()) detail.appendChild(h('div', { class: 'br-actions' }, UI.btn(t('browse.editQ'), { icon: 'edit', variant: 'ghost', small: true, href: '#/editor/subject/' + w.subject + '/lesson/' + w.lesson + '/q/' + encodeURIComponent(w.id) })));
       }
       return wrap;
     }

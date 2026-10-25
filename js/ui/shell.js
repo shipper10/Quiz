@@ -60,7 +60,7 @@
     }
     const view = $('#view');
     if (!match) { match = { r: routes.find((x) => x.pattern === '/'), params: {} }; }
-    current = { path, params: match.params, query };
+    current = { path, params: match.params, query, nav: match.r.nav || '' };
     setNav(match.r.nav || '');
     const el = h('div', { class: 'page' });
     el.appendChild(h('div', { class: 'loading', role: 'status' }, h('span', { class: 'spinner', 'aria-hidden': 'true' }), QZ.t('common.loading')));
@@ -116,7 +116,7 @@
         link('home', '#/', 'home', t('nav.home')),
         link('review', '#/review', 'refresh', t('nav.review'), reviewBadge),
         h('div', { class: 'nav-sep' }),
-        link('editor', '#/editor', 'edit', t('nav.editor')),
+        QZ.editorMode.on() ? link('editor', '#/editor', 'edit', t('nav.editor')) : null,
         link('settings', '#/settings', 'sliders', t('nav.settings'))
       )
     ));
@@ -141,7 +141,8 @@
     const el = $('#brand-name');
     if (el) el.textContent = title || QZ.t('app.name');
   };
-  UI.rebuild = function () { buildFrame(); setNav(R.current().nav || ''); R.refresh(); };
+  UI.rebuildFrame = function () { buildFrame(); setNav(R.current().nav || ''); };
+  UI.rebuild = function () { UI.rebuildFrame(); R.refresh(); };
   UI.setTitle = function (title) { document.title = title ? title + ' — ' + (UI.siteTitle || QZ.t('app.name')) : UI.siteTitle || QZ.t('app.name'); };
 
   QZ.shell = { mount() { buildFrame(); } };

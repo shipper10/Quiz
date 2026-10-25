@@ -12,8 +12,9 @@
 
   QZ.router.add('/editor', async (params, query, root) => {
     const t = QZ.t;
+    if (!QZ.editorMode.on()) { QZ.editorMode.set(true); UI.rebuildFrame(); } // supervisor opened the editor: show its menu link
     UI.setTitle(t('ed.title'));
-    root.appendChild(UI.pageHead(t('ed.title'), t('ed.intro')));
+    root.appendChild(UI.pageHead(t('ed.title'), t('ed.intro'), [UI.btn(t('ed.hideHere'), { icon: 'eye', variant: 'ghost', small: true, onClick: () => { QZ.editorMode.set(false); QZ.publishCfg.clear(); UI.rebuildFrame(); QZ.router.go('/'); UI.toast(t('ed.hiddenDone')); } })]));
     root.appendChild(h('p', { class: 'note' }, QZ.icon('info', 18), h('span', null, t('ed.sharedNote') + (QZ.drafts.persistent ? '' : ' ⚠ (IndexedDB unavailable — drafts will be lost on reload)'))));
 
     const draftsHost = h('section', { class: 'card' });

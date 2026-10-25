@@ -26,7 +26,7 @@
       h('div', { class: 'sh-actions' },
         UI.btn(t('subject.browse'), { icon: 'list', variant: 'soft', href: '#/subject/' + subject.id + '/browse' }),
         UI.btn(t('subject.review'), { icon: 'refresh', variant: 'soft', href: '#/review?subject=' + subject.id }),
-        UI.btn(t('nav.editor'), { icon: 'edit', variant: 'ghost', href: '#/editor/subject/' + subject.id })
+        QZ.editorMode.on() ? UI.btn(t('nav.editor'), { icon: 'edit', variant: 'ghost', href: '#/editor/subject/' + subject.id }) : null
       )
     ));
 
