@@ -115,6 +115,15 @@
     clear() { remove(K.session); },
   };
 
+  /* ---------------- Editor mode ----------------
+     Students never see the editor. A supervisor opens  #/editor  once on their device;
+     that switches the menu link and the edit buttons on. (It is only a convenience:
+     what really protects the content is that publishing needs a GitHub token.) */
+  QZ.editorMode = {
+    on() { return read('quizhub:editor', false) === true || !!QZ.publishCfg.load().token; },
+    set(v) { if (v) write('quizhub:editor', true); else remove('quizhub:editor'); },
+  };
+
   /* ---------------- Publish settings (editor) ---------------- */
   QZ.publishCfg = {
     load() { return read(K.publish, {}); },
