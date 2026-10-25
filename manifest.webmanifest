@@ -1,0 +1,10 @@
+{
+  "name": "منصة الأسئلة الدراسية",
+  "short_name": "الأسئلة",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6f4",
+  "theme_color": "#1f6b4a",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

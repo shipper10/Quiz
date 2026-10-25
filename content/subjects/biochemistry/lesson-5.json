@@ -1,0 +1,801 @@
+{
+  "questions": [
+    {
+      "id": "L5_SA_001",
+      "type": "shortanswer",
+      "text": "What is a nucleotide?",
+      "answer": "Nitrogenous base + sugar + phosphate.",
+      "explanation": "A nucleotide is the complete monomeric unit of nucleic acids, consisting of a purine or pyrimidine base, a pentose sugar, and at least one phosphate group."
+    },
+    {
+      "id": "L5_SA_002",
+      "type": "shortanswer",
+      "text": "What is a nucleoside?",
+      "answer": "Nitrogenous base + sugar.",
+      "explanation": "A nucleoside is a nucleotide missing its phosphate moiety; it contains only the nitrogenous base linked via a beta-N-glycosidic bond to a pentose sugar."
+    },
+    {
+      "id": "L5_SA_003",
+      "type": "shortanswer",
+      "text": "What are sugars present in nucleic acids?",
+      "answer": "Ribose in RNA and deoxyribose in DNA.",
+      "explanation": "RNA contains D-ribose, whereas DNA contains 2'-deoxy-D-ribose, which lacks a hydroxyl group (-OH) at the carbon-2 position."
+    },
+    {
+      "id": "L5_SA_004",
+      "type": "shortanswer",
+      "text": "What are the bases present in nucleotides?",
+      "answer": "Purines and pyrimidines.",
+      "explanation": "These are heterocyclic, nitrogen-containing organic compounds that constitute the genetic alphabet of nucleic acids."
+    },
+    {
+      "id": "L5_SA_005",
+      "type": "shortanswer",
+      "text": "Name the common purines.",
+      "answer": "Adenine and guanine.",
+      "explanation": "Purines consist of a double-ring structure made of a six-membered pyrimidine ring fused to a five-membered imidazole ring."
+    },
+    {
+      "id": "L5_SA_006",
+      "type": "shortanswer",
+      "text": "Name the common pyrimidines.",
+      "answer": "Cytosine, uracil, and thymine.",
+      "explanation": "Pyrimidines feature a single six-membered heterocyclic aromatic ring containing two nitrogen atoms."
+    },
+    {
+      "id": "L5_SA_007",
+      "type": "shortanswer",
+      "text": "What are the bases present in DNA?",
+      "answer": "Adenine, guanine, cytosine, and thymine.",
+      "explanation": "DNA uses thymine (5-methyluracil) specifically to pair with adenine, maximizing structural stability and proofreading safety."
+    },
+    {
+      "id": "L5_SA_008",
+      "type": "shortanswer",
+      "text": "Which nitrogenous base is absent in DNA?",
+      "answer": "Uracil.",
+      "explanation": "Uracil is replaced by thymine in DNA, allowing cells to easily detect and repair accidental cytosine deamination products."
+    },
+    {
+      "id": "L5_SA_009",
+      "type": "shortanswer",
+      "text": "Which base is found exclusively in DNA and not in RNA?",
+      "answer": "Thymine.",
+      "explanation": "Thymine is characteristic of DNA molecular configurations, though rare exceptions can occur in transfer RNA loops."
+    },
+    {
+      "id": "L5_SA_010",
+      "type": "shortanswer",
+      "text": "Which base is found exclusively in RNA and not in DNA?",
+      "answer": "Uracil.",
+      "explanation": "Uracil pairs with adenine during RNA synthesis, lacking the structural 5-methyl group found in thymine."
+    },
+    {
+      "id": "L5_SA_011",
+      "type": "shortanswer",
+      "text": "What are free nucleotides of biological importance?",
+      "answer": "They include adenosine derivatives, guanosine derivatives, cytidine derivatives, uridine derivatives and coenzymes.",
+      "explanation": "Free nucleotides perform vital non-genetic cellular roles, acting as energy currencies, second messengers, physiological cofactors, and activated metabolic intermediates."
+    },
+    {
+      "id": "L5_SA_012",
+      "type": "shortanswer",
+      "text": "What are adenosine derivatives of biological importance?",
+      "answer": "ATP, Cyclic AMP (cAMP), S-Adenosyl methionine and Adenosine 3'-phosphate 5' phosphosulfate (active sulfate).",
+      "explanation": "Adenosine-based free nucleotides carry out critical cellular jobs, acting as energy donors (ATP), second messengers (cAMP), methyl group donors (SAM), and sulfur donors (PAPS)."
+    },
+    {
+      "id": "L5_SA_013",
+      "type": "shortanswer",
+      "text": "What are the functions of ATP?",
+      "answer": "ATP is a stored form of energy and it is used as a source of adenine nucleotides for nucleic acids synthesis.",
+      "explanation": "ATP acts as the primary energy currency of cells and serves as an activated precursor for RNA polymerization."
+    },
+    {
+      "id": "L5_SA_014",
+      "type": "shortanswer",
+      "text": "What are uses of energy derived from ATP?",
+      "answer": "Muscle contraction, nerve conduction, absorption, secretion, active transport across cell membrane, activation of some compounds (glucose to form glucose-6-phosphate), synthesis of cyclic AMP and active methionine.",
+      "explanation": "ATP provides thermodynamic driving force to sustain cellular life through mechanical work, electrical potentials, active molecular transport, and biosynthetic reactions."
+    },
+    {
+      "id": "L5_SA_015",
+      "type": "shortanswer",
+      "text": "What are the functions of cyclic AMP (cAMP)?",
+      "answer": "cAMP acts as second messenger for some hormones. It is involved in regulation of carbohydrate and lipid metabolism.",
+      "explanation": "Formed via adenylyl cyclase, cAMP binds to and activates Protein Kinase A (PKA), triggering phosphorylation cascades that regulate glycogenolysis and lipolysis."
+    },
+    {
+      "id": "L5_SA_016",
+      "type": "shortanswer",
+      "text": "What are guanosine derivatives of biological importance?",
+      "answer": "GTP and Cyclic GMP (cGMP).",
+      "explanation": "Guanosine structures modulate specific cellular pathways, providing energy for protein synthesis and serving as regulatory cyclic nucleotides."
+    },
+    {
+      "id": "L5_SA_017",
+      "type": "shortanswer",
+      "text": "What are the functions of GTP?",
+      "answer": "It is used as a source of energy. It is a source of guanine nucleotides for nucleic acids synthesis.",
+      "explanation": "GTP selectively powers ribosomal translation translation steps, gluconeogenesis (via PEPCK), and acts as a signaling switch in G-protein coupled complexes."
+    },
+    {
+      "id": "L5_SA_018",
+      "type": "shortanswer",
+      "text": "What are the functions of Cyclic GMP (cGMP)?",
+      "answer": "Acts as a second messenger for some hormones (natriuretic factor).",
+      "explanation": "cGMP acts as an essential intracellular signal, mediating smooth muscle vasodilation and downstream signaling for Atrial Natriuretic Peptide (ANP) and Nitric Oxide (NO)."
+    },
+    {
+      "id": "L5_SA_019",
+      "type": "shortanswer",
+      "text": "What are cytidine derivatives of biological importance?",
+      "answer": "CTP.",
+      "explanation": "Cytidine-5'-triphosphate is the premier pyrimidine precursor required to build specific lipid molecules."
+    },
+    {
+      "id": "L5_SA_020",
+      "type": "shortanswer",
+      "text": "What are the functions of CTP?",
+      "answer": "Is required for the biosynthesis of some phospholipids. It is a source of cytosine nucleotides for nucleic acids synthesis.",
+      "explanation": "CTP drives lipid synthesis by forming activated intermediate complexes like CDP-choline and CDP-diacylglycerol, which are required to construct cellular membranes."
+    },
+    {
+      "id": "L5_SA_021",
+      "type": "shortanswer",
+      "text": "What are uridine derivatives of biological importance?",
+      "answer": "UDP-glucose, UDP-glucuronic acid and UDP-glucosamine.",
+      "explanation": "Uridine nucleotides act as activated carriers that help attach sugar compounds during carbohydrate biosynthesis and detoxification."
+    },
+    {
+      "id": "L5_SA_022",
+      "type": "shortanswer",
+      "text": "What are the functions of UDP-glucose?",
+      "answer": "UDP-Glucose and UDP-galactose are used in synthesis of lactose, glycogen and glycolipids.",
+      "explanation": "UDP-glucose serves as the primary substrate for glycogen synthase, providing glucose units to build glycogen reserves."
+    },
+    {
+      "id": "L5_SA_023",
+      "type": "shortanswer",
+      "text": "What are the functions of UDP-glucuronic acid?",
+      "answer": "Synthesis of glycosaminoglycans (GAGs), and in conjugation reactions (e.g. conjugation with bilirubin).",
+      "explanation": "Glucuronidation adds hydrophilic glucuronic acid to hydrophobic compounds, rendering molecules like bilirubin, steroid hormones, and xenobiotics water-soluble for excretion."
+    },
+    {
+      "id": "L5_SA_024",
+      "type": "shortanswer",
+      "text": "What are the functions of UDP-sugar amines?",
+      "answer": "UDP-glucosamine, UDP N-acetylglucosamine and UDP-N-acetylgalactosamine are used in the synthesis of many compounds in the body e.g. glycoproteins, glycolipids and GAGs.",
+      "explanation": "Activated amino sugars provide structural units required to synthesize components of the extracellular matrix and cell surface receptors."
+    },
+    {
+      "id": "L5_SA_025",
+      "type": "shortanswer",
+      "text": "What are the functions of S-adenosyl methionine?",
+      "answer": "Methyl donor in transmethylation reactions.",
+      "explanation": "SAM (active methionine) serves as the primary biochemical donor of methyl groups ($-CH_3$) required to synthesize epinephrine, creatine, melatonin, and methylate DNA."
+    },
+    {
+      "id": "L5_SA_026",
+      "type": "shortanswer",
+      "text": "What are the functions of Adenosine 3'-phosphate 5' phosphosulfate (active sulfate)?",
+      "answer": "It acts as sulfate donor for the formation of sulfated proteoglycans. It acts also as sulfate donor for metabolites of some drugs, which excreted in urine as sulfate conjugates.",
+      "explanation": "PAPS provides activated sulfate groups needed to modify extracellular matrix components and conjugate specific drugs for renal clearance."
+    },
+    {
+      "id": "L5_SA_027",
+      "type": "shortanswer",
+      "text": "What are coenzyme nucleotides of biological importance?",
+      "answer": "NAD, NADP, FAD and FMN.",
+      "explanation": "These nucleotide derivatives serve as essential non-protein organic components required by many enzymes to drive cellular respiration and biosynthesis."
+    },
+    {
+      "id": "L5_SA_028",
+      "type": "shortanswer",
+      "text": "What are the functions of NAD and NADP+?",
+      "answer": "Hydrogen carriers.",
+      "explanation": "$NAD^+$ acts primarily as an electron acceptor in catabolic pathways, while $NADPH$ serves as a reducing agent for anabolic pathways and antioxidant systems."
+    },
+    {
+      "id": "L5_SA_029",
+      "type": "shortanswer",
+      "text": "What are the functions of FAD and FMN?",
+      "answer": "Hydrogen carriers.",
+      "explanation": "These riboflavin-derived flavoproteins function as tightly bound prosthetic groups that transfer one or two electrons within respiratory complex networks."
+    },
+    {
+      "id": "L5_SA_030",
+      "type": "shortanswer",
+      "text": "What are types of RNA?",
+      "answer": "3 types: mRNA, rRNA and tRNA.",
+      "explanation": "The three primary types of RNA—messenger, ribosomal, and transfer—coordinate to read genetic codes and assemble functional protein chains."
+    },
+    {
+      "id": "L5_SA_031",
+      "type": "shortanswer",
+      "text": "What are the functions of mRNA?",
+      "answer": "mRNA carries the genetic information from DNA in the nucleus to the ribosome (in cytosol) where protein biosynthesis occurs.",
+      "explanation": "mRNA is transcribed from template DNA strands, carrying genetic instructions in the form of three-nucleotide codons to dictate amino acid sequence assembly."
+    },
+    {
+      "id": "L5_SA_032",
+      "type": "shortanswer",
+      "text": "What are the functions of rRNA?",
+      "answer": "Ribosomes are the site of protein synthesis. They contain enzymes needed for protein biosynthesis.",
+      "explanation": "rRNA forms the structural and catalytic core of ribosomes, functioning as a ribozyme to drive peptidyl transferase activity and link amino acids during translation."
+    },
+    {
+      "id": "L5_SA_033",
+      "type": "shortanswer",
+      "text": "What are the functions of tRNA?",
+      "answer": "tRNA acts as a carrier for amino acids from the cytosol to ribosomes where protein biosynthesis occurs. Each amino acid has one or more specific tRNA.",
+      "explanation": "tRNA matches its specific anticodon loop with mRNA codons, carrying the appropriate amino acid to the ribosomal acceptor site to extend the peptide chain."
+    },
+    {
+      "id": "L5_C_001",
+      "type": "compare",
+      "text": "Compare between DNA and RNA:",
+      "aspects": [
+        "Site",
+        "Functions",
+        "Structure — Sugar",
+        "Structure — Bases",
+        "Structure — Phosphate",
+        "Types",
+        "Number of Strands"
+      ],
+      "itemA": {
+        "name": "DNA",
+        "values": [
+          "Nucleus and mitochondria",
+          "Replication of DNA (cell division) and transcription of mRNA",
+          "Deoxyribose",
+          "Adenine, Guanine, Cytosine, and Thymine",
+          "Present",
+          "One type",
+          "2 strands arranged in a double helix"
+        ]
+      },
+      "itemB": {
+        "name": "RNA",
+        "values": [
+          "Cytosol",
+          "Protein biosynthesis",
+          "Ribose",
+          "Adenine, Guanine, Cytosine, and Uracil",
+          "Present",
+          "3 types: Messenger RNA (mRNA), Transfer RNA (tRNA), and Ribosomal RNA (rRNA)",
+          "Single strand only"
+        ]
+      },
+      "explanation": "DNA and RNA are both nucleic acids composed of polynucleotide chains, yet they differ fundamentally in structure and role. DNA is double-stranded, found in the nucleus and mitochondria, and serves as the genetic blueprint through replication and transcription. Its sugar is deoxyribose and it contains thymine as a unique base. RNA is single-stranded, located in the cytosol, and directly participates in protein biosynthesis. Its sugar is ribose and it substitutes thymine with uracil. Three functional RNA types exist — mRNA carries the genetic message, tRNA delivers amino acids, and rRNA forms the structural core of ribosomes."
+    },
+    {
+      "id": "L5_MCQ_001",
+      "type": "mcq",
+      "text": "Which of the following nucleic acid bases is found in mRNA but not in DNA?",
+      "options": [
+        "Adenine",
+        "Cytosine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Adenine is present in both DNA and all types of RNA, including mRNA.",
+        "Wrong: Cytosine is a common base found in both DNA and RNA.",
+        "Wrong: Guanine is present in both DNA and RNA without distinction.",
+        "Wrong: Thymine is the base exclusive to DNA; it is replaced by uracil in RNA.",
+        "Correct: Uracil is a pyrimidine base unique to RNA. In mRNA, it pairs with adenine and substitutes for thymine, which is found only in DNA."
+      ],
+      "explanation": "The key structural difference between DNA and RNA bases lies in the pyrimidine group. DNA uses thymine (5-methyluracil), while RNA uses uracil — which lacks the methyl group at position 5. Both purines (adenine and guanine) and the pyrimidine cytosine are shared between DNA and RNA."
+    },
+    {
+      "id": "L5_MCQ_002",
+      "type": "mcq",
+      "text": "Which of the following nucleic acid bases is found in DNA but not in RNA?",
+      "options": [
+        "Adenine",
+        "Cytosine",
+        "Guanine",
+        "Thymine",
+        "Uracil"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Adenine is a purine base present in both DNA and RNA.",
+        "Wrong: Cytosine is present in both DNA and RNA as a pyrimidine base.",
+        "Wrong: Guanine is a purine base shared by both DNA and RNA.",
+        "Correct: Thymine (5-methyluracil) is a pyrimidine base exclusive to DNA. It pairs with adenine via two hydrogen bonds and is absent in all forms of RNA, where it is replaced by uracil.",
+        "Wrong: Uracil is found in RNA, not in DNA."
+      ],
+      "explanation": "Thymine is the DNA-specific pyrimidine. It is structurally identical to uracil but carries a methyl group (–CH₃) at carbon 5. This methylation is thought to enhance DNA stability. In RNA, thymine is replaced by uracil, which lacks this methyl group."
+    },
+    {
+      "id": "L5_MCQ_003",
+      "type": "mcq",
+      "text": "The two strands of the DNA double helix are connected together by:",
+      "options": [
+        "Phosphodiester bonds",
+        "Hydrogen bonds",
+        "Disulfide bonds",
+        "Cannot be separated"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Phosphodiester bonds link nucleotides within the same strand (3'→5' backbone), not between the two complementary strands.",
+        "Correct: The two antiparallel strands of the DNA double helix are held together by hydrogen bonds between complementary base pairs — A=T (2 H-bonds) and G≡C (3 H-bonds). These bonds are individually weak but collectively stable.",
+        "Wrong: Disulfide bonds (–S–S–) are covalent bonds found between cysteine residues in proteins; they play no role in nucleic acid structure.",
+        "Wrong: The two DNA strands can be separated (denatured) by heat, alkaline conditions, or enzymes such as helicases during replication."
+      ],
+      "explanation": "DNA's double helix is stabilized by two types of interactions: (1) hydrogen bonds between complementary base pairs on opposite strands (A pairs with T via 2 H-bonds; G pairs with C via 3 H-bonds), and (2) hydrophobic stacking interactions between adjacent base pairs along the helix axis. The strands run antiparallel (one 5'→3', the other 3'→5') and can be reversibly separated during replication and transcription."
+    },
+    {
+      "id": "L5_MCQ_004",
+      "type": "mcq",
+      "text": "Hydrolysis of ATP yields all of the following EXCEPT:",
+      "options": [
+        "Adenine",
+        "Ribose",
+        "Phosphate",
+        "Nicotinic acid"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Adenine is a purine base and a direct hydrolytic product of ATP.",
+        "Wrong: Ribose is the pentose sugar component of ATP (as a nucleoside triphosphate of adenosine).",
+        "Wrong: Phosphate groups (up to 3) are released upon complete hydrolysis of ATP.",
+        "Correct: Nicotinic acid (niacin) is a component of NAD⁺ and NADP⁺, not of ATP. ATP is composed of adenine, ribose, and three phosphate groups only."
+      ],
+      "explanation": "ATP (adenosine triphosphate) is a nucleoside triphosphate composed of: (1) adenine — a purine base, (2) ribose — a pentose sugar, and (3) three phosphate groups linked by high-energy anhydride bonds. Complete hydrolysis yields adenosine, phosphate, and ultimately adenine and ribose. Nicotinic acid belongs to the vitamin B3 family and is found in NAD⁺/NADP⁺, not in ATP."
+    },
+    {
+      "id": "L5_MCQ_005",
+      "type": "mcq",
+      "text": "Nucleic acids are formed of nucleotides that are linked together by:",
+      "options": [
+        "Hydrophobic bonds",
+        "Phosphodiester bonds",
+        "Peptide bonds",
+        "Disulfide bonds"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Hydrophobic interactions contribute to base stacking in the helix but do not form the covalent backbone linking nucleotides.",
+        "Correct: Nucleotides in DNA and RNA are covalently linked by 3',5'-phosphodiester bonds — a phosphate group bridges the 3'-OH of one sugar to the 5'-carbon of the next, forming the polynucleotide backbone.",
+        "Wrong: Peptide bonds link amino acids in proteins, not nucleotides in nucleic acids.",
+        "Wrong: Disulfide bonds are covalent bonds between cysteine residues in proteins and are irrelevant to nucleic acid structure."
+      ],
+      "explanation": "The primary structure of nucleic acids is maintained by 3',5'-phosphodiester bonds. Each phosphodiester bond is formed by a condensation reaction: the phosphate group attached to the 5' carbon of one nucleotide forms an ester bond with the 3'-hydroxyl group of the preceding nucleotide, releasing water. This creates a directional backbone with a free 5'-phosphate at one end and a free 3'-OH at the other."
+    },
+    {
+      "id": "L5_MCQ_006",
+      "type": "mcq",
+      "text": "Ribosomal RNA (rRNA) is present in:",
+      "options": [
+        "Golgi apparatus",
+        "Rough endoplasmic reticulum",
+        "Mitochondria",
+        "Lysosomes"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: The Golgi apparatus is involved in protein processing and packaging but does not house ribosomes or rRNA.",
+        "Correct: Ribosomes — and thus ribosomal RNA — are found on the surface of the rough endoplasmic reticulum (RER), giving it its characteristic 'rough' appearance. rRNA forms the structural and catalytic core of ribosomes, which are the sites of protein synthesis.",
+        "Wrong: While mitochondria contain their own ribosomes (55S), the major cytoplasmic ribosomal population (80S) is associated with the RER.",
+        "Wrong: Lysosomes contain hydrolytic enzymes, not ribosomes or rRNA."
+      ],
+      "explanation": "Ribosomal RNA (rRNA) is the most abundant RNA type and is a structural component of ribosomes. Ribosomes are found either free in the cytosol or attached to the rough endoplasmic reticulum (RER). The RER is the primary site for synthesis of secretory and membrane proteins. rRNA, along with ribosomal proteins, forms the large (60S) and small (40S) subunits of the 80S cytoplasmic ribosome."
+    },
+    {
+      "id": "L5_MCQ_007",
+      "type": "mcq",
+      "text": "The sugar present in DNA is:",
+      "options": [
+        "Ribose",
+        "Ribulose",
+        "Deoxyribose",
+        "Glucose"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Ribose is the pentose sugar found in RNA, not DNA.",
+        "Wrong: Ribulose is a ketopentose involved in the pentose phosphate pathway; it is not a component of nucleic acids.",
+        "Correct: 2'-Deoxyribose is the pentose sugar in DNA. It lacks the hydroxyl group (–OH) at the 2' carbon position (replaced by –H), which confers greater chemical stability to DNA compared to RNA.",
+        "Wrong: Glucose is a hexose sugar and is not a component of nucleic acids."
+      ],
+      "explanation": "The defining structural difference between DNA and RNA lies in their pentose sugars. DNA contains 2'-deoxyribose (missing the 2'-OH group), while RNA contains ribose (with the 2'-OH intact). The absence of the 2'-OH in DNA makes it more resistant to alkaline hydrolysis, contributing to its role as a stable repository of genetic information."
+    },
+    {
+      "id": "L5_MCQ_008",
+      "type": "mcq",
+      "text": "The sugar present in ATP is:",
+      "options": [
+        "Sorbitol",
+        "Ribulose",
+        "Deoxyribose",
+        "Glucose",
+        "Ribose"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Sorbitol is a sugar alcohol derived from glucose; it is not a component of nucleotides.",
+        "Wrong: Ribulose is a pentose involved in the Calvin cycle and pentose phosphate pathway, not in nucleotide structure.",
+        "Wrong: Deoxyribose is found in DNA nucleotides, not in ATP.",
+        "Wrong: Glucose is a hexose and is not part of nucleotide structure.",
+        "Correct: ATP (adenosine triphosphate) contains ribose as its pentose sugar. ATP is the ribonucleoside triphosphate of adenine, making it structurally analogous to an RNA building block."
+      ],
+      "explanation": "ATP is composed of adenine (purine base) + ribose (pentose sugar) + three phosphate groups. The ribose sugar connects the adenine base via an N-glycosidic bond at the 1' carbon, and the phosphate chain is attached at the 5' carbon. ATP serves as the primary energy currency of the cell, with energy released upon hydrolysis of its high-energy phosphoanhydride bonds."
+    },
+    {
+      "id": "L5_MCQ_009",
+      "type": "mcq",
+      "text": "The enzyme responsible for the synthesis of cyclic AMP (cAMP) is:",
+      "options": [
+        "Adenine deaminase",
+        "Adenosine triphosphatase",
+        "Adenylate cyclase",
+        "Phosphodiesterase"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Adenine deaminase catalyzes the deamination of adenine to hypoxanthine and is unrelated to cAMP synthesis.",
+        "Wrong: Adenosine triphosphatase (ATPase) hydrolyzes ATP to ADP + Pᵢ; it does not form cyclic AMP.",
+        "Correct: Adenylate cyclase (also called adenylyl cyclase) is a membrane-bound enzyme activated by G-proteins (Gα-GTP). It converts ATP into 3',5'-cyclic AMP (cAMP) and pyrophosphate (PPᵢ), initiating intracellular signal transduction cascades.",
+        "Wrong: Phosphodiesterase is the enzyme that degrades cAMP to 5'-AMP, terminating the cAMP signal. It is not involved in cAMP synthesis."
+      ],
+      "explanation": "Cyclic AMP (3',5'-cAMP) is a key second messenger in hormone signaling. Its synthesis is catalyzed by adenylate cyclase, which is activated when hormones (e.g., adrenaline, glucagon) bind their G-protein-coupled receptors, leading to Gαs activation. The reaction: ATP → cAMP + PPᵢ. cAMP activates Protein Kinase A (PKA), which phosphorylates target enzymes to mediate cellular responses."
+    },
+    {
+      "id": "L5_MCQ_010",
+      "type": "mcq",
+      "text": "The enzyme responsible for the breakdown of cyclic AMP (cAMP) is:",
+      "options": [
+        "Adenine deaminase",
+        "Adenosine triphosphatase",
+        "Adenylate cyclase",
+        "Phosphodiesterase"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Adenine deaminase acts on the free base adenine and is unrelated to cAMP catabolism.",
+        "Wrong: Adenosine triphosphatase hydrolyzes ATP; it does not act on cAMP.",
+        "Wrong: Adenylate cyclase synthesizes cAMP from ATP; it is the opposing enzyme in this pathway.",
+        "Correct: Phosphodiesterase (PDE) hydrolyzes the 3'-phosphoester bond of cAMP, converting it to inactive 5'-AMP and terminating the intracellular signal. PDE is inhibited by methylxanthines such as caffeine and theophylline."
+      ],
+      "explanation": "The cAMP signaling pathway is tightly regulated by the opposing actions of adenylate cyclase (synthesis) and phosphodiesterase (degradation). Phosphodiesterase cleaves the cyclic 3',5'-phosphodiester bond of cAMP to yield linear 5'-AMP, which has no second messenger activity. Inhibition of PDE by drugs like theophylline prolongs cAMP signaling, which is exploited therapeutically in asthma management."
+    },
+    {
+      "id": "L5_MCQ_011",
+      "type": "mcq",
+      "text": "The substrate for adenylate cyclase is:",
+      "options": [
+        "AMP",
+        "ATP",
+        "ADP",
+        "GTP"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: AMP (adenosine monophosphate) is the product of cAMP hydrolysis by phosphodiesterase, not the substrate for adenylate cyclase.",
+        "Correct: ATP (adenosine triphosphate) is the direct substrate for adenylate cyclase. The enzyme catalyzes the cyclization of ATP by forming a bond between the α-phosphate and the 3'-OH of ribose, releasing pyrophosphate (PPᵢ) and producing cAMP.",
+        "Wrong: ADP is an intermediate in ATP hydrolysis and is not used by adenylate cyclase.",
+        "Wrong: GTP is the substrate for guanylate cyclase, which synthesizes cGMP — a different second messenger involved in smooth muscle relaxation and visual phototransduction."
+      ],
+      "explanation": "Adenylate cyclase catalyzes the reaction: ATP → 3',5'-cyclic AMP + PPᵢ. The enzyme requires Mg²⁺ as a cofactor. The released pyrophosphate is rapidly hydrolyzed by pyrophosphatase, driving the reaction forward. This ensures that once cAMP is synthesized, the reaction is essentially irreversible under physiological conditions."
+    },
+    {
+      "id": "L5_MCQ_012",
+      "type": "mcq",
+      "text": "Removal of phosphate from AMP will produce:",
+      "options": [
+        "Adenosine",
+        "Adenine",
+        "ATP",
+        "ADP"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: AMP (adenosine monophosphate) consists of adenine + ribose + one phosphate. Removal of the phosphate group by a phosphatase yields adenosine (adenine + ribose) — a nucleoside.",
+        "Wrong: Adenine is the free purine base alone. To obtain adenine from AMP, both the phosphate AND the ribose must be removed.",
+        "Wrong: ATP has three phosphate groups; it cannot be produced by removing phosphate from AMP.",
+        "Wrong: ADP has two phosphate groups. Dephosphorylation of AMP would yield adenosine, not ADP."
+      ],
+      "explanation": "Nucleotide terminology hierarchy: Base alone → Nucleobase (e.g., Adenine). Base + Sugar → Nucleoside (e.g., Adenosine). Base + Sugar + Phosphate(s) → Nucleotide (e.g., AMP, ADP, ATP). Removing the phosphate group from AMP (a nucleotide) by 5'-nucleotidase yields adenosine (a nucleoside). Further hydrolysis of adenosine by nucleoside phosphorylase removes the ribose to yield the free base adenine."
+    },
+    {
+      "id": "L5_MCQ_013",
+      "type": "mcq",
+      "text": "All of the following about S-adenosyl methionine (SAM) are correct EXCEPT:",
+      "options": [
+        "Is formed by L-methionine adenosyl transferase",
+        "The sugar obtained by hydrolysis is deoxyribose",
+        "It acts as a methyl donor",
+        "It contains adenine base"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: This is correct — SAM is synthesized from L-methionine and ATP by the enzyme methionine adenosyl transferase (MAT).",
+        "Correct: This is the INCORRECT statement. SAM contains ribose (not deoxyribose), as it is derived from ATP, which is a ribonucleoside triphosphate. Deoxyribose is found only in DNA nucleotides.",
+        "Wrong: This is correct — SAM is the principal biological methyl donor in transmethylation reactions (e.g., methylation of DNA, RNA, proteins, phospholipids, and catecholamines).",
+        "Wrong: This is correct — SAM contains the adenine purine base, inherited from the ATP molecule used in its biosynthesis."
+      ],
+      "explanation": "S-Adenosyl methionine (SAM) is formed by the transfer of the adenosyl group from ATP to the sulfur atom of L-methionine, catalyzed by methionine adenosyl transferase. SAM is the most important methyl donor in the body. Its structure includes: adenine base + ribose (not deoxyribose) + adenosyl group linked to the sulfur of methionine. After donating its methyl group, SAM is converted to S-adenosylhomocysteine (SAH)."
+    },
+    {
+      "id": "L5_MCQ_014",
+      "type": "mcq",
+      "text": "All of the following about the B-form of the helical structure of DNA are correct EXCEPT:",
+      "options": [
+        "It is a left-handed helical structure",
+        "One turn span equals 3.4 nm",
+        "Number of base pairs (bp) per turn is 10.4",
+        "The diameter of the molecule is 2 nm",
+        "It contains 2 grooves, minor and major"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: This is the INCORRECT statement. B-DNA is a right-handed double helix, not left-handed. The left-handed form is Z-DNA, which occurs in regions of alternating purine-pyrimidine sequences under high-salt conditions.",
+        "Wrong: This is correct — in B-DNA, the pitch (distance per complete turn) is 3.4 nm.",
+        "Wrong: This is correct — B-DNA has approximately 10.4 base pairs per helical turn.",
+        "Wrong: This is correct — the diameter of the B-DNA double helix is 2 nm (20 Å).",
+        "Wrong: This is correct — B-DNA has two grooves: a wide major groove and a narrow minor groove. Transcription factors and other regulatory proteins often bind in the major groove to read the DNA sequence."
+      ],
+      "explanation": "B-DNA is the predominant physiological form of DNA and is a right-handed double helix with the following structural parameters: pitch = 3.4 nm per turn, ~10.4 bp per turn, diameter = 2 nm, and two grooves (major and minor). In contrast, A-DNA is also right-handed but more compact, and Z-DNA is distinctively left-handed with a zigzag backbone. The handedness (right vs. left) is defined by the direction of the helix turn when viewed along the axis."
+    },
+    {
+      "id": "L5_MCQ_015",
+      "type": "mcq",
+      "text": "FAD and FMN are coenzymes derived from:",
+      "options": [
+        "Riboflavin",
+        "Niacin",
+        "Thiamin",
+        "Biotin"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Both FAD (flavin adenine dinucleotide) and FMN (flavin mononucleotide) are derived from riboflavin (vitamin B₂). FMN is riboflavin-5'-phosphate, and FAD is formed by the addition of AMP to FMN.",
+        "Wrong: Niacin (vitamin B₃) is the precursor of NAD⁺ and NADP⁺, not FAD or FMN.",
+        "Wrong: Thiamin (vitamin B₁) is the precursor of thiamine pyrophosphate (TPP), a coenzyme for oxidative decarboxylation reactions.",
+        "Wrong: Biotin (vitamin B₇) is a coenzyme for carboxylation reactions (e.g., pyruvate carboxylase, acetyl-CoA carboxylase) and is unrelated to FAD or FMN."
+      ],
+      "explanation": "Riboflavin (vitamin B₂) is the parent compound for both flavin coenzymes: FMN (flavin mononucleotide) = riboflavin + phosphate; FAD (flavin adenine dinucleotide) = FMN + AMP. Both FAD and FMN serve as prosthetic groups of flavoproteins and act as electron carriers in oxidation-reduction reactions, accepting two electrons and two protons (FADH₂, FMNH₂). They are tightly (often covalently) bound to their apoenzymes and participate in the mitochondrial electron transport chain."
+    },
+    {
+      "id": "L5_MCQ_016",
+      "type": "mcq",
+      "text": "Hydrolysis of FAD yields all of the following EXCEPT:",
+      "options": [
+        "Flavin",
+        "Adenine",
+        "Phosphate",
+        "Ribose",
+        "Deoxyribose"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Flavin (as part of riboflavin / isoalloxazine ring system) is a hydrolytic product of FAD.",
+        "Wrong: Adenine is the purine base component of the AMP portion of FAD.",
+        "Wrong: FAD contains two phosphate groups; they are released upon hydrolysis.",
+        "Wrong: Ribose is the sugar present in both the riboflavin (as ribitol — its reduced form) and AMP moieties of FAD.",
+        "Correct: Deoxyribose is NOT found in FAD. FAD is a ribonucleotide-based coenzyme; deoxyribose is exclusively found in DNA nucleotides."
+      ],
+      "explanation": "FAD (flavin adenine dinucleotide) is composed of: (1) isoalloxazine ring (flavin chromophore), (2) ribitol (reduced form of ribose — a sugar alcohol), (3) two phosphate groups, and (4) AMP (adenine + ribose). Complete hydrolysis yields riboflavin, AMP, adenine, ribose, and phosphate. Deoxyribose is entirely absent from FAD, as it belongs to the DNA nucleotide family."
+    },
+    {
+      "id": "L5_MCQ_017",
+      "type": "mcq",
+      "text": "Hydrolysis of NAD⁺ yields all of the following EXCEPT:",
+      "options": [
+        "Nicotinamide",
+        "Adenine",
+        "Flavin",
+        "Phosphate",
+        "Ribose"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Nicotinamide is the amide form of niacin and is one of the two nucleotide components of NAD⁺.",
+        "Wrong: Adenine is the purine base of the AMP portion of NAD⁺.",
+        "Correct: Flavin is NOT a component of NAD⁺. Flavin is associated with FAD and FMN (riboflavin-derived coenzymes). NAD⁺ is derived from niacin (nicotinic acid / nicotinamide), not riboflavin.",
+        "Wrong: NAD⁺ contains two phosphate groups (one in the nicotinamide mononucleotide and one in the AMP portion), which are released upon hydrolysis.",
+        "Wrong: Ribose is present in both the nicotinamide mononucleotide (NMN) and AMP halves of NAD⁺."
+      ],
+      "explanation": "NAD⁺ (nicotinamide adenine dinucleotide) consists of: nicotinamide mononucleotide (NMN) + AMP, linked by a pyrophosphate bond. Its complete hydrolysis yields: nicotinamide, adenine, two ribose units, and two phosphate groups. Flavin belongs to the riboflavin-derived coenzymes (FAD and FMN) and has no structural relation to NAD⁺."
+    },
+    {
+      "id": "L5_MCQ_018",
+      "type": "mcq",
+      "text": "The alcohol derived from hydrolysis of FAD is:",
+      "options": [
+        "Glycerol",
+        "Ribitol",
+        "Sorbitol",
+        "Mannitol"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Glycerol is a three-carbon polyol found in triglycerides and phospholipids; it is not part of FAD.",
+        "Correct: Ribitol is a five-carbon sugar alcohol (the reduced form of ribose) that is part of the riboflavin molecule in FAD. When FAD is hydrolyzed, riboflavin is released, and riboflavin itself contains ribitol as its side chain attached to the isoalloxazine ring.",
+        "Wrong: Sorbitol is a six-carbon sugar alcohol derived from glucose and is not found in FAD.",
+        "Wrong: Mannitol is a six-carbon sugar alcohol; it is not a component of any nucleotide coenzyme."
+      ],
+      "explanation": "Riboflavin (vitamin B₂) — the precursor of FAD and FMN — has the structural formula: isoalloxazine ring + ribitol side chain. Ribitol (D-ribitol) is the C5 sugar alcohol formed by reduction of ribose at the 1'-carbon. FAD is thus composed of riboflavin + pyrophosphate + AMP. Upon hydrolysis, the riboflavin portion is released, which contains ribitol as its alcohol group."
+    },
+    {
+      "id": "L5_MCQ_019",
+      "type": "mcq",
+      "text": "The coenzyme that contains 3 phosphate groups is:",
+      "options": [
+        "NAD⁺",
+        "NADP⁺",
+        "FAD",
+        "FMN"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: NAD⁺ contains 2 phosphate groups — one in the NMN moiety and one in the AMP moiety, linked as a pyrophosphate.",
+        "Correct: NADP⁺ (nicotinamide adenine dinucleotide phosphate) contains 3 phosphate groups — the two found in NAD⁺, plus an additional 2'-phosphate esterified to the ribose of the AMP portion. This extra phosphate distinguishes NADP⁺ from NAD⁺ and is recognized by different enzymes (primarily in anabolic pathways).",
+        "Wrong: FAD contains 2 phosphate groups in its pyrophosphate bridge between FMN and AMP.",
+        "Wrong: FMN (flavin mononucleotide) contains only 1 phosphate group — it is essentially riboflavin-5'-phosphate."
+      ],
+      "explanation": "Phosphate group count in key coenzymes: FMN = 1 phosphate; FAD = 2 phosphates (pyrophosphate); NAD⁺ = 2 phosphates (pyrophosphate); NADP⁺ = 3 phosphates (pyrophosphate + extra 2'-phosphate on the adenosine ribose). The extra phosphate in NADP⁺ directs it toward anabolic (biosynthetic) reactions such as fatty acid synthesis and the pentose phosphate pathway, while NAD⁺ primarily functions in catabolic oxidation reactions."
+    },
+    {
+      "id": "L5_MCQ_020",
+      "type": "mcq",
+      "text": "Adenine is present in all of the following coenzymes EXCEPT:",
+      "options": [
+        "NAD⁺",
+        "NADP⁺",
+        "FAD",
+        "FMN"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: NAD⁺ contains adenine as part of its AMP component.",
+        "Wrong: NADP⁺ also contains adenine (it is NAD⁺ with an extra phosphate); adenine is still present.",
+        "Wrong: FAD (flavin adenine dinucleotide) contains adenine in its AMP moiety — its name explicitly indicates this.",
+        "Correct: FMN (flavin mononucleotide) does NOT contain adenine. FMN is simply riboflavin-5'-phosphate — composed only of the isoalloxazine ring, ribitol, and one phosphate group. There is no adenine or AMP component."
+      ],
+      "explanation": "The key distinction: FAD = FMN + AMP (therefore FAD has adenine; FMN does not). NAD⁺ and NADP⁺ both include an adenine-containing AMP moiety. FMN, being only riboflavin with a phosphate group, lacks adenine entirely. This is why FAD is called 'flavin adenine dinucleotide' — it has two nucleotides — while FMN is a 'mononucleotide' with no adenine."
+    },
+    {
+      "id": "L5_MCQ_021",
+      "type": "mcq",
+      "text": "A coenzyme NOT containing ribose is:",
+      "options": [
+        "NAD⁺",
+        "NADP⁺",
+        "FAD",
+        "FMN"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: NAD⁺ contains two ribose units — one in the NMN portion and one in the AMP portion.",
+        "Wrong: NADP⁺ also contains two ribose units, identical to NAD⁺ in this regard.",
+        "Wrong: FAD contains ribose as part of its AMP component (and ribitol — the reduced sugar alcohol — in its riboflavin component).",
+        "Correct: FMN (flavin mononucleotide) does not contain ribose in the conventional nucleotide sense. Its 'sugar' component is ribitol — a sugar alcohol (alditol) formed by reduction of ribose. Ribitol is not ribose itself. FMN has no true ribose or nucleoside structure."
+      ],
+      "explanation": "FMN is composed of the isoalloxazine ring + ribitol + phosphate. Ribitol is a five-carbon sugar alcohol, structurally analogous to ribose but with the C1 carbonyl reduced to a hydroxyl group. It is not classified as a true sugar (aldose/ketose). Therefore, among the four major electron-carrier coenzymes, FMN is the only one that does not contain true ribose — NAD⁺, NADP⁺, and FAD all contain ribose in their AMP or NMN components."
+    },
+    {
+      "id": "L5_MCQ_022",
+      "type": "mcq",
+      "text": "Adenine is:",
+      "options": [
+        "A pyrimidine base",
+        "One of the SAM constituents",
+        "5-Methyluracil",
+        "Not present in RNA"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Adenine is a purine base, not a pyrimidine. Purines have a bicyclic structure (fused pyrimidine and imidazole rings), while pyrimidines (cytosine, thymine, uracil) have a single six-membered ring.",
+        "Correct: Adenine is indeed a constituent of S-adenosyl methionine (SAM). SAM is formed from ATP + L-methionine; since ATP contains adenine, the adenosyl group transferred to methionine retains the adenine base. Thus adenine is part of SAM's structure.",
+        "Wrong: 5-Methyluracil is the chemical name for thymine — a pyrimidine base found in DNA. It has no relation to adenine.",
+        "Wrong: Adenine is present in RNA. In RNA, adenine pairs with uracil (via 2 hydrogen bonds), replacing the adenine–thymine pairing seen in DNA."
+      ],
+      "explanation": "Adenine (6-aminopurine) is a purine base present in both DNA and RNA, as well as in numerous biologically important molecules including ATP, ADP, AMP, cAMP, NAD⁺, NADP⁺, FAD, CoA, and SAM. In DNA, adenine pairs with thymine (2 H-bonds); in RNA, it pairs with uracil. Its widespread presence in coenzymes and energy carriers underscores its fundamental role in cellular biochemistry."
+    },
+    {
+      "id": "L5_M_001",
+      "type": "matching",
+      "text": "Match each nucleic acid base with its correct structural formula:",
+      "image": "images/L5_M_001.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "23. Uracil",
+          "definition": "E"
+        },
+        {
+          "term": "24. Guanine",
+          "definition": "B"
+        },
+        {
+          "term": "25. Thymine",
+          "definition": "D"
+        },
+        {
+          "term": "26. Cytosine",
+          "definition": "C"
+        },
+        {
+          "term": "27. Adenine",
+          "definition": "A"
+        }
+      ],
+      "explanation": "The five nucleic acid bases are divided into two classes: Purines — Adenine and Guanine — have a bicyclic structure (fused pyrimidine + imidazole rings). Pyrimidines — Cytosine, Thymine, and Uracil — have a single six-membered ring. Thymine (5-methyluracil) is exclusive to DNA; Uracil replaces Thymine in RNA. Cytosine and Guanine pair via 3 hydrogen bonds (G≡C); Adenine pairs with Thymine or Uracil via 2 hydrogen bonds (A=T / A=U)."
+    },
+    {
+      "id": "L5_M_002",
+      "type": "matching",
+      "text": "Match each compound with the correct number of phosphate groups it contains:",
+      "image": "images/L5_M_002.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pairs": [
+        {
+          "term": "28. NADP⁺",
+          "definition": "D"
+        },
+        {
+          "term": "29. ATP",
+          "definition": "A"
+        },
+        {
+          "term": "30. FAD",
+          "definition": "B"
+        },
+        {
+          "term": "31. Uridine monophosphate",
+          "definition": "B"
+        }
+      ],
+      "explanation": "Phosphate group count in key biomolecules: UMP (uridine monophosphate) = 1 phosphate — a pyrimidine nucleotide. FAD (flavin adenine dinucleotide) = 2 phosphates in its pyrophosphate bridge linking FMN and AMP. ATP (adenosine triphosphate) = 3 phosphates — two high-energy anhydride bonds store cellular energy. NADP⁺ (nicotinamide adenine dinucleotide phosphate) = 3 phosphates — two from the pyrophosphate backbone (as in NAD⁺) plus one extra 2'-phosphate on the adenosine ribose, which directs NADP⁺ toward anabolic biosynthetic reactions."
+    },
+    {
+      "id": "L5_M_003",
+      "type": "matching",
+      "text": "Match each nucleic acid or cellular structure with its primary function:",
+      "options": [
+        "A. Carrier for amino acids from the cytosol to ribosomes",
+        "B. Its function is replication of DNA and transcription of RNA",
+        "C. Carrier for genetic information from DNA in the nucleus to ribosomes in the cytoplasm",
+        "D. Site of protein biosynthesis"
+      ],
+      "pairs": [
+        {
+          "term": "32. DNA",
+          "definition": "B. Its function is replication of DNA and transcription of RNA"
+        },
+        {
+          "term": "33. mRNA",
+          "definition": "C. Carrier for genetic information from DNA in the nucleus to ribosomes in the cytoplasm"
+        },
+        {
+          "term": "34. tRNA",
+          "definition": "A. Carrier for amino acids from the cytosol to ribosomes"
+        },
+        {
+          "term": "35. Ribosomes",
+          "definition": "D. Site of protein biosynthesis"
+        }
+      ],
+      "explanation": "The central dogma of molecular biology defines the flow of genetic information: DNA undergoes replication (to copy itself during cell division) and transcription (to produce mRNA). mRNA (messenger RNA) carries the encoded genetic message from the nucleus to the cytoplasm, where it is read by ribosomes. tRNA (transfer RNA) serves as the adaptor molecule — each tRNA carries a specific amino acid and recognizes its corresponding mRNA codon via its anticodon loop. Ribosomes (composed of rRNA + proteins) are the molecular machines that catalyze peptide bond formation during translation, synthesizing proteins from the amino acid sequence dictated by mRNA."
+    }
+  ]
+}

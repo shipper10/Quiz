@@ -1,0 +1,18 @@
+{
+  "title": "منصة الأسئلة الدراسية",
+  "years": [
+    {
+      "id": "year-1",
+      "title": "السنة الأولى",
+      "semesters": [
+        {
+          "id": "year-1-sem-1",
+          "title": "الفصل الأول",
+          "subjects": [
+            "biochemistry"
+          ]
+        }
+      ]
+    }
+  ]
+}

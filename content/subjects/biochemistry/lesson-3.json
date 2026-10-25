@@ -1,0 +1,3283 @@
+{
+  "questions": [
+    {
+      "id": "L3_SA_001",
+      "type": "shortanswer",
+      "text": "How can amino acids be classified generally?",
+      "answer": "Amino acids can be classified into three main approaches: Chemical classification (based on side chain structure), Nutritional classification (essential vs. non-essential), and Metabolic classification (glucogenic vs. ketogenic).",
+      "explanation": "This tripartite classification system allows biochemists to study amino acids through their structural behaviors, dietary requirements, and downstream metabolic fates."
+    },
+    {
+      "id": "L3_SA_002",
+      "type": "shortanswer",
+      "text": "How are amino acids classified by chemical methods based on their side-chain structure?",
+      "answer": "They are classified into: simple, branched-chain, hydroxy, sulfur-containing, amide group-containing, acidic, basic, aromatic, heterocyclic, imino, and derived amino acids.",
+      "explanation": "Chemical classification groups amino acids based on the unique functional moieties attached to the alpha-carbon, which dictate the protein's higher-order folding patterns."
+    },
+    {
+      "id": "L3_SA_003",
+      "type": "shortanswer",
+      "text": "What are the branched-chain amino acids (BCAAs)?",
+      "answer": "Valine, Leucine, and Isoleucine.",
+      "explanation": "BCAAs possess a branched hydrocarbon side chain. They are hydrophobic, essential, and play vital roles in muscle metabolism."
+    },
+    {
+      "id": "L3_SA_004",
+      "type": "shortanswer",
+      "text": "What are the aliphatic hydroxy-containing amino acids?",
+      "answer": "Serine and Threonine. (Tyrosine also contains a hydroxyl group but is primarily classified as an aromatic amino acid).",
+      "explanation": "The aliphatic hydroxyl (-OH) groups of serine and threonine are polar, uncharged at physiological pH, and serve as primary sites for regulatory O-phosphorylation."
+    },
+    {
+      "id": "L3_SA_005",
+      "type": "shortanswer",
+      "text": "Name the sulfur-containing amino acids.",
+      "answer": "Cysteine, Cystine, and Methionine.",
+      "explanation": "Cysteine possesses a highly reactive sulfhydryl (-SH) group, cystine consists of two disulfide-linked cysteines, and methionine features a thioether linkage."
+    },
+    {
+      "id": "L3_SA_006",
+      "type": "shortanswer",
+      "text": "Name the acidic amino acids.",
+      "answer": "Aspartic acid (Aspartate) and Glutamic acid (Glutamate).",
+      "explanation": "Acidic amino acids possess a secondary carboxyl group (-COOH) in their side chain that carries a net negative charge at physiological pH."
+    },
+    {
+      "id": "L3_SA_007",
+      "type": "shortanswer",
+      "text": "What are the basic amino acids?",
+      "answer": "Lysine, Arginine, Ornithine, and Histidine.",
+      "explanation": "Basic amino acids possess nitrogenous side chains that can accept protons, rendering them positively charged under specific pH conditions."
+    },
+    {
+      "id": "L3_SA_008",
+      "type": "shortanswer",
+      "text": "Which amino acids carry a net positive charge at a standard physiological pH of 7.4?",
+      "answer": "Arginine and Lysine.",
+      "explanation": "Arginine (guanido group) and Lysine (epsilon-amino group) have high pKa values, meaning they remain fully protonated and positively charged at pH 7.4."
+    },
+    {
+      "id": "L3_SA_009",
+      "type": "shortanswer",
+      "text": "Name the essential amino acid that contains a thio-ether bond.",
+      "answer": "Methionine.",
+      "explanation": "Methionine contains an internal sulfur atom bonded to two alkyl carbon groups ($C-S-C$), which constitutes a stable thioether functional group."
+    },
+    {
+      "id": "L3_SA_010",
+      "type": "shortanswer",
+      "text": "Give examples of amino acids with hydrophobic, branched side chains.",
+      "answer": "Valine, Leucine, and Isoleucine.",
+      "explanation": "These non-polar aliphatic side chains cluster together inside globular proteins away from water via hydrophobic interactions."
+    },
+    {
+      "id": "L3_SA_011",
+      "type": "shortanswer",
+      "text": "Give the names of the core aromatic amino acids.",
+      "answer": "Phenylalanine and Tyrosine. (Tryptophan is also structurally aromatic due to its indole configuration).",
+      "explanation": "Aromatic amino acids contain conjugated carbon rings that absorb ultraviolet light, typically at a maximum near 280 nm."
+    },
+    {
+      "id": "L3_SA_012",
+      "type": "shortanswer",
+      "text": "What are heterocyclic amino acids?",
+      "answer": "Tryptophan, Histidine, Proline, and Hydroxyproline.",
+      "explanation": "Heterocyclic amino acids contain a cyclic ring structure that incorporates atoms other than carbon (such as Nitrogen) into the ring framework."
+    },
+    {
+      "id": "L3_SA_013",
+      "type": "shortanswer",
+      "text": "Give an example of a structural imino acid.",
+      "answer": "Proline.",
+      "explanation": "Proline is technically an imino acid because its secondary amino nitrogen is locked into a rigid five-membered pyrrolidine ring, restricting backbone rotation."
+    },
+    {
+      "id": "L3_SA_014",
+      "type": "shortanswer",
+      "text": "Give examples of non-standard derived amino acids found in biological systems.",
+      "answer": "Hydroxyproline, hydroxylysine, ornithine, citrulline, and homocysteine.",
+      "explanation": "Derived amino acids are either metabolic synthesis intermediates (like ornithine/citrulline) or produced via post-translational modification of regular residues."
+    },
+    {
+      "id": "L3_SA_015",
+      "type": "shortanswer",
+      "text": "A non-substituted benzene ring is present in which amino acid?",
+      "answer": "Phenylalanine.",
+      "explanation": "Phenylalanine is structured as an alanine molecule where one hydrogen is replaced by a non-polar hydrophobic benzene ring residue."
+    },
+    {
+      "id": "L3_SA_016",
+      "type": "shortanswer",
+      "text": "A phenol group is present in which amino acid side chain?",
+      "answer": "Tyrosine.",
+      "explanation": "Tyrosine contains a para-hydroxyl group attached to a benzene ring, forming a phenol group that can participate in hydrogen bonding and phosphorylation."
+    },
+    {
+      "id": "L3_SA_017",
+      "type": "shortanswer",
+      "text": "Tryptophan contains what specific heterocyclic chemical group?",
+      "answer": "The Indole group.",
+      "explanation": "The indole ring system consists of a benzene ring fused to a nitrogen-containing pyrrole ring, making tryptophan the bulkiest amino acid."
+    },
+    {
+      "id": "L3_SA_018",
+      "type": "shortanswer",
+      "text": "Which heterocyclic group is present in the structure of Histidine?",
+      "answer": "The Imidazole group.",
+      "explanation": "The imidazole ring has an ionizing nitrogen atom with a pKa close to physiological pH, giving histidine critical buffering capabilities."
+    },
+    {
+      "id": "L3_SA_019",
+      "type": "shortanswer",
+      "text": "Which special nitrogenous group is present in Arginine?",
+      "answer": "The Guanido (Guanidino) group.",
+      "explanation": "The guanido group is highly basic and remains protonated as a guanidinium cation across almost the entire physiological pH range."
+    },
+    {
+      "id": "L3_SA_020",
+      "type": "shortanswer",
+      "text": "Which special structural group is present in Citrulline?",
+      "answer": "The Ureido group.",
+      "explanation": "Citrulline, an intermediate in the urea cycle, possesses a ureido function ($R-NH-CO-NH_2$) attached to its side chain."
+    },
+    {
+      "id": "L3_SA_021",
+      "type": "shortanswer",
+      "text": "A pyrrolidine ring is present in which imino acids?",
+      "answer": "Proline and Hydroxyproline.",
+      "explanation": "The five-membered pyrrolidine ring forces a rigid conformation in polypeptide chains, frequently inducing turns or kinks in secondary structures."
+    },
+    {
+      "id": "L3_SA_022",
+      "type": "shortanswer",
+      "text": "Hydrophobic bonds are preferentially formed within the interior core of a protein between which amino acid residues?",
+      "answer": "Valine, Leucine, and Isoleucine residues.",
+      "explanation": "To minimize thermodynamic disruption to water networks, these non-polar aliphatic side chains aggregate away from the aqueous exterior."
+    },
+    {
+      "id": "L3_SA_023",
+      "type": "shortanswer",
+      "text": "How do you classify amino acids into ketogenic and glucogenic categories?",
+      "answer": "Ketogenic amino acids are catabolized into acetyl-CoA or acetoacetate to enter fat pathways, while glucogenic amino acids yield pyruvate or TCA cycle intermediates to feed glucose synthesis.",
+      "explanation": "This metabolic distinction determines whether an amino acid can contribute to blood glucose maintenance during prolonged fasting or starvation states."
+    },
+    {
+      "id": "L3_SA_024",
+      "type": "shortanswer",
+      "text": "Name a purely ketogenic amino acid.",
+      "answer": "Leucine. (Lysine is also strictly ketogenic).",
+      "explanation": "Leucine breakdown leads exclusively to acetyl-CoA and acetoacetate, making it impossible to convert into glucose via gluconeogenesis."
+    },
+    {
+      "id": "L3_SA_025",
+      "type": "shortanswer",
+      "text": "Name some examples of glucogenic amino acids.",
+      "answer": "Glycine, Serine, and Aspartic acid.",
+      "explanation": "These amino acids are readily converted into oxaloacetate or pyruvate, which can directly fuel the gluconeogenic pathway."
+    },
+    {
+      "id": "L3_SA_026",
+      "type": "shortanswer",
+      "text": "Which amino acids undergo modification/synthesis only after they are already incorporated into a protein chain?",
+      "answer": "Hydroxyproline and Hydroxylysine.",
+      "explanation": "These are formed via post-translational modification of proline and lysine residues within the raw pro-collagen chains."
+    },
+    {
+      "id": "L3_SA_027",
+      "type": "shortanswer",
+      "text": "What is the biological definition of 'essential' amino acids?",
+      "answer": "They are amino acids that cannot be synthesized de novo by the human body at a rate matching physiological demands, and therefore must be obtained via diet.",
+      "explanation": "Humans lack the complex multi-step enzymatic pathways required to synthesize the carbon backbones of essential amino acids."
+    },
+    {
+      "id": "L3_SA_028",
+      "type": "shortanswer",
+      "text": "How many amino acids are classically designated as essential, semi-essential, and non-essential in humans?",
+      "answer": "Eight are strictly essential, two are semi-essential, and the remaining ten are non-essential.",
+      "explanation": "This distribution can vary with life stages; for example, semi-essential amino acids become conditionally essential during periods of rapid growth."
+    },
+    {
+      "id": "L3_SA_029",
+      "type": "shortanswer",
+      "text": "Are non-essential amino acids necessary for protein synthesis within human cells?",
+      "answer": "Yes, they are completely necessary for building proteins, but they are termed 'non-essential' because cells can synthesize them internally from other precursors.",
+      "explanation": "The term reflects dietary necessity, not biological importance. Every one of the 20 standard amino acids is essential for translation."
+    },
+    {
+      "id": "L3_SA_030",
+      "type": "shortanswer",
+      "text": "Name the eight strictly essential amino acids for adult humans.",
+      "answer": "Isoleucine, Lysine, Tryptophan, Methionine, Valine, Phenylalanine, Leucine, and Threonine.",
+      "explanation": "A complete lack of any of these components halts protein synthesis and leads to negative nitrogen balance."
+    },
+    {
+      "id": "L3_SA_031",
+      "type": "shortanswer",
+      "text": "Name the two semi-essential amino acids.",
+      "answer": "Histidine and Arginine.",
+      "explanation": "These are also referred to as conditionally essential because endogenously synthesized quantities can fall short under specific physiologic pressures."
+    },
+    {
+      "id": "L3_SA_032",
+      "type": "shortanswer",
+      "text": "Why are histidine and arginine specifically termed 'semi-essential'?",
+      "answer": "Because adult bodies synthesize them in sufficient quantities, but growing children and pregnant women require additional dietary intake to support rapid tissue synthesis.",
+      "explanation": "The rate of endogenous synthesis cannot keep pace with the massive nitrogen accretion demands of skeletal and organic growth."
+    },
+    {
+      "id": "L3_SA_033",
+      "type": "shortanswer",
+      "text": "Is Phenylalanine an essential amino acid?",
+      "answer": "Yes, it is a strictly essential aromatic amino acid.",
+      "explanation": "It serves as the obligatory upstream substrate for melanin, catecholamines, and tyrosine production."
+    },
+    {
+      "id": "L3_SA_034",
+      "type": "shortanswer",
+      "text": "Why is Tyrosine classified as a nutritionally non-essential amino acid?",
+      "answer": "Because the body can readily synthesize tyrosine by hydroxylating dietary phenylalanine.",
+      "explanation": "As long as adequate phenylalanine is consumed, the enzyme phenylalanine hydroxylase produces sufficient tyrosine."
+    },
+    {
+      "id": "L3_SA_035",
+      "type": "shortanswer",
+      "text": "When does Tyrosine become a conditionally essential amino acid?",
+      "answer": "In cases of a genetic deficiency of the enzyme phenylalanine hydroxylase (which causes Phenylketonuria, or PKU).",
+      "explanation": "When this pathway is blocked, tyrosine cannot be synthesized internally and must be supplied directly in the diet to prevent deficiency."
+    },
+    {
+      "id": "L3_SA_036",
+      "type": "shortanswer",
+      "text": "Which amino acid is structurally derived from a 2-carbon acetic acid core?",
+      "answer": "Glycine.",
+      "explanation": "Glycine is aminoacetic acid, making it the simplest possible alpha-amino acid configuration."
+    },
+    {
+      "id": "L3_SA_037",
+      "type": "shortanswer",
+      "text": "Name amino acids that are structurally derived from a 3-carbon propionic acid backbone.",
+      "answer": "Alanine, Phenylalanine, Tyrosine, Serine, Cysteine, Tryptophan, and Histidine.",
+      "explanation": "These amino acids feature complex side chain rings or polar networks attached to an underlying 3-carbon propionate base structure."
+    },
+    {
+      "id": "L3_SA_038",
+      "type": "shortanswer",
+      "text": "Name amino acids structurally derived from a 4-carbon butyric acid backbone.",
+      "answer": "Threonine and Methionine.",
+      "explanation": "Their multi-carbon side structures build upon a four-carbon fatty acid chemical framework layout."
+    },
+    {
+      "id": "L3_SA_039",
+      "type": "shortanswer",
+      "text": "Name amino acids structurally derived from a 5-carbon valeric acid backbone.",
+      "answer": "Isoleucine and Arginine.",
+      "explanation": "Their carbon distributions follow the elongated length of a 5-carbon valerate chain."
+    },
+    {
+      "id": "L3_SA_040",
+      "type": "shortanswer",
+      "text": "Which amino acid is structurally derived from a branched 5-carbon isovaleric acid framework?",
+      "answer": "Valine.",
+      "explanation": "Valine has a compact, branched hydrocarbon side arrangement reminiscent of an isovaleric pattern."
+    },
+    {
+      "id": "L3_SA_041",
+      "type": "shortanswer",
+      "text": "Which amino acid is structurally derived from a 6-carbon caproic acid backbone?",
+      "answer": "Lysine.",
+      "explanation": "Lysine features an extended 4-carbon aliphatic spacer group terminating in an epsilon-amino group, matching a caproate configuration length."
+    },
+    {
+      "id": "L3_SA_042",
+      "type": "shortanswer",
+      "text": "Which amino acid is structurally derived from a branched 6-carbon isocaproic acid backbone?",
+      "answer": "Leucine.",
+      "explanation": "Leucine's aliphatic side structure includes an extra methylene spacer before its branch, matching an isocaproic layout."
+    },
+    {
+      "id": "L3_SA_043",
+      "type": "shortanswer",
+      "text": "Distinguish between polar and non-polar amino acids by listing the primary non-polar residues.",
+      "answer": "Non-polar amino acids include Glycine, Alanine, Phenylalanine, Tryptophan, Methionine, Valine, Leucine, Isoleucine, and Proline. Polar amino acids make up the rest.",
+      "explanation": "Non-polar residues have hydrophobic side chains with uniform charge distribution, whereas polar residues contain groups that interact readily with water."
+    },
+    {
+      "id": "L3_SA_044",
+      "type": "shortanswer",
+      "text": "What are examples of non-alpha (non-α) amino acids found in the human body?",
+      "answer": "Beta-alanine (β-alanine), Gamma-aminobutyric acid (GABA), and Taurine.",
+      "explanation": "In these compounds, the amino group is attached to a carbon atom other than the alpha-carbon ($C_alpha$). They serve metabolic and signaling functions rather than building proteins."
+    },
+    {
+      "id": "L3_SA_045",
+      "type": "shortanswer",
+      "text": "What is a Zwitterion?",
+      "answer": "A zwitterion is a dipolar molecule containing an equal number of positively and negatively charged functional groups, resulting in a net electrical charge of zero.",
+      "explanation": "At intermediate pH levels, the amino group is protonated ($-NH_3^+$) and the carboxyl group is deprotonated ($-COO^-$)."
+    },
+    {
+      "id": "L3_SA_046",
+      "type": "shortanswer",
+      "text": "What is the Isoelectric Point (pI) of an amino acid?",
+      "answer": "The isoelectric point is the specific pH value at which an amino acid carries no net electrical charge and exists predominantly in its zwitterionic form.",
+      "explanation": "At this exact pH, the positive charges perfectly balance the negative charges on the molecule."
+    },
+    {
+      "id": "L3_SA_047",
+      "type": "shortanswer",
+      "text": "What are the primary physical and chemical characteristics of a protein or amino acid at its Isoelectric Point (pI)?",
+      "answer": "It carries zero net charge, exhibits no mobility within an electrical field, exhibits minimum water solubility, and shows a maximum tendency to precipitate.",
+      "explanation": "The lack of net electrostatic repulsion allows molecules to aggregate and precipitate out of solution easily."
+    },
+    {
+      "id": "L3_SA_048",
+      "type": "shortanswer",
+      "text": "What structural feature makes Histidine exceptionally effective as a physiological buffer?",
+      "answer": "The side-chain imidazole ring of histidine has a pKa value of approximately 6.1, which is close to physiological blood pH (7.4).",
+      "explanation": "This proximity allows histidine residues in hemoglobin and plasma proteins to readily accept or donate protons near physiological pH."
+    },
+    {
+      "id": "L3_SA_049",
+      "type": "shortanswer",
+      "text": "Which amino acid residue possesses the maximum buffering capacity at physiological blood pH?",
+      "answer": "Histidine.",
+      "explanation": "Because its imidazole side-chain pKa is near 7.4, it transitions easily between protonated and unprotonated forms within the physiological range."
+    },
+    {
+      "id": "L3_SA_050",
+      "type": "shortanswer",
+      "text": "Which standard amino acid is completely optically inactive?",
+      "answer": "Glycine.",
+      "explanation": "Glycine does not rotate plane-polarized light because its alpha-carbon is attached to two hydrogen atoms, making it symmetric."
+    },
+    {
+      "id": "L3_SA_051",
+      "type": "shortanswer",
+      "text": "Why does glycine lack an asymmetric chiral center?",
+      "answer": "Its side chain ($R$-group) is a single hydrogen atom. Consequently, the alpha-carbon is bound to two identical groups (-H), removing asymmetry.",
+      "explanation": "A chiral center requires a carbon atom to be bonded to four entirely distinct groups."
+    },
+    {
+      "id": "L3_SA_052",
+      "type": "shortanswer",
+      "text": "What are the two spatial stereoisomers (enantiomers) of amino acids?",
+      "answer": "D- and L- stereoisomers, named based on their configuration relative to glyceraldehyde.",
+      "explanation": "These configurations represent mirror-image forms that rotate polarized light in opposite directions."
+    },
+    {
+      "id": "L3_SA_053",
+      "type": "shortanswer",
+      "text": "Which amino acid stereoisomer is found exclusively in human body proteins?",
+      "answer": "L-amino acids.",
+      "explanation": "Human ribosomal protein translation machinery is stereospecific, accepting only L-enantiomers for polypeptide assembly."
+    },
+    {
+      "id": "L3_SA_054",
+      "type": "shortanswer",
+      "text": "Name some biological structures where D-amino acids can be observed.",
+      "answer": "D-amino acids are found within the peptidoglycan cell walls of microorganisms and as constituents of certain antibiotics like polymyxin and actinomycin-D.",
+      "explanation": "Incorporating D-amino acids protects bacteria from degradation by host proteases, which are typically specific for L-peptides."
+    },
+    {
+      "id": "L3_SA_055",
+      "type": "shortanswer",
+      "text": "What occurs during the chemical decarboxylation of an amino acid?",
+      "answer": "The alpha-carboxyl group is removed as a molecule of carbon dioxide ($CO_2$), converting the amino acid into its corresponding primary amine.",
+      "explanation": "This enzymatic reaction is often used to synthesize neurotransmitters and local hormones from standard amino acid precursors."
+    },
+    {
+      "id": "L3_SA_056",
+      "type": "shortanswer",
+      "text": "Give three classic examples of physiological amino acid decarboxylation products.",
+      "answer": "Histidine converts to histamine; Tyrosine converts to tyramine; Tryptophan converts to tryptamine.",
+      "explanation": "Deccarboxylation removes the acidic carboxyl group, leaving a basic amine that can interact with cellular receptors."
+    },
+    {
+      "id": "L3_SA_057",
+      "type": "shortanswer",
+      "text": "What primary neurotransmitter is produced when glutamic acid undergoes decarboxylation?",
+      "answer": "Gamma-aminobutyric acid (GABA).",
+      "explanation": "GABA is the principal inhibitory neurotransmitter in the mammalian central nervous system."
+    },
+    {
+      "id": "L3_SA_058",
+      "type": "shortanswer",
+      "text": "What is the chemical relationship between Glutamate and Glutamine?",
+      "answer": "Glutamine is the side-chain amide derivative of glutamic acid.",
+      "explanation": "Replacing a side-chain carboxyl oxygen with an amino group converts glutamate into glutamine, a non-toxic carrier of ammonia in the blood."
+    },
+    {
+      "id": "L3_SA_059",
+      "type": "shortanswer",
+      "text": "What is the structural significance of free sulfhydryl (-SH) groups in protein chemistry?",
+      "answer": "The -SH group of a cysteine residue can oxidize to form a covalent disulfide (S-S) bond with another cysteine.",
+      "explanation": "These disulfide bridges can form within a single polypeptide chain or link multiple chains together, stabilizing the protein's tertiary and quaternary structure."
+    },
+    {
+      "id": "L3_SA_060",
+      "type": "shortanswer",
+      "text": "What is the amino acid composition of the antioxidant tripeptide Glutathione?",
+      "answer": "Glutamic acid, Cysteine, and Glycine ($gamma$-glutamyl-cysteinyl-glycine).",
+      "explanation": "Glutathione uses the reactive sulfhydryl group on its central cysteine residue to neutralize harmful free radicals and peroxides."
+    },
+    {
+      "id": "L3_SA_061",
+      "type": "shortanswer",
+      "text": "Regulatory post-translational phosphorylation takes place primarily on which amino acid residues?",
+      "answer": "Serine, Threonine, and Tyrosine residues.",
+      "explanation": "Protein kinases transfer a phosphate group from ATP to the free hydroxyl (-OH) groups on these specific side chains."
+    },
+    {
+      "id": "L3_SA_062",
+      "type": "shortanswer",
+      "text": "What occurs during a standard Ninhydrin reaction?",
+      "answer": "Amino acids heated with ninhydrin undergo oxidative deamination and decarboxylation, releasing ammonia and $CO_2$ to form a deep purple-blue complex (Ruhemann's purple).",
+      "explanation": "This color reaction serves as a classic diagnostic indicator for the presence of alpha-amino acids."
+    },
+    {
+      "id": "L3_SA_063",
+      "type": "shortanswer",
+      "text": "What is the analytical importance of the Ninhydrin reaction?",
+      "answer": "It is widely used for qualitative identification, quantitative estimation, and the visualization of amino acids during chromatography or electrophoresis.",
+      "explanation": "The intensity of the purple color is directly proportional to the concentration of free amino acids present."
+    },
+    {
+      "id": "L3_SA_064",
+      "type": "shortanswer",
+      "text": "Do intact, mature proteins generate a strongly positive true color response with Ninhydrin?",
+      "answer": "No, they do not produce a full reaction because the bulk of their amino groups are locked in peptide bonds. However, the single free N-terminal amino group can react to yield a faint blue tint.",
+      "explanation": "Ninhydrin requires an unheated, free alpha-amino group to carry out the complete color cascade."
+    },
+    {
+      "id": "L3_SA_065",
+      "type": "shortanswer",
+      "text": "What is the Fluorescamine reaction used for?",
+      "answer": "Fluorescamine reacts rapidly with primary amino acids to produce a highly fluorescent complex, allowing for sensitive detection.",
+      "explanation": "This fluorogenic reagent is highly sensitive, making it useful for detecting trace amounts of amino acids."
+    },
+    {
+      "id": "L3_SA_066",
+      "type": "shortanswer",
+      "text": "What is the chemical basis of the Xanthoproteic test?",
+      "answer": "Concentrated nitric acid reacts with the activated aromatic rings in phenylalanine and tyrosine, nitrating them to produce a characteristic yellow-orange color.",
+      "explanation": "This test is specific for proteins that contain amino acids with aromatic side chains."
+    },
+    {
+      "id": "L3_SA_067",
+      "type": "shortanswer",
+      "text": "What is the biochemical basis of Rosenheim's test?",
+      "answer": "The indole ring system of tryptophan reacts with the test reagents to produce a characteristic purple-violet complex.",
+      "explanation": "This color test is used to confirm the presence of tryptophan in a protein sample."
+    },
+    {
+      "id": "L3_SA_068",
+      "type": "shortanswer",
+      "text": "What is the biochemical basis of Millon's test?",
+      "answer": "The phenol group of tyrosine reacts with mercuric nitrate in nitric acid, forming a brick-red precipitate.",
+      "explanation": "Millon's test is specific for phenolic compounds, making it a reliable diagnostic test for tyrosine."
+    },
+    {
+      "id": "L3_SA_069",
+      "type": "shortanswer",
+      "text": "What are the primary biological functions of free amino acids?",
+      "answer": "They serve as building blocks for peptides and proteins, act as neurotransmitters, and function as precursors for hormones (like thyroxine and catecholamines), protective amines, and detoxification pathways.",
+      "explanation": "Beyond protein synthesis, amino acids provide the nitrogen backbones needed to construct many essential biomolecules."
+    },
+    {
+      "id": "L3_SA_070",
+      "type": "shortanswer",
+      "text": "What is the difference between a polypeptide and a mature protein based on chain length?",
+      "answer": "Chains containing fewer than 50 amino acids are classified as polypeptides, whereas chains containing more than 50 amino acids are classified as proteins.",
+      "explanation": "This 50-amino-acid threshold is a traditional convention separating shorter peptide chains from larger, more complex proteins."
+    },
+    {
+      "id": "L3_SA_071",
+      "type": "shortanswer",
+      "text": "What is a dipeptide?",
+      "answer": "A peptide consisting of two amino acid residues linked by a single peptide bond.",
+      "explanation": "Despite the prefix 'di-', a dipeptide contains only one peptide bond joining its two constituent amino acids."
+    },
+    {
+      "id": "L3_SA_072",
+      "type": "shortanswer",
+      "text": "How many peptide bonds are present within an isolated dipeptide?",
+      "answer": "Exactly one peptide bond.",
+      "explanation": "One amide linkage ($CO-NH$) is formed by joining the alpha-carboxyl group of the first amino acid to the alpha-amino group of the second."
+    },
+    {
+      "id": "L3_SA_073",
+      "type": "shortanswer",
+      "text": "Enumerate several biologically active short peptides found in the human body.",
+      "answer": "Hormones (insulin, vasopressin, oxytocin), $\\beta$-lipotropin, bradykinin, peptide antibiotics (valinomycin), aspartame, glutathione, and atrial natriuretic factor.",
+      "explanation": "These short amino acid chains function as potent systemic signaling agents, hormones, and protective antioxidants."
+    },
+    {
+      "id": "L3_SA_074",
+      "type": "shortanswer",
+      "text": "What is a peptide bond?",
+      "answer": "A covalent amide linkage ($CO-NH$) formed when the alpha-carboxyl group of one amino acid reacts with the alpha-amino group of another, releasing a molecule of water.",
+      "explanation": "The peptide bond exhibits partial double-bond character, which keeps the amide group rigid and planar."
+    },
+    {
+      "id": "L3_SA_075",
+      "type": "shortanswer",
+      "text": "What are the primary physiological functions of Glutathione (GSH)?",
+      "answer": "It acts as a defense mechanism against toxic drugs and carcinogens, participates in amino acid transport, breaks down hydrogen peroxide ($H_2O_2$) to prevent RBC hemolysis, and regulates enzyme activation and insulin inactivation.",
+      "explanation": "Glutathione is a key intracellular antioxidant, maintaining cellular components in a reduced state and protecting against oxidative stress."
+    },
+    {
+      "id": "L3_SA_076",
+      "type": "shortanswer",
+      "text": "What is the physiological function of the Atrial Natriuretic Factor (ANF) peptide?",
+      "answer": "It stimulates the kidneys to excrete sodium and produce dilute urine, lowering blood volume and blood pressure in opposition to vasopressin.",
+      "explanation": "ANF is released by cardiac atrial muscle cells in response to high blood pressure, helping maintain fluid and electrolyte balance."
+    },
+    {
+      "id": "L3_SA_077",
+      "type": "shortanswer",
+      "text": "What is the biological significance of the peptide beta-lipotropin ($\\beta$-lipotropin)?",
+      "answer": "It serves as the precursor for $\\beta$-endorphin, a neurotransmitter and neuromodulator with analgesic effects 18 to 30 times more potent than morphine.",
+      "explanation": "Pro-hormone processing cleaves $\\beta$-lipotropin to release endorphins, which help modulate pain pathways in the central nervous system."
+    },
+    {
+      "id": "L3_SA_078",
+      "type": "shortanswer",
+      "text": "What is the physiological function of Bradykinin?",
+      "answer": "It acts as a potent smooth muscle relaxant that induces vasodilation, helping to lower blood pressure.",
+      "explanation": "Bradykinin is a peptide that regulates vascular permeability and smooth muscle tone during inflammatory responses."
+    },
+    {
+      "id": "L3_SA_079",
+      "type": "shortanswer",
+      "text": "What are proteins?",
+      "answer": "Proteins are nitrogenous macromolecules composed of L-alpha-amino acid chains linked together by covalent peptide bonds.",
+      "explanation": "Proteins fold into complex three-dimensional shapes that are essential for their specific biological functions."
+    },
+    {
+      "id": "L3_SA_080",
+      "type": "shortanswer",
+      "text": "Enumerate the primary physiological functions of body proteins.",
+      "answer": "They function as enzymes, hemoglobin, structural components (collagen/keratin), cell membrane channels and receptors, hormones (insulin), antibodies, coagulation factors, and nutrient carriers (lipoproteins).",
+      "explanation": "Proteins carry out most of the functional work in cells, driving catalysis, structural support, defense, and molecular transport."
+    },
+    {
+      "id": "L3_SA_081",
+      "type": "shortanswer",
+      "text": "What are the four hierarchical levels of protein structure?",
+      "answer": "Primary, secondary, tertiary, and quaternary structure.",
+      "explanation": "This structural hierarchy describes everything from the linear sequence of amino acids to the assembly of complex, multi-subunit protein complexes."
+    },
+    {
+      "id": "L3_SA_082",
+      "type": "shortanswer",
+      "text": "What is meant by the Primary Structure of a protein?",
+      "answer": "The specific linear sequence and total number of amino acids that make up the polypeptide chain.",
+      "explanation": "The primary structure is determined by genetic code and dictates how the protein will fold into its higher-order structures."
+    },
+    {
+      "id": "L3_SA_083",
+      "type": "shortanswer",
+      "text": "Which chemical bond is responsible for stabilizing the primary structure of a protein?",
+      "answer": "The covalent peptide bond.",
+      "explanation": "Peptide bonds form the covalent backbone of the polypeptide chain, resisting denaturation unless cleaved by specific proteases or strong acids."
+    },
+    {
+      "id": "L3_SA_084",
+      "type": "shortanswer",
+      "text": "What is meant by the Secondary Structure of a protein?",
+      "answer": "The local folding of the polypeptide backbone into regular, repeating spatial patterns stabilized by hydrogen bonds between amino acid residues close together in the sequence.",
+      "explanation": "Secondary structure describes local conformations along the polypeptide backbone, independent of the side-chain identities."
+    },
+    {
+      "id": "L3_SA_085",
+      "type": "shortanswer",
+      "text": "Which bonds are responsible for stabilizing secondary protein structures?",
+      "answer": "Hydrogen bonds.",
+      "explanation": "These hydrogen bonds form between the carbonyl oxygen ($C=O$) of one peptide bond and the amide hydrogen ($N-H$) of another close by."
+    },
+    {
+      "id": "L3_SA_086",
+      "type": "shortanswer",
+      "text": "What are the two most common conformations of secondary protein structure?",
+      "answer": "The alpha-helix ($alpha$-helix) and beta-pleated sheet ($\\beta$-pleated sheet).",
+      "explanation": "These structures maximize hydrogen bonding along the polypeptide backbone, minimizing free energy."
+    },
+    {
+      "id": "L3_SA_087",
+      "type": "shortanswer",
+      "text": "What are the primary structural features of an alpha-helix ($alpha$-helix)?",
+      "answer": "It is a rigid, right-handed spiral structure with 3.6 amino acid residues per turn, stabilized by internal hydrogen bonds. It is a major structural motif in globular proteins.",
+      "explanation": "The side chains extend outward from the helix axis, avoiding steric hindrance and interacting with the surrounding environment."
+    },
+    {
+      "id": "L3_SA_088",
+      "type": "shortanswer",
+      "text": "What is meant by the Tertiary Structure of a protein?",
+      "answer": "The complete three-dimensional folding of an entire polypeptide chain, bringing distant amino acid residues into close spatial relationships.",
+      "explanation": "Tertiary structure describes the overall shape of a single polypeptide chain, driven largely by side-chain interactions."
+    },
+    {
+      "id": "L3_SA_089",
+      "type": "shortanswer",
+      "text": "Which chemical bonds stabilize the tertiary structure of a protein?",
+      "answer": "Hydrogen bonds, hydrophobic interactions, electrostatic (ionic) bonds, and covalent disulfide bonds between cysteine residues.",
+      "explanation": "Weak non-covalent interactions cooperate with strong covalent disulfide bonds to lock the folded protein into its native conformation."
+    },
+    {
+      "id": "L3_SA_090",
+      "type": "shortanswer",
+      "text": "What are the two primary structural classes of tertiary protein morphology?",
+      "answer": "Fibrous proteins and Globular proteins.",
+      "explanation": "Fibrous proteins are typically elongated and structural (e.g., collagen), whereas globular proteins are compact, spherical, and functional (e.g., enzymes)."
+    },
+    {
+      "id": "L3_SA_091",
+      "type": "shortanswer",
+      "text": "What is meant by the Quaternary Structure of a protein?",
+      "answer": "The spatial arrangement and assembly of multiple independent polypeptide chains (subunits) into a single functional multi-subunit protein complex.",
+      "explanation": "Quaternary structure applies only to oligomeric proteins, which are composed of more than one polypeptide chain."
+    },
+    {
+      "id": "L3_SA_092",
+      "type": "shortanswer",
+      "text": "Which chemical bonds hold the subunits together in a quaternary protein structure?",
+      "answer": "Non-covalent interactions, including hydrogen bonds, electrostatic interactions (salt bridges), and hydrophobic interactions.",
+      "explanation": "Subunits are typically held together by weak non-covalent interactions, allowing for structural flexibility and cooperative behavior."
+    },
+    {
+      "id": "L3_SA_093",
+      "type": "shortanswer",
+      "text": "Give three examples of human proteins that exhibit a functional quaternary structure.",
+      "answer": "Hemoglobin, Lactate Dehydrogenase (LDH) enzyme, and Immunoglobulins (antibodies).",
+      "explanation": "These proteins depend on the coordinated interaction of multiple subunits to carry out their specific biological functions."
+    },
+    {
+      "id": "L3_SA_094",
+      "type": "shortanswer",
+      "text": "Summarize all the chemical bonds that stabilize protein architecture.",
+      "answer": "Two strong covalent bonds (peptide bonds and disulfide bonds) and three weak non-covalent bonds (hydrogen bonds, hydrophobic interactions, and electrostatic bonds).",
+      "explanation": "This combination of strong covalent bonds and flexible non-covalent interactions stabilizes the protein while allowing for functional structural changes."
+    },
+    {
+      "id": "L3_SA_095",
+      "type": "shortanswer",
+      "text": "Define the N-terminal and C-terminal ends of a polypeptide chain.",
+      "answer": "The N-terminal (amino-terminal) end has a free alpha-amino group ($-NH_3^+$), while the C-terminal (carboxy-terminal) end has a free alpha-carboxyl group ($-COO^-$).",
+      "explanation": "By convention, polypeptide sequences are written and synthesized from the N-terminus to the C-terminus."
+    },
+    {
+      "id": "L3_SA_096",
+      "type": "shortanswer",
+      "text": "What is a protein mutation in terms of sequence?",
+      "answer": "A permanent change in the DNA sequence that alters the linear amino acid sequence of the encoded protein.",
+      "explanation": "Altering even a single amino acid can disrupt protein folding and impair its biological function."
+    },
+    {
+      "id": "L3_SA_097",
+      "type": "shortanswer",
+      "text": "Give a classic clinical example of a disease caused by a single amino acid point mutation.",
+      "answer": "Sickle Cell Anemia, which affects the structure of Hemoglobin S (HbS).",
+      "explanation": "This inherited blood disorder is caused by a single nucleotide substitution that changes a single amino acid in the globin chain."
+    },
+    {
+      "id": "L3_SA_098",
+      "type": "shortanswer",
+      "text": "What is the exact molecular defect observed in the HbS molecule of Sickle Cell Anemia?",
+      "answer": "The normal glutamic acid residue at position 6 of the beta-globin chain is replaced by a hydrophobic valine residue.",
+      "explanation": "This substitution creates a hydrophobic patch on the protein surface, causing deoxygenated hemoglobin molecules to aggregate into rigid fibers that distort red blood cells into a sickle shape."
+    },
+    {
+      "id": "L3_SA_099",
+      "type": "shortanswer",
+      "text": "What is the Isoelectric Point (pI) of a protein?",
+      "answer": "The pH value at which the total number of positive charges (cations) on the protein surface exactly equals the total number of negative charges (anions), resulting in a net electrical charge of zero.",
+      "explanation": "At its pI, a protein will not migrate when placed in an electric field."
+    },
+    {
+      "id": "L3_SA_100",
+      "type": "shortanswer",
+      "text": "What physical properties change when a protein is at its Isoelectric Point (pI)?",
+      "answer": "Electrophoretic mobility drops to zero, solubility, buffering capacity, and viscosity reach a minimum, while the tendency to precipitate is maximized.",
+      "explanation": "With no net electrical charge, proteins lose their electrostatic repulsion, allowing them to aggregate and precipitate out of solution."
+    },
+    {
+      "id": "L3_SA_101",
+      "type": "shortanswer",
+      "text": "What is the specific isoelectric pH (pI) of human serum albumin?",
+      "answer": "Approximately 4.7.",
+      "explanation": "Because its pI is 4.7, albumin carries a strong net negative charge at physiological blood pH (7.4), allowing it to bind and transport various cations and drugs."
+    },
+    {
+      "id": "L3_SA_102",
+      "type": "shortanswer",
+      "text": "What general factors cause a protein to precipitate out of a aqueous solution?",
+      "answer": "Any factor that neutralizes the protein's surface electrical charge or removes its surrounding water shell of hydration.",
+      "explanation": "Disrupting these stabilizing factors allows hydrophobic interactions to drive aggregation and precipitation."
+    },
+    {
+      "id": "L3_SA_103",
+      "type": "shortanswer",
+      "text": "What occurs during the 'Salting Out' of proteins?",
+      "answer": "Adding high concentrations of neutral salts (like ammonium sulfate) causes these salt ions to compete with the protein for water molecules, stripping away the protein's hydration shell and forcing it to precipitate.",
+      "explanation": "Salting out is a classic method used to fractionate and purify proteins without destroying their native structures."
+    },
+    {
+      "id": "L3_SA_104",
+      "type": "shortanswer",
+      "text": "What occurs during the 'Salting In' of proteins?",
+      "answer": "Adding small, low concentrations of neutral salts increases the solubility of certain proteins (like globulins) by shielding their ionic groups and weakening intermolecular attractions.",
+      "explanation": "The added salt ions decrease the electrostatic attractions between protein molecules, helping them dissolve more easily in water."
+    },
+    {
+      "id": "L3_SA_105",
+      "type": "shortanswer",
+      "text": "How is human serum albumin separated or precipitated using ammonium sulfate saturation?",
+      "answer": "Albumin requires full (100%) saturation with ammonium sulfate to precipitate out of solution.",
+      "explanation": "Albumin is highly water-soluble, requiring the complete removal of its hydration shell to force precipitation."
+    },
+    {
+      "id": "L3_SA_106",
+      "type": "shortanswer",
+      "text": "Which major plasma protein fraction precipitates out when a solution is brought to half-saturation (50%) with ammonium sulfate?",
+      "answer": "The Globulin fraction.",
+      "explanation": "Globulins are larger and less water-soluble than albumin, causing them to precipitate at lower salt concentrations."
+    },
+    {
+      "id": "L3_SA_107",
+      "type": "shortanswer",
+      "text": "What is Protein Denaturation?",
+      "answer": "The unfolding and disruption of a protein's secondary, tertiary, and quaternary structures, without cleaving the covalent peptide bonds of the primary structure.",
+      "explanation": "Denaturation alters the three-dimensional shape of the protein while leaving its amino acid sequence intact."
+    },
+    {
+      "id": "L3_SA_108",
+      "type": "shortanswer",
+      "text": "What are the primary functional and physical consequences of protein denaturation?",
+      "answer": "The protein loses its biological activity, its water solubility decreases, and it precipitates out of solution more easily.",
+      "explanation": "Unfolding exposes the protein's hydrophobic core, leading to irreversible aggregation and precipitation."
+    },
+    {
+      "id": "L3_SA_109",
+      "type": "shortanswer",
+      "text": "What common physical and chemical agents induce the denaturation of proteins?",
+      "answer": "Excessive heating, organic solvents, heavy metal ions, urea, X-rays, extreme pH values, and vigorous mechanical mixing.",
+      "explanation": "These agents disrupt the weak non-covalent interactions (like hydrogen bonds) that stabilize the protein's native three-dimensional shape."
+    },
+    {
+      "id": "L3_SA_110",
+      "type": "shortanswer",
+      "text": "What occurs during Heat Coagulation?",
+      "answer": "Heating a protein solution near its isoelectric point causes it to denature irreversibly, aggregating into a thick, insoluble floating mass called a coagulum.",
+      "explanation": "The combination of heat denaturation and zero net charge at the pI drives rapid, permanent protein aggregation."
+    },
+    {
+      "id": "L3_SA_111",
+      "type": "shortanswer",
+      "text": "Give two classic examples of plasma proteins that undergo heat coagulation easily.",
+      "answer": "Albumin and Globulins.",
+      "explanation": "These globular proteins unfold when heated, rapidly aggregating into an insoluble mass (as seen when boiling an egg white)."
+    },
+    {
+      "id": "L3_SA_112",
+      "type": "shortanswer",
+      "text": "What are the primary systems used to classify proteins?",
+      "answer": "Proteins can be classified based on their biological function, their physiochemical properties (solubility and composition), or their nutritional value.",
+      "explanation": "These classification systems organize proteins based on their roles in metabolism, physical behaviors, or dietary importance."
+    },
+    {
+      "id": "L3_SA_113",
+      "type": "shortanswer",
+      "text": "Outline the functional classification system of proteins.",
+      "answer": "Proteins are classified into: (1) Catalytic (enzymes), (2) Structural, (3) Contractile (muscles), (4) Transport, (5) Regulatory (hormones), (6) Genetic, and (7) Protective proteins (antibodies).",
+      "explanation": "This system groups proteins by the specific physiological roles they perform within the organism."
+    },
+    {
+      "id": "L3_SA_114",
+      "type": "shortanswer",
+      "text": "How are proteins classified based on their physiochemical properties?",
+      "answer": "They are divided into: Simple proteins, Conjugated proteins, and Derived proteins.",
+      "explanation": "Simple proteins contain only amino acids, conjugated proteins include a non-protein group, and derived proteins are alteration products."
+    },
+    {
+      "id": "L3_SA_115",
+      "type": "shortanswer",
+      "text": "Give examples of Simple Proteins.",
+      "answer": "Albumin, globulins, globin, protamines, gliadins, glutelins, and scleroproteins.",
+      "explanation": "Simple proteins yield exclusively alpha-amino acids when completely broken down by hydrolysis."
+    },
+    {
+      "id": "L3_SA_116",
+      "type": "shortanswer",
+      "text": "What are Scleroproteins, and what are several prominent examples?",
+      "answer": "Scleroproteins are fibrous structural proteins that are highly insoluble. Examples include Collagens (bone/tendons), Keratin (hair/nails/skin), Elastin (lungs/blood vessels), and Reticulin.",
+      "explanation": "These proteins provide structural support and mechanical strength to connective tissues throughout the body."
+    },
+    {
+      "id": "L3_SA_117",
+      "type": "shortanswer",
+      "text": "What are Conjugated Proteins?",
+      "answer": "Proteins composed of an amino acid chain linked to a non-protein structural component, which is referred to as a prosthetic group.",
+      "explanation": "The prosthetic group is essential for the protein's stability and biological function."
+    },
+    {
+      "id": "L3_SA_118",
+      "type": "shortanswer",
+      "text": "List the primary subclasses of Conjugated Proteins based on their prosthetic groups.",
+      "answer": "Phosphoproteins, Lipoproteins, Glycoproteins, Metalloproteins, Chromoproteins, and Nucleoproteins.",
+      "explanation": "These subclasses are defined by the chemical nature of the non-protein group attached to the protein backbone."
+    },
+    {
+      "id": "L3_SA_119",
+      "type": "shortanswer",
+      "text": "What are Metalloproteins?",
+      "answer": "Conjugated proteins that contain specific functional metal ions, such as iron, copper, zinc, magnesium, or selenium.",
+      "explanation": "The metal ion often coordinates substrates and plays a direct role in enzymatic catalysis or oxygen transport."
+    },
+    {
+      "id": "L3_SA_120",
+      "type": "shortanswer",
+      "text": "Differentiate between heme and non-heme iron-containing metalloproteins with examples.",
+      "answer": "Heme iron proteins contain a porphyrin ring (e.g., hemoglobin, myoglobin, cytochromes, catalase). Non-heme iron proteins store or transport iron without a heme ring (e.g., ferritin, transferrin, hemosiderin).",
+      "explanation": "Heme proteins use iron coordinated within a porphyrin ring for catalysis or gas transport, while non-heme iron proteins focus on iron transport and storage."
+    },
+    {
+      "id": "L3_SA_121",
+      "type": "shortanswer",
+      "text": "Give examples of copper-containing metalloproteins (cuproproteins) found in humans.",
+      "answer": "Ceruloplasmin, erythrocuprein, hepatocuprein, cerebrocuprein, and various oxidase enzymes.",
+      "explanation": "Copper ions within these proteins participate in electron transfer reactions and iron metabolism."
+    },
+    {
+      "id": "L3_SA_122",
+      "type": "shortanswer",
+      "text": "Give examples of zinc-containing metalloproteins.",
+      "answer": "The hormone insulin and enzymes like carbonic anhydrase.",
+      "explanation": "Zinc ions stabilize the structural folding of insulin hexamers and participate in catalysis within carbonic anhydrase."
+    },
+    {
+      "id": "L3_SA_123",
+      "type": "shortanswer",
+      "text": "Give examples of magnesium-containing metalloproteins.",
+      "answer": "Kinase enzymes (which transfer phosphate groups) and phosphatase enzymes.",
+      "explanation": "Magnesium typically coordinates with ATP molecules, stabilizing negative charges to facilitate catalytic transfer."
+    },
+    {
+      "id": "L3_SA_124",
+      "type": "shortanswer",
+      "text": "Name a vital selenium-containing metalloprotein enzyme.",
+      "answer": "Glutathione peroxidase.",
+      "explanation": "Glutathione peroxidase incorporates selenium as a selenocysteine residue, using it to break down hydrogen peroxide and protect cells from oxidative damage."
+    },
+    {
+      "id": "L3_SA_125",
+      "type": "shortanswer",
+      "text": "What are Chromoproteins, and what are several common examples?",
+      "answer": "Conjugated proteins containing a colored prosthetic group. Examples include metallochromoproteins like hemoglobin, flavoproteins, and rhodopsin (visual purple).",
+      "explanation": "The conjugated double-bond systems within their prosthetic groups absorb visible light, giving these proteins a characteristic color."
+    },
+    {
+      "id": "L3_SA_126",
+      "type": "shortanswer",
+      "text": "Give examples of biologically important Phosphoproteins.",
+      "answer": "Casein found in milk and vitellin found in egg yolks.",
+      "explanation": "These proteins serve as nutrient reservoirs, providing a rich source of phosphate and amino acids for developing organisms."
+    },
+    {
+      "id": "L3_SA_127",
+      "type": "shortanswer",
+      "text": "Where is the phosphate group attached to the polypeptide chain in phosphoproteins?",
+      "answer": "The phosphate group is esterified to the free hydroxyl (-OH) groups of serine and threonine residues.",
+      "explanation": "This covalent modification introduces negative charges, altering the protein's conformation and physical properties."
+    },
+    {
+      "id": "L3_SA_128",
+      "type": "shortanswer",
+      "text": "Give an example of a nutritionally rich, 'first-class' protein.",
+      "answer": "Casein (milk protein).",
+      "explanation": "First-class proteins contain all essential amino acids in ratios that perfectly match human dietary requirements."
+    },
+    {
+      "id": "L3_SA_129",
+      "type": "shortanswer",
+      "text": "Why are certain dietary proteins classified as 'poor proteins'?",
+      "answer": "Because they lack one or more essential amino acids, meaning they cannot support normal growth and tissue maintenance on their own.",
+      "explanation": "A diet based entirely on a poor protein leads to amino acid deficiencies, halting protein synthesis due to the lack of a limiting amino acid."
+    },
+    {
+      "id": "L3_SA_130",
+      "type": "shortanswer",
+      "text": "Give an example of a nutritionally poor protein and its missing amino acid.",
+      "answer": "Maize (corn protein/zein), which lacks the essential amino acid tryptophan.",
+      "explanation": "Relying exclusively on maize as a protein source can lead to niacin and protein deficiencies, as tryptophan is a precursor for NAD synthesis."
+    },
+    {
+      "id": "L3_SA_131",
+      "type": "shortanswer",
+      "text": "Which standard method for estimating protein concentration depends entirely on the presence of intact peptide bonds?",
+      "answer": "The Biuret method.",
+      "explanation": "The Biuret reagent reacts specifically with the peptide bond backbone, making the assay independent of the protein's amino acid composition."
+    },
+    {
+      "id": "L3_SA_132",
+      "type": "shortanswer",
+      "text": "What is the origin of the name 'Biuret method'?",
+      "answer": "The test is named after the compound biuret ($NH_2-CO-NH-CO-NH_2$), which is formed by condensing two urea molecules and reacts positively with the test reagents.",
+      "explanation": "The biuret molecule contains amide groups that mimic the arrangement of peptide bonds in proteins."
+    },
+    {
+      "id": "L3_SA_133",
+      "type": "shortanswer",
+      "text": "What is the chemical principle behind the Biuret reaction?",
+      "answer": "Cupric ions ($Cu^{2+}$) in an alkaline solution coordinate with the nitrogen atoms of nearby peptide bonds, forming a purple-violet complex.",
+      "explanation": "The intensity of the violet color is directly proportional to the number of peptide bonds present in the sample."
+    },
+    {
+      "id": "L3_SA_134",
+      "type": "shortanswer",
+      "text": "What is the primary analytical use of the Biuret reaction?",
+      "answer": "It is widely used for the qualitative identification and quantitative estimation of total protein concentration in biological fluids like blood plasma.",
+      "explanation": "Its reliability makes it a standard assay for measuring total protein in clinical laboratories."
+    },
+    {
+      "id": "L3_SA_135",
+      "type": "shortanswer",
+      "text": "Will individual, free amino acids produce a positive color test with the Biuret reagent?",
+      "answer": "No, they will not. The reaction requires a minimum of two intact peptide bonds to coordinate with the cupric ion.",
+      "explanation": "Free amino acids lack the peptide bonds needed to form the colored coordination complex."
+    },
+    {
+      "id": "L3_SA_136",
+      "type": "shortanswer",
+      "text": "Will free urea generate a positive reaction with the Biuret reagent?",
+      "answer": "Yes, it can. When heated, urea condenses into biuret molecules, which contain the amide structures needed to form a positive violet complex.",
+      "explanation": "This cross-reactivity is a chemical artifact caused by the structural similarities between condensed urea and peptide backbones."
+    },
+    {
+      "id": "L3_SA_137",
+      "type": "shortanswer",
+      "text": "What is the primary advantage of utilizing the Biuret method in clinical biochemistry?",
+      "answer": "It is a simple, dependable, one-step process that is widely used for measuring total plasma protein concentration.",
+      "explanation": "The assay is robust, easy to automate, and unaffected by minor variations in amino acid composition."
+    },
+    {
+      "id": "L3_SA_138",
+      "type": "shortanswer",
+      "text": "What is the primary disadvantage of the Biuret method?",
+      "answer": "It has relatively low sensitivity, making it unsuitable for measuring trace amounts of protein in milligram or microgram quantities.",
+      "explanation": "Samples with very low protein concentrations, such as cerebrospinal fluid, require more sensitive assays like the Lowry or Bradford method."
+    },
+    {
+      "id": "L3_SA_139",
+      "type": "shortanswer",
+      "text": "Which specific amino acid component is primarily responsible for absorbing ultraviolet light at 280 nm?",
+      "answer": "The indole ring of Tryptophan. (Tyrosine also contributes to a lesser extent).",
+      "explanation": "The conjugated double bonds in the aromatic rings of tryptophan absorb UV light strongly at 280 nm, allowing for quick spectrophotometric estimation of protein concentration."
+    },
+    {
+      "id": "L3_SA_140",
+      "type": "shortanswer",
+      "text": "Give examples of basic simple proteins.",
+      "answer": "Histones and Protamines.",
+      "explanation": "These proteins are rich in arginine and lysine residues, giving them a net positive charge that allows them to bind tightly to acidic DNA backbones."
+    },
+    {
+      "id": "L3_SA_141",
+      "type": "shortanswer",
+      "text": "Give examples of acidic simple proteins.",
+      "answer": "Gliadins and Glutelins.",
+      "explanation": "These plant storage proteins contain higher ratios of acidic amino acid residues."
+    },
+    {
+      "id": "L3_SA_142",
+      "type": "shortanswer",
+      "text": "What are Derived Proteins, and how are they subclassified?",
+      "answer": "Derived proteins are degradation or alteration products of native proteins. They are subclassified into Primary derived (denatured or coagulated proteins) and Secondary derived (hydrolytic fragments like proteoses and peptones).",
+      "explanation": "Primary derived proteins involve structural unfolding without peptide bond cleavage, while secondary derived proteins are produced by partial hydrolysis of the peptide backbone."
+    },
+    {
+      "id": "L3_SA_143",
+      "type": "shortanswer",
+      "text": "Which structural proteins contain unusually high amounts of Cysteine?",
+      "answer": "Keratins ($alpha$-keratin).",
+      "explanation": "The high cysteine content allows for extensive disulfide cross-linking, giving hair, nails, and claws their rigid, durable structure."
+    },
+    {
+      "id": "L3_SA_144",
+      "type": "shortanswer",
+      "text": "Which nutritional protein contains a high proportion of Methionine residues?",
+      "answer": "Casein.",
+      "explanation": "Casein serves as an excellent source of essential sulfur-containing amino acids for developing organisms."
+    },
+    {
+      "id": "L3_SA_145",
+      "type": "shortanswer",
+      "text": "Which protein is notably rich in Serine and Methionine?",
+      "answer": "Phosphoproteins, such as milk Casein.",
+      "explanation": "The high serine content provides numerous hydroxyl sites for phosphorylation, which helps coordinate calcium ions."
+    },
+    {
+      "id": "L3_SA_146",
+      "type": "shortanswer",
+      "text": "Which proteins contain exceptionally high amounts of Histidine residues?",
+      "answer": "The globin chains of hemoglobin and the histone proteins associated with DNA.",
+      "explanation": "The high histidine content in globin provides vital buffering capacity that helps maintain physiological blood pH."
+    },
+    {
+      "id": "L3_SA_147",
+      "type": "shortanswer",
+      "text": "Which structural proteins are uniquely rich in Proline and Hydroxyproline residues?",
+      "answer": "Collagen and its denatured derivative, Gelatin.",
+      "explanation": "These imino acids force the polypeptide chain into a rigid conformation that is essential for forming the strong collagen triple helix."
+    },
+    {
+      "id": "L3_SA_148",
+      "type": "shortanswer",
+      "text": "What is Collagen, and what is its most abundant form in humans?",
+      "answer": "Collagen is an insoluble fibrous scleroprotein that makes up about 30% of total body protein. Type I collagen is the most common form, accounting for roughly 90% of cellular collagen.",
+      "explanation": "Collagen provides mechanical strength and structural integrity to extracellular matrices throughout the body."
+    },
+    {
+      "id": "L3_SA_149",
+      "type": "shortanswer",
+      "text": "Where is collagen primarily located in the human body?",
+      "answer": "It is found in connective tissues like skin, bone, tendons, cartilage, and blood vessels. It can also form gels, as seen in the extracellular matrix and the vitreous humor of the eye.",
+      "explanation": "Collagen's structural flexibility allows it to form everything from rigid bone matrices to clear, fluid eye gels."
+    },
+    {
+      "id": "L3_SA_150",
+      "type": "shortanswer",
+      "text": "Describe the structural composition and amino acid distribution of a standard Collagen molecule.",
+      "answer": "Collagen consists of three $alpha$-chains twisted into a rigid triple helix. Each chain contains about 1050 amino acids, with a repeating sequence composed of 33% glycine, 10% proline, 10% hydroxyproline, and 1% hydroxylysine. It exists as a modified glycoprotein structure.",
+      "explanation": "The repeating Gly-X-Y sequence allows the three chains to pack tightly together into a stable triple helix."
+    },
+    {
+      "id": "L3_SA_151",
+      "type": "shortanswer",
+      "text": "What primary post-translational modifications are required to produce mature, functional collagen?",
+      "answer": "The hydroxylation of specific proline and lysine residues, followed by the enzymatic cleavage of pro-collagen peptide extensions.",
+      "explanation": "These modifications occur after translation and are essential for proper folding and cross-linking of the collagen fibers."
+    },
+    {
+      "id": "L3_SA_152",
+      "type": "shortanswer",
+      "text": "The post-translational hydroxylation of proline and lysine residues during collagen synthesis depends on which cofactor?",
+      "answer": "Vitamin C (Ascorbic acid).",
+      "explanation": "Vitamin C acts as an essential reducing agent, maintaining the iron cofactor in prolyl and lysyl hydroxylase enzymes in its active ferrous ($Fe^{2+}$) state."
+    },
+    {
+      "id": "L3_SA_153",
+      "type": "shortanswer",
+      "text": "What clinical condition results from a deficiency in Vitamin C, and how does it affect collagen structure?",
+      "answer": "Scurvy, which is characterized by defective proline and lysine hydroxylation, leading to unstable collagen synthesis, blood vessel fragility, and poor wound healing.",
+      "explanation": "Without hydroxylated residues, the collagen triple helix destabilizes at body temperature, causing connective tissues to break down."
+    },
+    {
+      "id": "L3_SA_154",
+      "type": "shortanswer",
+      "text": "What specific structural features give collagen its high tensile strength and rigid framework?",
+      "answer": "(1) A tight helical conformation with only 3 amino acids per turn, (2) Glycine making up 33% of the molecule, which allows for tight packing, and (3) High hydroxyproline/hydroxylysine content, which increases stabilizing hydrogen bonds.",
+      "explanation": "The small size of glycine allows the chains to pack closely together, maximizing the hydrogen bonds that hold the triple helix together."
+    },
+    {
+      "id": "L3_SA_155",
+      "type": "shortanswer",
+      "text": "What is alpha-keratin ($alpha$-keratin), and why is it highly insoluble?",
+      "answer": "An insoluble fibrous scleroprotein found in hair, nails, tooth enamel, and skin. It consists of $alpha$-helical chains that are rich in hydrophobic amino acids and stabilized by numerous cysteine disulfide cross-links.",
+      "explanation": "The combination of hydrophobic side chains and covalent disulfide bridges makes keratin highly resistant to mechanical stress and water dissolution."
+    },
+    {
+      "id": "L3_SA_156",
+      "type": "shortanswer",
+      "text": "What is Elastin, and how does its composition compare to collagen?",
+      "answer": "An elastic fibrous scleroprotein that can stretch to several times its normal length. Like collagen, it is rich in glycine and proline, but it contains very little hydroxyproline and entirely lacks hydroxylysine.",
+      "explanation": "Elastin lacks the regular, repeating triple-helix structure of collagen, allowing it to form a flexible, rubber-like meshwork instead."
+    },
+    {
+      "id": "L3_SA_157",
+      "type": "shortanswer",
+      "text": "What structural feature gives elastin its rubber-like elasticity?",
+      "answer": "Elastin is composed of four polypeptide chains cross-linked by desmosine rings, which allows the network to stretch and recoil in multiple directions.",
+      "explanation": "Desmosine cross-links are formed by condensing four lysine side chains, binding the flexible elastin strands into an elastic matrix."
+    },
+    {
+      "id": "L3_SA_158",
+      "type": "shortanswer",
+      "text": "Where is elastin primarily located within the body?",
+      "answer": "In elastic tissues that undergo recurrent stretching, such as the lungs, large arterial walls (like the aorta), and elastic ligaments.",
+      "explanation": "Elastin allows these tissues to expand and recoil passively with each breath or heartbeat."
+    },
+    {
+      "id": "L3_SA_159",
+      "type": "shortanswer",
+      "text": "What is the biological role of alpha1-antitrypsin ($alpha_1$-antitrypsin) in regulating lung tissue integrity?",
+      "answer": "It is a protective inhibitor produced by the liver and immune cells that neutralizes neutrophil elastase, preventing the degradation of structural elastin in alveolar walls.",
+      "explanation": "By inhibiting elastase, $alpha_1$-antitrypsin protects the fragile lung matrix from being broken down during immune or inflammatory responses."
+    },
+    {
+      "id": "L3_SA_160",
+      "type": "shortanswer",
+      "text": "What clinical condition results from an inherited deficiency of alpha1-antitrypsin?",
+      "answer": "Unchecked elastase activity destroys the elastin framework of alveolar walls, leading to pulmonary Emphysema.",
+      "explanation": "Without protection from $alpha_1$-antitrypsin, elastase destroys the lung's elastic tissue, reducing surface area and causing severe respiratory distress."
+    },
+    {
+      "id": "L3_SA_161",
+      "type": "shortanswer",
+      "text": "What are Hemoproteins?",
+      "answer": "Conjugated metalloproteins composed of a protein component (globin) linked to an iron-containing porphyrin prosthetic group called heme.",
+      "explanation": "The iron atom coordinated within the heme ring allows these proteins to bind gases or participate in electron transfer reactions."
+    },
+    {
+      "id": "L3_SA_162",
+      "type": "shortanswer",
+      "text": "List six physiologically important heme-containing compounds.",
+      "answer": "Hemoglobin, Myoglobin, cytochrome enzymes, catalase, peroxidase, and tryptophan dioxygenase.",
+      "explanation": "These proteins rely on the iron atom in heme to carry out oxygen transport, hydrogen peroxide breakdown, and electron transport."
+    },
+    {
+      "id": "L3_SA_163",
+      "type": "shortanswer",
+      "text": "What is Myoglobin, and what are its key physiological and clinical features?",
+      "answer": "An oxygen-binding hemoprotein found in skeletal and cardiac muscle, composed of a single heme linked to one polypeptide chain. It has a high affinity for oxygen and is released into the blood during a myocardial infarction.",
+      "explanation": "Myoglobin stores oxygen in muscle tissue, releasing it only under low oxygen tensions during intense exercise. Its presence in the blood serves as a clinical biomarker for muscle injury."
+    },
+    {
+      "id": "L3_SA_164",
+      "type": "shortanswer",
+      "text": "Why are proteins described as amphoteric compounds?",
+      "answer": "Because they contain both free amino groups (at the N-terminus and on basic residues) and free carboxyl groups (at the C-terminus and on acidic residues), allowing them to accept or donate protons.",
+      "explanation": "This dual chemical nature allows proteins to act as zwitterions and perform vital buffering functions within the body."
+    },
+    {
+      "id": "L3_SA_165",
+      "type": "shortanswer",
+      "text": "List the primary laboratory methods used to separate and analyze proteins.",
+      "answer": "Chromatography, electrophoresis, ultracentrifugation, nephelometry, and dialysis.",
+      "explanation": "These techniques separate complex protein mixtures based on differences in size, electrical charge, solubility, or density."
+    },
+    {
+      "id": "L3_SA_166",
+      "type": "shortanswer",
+      "text": "What is Chromatography?",
+      "answer": "A set of laboratory techniques used to separate a mixture into its individual components by distributing them between a stationary phase and a mobile phase.",
+      "explanation": "Components separate as they move at different rates based on their relative affinities for the stationary or mobile phase."
+    },
+    {
+      "id": "L3_SA_167",
+      "type": "shortanswer",
+      "text": "What is the principal mechanism behind Partition Chromatography?",
+      "answer": "Components are separated based on their partition coefficients, which reflect their relative solubility in the stationary and mobile phases.",
+      "explanation": "Substances that dissolve more readily in the mobile phase travel faster, separating from those that interact more strongly with the stationary phase."
+    },
+    {
+      "id": "L3_SA_168",
+      "type": "shortanswer",
+      "text": "What are two common laboratory examples of partition chromatography?",
+      "answer": "Paper chromatography and Thin-Layer Chromatography (TLC).",
+      "explanation": "These simple methods are widely used to separate and identify small molecules like amino acids and lipids."
+    },
+    {
+      "id": "L3_SA_169",
+      "type": "shortanswer",
+      "text": "What are the primary advantages of Thin-Layer Chromatography (TLC) over standard paper chromatography?",
+      "answer": "TLC requires less time to run and provides sharper, more effective separation of components.",
+      "explanation": "The uniform matrix coating on a TLC plate allows for faster solvent migration and better resolution than paper fibers."
+    },
+    {
+      "id": "L3_SA_170",
+      "type": "shortanswer",
+      "text": "What is the Retention Factor ($R_f$ value) in chromatography?",
+      "answer": "The ratio of the distance traveled by the solute to the distance traveled by the solvent front.",
+      "explanation": "The $R_f$ value is a constant for a given substance under specific conditions of temperature, matrix, and solvent composition."
+    },
+    {
+      "id": "L3_SA_171",
+      "type": "shortanswer",
+      "text": "What is the principal mechanism behind Ion-Exchange Chromatography?",
+      "answer": "Separation is driven by the electrostatic attraction between charged sample molecules and oppositely charged functional groups bound to an immobile resin matrix.",
+      "explanation": "Proteins bind to the charged resin based on their net surface charge and are eluted selectively by changing the salt concentration or pH."
+    },
+    {
+      "id": "L3_SA_172",
+      "type": "shortanswer",
+      "text": "What is the principal mechanism behind Gel Filtration Chromatography?",
+      "answer": "Separation is based on molecular size. It is also known as molecular sieving.",
+      "explanation": "The stationary phase contains porous beads. Small molecules enter the pores and are delayed, while large molecules are excluded and elute first."
+    },
+    {
+      "id": "L3_SA_173",
+      "type": "shortanswer",
+      "text": "What is the principle behind Ultracentrifugation?",
+      "answer": "Large macromolecules are sedimented by high centrifugal forces based on their size, shape, and density, while small molecules remain in solution.",
+      "explanation": "The rate of sedimentation directly reflects the physical dimensions and density of the macromolecular particle."
+    },
+    {
+      "id": "L3_SA_174",
+      "type": "shortanswer",
+      "text": "In what unit is the macromolecular sedimentation constant expressed?",
+      "answer": "The Svedberg (S) unit.",
+      "explanation": "Svedberg units reflect sedimentation velocity per unit of centrifugal force and are non-additive because they depend on both mass and shape."
+    },
+    {
+      "id": "L3_SA_175",
+      "type": "shortanswer",
+      "text": "What are the primary clinical and research uses of ultracentrifugation?",
+      "answer": "(1) Isolation of subcellular organelles, (2) Separation of plasma lipoprotein fractions, and (3) Determination of macromolecular protein weights.",
+      "explanation": "The extreme gravitational forces generated allow for the precise separation of dense molecular complexes and cellular structures."
+    },
+    {
+      "id": "L3_SA_176",
+      "type": "shortanswer",
+      "text": "What is Electrophoresis?",
+      "answer": "The movement of charged particles through a supporting medium toward the oppositely charged electrode when exposed to an electrical field.",
+      "explanation": "Cations move toward the negative cathode, while anions migrate toward the positive anode."
+    },
+    {
+      "id": "L3_SA_177",
+      "type": "shortanswer",
+      "text": "What is the clinical importance of Electrophoresis?",
+      "answer": "It allows for the separation of amino acids, polypeptides, or serum proteins using an electric current, helping to identify pathological changes in protein concentration.",
+      "explanation": "Analyzing the separation patterns of serum proteins is a standard diagnostic tool for identifying conditions like multiple myeloma or inflammation."
+    },
+    {
+      "id": "L3_SA_178",
+      "type": "shortanswer",
+      "text": "What factors influence the migration velocity of a protein during electrophoresis?",
+      "answer": "The net surface charge of the protein, its mass and shape, the pH and ionic strength of the buffer, the electrical field strength, and the properties of the supporting medium.",
+      "explanation": "Migration velocity balances the driving force of electrical charge against the frictional resistance of the protein's size and shape."
+    },
+    {
+      "id": "L3_SA_179",
+      "type": "shortanswer",
+      "text": "List the common supporting media used in clinical electrophoresis.",
+      "answer": "Filter paper, cellulose acetate, agar gel, agarose gel, starch gel, and polyacrylamide gel.",
+      "explanation": "The gel matrix acts as a molecular sieve, improving separation based on molecular size."
+    },
+    {
+      "id": "L3_SA_180",
+      "type": "shortanswer",
+      "text": "For what primary diagnostic purpose is electrophoresis used in clinical laboratories?",
+      "answer": "To perform serum protein electrophoresis (SPEP) and analyze abnormalities in blood protein fractions.",
+      "explanation": "SPEP separates serum proteins into albumin, alpha-1, alpha-2, beta, and gamma globulin fractions to help diagnose disease."
+    },
+    {
+      "id": "L3_SA_181",
+      "type": "shortanswer",
+      "text": "What is Dialysis?",
+      "answer": "The separation of large colloidal macromolecules (like proteins) from small crystalloid salts using a semi-permeable membrane.",
+      "explanation": "Small salt ions diffuse freely through the membrane pores along their concentration gradient, while large protein molecules are retained."
+    },
+    {
+      "id": "L3_SA_182",
+      "type": "shortanswer",
+      "text": "What is Nephelometry?",
+      "answer": "An analytical technique that measures the intensity of light scattered by insoluble immune or turbid protein complexes in a solution.",
+      "explanation": "The amount of scattered light is directly proportional to the concentration of specific proteins in the sample."
+    },
+    {
+      "id": "L3_SA_183",
+      "type": "shortanswer",
+      "text": "What is Myosin?",
+      "answer": "A specialized structural and motor protein found abundantly within muscle tissue.",
+      "explanation": "Myosin converts chemical energy from ATP hydrolysis into mechanical work, driving muscle contraction."
+    },
+    {
+      "id": "L3_SA_184",
+      "type": "shortanswer",
+      "text": "What is the primary biological function of myosin?",
+      "answer": "It binds to actin filaments to form actinomyosin cross-bridges and possesses intrinsic ATPase activity to power muscle contraction.",
+      "explanation": "The cyclic interaction between actin and myosin generates the sliding force that shortens sarcomeres and contracts muscles."
+    },
+    {
+      "id": "L3_SA_185",
+      "type": "shortanswer",
+      "text": "What is the physiological role of Troponin-C?",
+      "answer": "It binds calcium ions ($Ca^{2+}$), triggering a conformational change that initiates muscle contraction.",
+      "explanation": "Calcium binding shifts the tropomyosin complex, exposing myosin-binding sites on the actin filament."
+    },
+    {
+      "id": "L3_SA_186",
+      "type": "shortanswer",
+      "text": "What is the physiological function of Troponin-I?",
+      "answer": "It acts as an inhibitory component that blocks the interaction between actin and myosin during muscle relaxation.",
+      "explanation": "Troponin-I keeps the muscle relaxed until calcium ions bind to Troponin-C and relieve the inhibition."
+    },
+    {
+      "id": "L3_SA_187",
+      "type": "shortanswer",
+      "text": "What is the clinical significance of serum Troponin-T?",
+      "answer": "Its serum level rises rapidly following myocardial damage, serving as a highly specific biomarker for diagnosing myocardial infarction.",
+      "explanation": "Troponin-T is unique to cardiac muscle cells, making its release into the blood an exceptionally specific indicator of heart muscle injury."
+    },
+    {
+      "id": "L3_C_001",
+      "type": "compare",
+      "text": "Compare the physical, chemical, and biological properties of Albumin and Globulin:",
+      "image": "",
+      "aspects": [
+        "Property",
+        "Coagulation by heat",
+        "Solubility",
+        "Molecular weight",
+        "Precipitation",
+        "Blood Source",
+        "Milk Source",
+        "Egg Source"
+      ],
+      "itemA": {
+        "name": "Albumin",
+        "values": [
+          "Coagulable",
+          "Protein of high biological value",
+          "Soluble in pure water",
+          "68,000 Da",
+          "By full saturation of ammonium sulfate",
+          "Serum albumin",
+          "Lactalbumin",
+          "Egg albumin"
+        ]
+      },
+      "itemB": {
+        "name": "Globulin",
+        "values": [
+          "Same",
+          "Same",
+          "Insoluble in pure water; soluble in dilute salt solutions",
+          "150,000 Da",
+          "By half-saturation (50%) of ammonium sulfate",
+          "Serum globulins",
+          "Lactoglobulin",
+          "Egg globulin"
+        ]
+      },
+      "explanation": "Albumin and globulins represent the two predominant fractions of plasma proteins. Albumin is a highly symmetrical, low-molecular-weight monomer synthesized primarily by the liver that requires full salt saturation to precipitate. Globulins are larger, more complex oligomeric proteins that readily precipitate out at half-saturation."
+    },
+    {
+      "id": "L3_C_002",
+      "type": "compare",
+      "text": "Compare the structural attributes, amino acid profiles, and biological distributions of Globin and Protamine:",
+      "image": "",
+      "aspects": [
+        "Property",
+        "Type of Basic Amino Acid",
+        "Solubility",
+        "Source In plant and animals",
+        "Source In RBCs"
+      ],
+      "itemA": {
+        "name": "Globin",
+        "values": [
+          "Globin",
+          "Histidine",
+          "In salt solution",
+          "Combined with DNA",
+          "Combined with heme to form hemoglobin"
+        ]
+      },
+      "itemB": {
+        "name": "Protamine",
+        "values": [
+          "Protamine",
+          "Lysine and arginine",
+          "In salt solution & In 70% ethanol",
+          "in fish",
+          "Absent in human red blood cells"
+        ]
+      },
+      "explanation": "Globin and Protamine are simple basic proteins that associate with nucleic acids. Histones/globins use histidine residues for mild basic functionality, whereas protamines are extremely basic, arginine-rich proteins that replace histones during spermatogenesis to achieve tighter DNA packing in fish sperm cells."
+    },
+    {
+      "id": "L3_C_003",
+      "type": "compare",
+      "text": "Compare the biophysical characteristics and structural morphologies of Fibrous and Globular proteins:",
+      "image": "",
+      "aspects": [
+        "Property",
+        "Axial Ratio",
+        "Stability",
+        "Examples"
+      ],
+      "itemA": {
+        "name": "Fibrous",
+        "values": [
+          "Fibrous",
+          "More than 10",
+          "More stable",
+          "Keratin and Myosin of muscles"
+        ]
+      },
+      "itemB": {
+        "name": "Globular",
+        "values": [
+          "Globular",
+          "Less than 10",
+          "Less stable",
+          "Albumin, Globulins, and Insulin"
+        ]
+      },
+      "explanation": "The tertiary structural layout of proteins divides them morphologically. Fibrous proteins are elongated, static structural molecules with high axial ratios that are insoluble in water. Globular proteins are dynamic, spherical molecules with low axial ratios that perform metabolic functions like catalysis, transport, and regulation."
+    },
+    {
+      "id": "L3_C_004",
+      "type": "compare",
+      "text": "Compare the biochemical composition, molecular architecture, and mechanical behaviors of Collagen and Elastin:",
+      "image": "",
+      "aspects": [
+        "Property",
+        "Number of chains",
+        "Amino Acid content",
+        "Structure",
+        "Direction of stretch"
+      ],
+      "itemA": {
+        "name": "Collagen",
+        "values": [
+          "Collagen",
+          "3",
+          "33% Glycine, Rich in proline, More hydroxyproline, Contains hydroxylysine",
+          "fibrous",
+          "One direction"
+        ]
+      },
+      "itemB": {
+        "name": "Elastin",
+        "values": [
+          "Elastin",
+          "4",
+          "33% Glycine, Rich in proline, Less hydroxyproline, Contains NO hydroxylysine",
+          "Fibrous in extended form; globular in relaxed form",
+          "Extensible and recoils in two dimensions (multi-directional)"
+        ]
+      },
+      "explanation": "Collagen and elastin are the major fibrous elements of connective tissue. Collagen is built from a rigid triple helix stabilized by hydroxyproline and hydroxylysine, allowing it to resist stretching in one direction. Elastin is a flexible, network-like structure with desmosine cross-links, enabling rubber-like stretchability in multiple directions."
+    },
+    {
+      "id": "L3_C_005",
+      "type": "compare",
+      "text": "Compare the localization, molecular composition, gas affinity, and physiological roles of Myoglobin and Hemoglobin:",
+      "image": "",
+      "aspects": [
+        "Property",
+        "Location",
+        "Molecular Composition",
+        "Affinity to oxygen",
+        "Function"
+      ],
+      "itemA": {
+        "name": "Myoglobin",
+        "values": [
+          "Myoglobin",
+          "In skeletal and cardiac muscles",
+          "One heme and one polypeptide chain",
+          "High",
+          "Supply oxygen to muscles."
+        ]
+      },
+      "itemB": {
+        "name": "Hemoglobin",
+        "values": [
+          "Hemoglobin",
+          "In RBCs",
+          "4 heme molecules and 4 polypeptide chains",
+          "Less",
+          "Supply oxygen to all body cells."
+        ]
+      },
+      "explanation": "Myoglobin and hemoglobin are specialized oxygen-binding hemoproteins. Myoglobin is a monomer located inside muscle tissues that binds oxygen tightly to serve as an internal metabolic reservoir. Hemoglobin is a tetramer located within erythrocytes that exhibits cooperative binding (O2 affinity changes with partial pressure) to optimize systemic transport."
+    },
+    {
+      "id": "L1_MCQ_001",
+      "type": "mcq",
+      "text": "Phenylalanine is:",
+      "options": [
+        "Branched amino acid.",
+        "Basic amino acid.",
+        "Imino acid.",
+        "Essential amino acid.",
+        "Acidic amino acid."
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Valine, leucine, and isoleucine are the branched-chain amino acids.",
+        "Wrong: Lysine, arginine, and histidine are basic amino acids.",
+        "Wrong: Proline is an imino acid, not phenylalanine.",
+        "Correct: Phenylalanine is an evolutionarily conserved, nutritionally essential aromatic amino acid that humans cannot synthesize de novo.",
+        "Wrong: Aspartate and glutamate are acidic amino acids."
+      ],
+      "explanation": "Phenylalanine is one of the ten nutritionally essential amino acids for humans and must be obtained from the diet. It contains an aromatic phenyl ring attached to an alanine core."
+    },
+    {
+      "id": "L1_MCQ_002",
+      "type": "mcq",
+      "text": "Keratin is:",
+      "options": [
+        "Fibrous protein.",
+        "Globular protein.",
+        "Tripeptide.",
+        "Histone.",
+        "Conjugated protein."
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Keratin is a classic structural, water-insoluble fibrous protein rich in cysteine forming alpha-helices or beta-sheets.",
+        "Wrong: Globular proteins are spherical and water-soluble, unlike keratin.",
+        "Wrong: Keratins are large macromolecular polypeptides, not short 3-amino acid peptides.",
+        "Wrong: Histones are basic DNA-binding nuclear proteins.",
+        "Wrong: Keratin is a simple structural protein, not a conjugated protein bound to a non-protein prosthetic group."
+      ],
+      "explanation": "Keratin belongs to the class of scleroproteins or fibrous proteins. It serves structural functions in epithelial cells, hair, and nails, characterized by its mechanical rigidity and chemical insolubility."
+    },
+    {
+      "id": "L1_MCQ_003",
+      "type": "mcq",
+      "text": "Tryptophan may be detected in a mixture of amino acids by the:",
+      "options": [
+        "Millon's reaction",
+        "Nitroprusside reaction",
+        "Rosenheim's reaction",
+        "Xanthoproteic reaction",
+        "Biuret reaction"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Millon's test is specific for phenolic rings, identifying tyrosine.",
+        "Wrong: Nitroprusside test detects sulfhydryl (-SH) groups found in cysteine.",
+        "Correct: Rosenheim's formaldehydic test specifically detects the indole ring present in tryptophan molecules.",
+        "Wrong: Xanthoproteic test identifies aromatic rings broadly by nitration, but Rosenheim's is specific for the indole group of tryptophan.",
+        "Wrong: Biuret reaction tests for peptide bonds in polypeptides, not individual free amino acids."
+      ],
+      "explanation": "Rosenheim's reaction (or Hopkins-Cole test) reacts specifically with the indole ring of tryptophan using glyoxilic acid or formaldehyde in the presence of concentrated sulfuric acid to yield a characteristic violet color ring."
+    },
+    {
+      "id": "L1_MCQ_004",
+      "type": "mcq",
+      "text": "Ninhydrin reacts with amino acids by causing:",
+      "options": [
+        "Dehydrogenation",
+        "Deamination",
+        "Deamination and decarboxylation",
+        "Cleavage of certain peptide bonds",
+        "Oxidative decarboxylation"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Ninhydrin performs an oxidative cleavage rather than simple dehydrogenation.",
+        "Wrong: Deamination alone does not yield the characteristic carbon dioxide release seen in this reaction.",
+        "Correct: Ninhydrin functions as a powerful oxidizing agent that triggers both oxidative deamination and decarboxylation of free alpha-amino acids.",
+        "Wrong: Ninhydrin reacts with free alpha-amino groups, not internal peptide bonds.",
+        "Wrong: While it involves oxidation and decarboxylation, it simultaneously causes deamination to release ammonia."
+      ],
+      "explanation": "Ninhydrin reacts with alpha-amino acids to produce an aldehyde, carbon dioxide (CO2), and ammonia (NH3) through simultaneous oxidative deamination and decarboxylation, subsequently forming a purple-colored complex (Ruhemann's purple)."
+    },
+    {
+      "id": "L1_MCQ_005",
+      "type": "mcq",
+      "text": "Rotation of plain polarized light is caused by solution of all the following amino acids EXCEPT:",
+      "options": [
+        "Alanine",
+        "Glycine",
+        "Leucine",
+        "Serine",
+        "Valine"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Alanine contains an asymmetric carbon atom and is optically active.",
+        "Correct: Glycine's alpha-carbon is attached to two hydrogen atoms, meaning it lacks an asymmetric chiral center and cannot rotate plane-polarized light.",
+        "Wrong: Leucine possesses a chiral alpha-carbon and exhibits optical activity.",
+        "Wrong: Serine has a chiral center and can rotate plane-polarized light.",
+        "Wrong: Valine is an optically active branched-chain amino acid."
+      ],
+      "explanation": "Optical activity requires an asymmetric (chiral) carbon atom. Glycine (NH2-CH2-COOH) is the simplest amino acid and the only one that is achiral and thus optically inactive."
+    },
+    {
+      "id": "L1_MCQ_006",
+      "type": "mcq",
+      "text": "The following are biologically active peptides EXCEPT:",
+      "options": [
+        "Aspartame",
+        "Glutathione",
+        "Natriuretic factor",
+        "Elastin",
+        "Bradykinin"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Aspartame is a synthetic dipeptide utilized as a low-calorie artificial sweetener.",
+        "Wrong: Glutathione is a vital antioxidant tripeptide (gamma-glutamyl-cysteinyl-glycine).",
+        "Wrong: Atrial natriuretic factor is a peptide hormone regulating salt and water balance.",
+        "Correct: Elastin is a massive macromolecular fibrous structural protein, not a low-molecular-weight biologically active oligopeptide.",
+        "Wrong: Bradykinin is a physiologically active nonapeptide causing vasodilation."
+      ],
+      "explanation": "Biologically active peptides are small oligopeptides performing specific signaling, regulatory, or metabolic roles, whereas elastin is a structural, insoluble tissue protein matrix."
+    },
+    {
+      "id": "L1_MCQ_007",
+      "type": "mcq",
+      "text": "beta-Lipotropin:",
+      "options": [
+        "It is the precursor of beta-endorphin.",
+        "It is the precursor of beta-glucopyranose.",
+        "Peptide enters in the structure of beta-pleated protein sheets.",
+        "It is peptide produced by cardiac cells.",
+        "Its tripeptide formed of glutamate - Cysteine - Glycine."
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: beta-Lipotropin is a polypeptide cleaved from pro-opiomelanocortin (POMC) that serves as the direct precursor to endogenous opioid peptides like beta-endorphin.",
+        "Wrong: beta-glucopyranose is a cyclic monosaccharide carbohydrate, entirely unrelated to peptide hormones.",
+        "Wrong: It is a hormone, not a structural peptide module forming beta-pleated sheets.",
+        "Wrong: It is secreted primarily by the anterior pituitary gland, not the cardiac myocytes.",
+        "Wrong: The described tripeptide is glutathione, not beta-lipotropin."
+      ],
+      "explanation": "beta-Lipotropin is a 93-amino acid anterior pituitary peptide derived from POMC, containing the amino acid sequence of beta-endorphin within its C-terminal domain."
+    },
+    {
+      "id": "L1_MCQ_008",
+      "type": "mcq",
+      "text": "An essential amino acid in man is:",
+      "options": [
+        "Proline.",
+        "Tyrosine.",
+        "Methionine.",
+        "Serine.",
+        "Glycine."
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Proline is synthesized internally from glutamate and is non-essential.",
+        "Wrong: Tyrosine is non-essential since it can be produced directly from phenylalanine hydroxylation.",
+        "Correct: Methionine is a sulfur-containing essential amino acid that cannot be synthesized by human metabolic pathways.",
+        "Wrong: Serine is synthesized from 3-phosphoglycerate and is non-essential.",
+        "Wrong: Glycine is the simplest non-essential amino acid, synthesized from serine or choline."
+      ],
+      "explanation": "Methionine is one of the essential hydrophobic amino acids required in human diets, functioning additionally as the initiating amino acid in protein translation and a precursor for S-adenosylmethionine (SAM)."
+    },
+    {
+      "id": "L1_MCQ_009",
+      "type": "mcq",
+      "text": "Which of the following amino acids can be metabolized to fatty acids in mammals:",
+      "options": [
+        "Leucine",
+        "Methionine",
+        "Arginine",
+        "Alanine",
+        "Glutamate"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Leucine is a purely ketogenic amino acid; its catabolism exclusively yields acetyl-CoA and acetoacetate, which act as substrates for fatty acid synthesis.",
+        "Wrong: Methionine is glucogenic and converts into succinyl-CoA, feeding gluconeogenesis.",
+        "Wrong: Arginine is glucogenic, metabolizing to alpha-ketoglutarate.",
+        "Wrong: Alanine transaminates directly to pyruvate, acting as a direct precursor for glucose synthesis.",
+        "Wrong: Glutamate enters the citric acid cycle via deamination to alpha-ketoglutarate, making it glucogenic."
+      ],
+      "explanation": "Ketogenic amino acids are metabolized into acetyl-CoA or acetoacetate, serving as precursors for fatty acids or ketone bodies. Leucine and lysine are the only strictly ketogenic amino acids."
+    },
+    {
+      "id": "L1_MCQ_010",
+      "type": "mcq",
+      "text": "Among the techniques used for separation of proteins and amino acids are:",
+      "options": [
+        "Chromatography",
+        "Electrophoresis",
+        "Ultracentrifugation",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Chromatography is widely used, but it is not the only valid technique listed.",
+        "Wrong: Electrophoresis isolates proteins effectively via net molecular charges, but other answers also apply.",
+        "Wrong: Ultracentrifugation separates macromolecular protein structures via sedimentation rates, but it is not the sole technique.",
+        "Correct: All three methodologies (chromatography, electrophoresis, and ultracentrifugation) are established analytical biophysical techniques for protein and amino acid isolation.",
+        "Wrong: Multiple options are highly effective protein separation modalities."
+      ],
+      "explanation": "Proteins and amino acids can be separated based on their differential partition coefficients (chromatography), net molecular electrical charges (electrophoresis), or macromolecular density and size (ultracentrifugation)."
+    },
+    {
+      "id": "L1_MCQ_011",
+      "type": "mcq",
+      "text": "Histones are:",
+      "options": [
+        "Proteins present in egg yolk.",
+        "Identical to globin.",
+        "Identical to protamine.",
+        "Acidic proteins.",
+        "Coagulated by heat."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Egg yolk proteins are dominated by lipovitellins and phosvitin.",
+        "Correct: Classically categorized in older biochemical literature alongside globins due to shared structural/solubility features, though functionally unique.",
+        "Wrong: Protamines are smaller and more basic arginine-rich nuclear proteins that replace histones during late spermatogenesis.",
+        "Wrong: Histones are strongly basic proteins rich in lysine and arginine, not acidic.",
+        "Wrong: Unlike typical soluble albumins, histones are resistant to traditional thermal coagulation due to structural properties."
+      ],
+      "explanation": "Histones are highly basic proteins tightly associated with eukaryotic nuclear DNA, balancing the negative charges of phosphate groups to compact chromatin into nucleosome architectures."
+    },
+    {
+      "id": "L1_MCQ_012",
+      "type": "mcq",
+      "text": "Formed of 3 alpha-polypeptide chains; and contains about 33% glycine:",
+      "options": [
+        "Keratin",
+        "Collagen",
+        "Albumin",
+        "Elastin"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Keratins assemble from alpha-helical or beta-sheet heterodimers, lacking the specialized 33% glycine triple-helix structure.",
+        "Correct: Collagen is characterized by a unique triple-helix composed of three alpha-chains with a repeating Gly-X-Y motif, where glycine accounts for 1/3 (33%) of the residue total.",
+        "Wrong: Albumin is a globular monomeric plasma protein.",
+        "Wrong: Elastin is a random-coil structured hydrophobic protein that contains glycine but does not form a 3-chain alpha triple-helix."
+      ],
+      "explanation": "Collagen contains a repeating structural sequence Gly-X-Y (where X is often proline and Y is hydroxyproline), making glycine comprise one-third of the total amino acid content, allowing tight packaging of its structural triple helix."
+    },
+    {
+      "id": "L1_MCQ_013",
+      "type": "mcq",
+      "text": "Thyroxin hormone is derived from:",
+      "options": [
+        "Tyramine.",
+        "Tyrosine.",
+        "Tryptophan.",
+        "Taurine.",
+        "Tryptamin."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Tyramine is a decarboxylation product of tyrosine, not the precursor to thyroxin.",
+        "Correct: Thyroxin (T4) and triiodothyronine (T3) are produced via iodination and coupling of tyrosine amino acid residues embedded within thyroglobulin.",
+        "Wrong: Tryptophan is the dietary precursor for serotonin, melatonin, and niacin, not thyroxin.",
+        "Wrong: Taurine is an organic amino sulfonic acid involved in bile salt conjugation.",
+        "Wrong: Tryptamine is a decarboxylated amine derived from tryptophan."
+      ],
+      "explanation": "Thyroid follicular cells utilize the aromatic amino acid tyrosine to synthesize the thyroid hormones thyroxin (T4) and triiodothyronine (T3) following specialized iodination."
+    },
+    {
+      "id": "L1_MCQ_014",
+      "type": "mcq",
+      "text": "Primary structure of proteins is determined by:",
+      "options": [
+        "Peptide bonds",
+        "Hydrogen bonds",
+        "Disulfide bonds",
+        "Electrostatic bond",
+        "Hydrophobic bonds"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Primary structure represents the linear amino acid sequence joined exclusively by covalent peptide bonds.",
+        "Wrong: Hydrogen bonds stabilize the secondary structure motifs (alpha-helices and beta-sheets).",
+        "Wrong: Disulfide bonds participate in tertiary and quaternary protein structure stabilization.",
+        "Wrong: Electrostatic interactions participate in holding together tertiary three-dimensional shapes.",
+        "Wrong: Hydrophobic effects drive the folding into tertiary structural conformations."
+      ],
+      "explanation": "The primary structure of a protein is its unique linear sequence of amino acids linked together by covalent, amide-type peptide bonds between the alpha-carboxyl group of one residue and the alpha-amino group of the next."
+    },
+    {
+      "id": "L1_MCQ_015",
+      "type": "mcq",
+      "text": "Secondary structure of proteins is determined by:",
+      "options": [
+        "Peptide bonds",
+        "Hydrogen bonds",
+        "Disulfide bonds",
+        "Electrostatic bond",
+        "Hydrophobic bonds"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Peptide bonds construct the covalent primary backbone, not the secondary folding patterns.",
+        "Correct: The folding of a polypeptide chain into local structures like alpha-helices or beta-pleated sheets is stabilized by hydrogen bonds between peptide backbone atoms.",
+        "Wrong: Disulfide bridges stabilize higher-order tertiary and quaternary architecture.",
+        "Wrong: Electrostatic ionic bonds contribute primarily to tertiary conformation dynamics.",
+        "Wrong: Hydrophobic core collapse stabilizes tertiary packaging."
+      ],
+      "explanation": "Secondary protein structures are maintained by hydrogen bonding interactions between the carbonyl oxygen (-C=O) and amide hydrogen (-N-H) atoms comprising the peptide bond backbone."
+    },
+    {
+      "id": "L1_MCQ_016",
+      "type": "mcq",
+      "text": "Isoelectric pH is the pH at which:",
+      "options": [
+        "Protein molecule is denaturated.",
+        "Protein molecule carries no net charges.",
+        "Protein molecule is most soluble.",
+        "The disulfide bonds in protein molecule are disrupted."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Isoelectric point does not imply structural denaturation, which involves unfolding.",
+        "Correct: The isoelectric point (pI) is defined specifically as the precise pH value at which a zwitterionic molecule carries an equal balance of charges, meaning its net electrical charge is zero.",
+        "Wrong: Proteins exhibit their lowest solubility at their isoelectric point, often aggregating and precipitating.",
+        "Wrong: Disulfide bond integrity depends on redox status, not directly on the isoelectric pH configuration."
+      ],
+      "explanation": "At the isoelectric pH (pI), the total positive charges on the protein's functional groups perfectly equal the negative charges, rendering the molecule electrochemically neutral and immobile in an electric field."
+    },
+    {
+      "id": "L1_MCQ_017",
+      "type": "mcq",
+      "text": "The protein bond that is NOT lost by denaturation is:",
+      "options": [
+        "Peptide bonds",
+        "Hydrogen bonds",
+        "Disulfide bonds",
+        "Electrostatic bond",
+        "Hydrophobic bonds"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Denaturation alters the spatial conformation of proteins by breaking non-covalent interactions, but it leaves the covalent primary peptide bonds completely intact.",
+        "Wrong: Hydrogen bonds are highly susceptible to denaturation by thermal or chemical agents.",
+        "Wrong: Strong denaturants and reducing agents routinely disrupt stabilizing disulfide bridges.",
+        "Wrong: Electrostatic ionic bonds are sensitive to pH changes and salt concentrations during denaturation.",
+        "Wrong: Hydrophobic core packing is disrupted by detergents or organic solvents during denaturation."
+      ],
+      "explanation": "Denaturation alters secondary, tertiary, and quaternary conformations without cleaving the covalent peptide backbone bonds. Therefore, the primary amino acid sequence remains intact."
+    },
+    {
+      "id": "L1_MCQ_018",
+      "type": "mcq",
+      "text": "Tertiary structure of proteins is determined by:",
+      "options": [
+        "Hydrogen bonds",
+        "Disulfide bonds",
+        "Electrostatic bonds",
+        "Hydrophobic bonds",
+        "All of the above"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Hydrogen bonds contribute, but they are not the sole stabilizing force for tertiary conformation.",
+        "Wrong: Disulfide bridges provide covalent reinforcement, but they operate alongside other interactions.",
+        "Wrong: Electrostatic ionic interactions (salt bridges) are important, but not exclusively.",
+        "Wrong: Hydrophobic interactions drive folding, but all other listed forces stabilize the final structure.",
+        "Correct: The three-dimensional tertiary folding of a polypeptide is stabilized by a combination of hydrogen bonds, disulfide bonds, electrostatic interactions, and hydrophobic forces between side chains."
+      ],
+      "explanation": "Tertiary protein structure refers to the overall 3D conformation of a single polypeptide chain, stabilized by interactions between amino acid R-side chains, encompassing both non-covalent forces and covalent disulfide links."
+    },
+    {
+      "id": "L1_MCQ_019",
+      "type": "mcq",
+      "text": "The zwitter ion is:",
+      "options": [
+        "The dipolar ion",
+        "Positively charged ions",
+        "Negatively charged ions",
+        "None charged ions"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: A zwitterion (or dipolar ion) contains distinct positively and negatively charged chemical groups, yielding a net charge of zero.",
+        "Wrong: Purely positively charged ions are called cations.",
+        "Wrong: Purely negatively charged ions are called anions.",
+        "Wrong: Zwitterions do contain localized charges, unlike completely non-charged neutral molecular species."
+      ],
+      "explanation": "Amino acids in aqueous solution at physiological pH exist as zwitterions, featuring a protonated amino group (-NH3+) and a deprotonated carboxyl group (-COO-)."
+    },
+    {
+      "id": "L1_MCQ_020",
+      "type": "mcq",
+      "text": "All the following amino acids enter in the structure of proteins EXCEPT:",
+      "options": [
+        "Glycine",
+        "Homoserine",
+        "Phenylalanine",
+        "Alanine"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Glycine is a standard proteinogenic amino acid encoded by codons.",
+        "Correct: Homoserine is a non-proteinogenic amino acid that functions as an intermediate in methionine/threonine metabolism, lacking a cognate tRNA.",
+        "Wrong: Phenylalanine is a standard proteinogenic aromatic amino acid.",
+        "Wrong: Alanine is a standard proteinogenic aliphatic amino acid used heavily in protein synthesis."
+      ],
+      "explanation": "Homoserine is a metabolic pathway intermediate rather than a proteinogenic amino acid, meaning it is not incorporated into proteins during ribosomal translation."
+    },
+    {
+      "id": "L1_MCQ_021",
+      "type": "mcq",
+      "text": "Glycine is characterized by:",
+      "options": [
+        "Shows no optical activity",
+        "Contains no asymmetric carbon atoms",
+        "The smallest amino acid",
+        "None polar amino acid",
+        "All of the above"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: It is optically inactive, but this represents only one of its correct features.",
+        "Wrong: It lacks a chiral asymmetric carbon, but the other choices are also correct.",
+        "Wrong: It is the smallest possible amino acid (R group is H), but this is not the only true statement.",
+        "Wrong: It behaves as a non-polar aliphatic amino acid structurally, but other features apply.",
+        "Correct: Every statement perfectly defines glycine's unique structural and stereochemical properties."
+      ],
+      "explanation": "Glycine has a single hydrogen atom as its side chain (R = H). This makes its alpha-carbon symmetric, rendering it the smallest, non-polar, and optically inactive proteinogenic amino acid."
+    },
+    {
+      "id": "L1_MCQ_022",
+      "type": "mcq",
+      "text": "Ornithin is:",
+      "options": [
+        "Basic amino acid",
+        "Essential amino acid",
+        "Present in protein structure",
+        "All of these"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Ornithine contains an extra amino group in its aliphatic side chain, classifying it chemically as a basic amino acid.",
+        "Wrong: Ornithine is synthesized inside human cells during the urea cycle, making it non-essential.",
+        "Wrong: Ornithine is a non-proteinogenic intermediate that is not post-translationally or ribosomally incorporated into protein polymers.",
+        "Wrong: Since it is not essential and absent from protein structure, 'All of these' is incorrect."
+      ],
+      "explanation": "Ornithine plays a critical catalytic role within the hepatic urea cycle, operating as a basic amino acid intermediate generated from arginine via the arginase enzyme."
+    },
+    {
+      "id": "L1_MCQ_023",
+      "type": "mcq",
+      "text": "The only amino acid that is ketogenic but NOT glycogenic is:",
+      "options": [
+        "Isoleucine",
+        "Tyrosine",
+        "Leucine",
+        "Phenyl alanine",
+        "Lysine"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Isoleucine is both glucogenic and ketogenic.",
+        "Wrong: Tyrosine is an aromatic amino acid that is both glucogenic and ketogenic.",
+        "Correct: Leucine (along with lysine) is strictly ketogenic, but given the specific phrasing and options, leucine is classic.",
+        "Wrong: Phenylalanine is amphibolic, breaking down into both glucogenic and ketogenic fragments.",
+        "Wrong: Lysine is also strictly ketogenic, but Leucine is typically classified as the classic model amino acid for pure ketogenesis."
+      ],
+      "explanation": "Leucine and Lysine are the only two purely ketogenic amino acids. Their catabolic pathways form acetyl-CoA and acetoacetate, making them incapable of serving as substrates for net glucose synthesis via gluconeogenesis."
+    },
+    {
+      "id": "L1_MCQ_024",
+      "type": "mcq",
+      "text": "A sulfur containing amino acid that is NOT found in proteins is:",
+      "options": [
+        "Homoserine",
+        "Homocysteine",
+        "Methionine",
+        "Cysteine",
+        "Threonine"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Homoserine is a non-protein amino acid, but it contains a hydroxyl group, not sulfur.",
+        "Correct: Homocysteine contains a sulfhydryl (-SH) group but is a metabolic intermediate not incorporated into structural proteins.",
+        "Wrong: Methionine is a sulfur-containing amino acid regularly incorporated into proteins.",
+        "Wrong: Cysteine is a structural sulfur-containing proteinogenic amino acid.",
+        "Wrong: Threonine contains a hydroxyl functional group, not a sulfur atom."
+      ],
+      "explanation": "Homocysteine is a sulfur-bearing homologue of cysteine. It functions within the methionine metabolic cycle but lacks a genetic codon or tRNA for entry into structural proteins."
+    },
+    {
+      "id": "L1_MCQ_025",
+      "type": "mcq",
+      "text": "Methionine and threonine are:",
+      "options": [
+        "Phenol containing amino acids.",
+        "Basic amino acids",
+        "Acidic amino acids",
+        "Non-essential amino acids.",
+        "Essential amino acids"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Tyrosine is the primary phenol-containing amino acid.",
+        "Wrong: Basic amino acids comprise lysine, arginine, and histidine.",
+        "Wrong: Acidic amino acids are glutamate and aspartate.",
+        "Wrong: Both must be acquired from dietary sources, meaning they are essential.",
+        "Correct: Methionine and threonine are both classified as nutritionally essential amino acids for human metabolic needs."
+      ],
+      "explanation": "Humans lack the complex enzymatic multi-step machinery needed to synthesize the hydrocarbon carbon skeletons of methionine and threonine, requiring dietary intake."
+    },
+    {
+      "id": "L1_MCQ_026",
+      "type": "mcq",
+      "text": "All of the following about protein denaturation is true EXCEPT:",
+      "options": [
+        "It is loss of primary, secondary, tertiary and quaternary structures.",
+        "It causes loss of biological activity of proteins.",
+        "Denatured proteins are easily precipitated.",
+        "Strong acids can cause protein Denaturation"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Denaturation does not affect the primary structure, as covalent peptide bonds remain completely unbroken.",
+        "Wrong: This statement is true; unfolding disrupts active conformations and eliminates biological function.",
+        "Wrong: This statement is true; exposure of hydrophobic interiors causes aggregation and precipitation.",
+        "Wrong: This statement is true; strong acids disturb ionic states and hydrogen bonds, driving denaturation."
+      ],
+      "explanation": "Protein denaturation involves the structural unfolding of higher-order confirmations (secondary, tertiary, quaternary) while leaving the primary amino acid sequence intact."
+    },
+    {
+      "id": "L1_MCQ_027",
+      "type": "mcq",
+      "text": "Cysteine, cystine and methionine are:",
+      "options": [
+        "Essential amino acids",
+        "Non-protein amino acids",
+        "Acidic amino acids",
+        "Sulfur containing amino acids"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Cysteine and cystine are non-essential, as they can be synthesized from methionine.",
+        "Wrong: Cysteine and methionine are standard proteinogenic blocks.",
+        "Wrong: Acidic amino acids possess extra carboxyl groups, unlike these sulfur-bearing variants.",
+        "Correct: Cysteine, cystine (di-cysteine), and methionine all contain sulfur atoms within their chemical structures."
+      ],
+      "explanation": "These amino acids share the common structural characteristic of containing sulfur: methionine features a thioether link, while cysteine and cystine contain sulfhydryl and disulfide functional groups."
+    },
+    {
+      "id": "L1_MCQ_028",
+      "type": "mcq",
+      "text": "elastin is:",
+      "options": [
+        "Scleroprotein",
+        "Chromoprotein",
+        "Metaloprotein",
+        "Phosphoprotein",
+        "Glycoprotein"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Elastin is a scleroprotein (fibrous structural protein) found in connective tissues, characterized by its elasticity and insolubility.",
+        "Wrong: Chromoproteins are conjugated proteins bound to pigmented groups like heme.",
+        "Wrong: Metalloproteins contain bound functional metal ions.",
+        "Wrong: Phosphoproteins are conjugated with phosphoric acid residues.",
+        "Wrong: Glycoproteins contain covalently linked oligosaccharide carbohydrate chains."
+      ],
+      "explanation": "Scleroproteins, or fibrous proteins, include insoluble structural tissue components like collagen, keratin, and elastin, which provide mechanical support."
+    },
+    {
+      "id": "L1_MCQ_029",
+      "type": "mcq",
+      "text": "Collagen is:",
+      "options": [
+        "Insoluble in most protein solvents",
+        "By boiling it gives gelatin",
+        "Rich in glycine",
+        "Very firm structure",
+        "All of the above"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: It is insoluble, but this represents only one of several accurate properties listed.",
+        "Wrong: Thermal denaturing via boiling transforms it into gelatin, but other options are also correct.",
+        "Wrong: It is rich in glycine, but the other choices are also true.",
+        "Wrong: It forms a firm triple-helical structure, but this is not the only true statement.",
+        "Correct: Every single option lists an established physical, chemical, or structural trait of collagen molecules."
+      ],
+      "explanation": "Collagen is an insoluble fibrous protein with high tensile strength, characterized by a high glycine content. Thermal denaturation via boiling unfolds its structure into soluble gelatin."
+    },
+    {
+      "id": "L1_MCQ_030",
+      "type": "mcq",
+      "text": "Arginine and lysine are present in excess in:",
+      "options": [
+        "Histones",
+        "Albumin",
+        "Gliadins",
+        "Globulin",
+        "All of the above",
+        "None of the above"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Histones are basic proteins that contain large amounts of positive arginine and lysine residues to bind negatively charged DNA.",
+        "Wrong: Albumin is a neutral/slightly acidic plasma protein.",
+        "Wrong: Gliadins are plant proline-and-glutamine-rich prolamins.",
+        "Wrong: Globulins do not contain excess basic amino acids.",
+        "Wrong: Only histones feature an excess of basic amino acids.",
+        "Wrong: One specific valid option is present."
+      ],
+      "explanation": "Histones require a net positive charge at physiological pH to interact electrostatically with the negatively charged phosphate backbone of DNA, achieved via high arginine and lysine content."
+    },
+    {
+      "id": "L1_MCQ_031",
+      "type": "mcq",
+      "text": "Aspartic acid and glutamic acid are:",
+      "options": [
+        "Essential amino acids",
+        "Acidic amino acids",
+        "Rich in basic proteins",
+        "Rich in collagen"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Both are non-essential amino acids synthesized from tricarboxylic acid cycle intermediates.",
+        "Correct: Aspartic acid and glutamic acid contain a second carboxyl group (-COOH) in their side chains, classifying them as acidic amino acids.",
+        "Wrong: Basic proteins are rich in positive residues like lysine and arginine.",
+        "Wrong: Collagen is characterized by high levels of glycine, proline, and hydroxyproline."
+      ],
+      "explanation": "Aspartate and glutamate possess carboxylated side chains that carry a net negative charge at physiological pH, classifying them as acidic amino acids."
+    },
+    {
+      "id": "L1_MCQ_032",
+      "type": "mcq",
+      "text": "An amino acid containing guanidine group is:",
+      "options": [
+        "Leucine",
+        "Arginine",
+        "Citrullin",
+        "Isoleucine",
+        "Lysine"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Leucine has a branched hydrocarbon aliphatic chain.",
+        "Correct: Arginine's basic side chain terminates in a planar guanidino group, which stays protonated across physiological conditions.",
+        "Wrong: Citrulline features a ureido group, not a guanidino group.",
+        "Wrong: Isoleucine contains a branched aliphatic secondary butyl side chain.",
+        "Wrong: Lysine possesses an epsilon-amino group on its aliphatic side chain."
+      ],
+      "explanation": "Arginine contains a guanidino functional group (-NH-C(NH)=NH2+) that gives it a high pKa value (~12.5), making it strongly basic."
+    },
+    {
+      "id": "L1_MCQ_033",
+      "type": "mcq",
+      "text": "Ceruloplasmin is:",
+      "options": [
+        "Chromoprotein",
+        "Metaloprotein",
+        "Phosphoprotein",
+        "Glycoprotein"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Chromoproteins emphasize light absorption via pigment linkages.",
+        "Correct: Ceruloplasmin is a classic metalloprotein, serving as the major copper-carrying protein in blood plasma.",
+        "Wrong: It does not utilize structural phosphate ester modifications.",
+        "Wrong: While it is glycosylated, its primary biochemical classification is based on its functional copper-metalloprotein status."
+      ],
+      "explanation": "Ceruloplasmin binds six copper atoms per molecule, carrying over 95% of total serum copper while functioning as an enzyme with ferroxidase activity."
+    },
+    {
+      "id": "L1_MCQ_034",
+      "type": "mcq",
+      "text": "Which of the following is a globular protein:",
+      "options": [
+        "Albumin",
+        "globulin",
+        "collagen",
+        "Myoglobin"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Albumin is globular, but Myoglobin is the designated answer from original keys.",
+        "Wrong: Globulins are globular, but Myoglobin is a distinct globular protein choice.",
+        "Wrong: Collagen is a classic structural fibrous protein.",
+        "Correct: Myoglobin is a classic model for monomeric, water-soluble globular proteins with a compact spherical architecture."
+      ],
+      "explanation": "Myoglobin is a compact, globular hemoprotein found in muscle tissue, serving as a classic model for studying protein folding and three-dimensional structural architecture."
+    },
+    {
+      "id": "L1_MCQ_035",
+      "type": "mcq",
+      "text": "A heterocyclic amino acid is:",
+      "options": [
+        "Tryptophan",
+        "Phenyl alanine",
+        "Tyrosine",
+        "Lysine",
+        "Isoleucine"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Tryptophan contains an indole ring system, which is a heterocyclic structure containing nitrogen.",
+        "Wrong: Phenylalanine contains a homocyclic benzene ring system.",
+        "Wrong: Tyrosine contains a homocyclic phenolic ring system.",
+        "Wrong: Lysine has a flexible acyclic, aliphatic straight-chain structure.",
+        "Wrong: Isoleucine is a branched-chain acyclic aliphatic amino acid."
+      ],
+      "explanation": "Heterocyclic amino acids feature a cyclic ring containing atoms from at least two different elements. Tryptophan's indole ring consists of a benzene ring fused to a nitrogen-containing pyrrole ring."
+    },
+    {
+      "id": "L1_MCQ_036",
+      "type": "mcq",
+      "text": "The amphoteric property of amino acids is due to the presence of:",
+      "options": [
+        "Amino group",
+        "Carboxyl group",
+        "Amino and carboxyl groups",
+        "Indole group",
+        "Phenyl group"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: The amino group acts as a base but cannot provide dual amphoteric properties alone.",
+        "Wrong: The carboxyl group acts as an acid but cannot provide dual amphoteric properties alone.",
+        "Correct: Amphoterism means acting as both an acid and a base, enabled by the basic amino group (-NH2) and acidic carboxyl group (-COOH).",
+        "Wrong: The indole ring is a neutral heterocyclic structure, not an amphoteric buffer.",
+        "Wrong: The phenyl ring is a hydrophobic aromatic group with no acid-base buffering properties."
+      ],
+      "explanation": "Amino acids are amphoteric because they possess both basic amino groups (proton acceptors) and acidic carboxyl groups (proton donors), allowing them to act as zwitterionic buffers."
+    },
+    {
+      "id": "L1_MCQ_037",
+      "type": "mcq",
+      "text": "Leucine is:",
+      "options": [
+        "Basic amino acid",
+        "Pure Ketogenic amino acid",
+        "Non essential amino acid",
+        "Heterocyclic amino acid",
+        "None branced amino acid"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Leucine has a neutral, hydrophobic branched aliphatic side chain.",
+        "Correct: Leucine catabolism yields only acetyl-CoA and acetoacetate, making it a strictly ketogenic amino acid.",
+        "Wrong: Leucine is an essential branched-chain amino acid that humans must obtain from diet.",
+        "Wrong: Leucine is an acyclic branched aliphatic molecule, lacking rings.",
+        "Wrong: Leucine is a branched-chain amino acid alongside valine and isoleucine."
+      ],
+      "explanation": "Leucine is one of the two strictly ketogenic proteinogenic amino acids. Its breakdown products cannot feed net gluconeogenesis pathways."
+    },
+    {
+      "id": "L1_MCQ_038",
+      "type": "mcq",
+      "text": "Which one of the following statements about the major collagen type from skin or bone is INCORRECT:",
+      "options": [
+        "One third of the amino acids of collagen is glycine.",
+        "Ascorbic acid is required for the synthesis of collagen.",
+        "The collagen molecule contains nonhelical chains.",
+        "Collagen molecule is trimmer composed of three monomers, each containing approximately 1050 amino acids.",
+        "By boiling, collagen molecule gives gelatin."
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: This statement is correct; glycine comprises one third of collagen's primary sequence.",
+        "Wrong: This statement is correct; vitamin C is an essential cofactor for prolyl and lysyl hydroxylases.",
+        "Correct: The core collagen molecule is composed of tightly wrapped helical alpha-chains, making the claim that it contains 'nonhelical chains' structurally false.",
+        "Wrong: This statement is correct; collagen is a triple-helical trimer of long polypeptide monomers.",
+        "Wrong: This statement is correct; boiling denatures the triple helix into soluble gelatin strands."
+      ],
+      "explanation": "Collagen is composed of three left-handed alpha-chains wrapped into a right-handed triple helix. It does not contain structural nonhelical chains in its mature core."
+    },
+    {
+      "id": "L1_MCQ_039",
+      "type": "mcq",
+      "text": "Albumin, globulin, histones and scleroproteins belong to the class of:",
+      "options": [
+        "Simple proteins",
+        "Conjugated proteins",
+        "Derived proteins",
+        "Basic proteins",
+        "Acidic proteins"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Simple proteins yield exclusively free amino acids upon complete chemical hydrolysis, without producing non-protein prosthetic groups.",
+        "Wrong: Conjugated proteins contain a non-amino acid prosthetic group, such as lipids or carbohydrates.",
+        "Wrong: Derived proteins are degradation products or denatured forms of natural proteins.",
+        "Wrong: While histones are basic, albumin is slightly acidic; they do not all share basic properties.",
+        "Wrong: Scleroproteins and histones do not belong to the acidic protein class."
+      ],
+      "explanation": "Proteins are classified as simple when their composition consists solely of amino acids. Examples include albumins, globulins, histones, and structural scleroproteins."
+    },
+    {
+      "id": "L1_MCQ_040",
+      "type": "mcq",
+      "text": "All of the following are sulfur containing amino acids EXCEPT:",
+      "options": [
+        "Cysteine",
+        "Homocysteine",
+        "Cystine",
+        "Methionine",
+        "Threonine"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Cysteine is a standard sulfur-containing amino acid with a thiol group.",
+        "Wrong: Homocysteine is a sulfur-containing pathway intermediate.",
+        "Wrong: Cystine is a sulfur-containing disulfide-bonded dimer of two cysteines.",
+        "Wrong: Methionine is an essential sulfur-containing amino acid containing a thioether group.",
+        "Correct: Threonine is a hydroxylated aliphatic amino acid (-OH) that contains no sulfur."
+      ],
+      "explanation": "Threonine contains a secondary hydroxyl group (-OH) on its side chain, whereas cysteine, homocysteine, cystine, and methionine all contain sulfur atoms."
+    },
+    {
+      "id": "L1_MCQ_041",
+      "type": "mcq",
+      "text": "Methionine is:",
+      "options": [
+        "Acidic amino acid",
+        "Basic amino acid",
+        "Sulfur containing amino acid",
+        "Hydroxyl containing amino acid",
+        "Aromatic amino acid"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Acidic amino acids contain extra carboxyl groups, which methionine lacks.",
+        "Wrong: Basic amino acids contain nitrogenous basic side chains, unlike methionine.",
+        "Correct: Methionine features a non-polar thioether group (-S-CH3) within its aliphatic side chain, classifying it as a sulfur-containing amino acid.",
+        "Wrong: Hydroxyl amino acids contain -OH groups, such as serine and threonine.",
+        "Wrong: Aromatic amino acids contain ring systems, like phenylalanine or tyrosine."
+      ],
+      "explanation": "Methionine is an essential aliphatic amino acid characterized by a hydrophobic sulfur-containing thioether side chain."
+    },
+    {
+      "id": "L1_MCQ_042",
+      "type": "mcq",
+      "text": "Lysine is:",
+      "options": [
+        "Neutral amino acid",
+        "Acidic amino acid",
+        "Basic amino acid",
+        "Heterocyclic amino acid",
+        "Aromatic amino acid"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Neutral amino acids carry no net charge on their side chain at physiological pH.",
+        "Wrong: Acidic amino acids carry a negative charge from side-chain carboxyl groups.",
+        "Correct: Lysine contains an epsilon-amino group on its aliphatic side chain, which carries a positive charge at physiological pH, making it a basic amino acid.",
+        "Wrong: Heterocyclic amino acids contain ring heteroatoms, unlike the straight chain of lysine.",
+        "Wrong: Aromatic amino acids possess ring systems, which lysine lacks."
+      ],
+      "explanation": "Lysine is a basic amino acid with a positively charged side-chain amino group (-NH3+) at physiological pH."
+    },
+    {
+      "id": "L1_MCQ_043",
+      "type": "mcq",
+      "text": "Collagen is rich in:",
+      "options": [
+        "Glycine, proline and hydroxyproline",
+        "Glutamate proline and hydroxyproline",
+        "Glycine, cycteine and cyctine",
+        "Valine, leucine and isoleucine"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Collagen is characterized by a repeating Gly-X-Y motif, where X is typically proline and Y is hydroxyproline.",
+        "Wrong: Collagen does not contain high amounts of acidic glutamate.",
+        "Wrong: Collagen is notably poor in sulfur-containing cysteine and cystine residues.",
+        "Wrong: Hydrophobic branched-chain amino acids are not major structural features of collagen."
+      ],
+      "explanation": "Glycine makes up one-third of collagen's sequence, while proline and hydroxyproline provide the structural rigidity required to stabilize its triple helix."
+    },
+    {
+      "id": "L1_MCQ_044",
+      "type": "mcq",
+      "text": "A vasodilator substance is produce by a decarboxylation of:",
+      "options": [
+        "Methionine",
+        "Histidine",
+        "Glutamate",
+        "Threonine",
+        "Phenylalanine"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Methionine decarboxylation participates in polyamine synthesis pathways, not direct vasodilation.",
+        "Correct: Enzymatic decarboxylation of the amino acid histidine removes its carboxyl group to generate histamine, a powerful vasodilator.",
+        "Wrong: Decarboxylation of glutamate yields GABA, an inhibitory central nervous system neurotransmitter.",
+        "Wrong: Threonine catabolism does not yield a vasoactive amine.",
+        "Wrong: Phenylalanine pathways yield catecholamines, which typically act as vasoconstrictors rather than primary vasodilators."
+      ],
+      "explanation": "Histidine undergoes decarboxylation catalyzed by histidine decarboxylase to produce histamine, a biogenic amine that triggers vasodilation and vascular permeability."
+    },
+    {
+      "id": "L1_MCQ_045",
+      "type": "mcq",
+      "text": "Decarboxylation of tryptophan produces:",
+      "options": [
+        "Serotonin",
+        "Tyramine",
+        "Tryptamine",
+        "Tyrosine"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Serotonin synthesis requires both hydroxylation and decarboxylation steps, not simple direct decarboxylation.",
+        "Wrong: Tyramine is produced by the decarboxylation of tyrosine.",
+        "Correct: Direct decarboxylation of free tryptophan removes its carboxyl group, producing the biogenic amine tryptamine.",
+        "Wrong: Tyrosine is formed by the hydroxylation of phenylalanine, not the decarboxylation of tryptophan."
+      ],
+      "explanation": "Direct decarboxylation of free tryptophan by aromatic L-amino acid decarboxylase produces tryptamine, a monoamine alkaloid."
+    },
+    {
+      "id": "L1_MCQ_046",
+      "type": "mcq",
+      "text": "All of the following are hydroxy (OH) containing amino acids EXCEPT:",
+      "options": [
+        "Serine",
+        "homoserine",
+        "Threonine",
+        "Glycine"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Serine contains a primary hydroxyl group (-CH2OH).",
+        "Wrong: Homoserine is a non-proteinogenic amino acid containing a terminal hydroxyl group.",
+        "Wrong: Threonine contains a secondary hydroxyl group.",
+        "Correct: Glycine's side chain is a single hydrogen atom (-H), meaning it contains no hydroxyl group."
+      ],
+      "explanation": "Serine, threonine, and homoserine are aliphatic hydroxy amino acids. Glycine is the simplest amino acid and contains only a hydrogen atom as its side chain."
+    },
+    {
+      "id": "L1_MCQ_047",
+      "type": "mcq",
+      "text": "Which of the following amino acid groups contains ONLY nonessential amino acids:",
+      "options": [
+        "Sulfur containing amino acids",
+        "Basic amino acids",
+        "Aromatic amino acids",
+        "Acidic amino acids"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: This group includes methionine, which is an essential amino acid.",
+        "Wrong: This group includes lysine and histidine, which are essential amino acids.",
+        "Wrong: This group includes phenylalanine and tryptophan, which are essential amino acids.",
+        "Correct: The acidic amino acids, aspartate and glutamate, can both be synthesized in the human body from citric acid cycle intermediates."
+      ],
+      "explanation": "Aspartate and glutamate are synthesized via transamination of oxaloacetate and alpha-ketoglutarate, making the acidic amino acid group entirely nonessential."
+    },
+    {
+      "id": "L1_MCQ_048",
+      "type": "mcq",
+      "text": "An amino acids present in natural proteins is:",
+      "options": [
+        "Ornithin",
+        "beta- Alanine",
+        "Citrulline",
+        "Homoserine",
+        "Valine"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Ornithine is a urea cycle intermediate and is not incorporated into proteins.",
+        "Wrong: beta-Alanine is found in pantothenic acid but is not a proteinogenic amino acid.",
+        "Wrong: Citrulline is a metabolic intermediate and is not used in ribosomal protein synthesis.",
+        "Wrong: Homoserine is an intermediate in amino acid metabolism and is absent from proteins.",
+        "Correct: Valine is a standard proteinogenic amino acid encoded by the universal genetic code for protein assembly."
+      ],
+      "explanation": "Valine is one of the 20 standard amino acids used by ribosomes to build proteins, whereas the other options serve exclusively as metabolic intermediates."
+    },
+    {
+      "id": "L1_MCQ_049",
+      "type": "mcq",
+      "text": "A phosphprotein is:",
+      "options": [
+        "Casein",
+        "Albumin",
+        "Globulin",
+        "Histones"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Casein, the primary protein in milk, is a classic phosphoprotein with phosphate groups esterified to serine residues.",
+        "Wrong: Albumin is a simple plasma protein, not a conjugated phosphoprotein.",
+        "Wrong: Globulins are simple spherical plasma proteins without structural phosphorylation.",
+        "Wrong: Histones are basic structural DNA-binding proteins, not classified as phosphoproteins."
+      ],
+      "explanation": "Phosphoproteins are conjugated proteins where phosphoric acid is chemically bonded to hydroxy amino acids like serine or threonine. Casein is a classic example."
+    },
+    {
+      "id": "L1_MCQ_050",
+      "type": "mcq",
+      "text": "A basic protein associated with nucleic acids is:",
+      "options": [
+        "Actin",
+        "Myosine",
+        "Histone",
+        "Collagen"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Actin is a structural microfilament cytoskeletal protein, not a basic nuclear protein.",
+        "Wrong: Myosin is a motor protein involved in muscle contraction.",
+        "Correct: Histones are basic proteins rich in arginine and lysine that bind to the negatively charged phosphate backbone of DNA.",
+        "Wrong: Collagen is an extracellular structural fibrous protein."
+      ],
+      "explanation": "Histones are basic proteins found in eukaryotic cell nuclei that package and order DNA into structural units called nucleosomes."
+    },
+    {
+      "id": "L1_MCQ_051",
+      "type": "mcq",
+      "text": "A protein that contains 33% glycine amino acid is:",
+      "options": [
+        "Albumin",
+        "Globulin",
+        "Elastin",
+        "Casein",
+        "Histone"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Albumin contains a typical globular distribution of amino acids with low glycine content.",
+        "Wrong: Globulins do not have a repetitive glycine backbone architecture.",
+        "Correct: Elastin contains approximately 33% glycine residues throughout its structure, though it lacks collagen's repeating triple helix.",
+        "Wrong: Casein is an amorphous phosphoprotein with lower glycine levels.",
+        "Wrong: Histones are characterized by high levels of lysine and arginine rather than glycine."
+      ],
+      "explanation": "Like collagen, elastin is structurally composed of about one-third glycine residues, which allow for the formation of its characteristic cross-linked random-coil structure."
+    },
+    {
+      "id": "L1_MCQ_052",
+      "type": "mcq",
+      "text": "An imino group is present in structure of:",
+      "options": [
+        "Proline",
+        "Alanine",
+        "Serine",
+        "Aspartic acid"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Proline contains a secondary amino group integrated into a five-membered pyrrolidine ring, classifying it as an imino acid.",
+        "Wrong: Alanine contains a standard primary alpha-amino group.",
+        "Wrong: Serine possesses a primary alpha-amino group alongside its hydroxyl side chain.",
+        "Wrong: Aspartic acid contains a standard primary alpha-amino group and two carboxyl groups."
+      ],
+      "explanation": "Proline is technically an imino acid because its side chain cyclizes back onto its own alpha-amino nitrogen atom, forming a secondary amine structure."
+    },
+    {
+      "id": "L1_MCQ_053",
+      "type": "mcq",
+      "text": "Elastin is cross-linked through its:",
+      "options": [
+        "Glutamate side chains",
+        "Glutamine side chains",
+        "Lysine side chains",
+        "Methionine side chains"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Glutamate side chains form ionic links, not the covalent desmosine units of elastin.",
+        "Wrong: Glutamine side chains are not involved in elastin's specialized cross-linking.",
+        "Correct: Lysyl oxidase modifies lysine side chains to form allysine condensations, creating the desmosine cross-links unique to elastin.",
+        "Wrong: Methionine does not participate in extracellular structural cross-linking."
+      ],
+      "explanation": "Desmosine cross-links are formed by the condensation of three allysine pathways and one unmodified lysine residue, all derived from lysine side chains."
+    },
+    {
+      "id": "L1_MCQ_054",
+      "type": "mcq",
+      "text": "Amino acids considered non essential for human are:",
+      "options": [
+        "Those incorporated into protein.",
+        "Those synthesized in the body.",
+        "Those cannot decarboxylated",
+        "Those cannot be transaminated."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Both essential and nonessential amino acids are incorporated into proteins.",
+        "Correct: Nonessential amino acids are defined as those that the human body can synthesize endogenously, making dietary intake optional.",
+        "Wrong: Decarboxylation status does not dictate nutritional essentiality.",
+        "Wrong: Transamination capability does not differentiate nutritional essentiality categories."
+      ],
+      "explanation": "Nutritionally nonessential amino acids can be synthesized within the body via metabolic pathways using carbon skeletons from intermediates and amino groups from other sources."
+    },
+    {
+      "id": "L1_MCQ_055",
+      "type": "mcq",
+      "text": "Sulfur containing amino acid is:",
+      "options": [
+        "Keratan sulfate.",
+        "Chondroitin sulfate.",
+        "Cysteine.",
+        "Homoserine.",
+        "Glutathione."
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Keratan sulfate is a sulfated glycosaminoglycan carbohydrate polymer, not an amino acid.",
+        "Wrong: Chondroitin sulfate is a complex sulfated glycosaminoglycan carbohydrate, not an amino acid.",
+        "Correct: Cysteine is a standard proteinogenic amino acid containing a reactive sulfur atom in its sulfhydryl (-SH) group.",
+        "Wrong: Homoserine is a hydroxylated metabolic intermediate containing no sulfur.",
+        "Wrong: Glutathione contains sulfur, but it is a tripeptide rather than a single amino acid."
+      ],
+      "explanation": "Cysteine is a sulfur-containing amino acid with a thiol group that can form stabilizing disulfide bonds within protein structures."
+    },
+    {
+      "id": "L1_MCQ_056",
+      "type": "mcq",
+      "text": "Gelatin is:",
+      "options": [
+        "Denatured collagen.",
+        "Boiled globulin.",
+        "Similar to Elastin.",
+        "Conjugated protein.",
+        "Precursor of scleroproteins."
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Gelatin is produced by the thermal denaturation and partial hydrolysis of structural collagen fibers.",
+        "Wrong: Boiled globulins form insoluble coagulants, not gelatinous mixtures.",
+        "Wrong: Elastin does not convert into gelatin upon boiling due to its unique cross-links.",
+        "Wrong: Gelatin is a degraded simple protein, not a conjugated protein bound to a prosthetic group.",
+        "Wrong: Gelatin is a degradation product of a scleroprotein, not a biosynthetic precursor."
+      ],
+      "explanation": "Boiling collagen breaks down its triple-helical structure, melting the inter-chain hydrogen bonds to yield water-soluble gelatin strands."
+    },
+    {
+      "id": "L1_MCQ_057",
+      "type": "mcq",
+      "text": "Desmosine cross-links are present in the structure of:",
+      "options": [
+        "Collagen",
+        "Elastin",
+        "Casein",
+        "Keratin"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Collagen utilizes aldol condensations and histidino-hydroxylysinonorleucine links, not desmosine.",
+        "Correct: Desmosine and isodesmosine cross-links are unique to elastin, providing its characteristic rubber-like elastic properties.",
+        "Wrong: Casein is an amorphous phosphoprotein that lacks covalent structural cross-links.",
+        "Wrong: Keratin is stabilized by covalent disulfide bonds between cysteine residues, not desmosine."
+      ],
+      "explanation": "Desmosine cross-links are formed by the condensation of four lysine residues, connecting individual elastin chains into a flexible, elastic network."
+    },
+    {
+      "id": "L1_MCQ_058",
+      "type": "mcq",
+      "text": "Glutathione is tripeptide formed of:",
+      "options": [
+        "Methionine alanine valine.",
+        "Glutamate phenylalanine aspartate.",
+        "Homocysteine arginine threonine.",
+        "Cystine leucine Aspartate.",
+        "Glutamate cystein Glycine."
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: This combination does not form glutathione.",
+        "Wrong: Glutathione contains cysteine and glycine, which are missing from this choice.",
+        "Wrong: This sequence is incorrect and lacks glutathione's constituent residues.",
+        "Wrong: Glutathione contains cysteine, not its oxidized dimer cystine.",
+        "Correct: Glutathione is a tripeptide composed of glutamate, cysteine, and glycine (gamma-glutamyl-cysteinyl-glycine)."
+      ],
+      "explanation": "Glutathione (GSH) features a unique peptide bond between the gamma-carboxyl group of glutamate and the amino group of cysteine, serving as a cellular antioxidant."
+    },
+    {
+      "id": "L1_MCQ_059",
+      "type": "mcq",
+      "text": "The terms 'primary', 'secondary' and 'tertiary' structure in protein chemistry refer to:",
+      "options": [
+        "'alpha-Helix', 'beta-helix' and 'gamma-helix' respectively.",
+        "'Amino acids sequence', 'hydrophobic, electrostatic, disulfide, hydrogen bonds' and 'alpha-helix' respectively.",
+        "'Electrostatic interactions', 'hydrogen bonds' and 'disulfide bonds' respectively.",
+        "'Amino acids sequence', 'alpha-helix', and 'hydrophobic, electrostatic, disulfide, hydrogen bonds' respectively."
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: These terms describe specific secondary conformations, not the full structural hierarchy.",
+        "Wrong: This option mixes up the definitions of secondary and tertiary structural forces.",
+        "Wrong: These are specific chemical interactions, not the hierarchical structural levels.",
+        "Correct: Primary structure is the amino acid sequence; secondary structure includes conformations like the alpha-helix; tertiary structure is stabilized by various side-chain interactions."
+      ],
+      "explanation": "Protein structure is organized hierarchically: primary is the sequence, secondary describes local backbone folding, and tertiary is the overall 3D conformation stabilized by side-chain interactions."
+    },
+    {
+      "id": "L1_MCQ_060",
+      "type": "mcq",
+      "text": "The following are basic essential amino acids EXCEPT:",
+      "options": [
+        "Histidine",
+        "Lysine",
+        "Arginine",
+        "Leucine"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Histidine is a basic amino acid with an imidazole side chain, essential for humans.",
+        "Wrong: Lysine is a basic essential amino acid with an epsilon-amino group.",
+        "Wrong: Arginine is a basic amino acid with a guanidino group, conditionally essential.",
+        "Correct: Leucine is an essential amino acid, but it is hydrophobic and branched-chain, not basic."
+      ],
+      "explanation": "Lysine, arginine, and histidine are basic amino acids. Leucine is a non-polar, branched-chain amino acid."
+    },
+    {
+      "id": "L1_MCQ_061",
+      "type": "mcq",
+      "text": "Which one of the following statements about the major collagen type from skin or bone is CORRECT:",
+      "options": [
+        "One third of the amino acids of collagen is hydroxyproline.",
+        "Ascorbic acid is required for the synthesis of collagen.",
+        "The collagen molecule contains nonhelical chains.",
+        "Collagen molecule is dimmer composed of two monomers, each containing approximately 1050 amino acids.",
+        "The polypeptide chains of collagen are held together by disulfide bonds."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Glycine makes up one third of the amino acids in collagen, not hydroxyproline.",
+        "Correct: Ascorbic acid (Vitamin C) is an essential cofactor for the prolyl and lysyl hydroxylase enzymes involved in collagen synthesis.",
+        "Wrong: The core collagen molecule consists of structured helical alpha-chains.",
+        "Wrong: Collagen is a trimer composed of three polypeptide chains, not a dimer.",
+        "Wrong: The triple-helical chains of interstitial collagen are held together by hydrogen bonds, lacking internal disulfide links."
+      ],
+      "explanation": "Vitamin C maintains the iron cofactor of prolyl hydroxylase in its reduced Fe2+ state, which is necessary for the hydroxylation steps that stabilize collagen's triple helix."
+    },
+    {
+      "id": "L1_MCQ_062",
+      "type": "mcq",
+      "text": "The bonds present in the primary structure of proteins are:",
+      "options": [
+        "Hydrogen bonds",
+        "Peptide bonds",
+        "Disulfide bonds",
+        "Electrostatic bonds",
+        "All of the above"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Hydrogen bonds stabilize secondary structures, not the primary sequence.",
+        "Correct: The primary structure of a protein is defined by its linear sequence of amino acids linked by covalent peptide bonds.",
+        "Wrong: Disulfide bonds participate in tertiary and quaternary structural stabilization.",
+        "Wrong: Electrostatic bonds stabilize higher-order tertiary folding configurations.",
+        "Wrong: Only peptide bonds define the primary backbone sequence."
+      ],
+      "explanation": "The primary structure consists of the linear sequence of amino acids held together exclusively by covalent amide peptide bonds."
+    },
+    {
+      "id": "L1_MCQ_063",
+      "type": "mcq",
+      "text": "All the following related to collagen is true EXCEPT:",
+      "options": [
+        "A connective tissue protein",
+        "Rich in glycine",
+        "Undergo posttranslation hydroxylation",
+        "Formed of two polypeptide helical chain",
+        "A very compact protein molecule."
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: This statement is true; collagen is the primary protein component of connective tissues.",
+        "Wrong: This statement is true; glycine accounts for roughly one-third of its amino acid content.",
+        "Wrong: This statement is true; proline and lysine residues undergo post-translational hydroxylation.",
+        "Correct: Collagen is a trimer formed of three polypeptide helical chains, making the claim of 'two chains' false.",
+        "Wrong: This statement is true; the glycine residues allow for tight, compact packaging of the triple helix."
+      ],
+      "explanation": "Collagen molecules are tropocollagen trimers composed of three left-handed alpha-chains wrapped around a central axis into a tight right-handed triple helix."
+    },
+    {
+      "id": "L1_MCQ_064",
+      "type": "mcq",
+      "text": "In proteins, the alpha-helix and beta-pleated sheet are example of:",
+      "options": [
+        "Primary structure",
+        "Secondary structure",
+        "Tertiary structure",
+        "Quaternary structure"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Primary structure refers to the linear sequence of amino acids.",
+        "Correct: The alpha-helix and beta-pleated sheet are local folding patterns of the polypeptide backbone, which define secondary structure.",
+        "Wrong: Tertiary structure describes the overall three-dimensional folding of a single polypeptide chain.",
+        "Wrong: Quaternary structure refers to the spatial arrangement of multiple polypeptide subunits."
+      ],
+      "explanation": "Secondary structures are regular, repeating local folding patterns stabilized by hydrogen bonds between the carbonyl oxygen and amide nitrogen atoms of the peptide backbone."
+    },
+    {
+      "id": "L1_MCQ_065",
+      "type": "mcq",
+      "text": "The most abundant structural protein is:",
+      "options": [
+        "Collagen",
+        "Keratin",
+        "Fibronectin",
+        "Elastin"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Collagen is the most abundant protein in the human body, accounting for roughly 25% to 35% of total protein content.",
+        "Wrong: Keratin is abundant in epithelial structures but is less prevalent overall than collagen.",
+        "Wrong: Fibronectin is an extracellular matrix glycoprotein present in lower amounts.",
+        "Wrong: Elastin provides tissue elasticity but is less abundant than collagen."
+      ],
+      "explanation": "Collagen serves as the primary structural element of connective tissues throughout the body, including bone, skin, tendons, and cartilage, making it the most abundant protein in mammals."
+    },
+    {
+      "id": "L1_MCQ_066",
+      "type": "mcq",
+      "text": "Which of the following groups consists entirely of amino acids which are nutritionally essential for human:",
+      "options": [
+        "Valine, isoleucine, tyrosine, arginine",
+        "Leucine, methionine, isoleucine, alanine.",
+        "Glutamate, arginine, cysteine, tryptophan.",
+        "Valine, isoleucine, tyrosine, lysine.",
+        "Lysine, tryptophan, phenylalanine, threonine."
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Tyrosine is nonessential because it can be synthesized from phenylalanine.",
+        "Wrong: Alanine is a nonessential amino acid synthesized via transamination of pyruvate.",
+        "Wrong: Glutamate and cysteine are nonessential amino acids.",
+        "Wrong: This group contains nonessential tyrosine.",
+        "Correct: Lysine, tryptophan, phenylalanine, and threonine are all essential amino acids that cannot be synthesized by human metabolic pathways."
+      ],
+      "explanation": "The nine fully essential amino acids are histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, and valine."
+    },
+    {
+      "id": "L1_MCQ_067",
+      "type": "mcq",
+      "text": "The compound shown beside:",
+      "image": "images/L1_MCQ_067.jpg",
+      "options": [
+        "Is an intermediate in urea cycle",
+        "Is the source of sphingosine.",
+        "Is the amino acid lysine",
+        "Is the source of C4, C5 and N7 of purine base.",
+        "Releases ammonia (NH3) when converted to alpha-ketoglutarate"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Glutamate is not a direct intermediate of the cyclic urea pathway.",
+        "Wrong: Serine and palmitoyl-CoA serve as the biosynthetic sources of sphingosine base formations.",
+        "Wrong: The molecular structure context corresponds to glutamate, not lysine.",
+        "Wrong: Glycine provides C4, C5, and N7 atoms during the purine ring construction.",
+        "Correct: Glutamate undergoes oxidative deamination catalyzed by glutamate dehydrogenase, releasing free ammonia (NH3) and forming alpha-ketoglutarate."
+      ],
+      "explanation": "Based on the provided options, the compound described is glutamate. Glutamate dehydrogenase catalyzes its conversion to alpha-ketoglutarate, releasing free ammonium ions."
+    },
+    {
+      "id": "L3_MSTF_001",
+      "type": "multitf",
+      "text": "For proteins and peptides — indicate True (T) or False (F) for each statement:",
+      "statements": [
+        {
+          "text": "Glutathione is a physiological active peptide with a free SH group",
+          "answer": true
+        },
+        {
+          "text": "Dialysis means separation of protein colloids from crystalloids",
+          "answer": true
+        },
+        {
+          "text": "Denaturation of proteins disturbs primary structure of proteins",
+          "answer": false
+        },
+        {
+          "text": "Glycoproteins are considered simple proteins",
+          "answer": false
+        },
+        {
+          "text": "Disulfide and peptide bonds are weak bonds",
+          "answer": false
+        }
+      ],
+      "explanation": "Glutathione contains a free sulfhydryl (-SH) group on its cysteine residue, acting as an antioxidant. Dialysis uses a semipermeable membrane to separate large protein colloids from small crystalloid ions. Denaturation alters secondary, tertiary, and quaternary folding but leaves covalent peptide bonds (primary structure) intact. Glycoproteins contain a carbohydrate prosthetic group, making them conjugated proteins. Peptide and disulfide links are strong covalent bonds."
+    },
+    {
+      "id": "L3_MSTF_002",
+      "type": "multitf",
+      "text": "For amino acids — indicate True (T) or False (F) for each statement:",
+      "statements": [
+        {
+          "text": "Tyrosine is an aromatic essential amino acid",
+          "answer": false
+        },
+        {
+          "text": "An essential sulfur containing amino acid is methionine",
+          "answer": true
+        },
+        {
+          "text": "Amino acids have high melting points above 200 degrees C",
+          "answer": true
+        },
+        {
+          "text": "Amino acids share in urea cycle are arginine orinithin and citruline",
+          "answer": true
+        },
+        {
+          "text": "Arginine is non-essential amino acid",
+          "answer": false
+        }
+      ],
+      "explanation": "Tyrosine is an aromatic amino acid but is non-essential because the body synthesizes it from phenylalanine. Methionine is a strictly essential sulfur-containing amino acid. Free amino acids form stable ionic zwitterionic crystal lattices, leading to high melting points over 200 degrees C. Arginine, ornithine, and citrulline are the primary amino acid carriers of the urea cycle. Arginine is classified as semi-essential or conditionally essential."
+    },
+    {
+      "id": "L3_MSTF_003",
+      "type": "multitf",
+      "text": "Denaturation of proteins — indicate True (T) or False (F) for each statement:",
+      "statements": [
+        {
+          "text": "means unfolding and loss of primary, secondary, tertiary and quaternary structure",
+          "answer": false
+        },
+        {
+          "text": "Denaturated proteins lose their biological activity",
+          "answer": true
+        },
+        {
+          "text": "Denaturated proteins are easily precipitated",
+          "answer": true
+        },
+        {
+          "text": "Repeated freezing and thawing do not cause denaturation: cause disruption of hydrogen and other weak bonds",
+          "answer": false
+        },
+        {
+          "text": "Heavy metals as lead and mercury salts cause denaturation",
+          "answer": true
+        }
+      ],
+      "explanation": "Denaturation causes the loss of secondary, tertiary, and quaternary structures, but does not affect the primary sequence. Unfolding destroys the native active conformation, resulting in a loss of biological function and exposing internal hydrophobic groups, which leads to precipitation. Freezing and thawing disrupt stabilizing hydrogen bonds, causing denaturation. Heavy metal ions bind functional side chains, disrupting salt bridges and denaturing the protein."
+    },
+    {
+      "id": "L3_MSTF_004",
+      "type": "multitf",
+      "text": "Collagen — indicate True (T) or False (F) for each statement:",
+      "statements": [
+        {
+          "text": "Collagens form about 30% of total body proteins",
+          "answer": true
+        },
+        {
+          "text": "Collagen is deficient in glycine",
+          "answer": false
+        },
+        {
+          "text": "Collagen consist of 3 polypeptide chains called alpha-chains",
+          "answer": true
+        },
+        {
+          "text": "Denaturation of collagen by heating produces gelatin",
+          "answer": true
+        },
+        {
+          "text": "Scurvy is a collagen disease resulting from deficiency in ascorbic acid",
+          "answer": true
+        }
+      ],
+      "explanation": "Collagen is the most abundant protein in mammals, constituting roughly 30% of total body protein mass. It is highly rich in glycine, which occupies every third position (Gly-X-Y). A tropocollagen unit consists of three left-handed alpha-chains wound into a right-handed triple helix. Thermal denaturation breaks down this triple helix configuration to produce soluble gelatin. Ascorbic acid (Vitamin C) is a mandatory cofactor for prolyl and lysyl hydroxylases; its deficiency causes scurvy."
+    },
+    {
+      "id": "L3_MSTF_005",
+      "type": "multitf",
+      "text": "In the figure of polypeptide below (glycine - serine - cystine - glutamate - aspartate - asparagine - methionine - cystine - phenylalanine) — indicate True (T) or False (F) for each statement:",
+      "statements": [
+        {
+          "text": "Glutamate is an aromatic essential amino acid",
+          "answer": false
+        },
+        {
+          "text": "The N-terminus is located in glycine residue",
+          "answer": true
+        },
+        {
+          "text": "Serine is the site of phosphate attachment",
+          "answer": true
+        },
+        {
+          "text": "Hydroxyproline is synthesized post-translationally",
+          "answer": true
+        },
+        {
+          "text": "Phenylalanine contains indole ring",
+          "answer": false
+        }
+      ],
+      "explanation": "Glutamate is an acidic, non-essential amino acid. By biochemical convention, sequences are read from left to right starting at the amino N-terminus (Glycine) and ending at the carboxyl C-terminus (Phenylalanine). Serine features an aliphatic hydroxyl group (-OH) that serves as the target for phosphorylation by kinases. Hydroxyproline is formed via the post-translational modification of incorporated proline residues. Phenylalanine contains a phenyl/benzene ring, while the indole ring system belongs to tryptophan."
+    },
+    {
+      "id": "L3_M_001",
+      "type": "matching",
+      "text": "Match the amino acid types/properties with their correct representative examples:",
+      "options": [
+        "A. Proline",
+        "B. Methionine",
+        "C. Glycine",
+        "D. Phenylalanine",
+        "E. Lysine",
+        "F. Glutamate",
+        "G. Threonine"
+      ],
+      "pairs": [
+        {
+          "term": "93. Sulfur containing amino acid",
+          "definition": "B. Methionine"
+        },
+        {
+          "term": "94. Basic amino acid",
+          "definition": "E. Lysine"
+        },
+        {
+          "term": "95. Acidic amino acid",
+          "definition": "F. Glutamate"
+        },
+        {
+          "term": "96. Imino acid",
+          "definition": "A. Proline"
+        },
+        {
+          "term": "97. Aromatic amino acid",
+          "definition": "D. Phenylalanine"
+        }
+      ],
+      "explanation": "Methionine contains sulfur (thioether). Lysine has a basic side chain amino group. Glutamate has an acidic carboxyl group. Proline contains a secondary amino (imino) ring structure. Phenylalanine contains a stable aromatic ring."
+    },
+    {
+      "id": "L3_M_002",
+      "type": "matching",
+      "text": "Based on the provided structural chemical formula figure, match each amino acid with its corresponding label (A-F):",
+      "image": "images/L3_M_002.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "pairs": [
+        {
+          "term": "98. Aspartic acid",
+          "definition": "F"
+        },
+        {
+          "term": "99. Serine",
+          "definition": "A"
+        },
+        {
+          "term": "100. Methionine",
+          "definition": "D"
+        },
+        {
+          "term": "101. Cysteine",
+          "definition": "C"
+        },
+        {
+          "term": "102. Threonine",
+          "definition": "B"
+        }
+      ],
+      "explanation": "Structural identification matches perfectly with the provided key: Serine (A), Threonine (B), Cysteine (C), Methionine (D), and Aspartic acid (F)."
+    },
+    {
+      "id": "L3_M_003",
+      "type": "matching",
+      "text": "Match the characteristic ring/functional group with the corresponding amino acid:",
+      "options": [
+        "A. Proline",
+        "B. Methionine",
+        "C. Tyrosine",
+        "D. Histidine",
+        "E. Threonine",
+        "F. Tryptophan",
+        "G. Aspartate"
+      ],
+      "pairs": [
+        {
+          "term": "103. Indole containing amino acid",
+          "definition": "F. Tryptophan"
+        },
+        {
+          "term": "104. Imidazole containing amino acid",
+          "definition": "D. Histidine"
+        },
+        {
+          "term": "105. Phenol containing amino acid",
+          "definition": "C. Tyrosine"
+        },
+        {
+          "term": "106. Imino acid",
+          "definition": "A. Proline"
+        },
+        {
+          "term": "107. Acidic amino acid",
+          "definition": "G. Aspartate"
+        }
+      ],
+      "explanation": "Tryptophan contains a fused heterocyclic indole ring. Histidine features a basic imidazole ring. Tyrosine has a phenolic hydroxyl group attached to its benzene ring. Proline is an imino acid. Aspartate contains an extra carboxyl group making it acidic."
+    },
+    {
+      "id": "L3_M_004",
+      "type": "matching",
+      "text": "Classify the following amino acids based on their specific metabolic breakdown pathways:",
+      "options": [
+        "A. Ketogenic",
+        "B. Glycogenic",
+        "C. Ketogenic and glycogenic"
+      ],
+      "pairs": [
+        {
+          "term": "108. Alanine",
+          "definition": "B. Glycogenic"
+        },
+        {
+          "term": "109. Leucine",
+          "definition": "A. Ketogenic"
+        },
+        {
+          "term": "110. Tyrosine",
+          "definition": "C. Ketogenic and glycogenic"
+        },
+        {
+          "term": "111. Glutamate",
+          "definition": "B. Glycogenic"
+        },
+        {
+          "term": "112. Isoleucine",
+          "definition": "C. Ketogenic and glycogenic"
+        }
+      ],
+      "explanation": "Alanine and glutamate yield pyruvate and alpha-ketoglutarate, making them purely glycogenic. Leucine degrades strictly into acetyl-CoA (purely ketogenic). Tyrosine and isoleucine serve as precursors for both glucose and ketone body formation (both ketogenic and glycogenic)."
+    },
+    {
+      "id": "L3_M_005",
+      "type": "matching",
+      "text": "Based on the provided structural schematic figure, match each specific amino acid with its corresponding code (A-F):",
+      "image": "images/L3_M_005.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "pairs": [
+        {
+          "term": "113. Leucine",
+          "definition": "B"
+        },
+        {
+          "term": "114. Glycine",
+          "definition": "A"
+        },
+        {
+          "term": "115. Isoleucine",
+          "definition": "F"
+        },
+        {
+          "term": "116. Cysteine",
+          "definition": "C"
+        },
+        {
+          "term": "117. Valine",
+          "definition": "D"
+        }
+      ],
+      "explanation": "Chemical structure classification coordinates point to Glycine (A), Leucine (B), Cysteine (C), Valine (D), and Isoleucine (F)."
+    },
+    {
+      "id": "L3_M_006",
+      "type": "matching",
+      "text": "Match the following unique chemical groups with the correct amino acid or related compound:",
+      "options": [
+        "A. Phenyl alanine",
+        "B. Hydroxyproline",
+        "C. Histidine",
+        "D. Arginine",
+        "E. Cysteine",
+        "F. Citrulline",
+        "G. Serine"
+      ],
+      "pairs": [
+        {
+          "term": "118. Guanido group",
+          "definition": "D. Arginine"
+        },
+        {
+          "term": "119. Thiol group",
+          "definition": "E. Cysteine"
+        },
+        {
+          "term": "120. Imidazole group",
+          "definition": "C. Histidine"
+        },
+        {
+          "term": "121. pyrrolidine group",
+          "definition": "B. Hydroxyproline"
+        },
+        {
+          "term": "122. Ureido group",
+          "definition": "F. Citrulline"
+        }
+      ],
+      "explanation": "Arginine possesses a heavily basic guanidino chemical system. Cysteine contains a highly reactive free sulfhydryl/thiol chain (-SH). Histidine features an imidazole ring configuration. Hydroxyproline contains a modified post-translational pyrrolidine core structure. Citrulline features a distinct ureido chemical functional group."
+    },
+    {
+      "id": "L3_M_007",
+      "type": "matching",
+      "text": "Based on the provided chemical structure figure, match each descriptive structural statement with its correct label (A-F):",
+      "image": "images/L3_M_007.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "pairs": [
+        {
+          "term": "123. Indole containing amino acid",
+          "definition": "B"
+        },
+        {
+          "term": "124. Imidazole containing amino acid",
+          "definition": "F"
+        },
+        {
+          "term": "125. Phenol containing amino acid",
+          "definition": "C"
+        },
+        {
+          "term": "126. hydroxyimino acid",
+          "definition": "A"
+        },
+        {
+          "term": "127. Phenyl containing amino acid",
+          "definition": "E"
+        }
+      ],
+      "explanation": "Structural features line up perfectly with the key: Hydroxyimino acid (A), Indole (B), Phenol (C), Phenyl ring (E), and Imidazole configuration (F)."
+    },
+    {
+      "id": "L3_M_008",
+      "type": "matching",
+      "text": "Based on the provided structural chemistry figure, match each amino acid/derivative with its corresponding identifier (A-F):",
+      "image": "images/L3_M_008.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "pairs": [
+        {
+          "term": "128. Arginine",
+          "definition": "D"
+        },
+        {
+          "term": "129. Hydroxylysine",
+          "definition": "B"
+        },
+        {
+          "term": "130. Glutamate",
+          "definition": "A"
+        },
+        {
+          "term": "131. Lysine",
+          "definition": "C"
+        },
+        {
+          "term": "132. Glutamine",
+          "definition": "F"
+        }
+      ],
+      "explanation": "Functional structural profiles match the following chart layout: Glutamate (A), Hydroxylysine (B), Lysine (C), Arginine (D), and Glutamine (F)."
+    }
+  ]
+}

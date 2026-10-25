@@ -1,0 +1,2492 @@
+{
+  "questions": [
+    {
+      "id": "CARB_SA_001",
+      "type": "shortanswer",
+      "text": "What are carbohydrates?",
+      "answer": "These are aldehyde or ketone derivatives of polyhydric alcohols, or any substance derived from them.",
+      "explanation": "Carbohydrates are organic compounds structurally defined as polyhydroxy aldehydes or polyhydroxy ketones, consisting of carbon, hydrogen, and oxygen."
+    },
+    {
+      "id": "CARB_SA_002",
+      "type": "shortanswer",
+      "text": "How Carbohydrates are classified?",
+      "answer": "According the to number of the sugar units available, carbohydrates are classified as monosaccharides, disaccharides, oligosaccharides, and polysaccharides.",
+      "explanation": "Classification depends strictly on the degree of polymerization and the total count of monomeric saccharide units yielded upon complete hydrolysis."
+    },
+    {
+      "id": "CARB_SA_003",
+      "type": "shortanswer",
+      "text": "What are monosaccharides?",
+      "answer": "Carbohydrates formed of one sugar unit.",
+      "explanation": "Monosaccharides are the simplest form of carbohydrates and cannot be broken down (hydrolyzed) into smaller carbohydrate units."
+    },
+    {
+      "id": "CARB_SA_004",
+      "type": "shortanswer",
+      "text": "What are disaccharides?",
+      "answer": "Carbohydrates formed of 2 sugar units.",
+      "explanation": "Disaccharides consist of two monosaccharide units covalently bound together via a condensation reaction."
+    },
+    {
+      "id": "CARB_SA_005",
+      "type": "shortanswer",
+      "text": "What are oligosaccharides?",
+      "answer": "Carbohydrates formed of 3-10 sugar units.",
+      "explanation": "Oligosaccharides contain a moderate number of monosaccharide units, typically found attached to proteins or lipids in cell membranes."
+    },
+    {
+      "id": "CARB_SA_006",
+      "type": "shortanswer",
+      "text": "What are polysaccharides?",
+      "answer": "Carbohydrates formed of more than 10 sugar units.",
+      "explanation": "Polysaccharides are high-molecular-weight polymers which can be linear or highly branched, such as glycogen, starch, or cellulose."
+    },
+    {
+      "id": "CARB_SA_007",
+      "type": "shortanswer",
+      "text": "How are sugar units combined together?",
+      "answer": "Through glycosidic linkages.",
+      "explanation": "A glycosidic linkage forms via a condensation reaction between the anomeric hydroxyl group of one sugar and a hydroxyl group of another compound."
+    },
+    {
+      "id": "CARB_SA_008",
+      "type": "shortanswer",
+      "text": "What is glycosidic bond?",
+      "answer": "It is the bond between a carbohydrate and another compound to form a complex carbohydrate e.g. sugar and sugar as maltose, or sugar and non-carbohydrate as ATP and cardiac glycosides.",
+      "explanation": "Glycosidic bonds can be O-glycosidic (between sugars) or N-glycosidic (such as linking ribose to purine/pyrimidine bases in nucleotides like ATP)."
+    },
+    {
+      "id": "CARB_SA_009",
+      "type": "shortanswer",
+      "text": "How are monosaccharides further classified?",
+      "answer": "Sugars having aldehyde group (aldoses) and sugars having keto group (ketoses).",
+      "explanation": "Monosaccharides are structurally grouped based on the chemical nature of their primary carbonyl group into aldoses (terminal carbonyl) or ketoses (internal carbonyl)."
+    },
+    {
+      "id": "CARB_SA_010",
+      "type": "shortanswer",
+      "text": "Name some important monosaccharides.",
+      "answer": "Glucose, fructose, galactose and mannose.",
+      "explanation": "These hexose sugars share the formula C6H12O6 but differ in their structural arrangement, functional groups, and stereochemistry."
+    },
+    {
+      "id": "CARB_SA_011",
+      "type": "shortanswer",
+      "text": "What are pentoses?",
+      "answer": "Monosaccharides with five carbon atoms.",
+      "explanation": "Pentoses serve essential structural and metabolic roles in biochemistry, primarily within nucleotides and nucleic acid backbones."
+    },
+    {
+      "id": "CARB_SA_012",
+      "type": "shortanswer",
+      "text": "Name some pentoses.",
+      "answer": "Ribose, deoxyribose, xylose, arabinose and lyxose.",
+      "explanation": "These five-carbon sugars are vital structural components of nucleic acids, plant cell walls, and specific complex cellular structures."
+    },
+    {
+      "id": "CARB_SA_013",
+      "type": "shortanswer",
+      "text": "What are the functions of Lyxose?",
+      "answer": "It is constituent of a lyxoflavin isolated from human heart muscle.",
+      "explanation": "Lyxose is a rare aldopentose that forms an integral part of lyxoflavin, a riboflavin analog identified in mammalian cardiac tissue."
+    },
+    {
+      "id": "CARB_SA_014",
+      "type": "shortanswer",
+      "text": "What are the functions of ribose and deoxyribose?",
+      "answer": "(1) They enter in the structure of nucleic acids (DNA and RNA) (2) Ribose enters in the structure of ATP, GTP and other high energy phosphate compounds (3) Ribose enters in the structure of coenzymes NAD, NADP and flavoproteins.",
+      "explanation": "Ribose (found in RNA, ATP, NAD) possesses an -OH at carbon-2, while deoxyribose (found in DNA) lacks this oxygen atom, enhancing DNA stability."
+    },
+    {
+      "id": "CARB_SA_015",
+      "type": "shortanswer",
+      "text": "Which is the reference carbon atom in sugars?",
+      "answer": "It is the carbon atom next to last -CH2OH e.g. carbon atom number 5 in glucose.",
+      "explanation": "The reference carbon is the highest-numbered asymmetric carbon atom in the chain, directly adjacent to the terminal primary alcohol group."
+    },
+    {
+      "id": "CARB_SA_016",
+      "type": "shortanswer",
+      "text": "Define reference sugar:",
+      "answer": "It is the glyceraldehyde which may be present in (D) form in which-OH group attached to asymmetric carbon atom is on the right side and (L) form in which the same -OH group is on the left side.",
+      "explanation": "Glyceraldehyde is chosen as the standard structural baseline because it represents the simplest possible aldose containing a single chiral center."
+    },
+    {
+      "id": "CARB_SA_017",
+      "type": "shortanswer",
+      "text": "What is the difference between D and L sugars?",
+      "answer": "They are mirror images of one sugar depending on the position of -OH group attached to reference carbon atom e.g. carbon atom number 5 in glucose. If the -OH group attached to 5th carbon is on the right side, it is (D) form of glucose and If the -OH group is on left side, it is (L) form of glucose.",
+      "explanation": "D and L designations denote enantiomeric configurations based on the orientation of the chiral center furthest from the carbonyl group."
+    },
+    {
+      "id": "CARB_SA_018",
+      "type": "shortanswer",
+      "text": "Which isomer is common in nature?",
+      "answer": "D forms of sugars are common in nature.",
+      "explanation": "Biological systems and metabolic enzymes show definitive stereospecificity, exclusively utilizing and processing D-isomers of sugars."
+    },
+    {
+      "id": "CARB_SA_019",
+      "type": "shortanswer",
+      "text": "Which is the most common monosaccharide in the body?",
+      "answer": "Glucose.",
+      "explanation": "Glucose acts as the principal substrate for glycolysis and cellular respiration, serving as the primary circulatory fuel in human physiology."
+    },
+    {
+      "id": "CARB_SA_020",
+      "type": "shortanswer",
+      "text": "What are the functions of glucose?",
+      "answer": "Glucose is the major source of energy in mammals. In the liver and other tissues, glucose is converted to all carbohydrates in the body e.g. glycogen, galactose, ribose and fructose.",
+      "explanation": "Glucose provides ATP via cellular pathways and functions as the fundamental starting material for downstream glycogenesis and carbohydrate biosynthesis."
+    },
+    {
+      "id": "CARB_SA_021",
+      "type": "shortanswer",
+      "text": "What are the functions of fructose?",
+      "answer": "Fructose is a source of 15% of energy in mammals. It is the sugar of semen.",
+      "explanation": "Fructose is highly abundant in seminal fluid, functioning as the primary metabolic energy substrate for sperm motility."
+    },
+    {
+      "id": "CARB_SA_022",
+      "type": "shortanswer",
+      "text": "What are the functions of galactose?",
+      "answer": "It enters in the structure of lactose, glycolipids, glycoproteins and proteoglycans.",
+      "explanation": "Galactose plays a key role in synthesizing extracellular matrix components, structural glycoconjugates, and milk disaccharides."
+    },
+    {
+      "id": "CARB_SA_023",
+      "type": "shortanswer",
+      "text": "What is the difference between glucose and galactose?",
+      "answer": "They are epimers. They are different with regard to the H and OH groups at the 4th carbon atom. Galactose is the 4th epimer of glucose.",
+      "explanation": "Epimers are stereoisomers that differ in configuration around only a single asymmetric carbon atom. For glucose and galactose, this occurs specifically at C-4."
+    },
+    {
+      "id": "CARB_SA_024",
+      "type": "shortanswer",
+      "text": "Galactose is present in which food?",
+      "answer": "In milk, which contains lactose that is formed of galactose and glucose.",
+      "explanation": "Dietary galactose is obtained mainly from milk products following the enzymatic breakdown of lactose by lactase."
+    },
+    {
+      "id": "CARB_SA_025",
+      "type": "shortanswer",
+      "text": "Where can galactose be synthesized from glucose?",
+      "answer": "In many tissues as in mammary gland to make the lactose (milk sugar).",
+      "explanation": "The synthesis is mediated via UDP-glucose 4-epimerase, which freely interconverts UDP-glucose into UDP-galactose in lactating mammary glands."
+    },
+    {
+      "id": "CARB_SA_026",
+      "type": "shortanswer",
+      "text": "What is asymmetric carbon atom?",
+      "answer": "Is that carbon atom to which 4 different groups or atoms are attached.",
+      "explanation": "An asymmetric carbon atom is a chiral center, lack of symmetry in these centers allows a molecule to exist in non-superimposable stereoisomeric forms."
+    },
+    {
+      "id": "CARB_SA_027",
+      "type": "shortanswer",
+      "text": "What are the properties given by a substances containing asymmetric carbon atoms?",
+      "answer": "2 properties, optical activity and optical isomerism.",
+      "explanation": "Chiral centers give molecules the spatial variation needed for multiple distinct isomers and the capability to rotate plane-polarized light."
+    },
+    {
+      "id": "CARB_SA_028",
+      "type": "shortanswer",
+      "text": "What is optical activity?",
+      "answer": "It is the ability of a substance containing asymmetric carbon atom to rotate plane-polarized light either to the right or to the left.",
+      "explanation": "Optical activity is measured using a polarimeter. The degree and direction of light rotation depend on molecular configuration."
+    },
+    {
+      "id": "CARB_SA_029",
+      "type": "shortanswer",
+      "text": "What are types of optically active substances?",
+      "answer": "Dextrorotatory and levorotatory.",
+      "explanation": "Chiral molecules are classified based on the direction they rotate polarized light, regardless of whether their absolute configuration is D or L."
+    },
+    {
+      "id": "CARB_SA_030",
+      "type": "shortanswer",
+      "text": "What do you mean by dextrorotatory and levorotatory substances?",
+      "answer": "Dextrorotatory is the substance that rotates plane polarized light to the right. Levorotatory is the substance that rotates it to the left.",
+      "explanation": "Dextrorotatory is denoted by a (+) sign or 'd-', while levorotatory is denoted by a (-) sign or 'l-'."
+    },
+    {
+      "id": "CARB_SA_031",
+      "type": "shortanswer",
+      "text": "What is Specific rotation?",
+      "answer": "It is the angle of rotation specific for each optically active substance when the concentration of substance is 100 g/dl and the length of measuring tube is 10 cm.",
+      "explanation": "Specific rotation is an intrinsic physical constant calculated under standardized conditions of concentration, path length, temperature, and wavelength."
+    },
+    {
+      "id": "CARB_SA_032",
+      "type": "shortanswer",
+      "text": "What is the specific rotation of glucose and frucose?",
+      "answer": "For glucose is (+52.5°) and for fructose is (-91°).",
+      "explanation": "Glucose is strongly dextrorotatory (hence termed dextrose), whereas fructose rotates light strongly to the left (hence termed levulose)."
+    },
+    {
+      "id": "CARB_SA_033",
+      "type": "shortanswer",
+      "text": "What is racemic mixture:",
+      "answer": "It is the mixture containing equal number of molecules of 2 optically active sugars, one is dextrorotatory and the other is levorotatory. Thus, it shows no optical activity (provided that the angle of rotation is equal in both sides).",
+      "explanation": "A racemic mixture is optically inactive because the equal, opposite rotations of the two enantiomers cancel each other out externally."
+    },
+    {
+      "id": "CARB_SA_034",
+      "type": "shortanswer",
+      "text": "What is resolution:",
+      "answer": "It is the separation of optically inactive racemic mixture into its optically active substances.",
+      "explanation": "Resolution is the chemical or biochemical process used to separate a 50:50 racemic mixture into its pure, individual dextrorotatory and levorotatory enantiomers."
+    },
+    {
+      "id": "CARB_SA_035",
+      "type": "shortanswer",
+      "text": "What is optical isomerism:",
+      "answer": "It is the ability of a substance to be present in more than one form (isomer).",
+      "explanation": "Optical isomerism arises due to different spatial arrangements of atoms around one or more asymmetric carbon atoms."
+    },
+    {
+      "id": "CARB_SA_036",
+      "type": "shortanswer",
+      "text": "How many ismers for a substance?",
+      "answer": "A substance containing one asymmetric carbon atom has 2 isomers, A substance containing 2 or more asymmetric carbon atoms can exist in a number of isomers = 2^n where n is the number of asymmetric carbon atoms.",
+      "explanation": "The Van 't Hoff rule (2^n) calculates the maximum possible stereoisomers for a compound based on its number of distinct chiral centers."
+    },
+    {
+      "id": "CARB_SA_037",
+      "type": "shortanswer",
+      "text": "How many isomers for glucose?",
+      "answer": "glucose has 4 asymmetric carbon atoms so the number of its isomers equal 2^4 = 2 * 2 * 2 * 2 = 16 isomers.",
+      "explanation": "Aldohexoses like glucose possess 4 internal chiral carbons (C-2, C-3, C-4, and C-5), resulting in 16 total stereoisomeric forms (8 D-forms and 8 L-forms)."
+    },
+    {
+      "id": "CARB_SA_038",
+      "type": "shortanswer",
+      "text": "What is anomeric carbon:",
+      "answer": "It is the asymmetric carbon atom obtained from active carbonyl sugar group: carbon number 1 in aldoses and carbon number 2 in ketoses.",
+      "explanation": "When a sugar cyclizes into a ring, the open-chain carbonyl carbon converts into a new chiral center known as the anomeric carbon."
+    },
+    {
+      "id": "CARB_SA_039",
+      "type": "shortanswer",
+      "text": "What are anomers?",
+      "answer": "These are isomers obtained from the change of position of hydroxyl group attached to the anomeric carbon.",
+      "explanation": "Anomers represent alpha (α) and beta (β) structures, depending on whether the newly formed anomeric -OH projects down or up relative to the ring plane."
+    },
+    {
+      "id": "CARB_SA_040",
+      "type": "shortanswer",
+      "text": "Give examples of anomers.",
+      "answer": "a-Glucose and -glucose are anomers. Also a and β fructose are anomers.",
+      "explanation": "Alpha and beta cyclic configurations freely interconvert in aqueous solutions via an intermediate open-chain form, a process known as mutarotation."
+    },
+    {
+      "id": "CARB_SA_041",
+      "type": "shortanswer",
+      "text": "What is the difference between a and ẞ anomers?",
+      "answer": "In a anomers, the hydroxyl group attached to the carbonyl carbon is to the right. In ẞ anomers, the hydroxyl group attached to the carbonyl carbon is to the left.",
+      "explanation": "This stereochemical designation describes the orientation of the anomeric hydroxyl group relative to the ring plane in Fischer projections or Haworth representations."
+    },
+    {
+      "id": "CARB_SA_042",
+      "type": "shortanswer",
+      "text": "What is epimeric carbon?",
+      "answer": "It is the asymmetric carbon atom other than carbon of aldehyde or ketone groups e.g. carbons number 2,3 and 4 of glucose.",
+      "explanation": "An epimeric carbon refers specifically to any internal chiral center where alternative configuration changes create distinct epimers."
+    },
+    {
+      "id": "CARB_SA_043",
+      "type": "shortanswer",
+      "text": "What are epimers?",
+      "answer": "They are isomers resulting from the change in positions of -H and-OH groups around the epimeric carbons.",
+      "explanation": "Epimers are a subclass of diastereomers that differ in absolute spatial configuration at exactly one single asymmetric carbon."
+    },
+    {
+      "id": "CARB_SA_044",
+      "type": "shortanswer",
+      "text": "Give example of epimers.",
+      "answer": "Glucose, mannose and galactose are epimers. Glucose and mannose are epimers, which differ only with respect to carbon atom 2. Glucose and galactose are epimers, which differ only with respect to carbon atom 4.",
+      "explanation": "D-mannose is the C-2 epimer of D-glucose, while D-galactose is the C-4 epimer of D-glucose. They require specific epimerase enzymes for interconversion."
+    },
+    {
+      "id": "CARB_SA_045",
+      "type": "shortanswer",
+      "text": "What is the mutarotation?",
+      "answer": "It is a gradual change of specific rotation of any optically active substance having free aldehyde (-CHO) or ketone (c=0) group.",
+      "explanation": "Mutarotation happens due to the spontaneous opening and closing of the cyclic hemiacetal or hemiketal ring structure in solution."
+    },
+    {
+      "id": "CARB_SA_046",
+      "type": "shortanswer",
+      "text": "What is the basis of mutarotation?",
+      "answer": "It is due to presence of anomeric carbon atom.",
+      "explanation": "The presence of a free, unmasked anomeric carbon permits equilibrium between alpha, open-chain, and beta forms in aqueous environments."
+    },
+    {
+      "id": "CARB_SA_047",
+      "type": "shortanswer",
+      "text": "Give example of mutarotation.",
+      "answer": "a glucose freshly dissolved in water, has specific rotation of +112°. β Glucose when freshly dissolved in water, has specific rotation of +19°. When both anomers are left for some time, a and ẞ sugars slowly change into an equilibrium mixture which contain , and open chain forms and has specific rotation of 52.5°.",
+      "explanation": "At equilibrium, D-glucose settles to a fixed specific rotation of +52.5°, representing roughly 36% alpha-anomer, 64% beta-anomer, and trace open-chain intermediates."
+    },
+    {
+      "id": "CARB_SA_048",
+      "type": "shortanswer",
+      "text": "What is the difference between glucose and fructose?",
+      "answer": "Glucose is an aldohexose, and fructose is a ketohexose.",
+      "explanation": "Glucose contains a terminal aldehyde group at C-1, whereas fructose contains an internal ketone group at position C-2."
+    },
+    {
+      "id": "CARB_SA_049",
+      "type": "shortanswer",
+      "text": "Name a ketose.",
+      "answer": "Fructose.",
+      "explanation": "Fructose is the most prominent dietary ketohexose, entering glycolytic pathways via specific fructokinase or hexokinase steps."
+    },
+    {
+      "id": "CARB_SA_050",
+      "type": "shortanswer",
+      "text": "What is the principle of Benedict's test?",
+      "answer": "In alkaline medium, sugar will cause reduction of a blue colored reagent (containing cupric ions) to form red colored precipitate (containing cuprous ions).",
+      "explanation": "The free carbonyl groups act as reducing agents, donating electrons to reduce soluble blue cupric copper (Cu2+) into insoluble red cuprous oxide (Cu2O)."
+    },
+    {
+      "id": "CARB_SA_051",
+      "type": "shortanswer",
+      "text": "What is the composition of Benedict's reagent?",
+      "answer": "It contains sodium carbonate, copper sulfate and sodium citrate. In the alkaline medium provided by sodium carbonate, the copper remains as cupric hydroxide. Sodium citrate acts as a stabilizing agent to prevent precipitation of cupric hydroxide.",
+      "explanation": "Sodium carbonate yields the required alkaline pH, while citrate complexation selectively stabilizes cupric ions to avoid premature degradation before reaction."
+    },
+    {
+      "id": "CARB_SA_052",
+      "type": "shortanswer",
+      "text": "Benedict's test is commonly employed for what?",
+      "answer": "To detect the presence of glucose in urine.",
+      "explanation": "Historically used as a quick semi-quantitative screening test for glucosuria, which is a classic pathological sign of uncontrolled Diabetes Mellitus."
+    },
+    {
+      "id": "CARB_SA_053",
+      "type": "shortanswer",
+      "text": "Name a few reducing sugars.",
+      "answer": "Glucose, fructose, and mannose.",
+      "explanation": "All free monosaccharides are reducing sugars because their reactive hemiacetal or hemiketal groups can easily open up into reactive acyclic states."
+    },
+    {
+      "id": "CARB_SA_054",
+      "type": "shortanswer",
+      "text": "What are sugars that can give positive Benedict test?",
+      "answer": "These are sugars containing free aldehyde or ketone group. Cupric (blue) + sugar -> Cuprous (red) + oxidized sugar",
+      "explanation": "Any carbohydrate containing a free or unmasked anomeric hydroxyl capable of oxidation can reduce Benedict's reagent."
+    },
+    {
+      "id": "CARB_SA_055",
+      "type": "shortanswer",
+      "text": "What are the common properties of monosaccharides?",
+      "answer": "All are soluble in water, all can present in a and ẞ forms, all are reducing, all can form osazone crystals and all undergo mutarotation.",
+      "explanation": "These physical and chemical hallmarks are universally shared due to their hydrophilic nature and the presence of reactive functional groups."
+    },
+    {
+      "id": "CARB_SA_056",
+      "type": "shortanswer",
+      "text": "Glucose and fructose will form identical osazones, why?",
+      "answer": "The difference in glucose and fructose lies in the first and second carbon atoms, and this is masked by the osazone formation.",
+      "explanation": "Osazone reactions involve both C-1 and C-2 positions. Since the stereochemical arrangement from C-3 down to C-6 is identical in both sugars, they yield identical crystalline structures."
+    },
+    {
+      "id": "CARB_SA_057",
+      "type": "shortanswer",
+      "text": "On oxidation of glucose, what are produced compounds?",
+      "answer": "Glucoronic acid, gluconic acid and glucosaccharic acid.",
+      "explanation": "The resulting product structure depends entirely on the strength and specificity of the oxidizing agent used on the carbohydrate."
+    },
+    {
+      "id": "CARB_SA_058",
+      "type": "shortanswer",
+      "text": "How can glucuronic acid is produced?",
+      "answer": "By oxidation of last hydroxyl carbon (C6).",
+      "explanation": "Selective terminal carbon oxidation (C-6) leaves the principal C-1 aldehyde functional group intact, forming a uronic acid crucial for xenobiotic detoxification."
+    },
+    {
+      "id": "CARB_SA_059",
+      "type": "shortanswer",
+      "text": "How can gluconic acid is produced?",
+      "answer": "By oxidation of carbonyl carbon (C1).",
+      "explanation": "Mild oxidation targeted strictly at the C-1 position converts the terminal aldehyde into a single carboxylic acid group, producing an aldonic acid."
+    },
+    {
+      "id": "CARB_SA_060",
+      "type": "shortanswer",
+      "text": "How can glucosaccharic acid is produced?",
+      "answer": "These are dicarboxylic acids produced by oxidation of both carbonyl carbon and last hydroxyl carbon (C1 and C6).",
+      "explanation": "Strong oxidizing conditions (such as hot nitric acid) attack both ends of the molecule simultaneously, yielding an aldaric acid."
+    },
+    {
+      "id": "CARB_SA_061",
+      "type": "shortanswer",
+      "text": "What are the reaction products of reduction of sugars?",
+      "answer": "Reduction of carbonyl group gives the corresponding alcohol.",
+      "explanation": "The chemical reduction of monosaccharides transforms their reactive aldehyde or ketone groups into stable sugar alcohols (polyols)."
+    },
+    {
+      "id": "CARB_SA_062",
+      "type": "shortanswer",
+      "text": "Reduction of glucose produces what?",
+      "answer": "Sorbitol.",
+      "explanation": "Glucose reduction produces D-glucitol, commonly known as sorbitol. Pathological accumulation of sorbitol via the polyol pathway can cause tissue damage in diabetes."
+    },
+    {
+      "id": "CARB_SA_063",
+      "type": "shortanswer",
+      "text": "Reduction of fructose produces what?",
+      "answer": "Sorbitol.",
+      "explanation": "Fructose reduction creates a new asymmetric center at C-2, producing a mixture of polyols, including sorbitol and mannitol."
+    },
+    {
+      "id": "CARB_SA_064",
+      "type": "shortanswer",
+      "text": "Reduction of ribose produces what?",
+      "answer": "Ribitol.",
+      "explanation": "Ribose reduction yields ribitol, a crystalline sugar alcohol that forms a core structural component of the vitamin riboflavin (B2)."
+    },
+    {
+      "id": "CARB_SA_065",
+      "type": "shortanswer",
+      "text": "Reduction of galactose produces what?",
+      "answer": "Galacticol.",
+      "explanation": "Also known as dulcitol, galactitol accumulates paths within the crystalline lens of the eye during untreated galactosemia conditions."
+    },
+    {
+      "id": "CARB_SA_066",
+      "type": "shortanswer",
+      "text": "Name some deoxy sugars.",
+      "answer": "Deoxy ribose and fucose (deoxy galactose).",
+      "explanation": "Deoxy sugars have a hydroxyl group replaced by a hydrogen atom. They are key elements in nucleic acids and cell surface antigens."
+    },
+    {
+      "id": "CARB_SA_067",
+      "type": "shortanswer",
+      "text": "What are the reaction products of glucose with phosphoric acid?",
+      "answer": "Phosphate esters e.g. glucose-6-phosphate and glucose-1- phosphate.",
+      "explanation": "Phosphorylation traps the sugar inside the cell cytoplasm and chemically activates it for subsequent metabolic breakdown."
+    },
+    {
+      "id": "CARB_SA_068",
+      "type": "shortanswer",
+      "text": "What are the reaction product of glucose with sulfuric acid?",
+      "answer": "Furfural.",
+      "explanation": "Strong mineral acids dehydrate hexoses and pentoses into furfural derivatives, a property widely exploited in colorimetric laboratory assays."
+    },
+    {
+      "id": "CARB_SA_069",
+      "type": "shortanswer",
+      "text": "What is the principle of Molish's test?",
+      "answer": "Sulfuric acid is a dehydrating agent, removing 3 molecules of H2O from the sugar giving a compound called furfural. This compound can condense with -naphthol to give a violet ring. This is the idea of Molish's test, a general test for all carbohydrates.",
+      "explanation": "Molisch's test functions as a broad diagnostic mechanism; any carbohydrate capable of dehydration into furfurals will yield a positive purple ring."
+    },
+    {
+      "id": "CARB_SA_070",
+      "type": "shortanswer",
+      "text": "What are the products of reaction of monosaccharides with phenylhydrazine?",
+      "answer": "Osazone crystals. All sugars having free carbonyl group can form osazone crystals.",
+      "explanation": "Osazones form distinct crystalline shapes and specific melting points, making them useful for identifying different sugars under a microscope."
+    },
+    {
+      "id": "CARB_SA_071",
+      "type": "shortanswer",
+      "text": "How many sugar units are present in disaccharides?",
+      "answer": "Two.",
+      "explanation": "Disaccharides are glycosides consisting of two monosaccharide residues linked together by an O-glycosidic bond."
+    },
+    {
+      "id": "CARB_SA_072",
+      "type": "shortanswer",
+      "text": "Name some important disaccharides.",
+      "answer": "Sucrose, lactose, maltose, isomaltose, cellobiose, trehalose.",
+      "explanation": "These sugars differ in their component monomer units, clinical digestibility, and the configurations of their glycosidic bonds."
+    },
+    {
+      "id": "CARB_SA_073",
+      "type": "shortanswer",
+      "text": "Which is the sugar found in milk?",
+      "answer": "Lactose.",
+      "explanation": "Lactose is synthesized uniquely within secretory mammary glands and serves as an important energy source for newborn mammals."
+    },
+    {
+      "id": "CARB_SA_074",
+      "type": "shortanswer",
+      "text": "What is the glycosidic linkage in lactose?",
+      "answer": "beta 1->4 linkage.",
+      "explanation": "This link connects C-1 of a beta-D-galactose residue to the C-4 position of a D-glucose residue."
+    },
+    {
+      "id": "CARB_SA_075",
+      "type": "shortanswer",
+      "text": "Glucose and fructose are reducing sugars, but sucrose (containing glucose and fructose) is a non-reducing sugar, why?",
+      "answer": "Because the glycosidic linkage in sucrose involves 1st carbon of glucose and 2nd carbon of fructose, so both reducing groups are masked.",
+      "explanation": "The bond forms directly between the anomeric carbon centers of both monomers, leaving no free hemiacetal or hemiketal groups to perform chemical reduction."
+    },
+    {
+      "id": "CARB_SA_076",
+      "type": "shortanswer",
+      "text": "Hydrolysis of maltose will give rise to what?",
+      "answer": "Two glucose units.",
+      "explanation": "Enzymatic cleavage of maltose by intestinal maltase yields two identical molecules of D-glucose."
+    },
+    {
+      "id": "CARB_SA_077",
+      "type": "shortanswer",
+      "text": "What is the glycosidic linkage in maltose?",
+      "answer": "alpha 1->4 glycosidic bond.",
+      "explanation": "This bond connects C-1 of an alpha-D-glucose monomer to the C-4 hydroxyl group of an adjacent glucose unit."
+    },
+    {
+      "id": "CARB_SA_078",
+      "type": "shortanswer",
+      "text": "What are the monosaccharide components of lactose?",
+      "answer": "Galactose and glucose.",
+      "explanation": "Hydrolysis by the brush-border enzyme lactase cleaves this disaccharide into its individual galactose and glucose constituents."
+    },
+    {
+      "id": "CARB_SA_079",
+      "type": "shortanswer",
+      "text": "Which disaccharides have no free aldehyde or ketone group?",
+      "answer": "Sucrose and trehalose.",
+      "explanation": "Both are classified as non-reducing disaccharides because their anomeric carbons are completely locked within their glycosidic linkages."
+    },
+    {
+      "id": "CARB_SA_080",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of sucrose?",
+      "answer": "a-glucose + -fructose.",
+      "explanation": "The enzyme sucrase (or invertase) cleaves sucrose to release equal amounts of D-glucose and D-fructose."
+    },
+    {
+      "id": "CARB_SA_081",
+      "type": "shortanswer",
+      "text": "What is the glycosidic linkage in sucrose?",
+      "answer": "1->2 linkage.",
+      "explanation": "More precisely, it is an alpha-1, beta-2 glycosidic linkage that bonds the anomeric carbons of both monosaccharides together."
+    },
+    {
+      "id": "CARB_SA_082",
+      "type": "shortanswer",
+      "text": "Which are the sources of sucrose?",
+      "answer": "Cane and beets.",
+      "explanation": "Sugar cane and sugar beets contain highly concentrated stores of sucrose, which are harvested for commercial sugar production."
+    },
+    {
+      "id": "CARB_SA_083",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of trehalose?",
+      "answer": "a- glucose + a-glucose (a 1->1 glycosidic linkage).",
+      "explanation": "Trehalose is a non-reducing sugar found in insects and fungi, consisting of two alpha-D-glucose units joined at their C-1 positions."
+    },
+    {
+      "id": "CARB_SA_084",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of cellobiose?",
+      "answer": "B-glucose+ -glucose (beta 1->4' glycosidic linkage).",
+      "explanation": "Cellobiose is the primary repeating disaccharide unit obtained during the structural breakdown of cellulose."
+    },
+    {
+      "id": "CARB_SA_085",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of ismmaltose?",
+      "answer": "a- glucose + a-glucose(a 1->6 glycosidic linkage).",
+      "explanation": "Isomaltose is a reducing disaccharide produced during the enzymatic hydrolysis of branched polysaccharides like starch or glycogen."
+    },
+    {
+      "id": "CARB_SA_086",
+      "type": "shortanswer",
+      "text": "Name reducing disaccharides.",
+      "answer": "Lactose, maltose, cellobiose and isomaltose.",
+      "explanation": "These sugars retain a free, unbonded anomeric carbon on their second monosaccharide unit, allowing them to act as reducing agents."
+    },
+    {
+      "id": "CARB_SA_087",
+      "type": "shortanswer",
+      "text": "Name non-reducing disaccharides.",
+      "answer": "Sucrose and trehalsoe.",
+      "explanation": "These carbohydrates cannot undergo mutarotation or oxidation because all available anomeric carbons are fully locked within their linkages."
+    },
+    {
+      "id": "CARB_SA_088",
+      "type": "shortanswer",
+      "text": "Enumerate disaccharides formed of 2 glucose units.",
+      "answer": "Maltose, isomaltose, cellobiose and trehalose.",
+      "explanation": "While they share identical chemical building blocks, their distinct structural layouts stem from their specific glycosidic bond configurations."
+    },
+    {
+      "id": "CARB_SA_089",
+      "type": "shortanswer",
+      "text": "How many sugar units are present in polysaccharides?",
+      "answer": "More than 10 sugar units.",
+      "explanation": "Polysaccharides, or glycans, are complex high-molecular-weight polymers composed of large numbers of monosaccharide subunits."
+    },
+    {
+      "id": "CARB_SA_090",
+      "type": "shortanswer",
+      "text": "How polysaccharides are classified?",
+      "answer": "Homopolysaccharides (homoglycans) and heteropolysaccharides (heteroglycans).",
+      "explanation": "Classification depends on whether the polymer is built from a single type of monomer or a mixture of different monosaccharide units."
+    },
+    {
+      "id": "CARB_SA_091",
+      "type": "shortanswer",
+      "text": "What is a homopolysaccharide?",
+      "answer": "They are composed of single kind of repeated monosaccharides.",
+      "explanation": "Examples include starch, glycogen, and cellulose, which yield only a single type of monosaccharide upon complete chemical hydrolysis."
+    },
+    {
+      "id": "CARB_SA_092",
+      "type": "shortanswer",
+      "text": "Give examples of homopolysaccharides.",
+      "answer": "Starch, and glycogen.",
+      "explanation": "Both function as major macromolecular storage reserves of D-glucose, with starch found in plants and glycogen in animals."
+    },
+    {
+      "id": "CARB_SA_093",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of starch?",
+      "answer": "Glucose units.",
+      "explanation": "Complete acid or enzymatic digestion of starch breaks all glycosidic bonds, converting the polymer entirely into D-glucose monomers."
+    },
+    {
+      "id": "CARB_SA_094",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of glycogen?",
+      "answer": "Glucose units.",
+      "explanation": "Glycogenolysis breaks down the branched polymer to release glucose molecules, maintaining systemic blood sugar levels during fasting."
+    },
+    {
+      "id": "CARB_SA_095",
+      "type": "shortanswer",
+      "text": "What are the characteristics of glycogen?",
+      "answer": "It is composed of glucose units. It is the stored form of a carbohydrate in animal kingdom. It has highly branched structure.",
+      "explanation": "Its highly branched design creates many non-reducing ends, allowing enzymes to rapidly release glucose during periods of high energy demand."
+    },
+    {
+      "id": "CARB_SA_096",
+      "type": "shortanswer",
+      "text": "What are the glycosidic linkages present in starch and glycogen?",
+      "answer": "alpha 1,4 1,6.",
+      "explanation": "Alpha-1,4 links form the linear chains of the polymer, while alpha-1,6 linkages create the branch points every few glucose units."
+    },
+    {
+      "id": "CARB_SA_097",
+      "type": "shortanswer",
+      "text": "What is the reserve carbohydrate in plant kingdom?",
+      "answer": "Starch.",
+      "explanation": "Starch is stored in plant plastids and consists of two structural forms: linear amylose and branched amylopectin."
+    },
+    {
+      "id": "CARB_SA_098",
+      "type": "shortanswer",
+      "text": "What is the end product of action of pancreatic amylase on starch?",
+      "answer": "Maltose.",
+      "explanation": "Pancreatic amylase cleaves internal alpha-1,4 bonds, breaking starch down into maltose, maltotriose, and alpha-limit dextrins."
+    },
+    {
+      "id": "CARB_SA_099",
+      "type": "shortanswer",
+      "text": "Cellulose and starch are polysaccharides made of glucose, but cellulose cannot be digested by human beings, why?",
+      "answer": "Cellulose contains beta 1,4 linkages, which cannot be digested by human enzymes.",
+      "explanation": "The human digestive tract lacks cellulase enzymes capable of hydrolyzing beta-1,4 glycosidic bonds, rendering cellulose dietary fiber."
+    },
+    {
+      "id": "CARB_SA_100",
+      "type": "shortanswer",
+      "text": "What is inulin?",
+      "answer": "It is a homopolysaccharide, composed of fructose units.",
+      "explanation": "Inulin is a plant-derived fructan polymer linked by beta-2,1 bonds, functioning as an alternative carbohydrate storage molecule."
+    },
+    {
+      "id": "CARB_SA_101",
+      "type": "shortanswer",
+      "text": "What is the medical use of inulin?",
+      "answer": "Inulin clearance is used as one of kidney function tests. It measures glomerular filtration rate.",
+      "explanation": "Inulin is freely filtered by the glomerulus and is neither reabsorbed nor secreted by the renal tubules, making it an ideal marker for GFR."
+    },
+    {
+      "id": "CARB_SA_102",
+      "type": "shortanswer",
+      "text": "What are sources of inulin?",
+      "answer": "Root of artichokes and other plants.",
+      "explanation": "It is extracted commercially from chicory roots, Jerusalem artichokes, and dahlia tubers for clinical and nutritional applications."
+    },
+    {
+      "id": "CARB_SA_103",
+      "type": "shortanswer",
+      "text": "What are heteropolysaccharides?",
+      "answer": "They are composed of two or more different monosaccharides.",
+      "explanation": "These complex structures contain diverse sugar backbones often modified with amino, sulfate, or carboxyl groups."
+    },
+    {
+      "id": "CARB_SA_104",
+      "type": "shortanswer",
+      "text": "Give examples of heteropolysaccharides.",
+      "answer": "Glycosaminglycans (mucopolysaccharides).",
+      "explanation": "Commonly abbreviated as GAGs, these molecules form an essential structural component of the extracellular matrix."
+    },
+    {
+      "id": "CARB_SA_105",
+      "type": "shortanswer",
+      "text": "What are glycosaminoglycans?",
+      "answer": "They contain uronic acid and amino sugars.",
+      "explanation": "GAGs are long, unbranched polysaccharides composed of repeating disaccharide units containing an amino sugar and a uronic acid."
+    },
+    {
+      "id": "CARB_SA_106",
+      "type": "shortanswer",
+      "text": "Enumerate glycosaminoglycans you know.",
+      "answer": "Hyaluronic acid, chondroitin sulfate, keratan sulfate, dermatan sulfate, heparin and heparan sulfate.",
+      "explanation": "These polyanionic compounds are widely distributed across connective, epithelial, neural, and vascular tissues."
+    },
+    {
+      "id": "CARB_SA_107",
+      "type": "shortanswer",
+      "text": "Which glycosaminoglycans do not contain uronic acid?",
+      "answer": "Keratan sulfate.",
+      "explanation": "Unlike other standard GAG families, keratan sulfate uses galactose instead of a uronic acid within its repeating disaccharide unit."
+    },
+    {
+      "id": "CARB_SA_108",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of keratan sulfate?",
+      "answer": "The repeated disaccharide unit consists of galactose (no uronic acid), with sulfate on C6 and N-acetylglucosamine with sulfate on C6.",
+      "explanation": "Complete breakdown releases galactose, N-acetylglucosamine, and inorganic sulfate ions."
+    },
+    {
+      "id": "CARB_SA_109",
+      "type": "shortanswer",
+      "text": "What are the functions of keratan sulfate?",
+      "answer": "It plays an important role in corneal transparency.",
+      "explanation": "Found abundantly in the corneal stroma, its specific hydration properties maintain proper collagen spacing required for optical clarity."
+    },
+    {
+      "id": "CARB_SA_110",
+      "type": "shortanswer",
+      "text": "Hyaluronic acid is seen in which tissues?",
+      "answer": "Connective tissue, synovial fluid, tendons, and vitreous humor.",
+      "explanation": "It is distributed widely throughout the body, serving structural and lubricating roles in tissues subject to friction or deformation."
+    },
+    {
+      "id": "CARB_SA_111",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of heparin?",
+      "answer": "The repeated disaccharide unit consists of L-induronic acid with sulfate on C2 and glucosamine with sulfate on C3 and C6.",
+      "explanation": "Heparin is highly sulfated, giving it the highest negative charge density of any known biological macromolecule."
+    },
+    {
+      "id": "CARB_SA_112",
+      "type": "shortanswer",
+      "text": "What are the functions of heparin?",
+      "answer": "It acts as anticoagulant.",
+      "explanation": "Heparin binds and activates antithrombin III, accelerating its inhibition of thrombin and factor Xa to prevent blood clotting."
+    },
+    {
+      "id": "CARB_SA_113",
+      "type": "shortanswer",
+      "text": "What is heparan?",
+      "answer": "Heparan sulfate (which has the same structure as heparin except some glucosamines are acetylated with fewer sulfate groups).",
+      "explanation": "Heparan sulfate is an extracellular matrix component with a lower overall degree of sulfation than intracellular heparin granules."
+    },
+    {
+      "id": "CARB_SA_114",
+      "type": "shortanswer",
+      "text": "What are the functions of heparan?",
+      "answer": "It is a component of cell membrane and act as a receptor. It participates in cell adhesion and cell-cell interaction. It is present also in basement membrane of the kidney and plays an important role determining the charge selectiveness of glomerular filtration.",
+      "explanation": "Its strong negative charges within the glomerular basement membrane help repel plasma proteins like albumin, preventing proteinuria."
+    },
+    {
+      "id": "CARB_SA_115",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of hyaluronic acid?",
+      "answer": "Repeated disaccharide unit consists of glucuronic acid and N- acetylglucosamine.",
+      "explanation": "Hyaluronic acid is unique among GAGs because it is completely non-sulfated and is synthesized directly at the plasma membrane rather than the Golgi."
+    },
+    {
+      "id": "CARB_SA_116",
+      "type": "shortanswer",
+      "text": "What are the functions of hyaluronic acid?",
+      "answer": "It makes extracellular matrix loose because of its ability to attract water, It makes cartilage compressible, It acts as a lubricant in joints and It permits cell migration during wound repair and morphogenesis.",
+      "explanation": "Its high visco-elastic properties and water retention capacity provide essential lubrication and shock absorption in synovial joints."
+    },
+    {
+      "id": "CARB_SA_117",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of chondroitin-4-sulfate?",
+      "answer": "Repeated disaccharide unit consists of glucuronic acid and N- acetylglucosamine.",
+      "explanation": "This sulfated GAG releases regular yields of D-glucuronic acid and sulfated N-acetylgalactosamine residues upon complete hydrolysis."
+    },
+    {
+      "id": "CARB_SA_118",
+      "type": "shortanswer",
+      "text": "What are the functions of chondroitin sulfate?",
+      "answer": "It helps to maintain the shape of skeletal system, It has a role in compressibility of cartilage in weight bearing and In cartilage it binds collagen and hold fibers in strong network.",
+      "explanation": "It provides structural resistance against compressive forces, making it a vital component of cartilage, bone, and vascular walls."
+    },
+    {
+      "id": "CARB_SA_119",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of dermatan sulfate ?",
+      "answer": "The repeated disaccharide unit consists of L-induronic acid and N-acetylgalactosamine with sulfate on C6.",
+      "explanation": "Dermatan sulfate is formed via the structural epimerization of D-glucuronic acid residues into L-iduronic acid within the polymer."
+    },
+    {
+      "id": "CARB_SA_120",
+      "type": "shortanswer",
+      "text": "What are the functions of dermatan sulfate?",
+      "answer": "In cornea, it plays-together with keratan sulfate, an important role in corneal transparency. Its presence in sclera may play a role in maintaining the overall shape of the eye.",
+      "explanation": "It interacts closely with extracellular collagen fibrils, regulating matrix organization and fibril diameters in structural tissues like the sclera and skin."
+    },
+    {
+      "id": "CARB_C_121",
+      "type": "compare",
+      "text": "What are the differences between glycoproteins and proteoglycans?",
+      "aspects": [
+        "Carbohydrate component",
+        "Types of sugar",
+        "Sulfate group",
+        "Size of carbohydrate component",
+        "Repeating structure",
+        "Shape of carbohydrate component",
+        "Functions"
+      ],
+      "itemA": {
+        "name": "GLYCOPROTEINS",
+        "values": [
+          "Oligosaccharide units",
+          "Contain no uronic acid Acetylhexosamine Hexoses as galactose and mannose Pentoses: as arabinose and xylose. Methylpentoses: L-fucose",
+          "Contain no sulfate",
+          "2-15 units.",
+          "Little or none.",
+          "Usually branched",
+          "Extracellular matrix Mucin. Blood group antigens e.g. A, B and AB. Cell receptors. Glycophorins. Plasma proteins. Some hormones. Enzymes. Antibodies \"immunoglobulins\""
+        ]
+      },
+      "itemB": {
+        "name": "PROTEOGLYCANS",
+        "values": [
+          "Glycosaminoglycans",
+          "Contain uronic acid as glucuronic and induronic acids. Acetylhexosamine. Hexoses as galactose. Sugar amines as glucosamines.",
+          "Contain sulfate.",
+          "More than 50 units.",
+          "Repeating disaccharides.",
+          "Linear, unbranched.",
+          "1) Ground substances and supporting tissues as cartilage, bones and tendons. 2) Cell membrane."
+        ]
+      },
+      "explanation": "Proteoglycans are a specialized subclass of glycoproteins where the carbohydrate density is overwhelmingly predominant (often up to 95% by weight) and consists strictly of long, sulfated, unbranched GAG chains."
+    },
+    {
+      "id": "CARB_C_122",
+      "type": "compare",
+      "text": "Compare between glucose and fructose.",
+      "aspects": [
+        "Active carbonyl group",
+        "Sources",
+        "Optical activity",
+        "Function",
+        "Ketose test"
+      ],
+      "itemA": {
+        "name": "Glucose (dextrose)",
+        "values": [
+          "Aldehyde group",
+          "Grape",
+          "Dextrorotatory",
+          "Blood sugar",
+          "Ve-"
+        ]
+      },
+      "itemB": {
+        "name": "Fructose (Levulose)",
+        "values": [
+          "Ketone group",
+          "Onion and other fruits",
+          "Levorotatory",
+          "Semen sugar",
+          "Ve+"
+        ]
+      },
+      "explanation": "Glucose and fructose are structural functional-group isomers sharing the chemical formula C6H12O6. Glucose forms a stable 6-membered pyranose ring while fructose forms a 5-membered furanose ring in solution."
+    },
+    {
+      "id": "CARB_C_123",
+      "type": "compare",
+      "text": "What are the differences between keratan sulfate, creatine, creatinine, keratin, carnitine and carnosine?",
+      "aspects": [
+        "NATURE (STRUCTURE)",
+        "FUNCTION"
+      ],
+      "itemA": {
+        "name": "Keratan sulfate / Creatine / Creatinine",
+        "values": [
+          "Keratan sulfate: Glycosaminoglycans (Carbohydrate) | Creatine: Methyl guanido acetic acid (amino acid derivative) | Creatinine: Anhydrous creatine",
+          "Keratan sulfate: Plays an important role in corneal transparency. | Creatine: Creatine phosphate is a source of energy in muscles. | Creatinine: End product of creatine, excreted in urine."
+        ]
+      },
+      "itemB": {
+        "name": "Keratin / Carnitine / Carnosine",
+        "values": [
+          "Keratin: Simple protein | Carnitine: ẞ hydroxy y trimethyl amino butyric acid | Carnosine: Results from conjugation of histidine and ẞ-alanine",
+          "Keratin: Present in hair, nail and skin | Carnitine: Fatty acid carrier | Carnosine: Unknown"
+        ]
+      },
+      "explanation": "This group distinguishes look-alike and sound-alike biochemical terms spanning structural carbohydrates (GAGs), structural fibrous proteins, amino acid metabolites, lipid carriers, and specialized dipeptides."
+    },
+    {
+      "id": "CARB_C_124",
+      "type": "compare",
+      "text": "Compare between glycogen, cellulose and starch:",
+      "aspects": [
+        "Units",
+        "Structure",
+        "Enzyme digestion by",
+        "Iodine reaction",
+        "Functions"
+      ],
+      "itemA": {
+        "name": "Glycogen / Cellulose",
+        "values": [
+          "Glycogen: a Glucose | Cellulose: ẞ Glucose",
+          "Glycogen: branching chains (a 1,4 and a 1,6). | Cellulose: Non-branching chains (β 1,4).",
+          "Glycogen: Salivary and pancreatic amylase | Cellulose: Not digested",
+          "Glycogen: Violet color | Cellulose: No color",
+          "Glycogen: Storage form of carbohydrate mainly in liver to maintain blood glucose in between meals. | Cellulose: *Supportive element in plants. *Makes stool bulky and prevent constipation."
+        ]
+      },
+      "itemB": {
+        "name": "Starch",
+        "values": [
+          "a Glucose",
+          "Amylose: non-branching chains (α 1,4). Amylopectin: branching chains (a1,4 and a 1,6).",
+          "Salivary and pancreatic amylase",
+          "Blue color",
+          "Storage form of carbohydrate in plants. It is the main sources of carbohydrates for animals and human."
+        ]
+      },
+      "explanation": "The key physiological variance lies in the stereochemistry of the glycosidic linkage. Human digestive amylases possess absolute specificity for alpha-1,4 links and cannot hydrolyze the beta-1,4 chains found in cellulose structural fibers."
+    },
+    {
+      "id": "CARB_C_125",
+      "type": "compare",
+      "text": "Compare between Sucrose and invert sugar:",
+      "aspects": [
+        "Sources",
+        "Structure",
+        "Optical activity",
+        "Properties"
+      ],
+      "itemA": {
+        "name": "Sucrose",
+        "values": [
+          "Cane and beets",
+          "Formed of a-glucose and ẞfructose- linked together by 1-2 linkage.",
+          "Dextrorotatory.",
+          "➤ Contains no free carbonyl group, so It is not a reducing sugar. ➤ It cannot be present in a and forms. ➤ It cannot show mutarotation. ➤ It cannot form osazone crystals."
+        ]
+      },
+      "itemB": {
+        "name": "Invert sugar",
+        "values": [
+          "Sugar of bee honey",
+          "Formed of mixture contains the same number of glucose and fructose.",
+          "Levorotatory",
+          "➤ Contains free carbonyl groups, so it is a reducing sugar. ➤ It can be present in a and ẞ forms. ➤ It can show mutarotation. ➤ It can form osazone crystals."
+        ]
+      },
+      "explanation": "Invert sugar is produced via the hydrolysis of sucrose. This enzymatic or acid cleaving shifts the optical activity from dextrorotatory to net levorotatory because the strong levorotatory property of free fructose (-91°) overpowers the dextrorotatory property of free glucose (+52.5°)."
+    },
+    {
+      "id": "CARB_C_126",
+      "type": "compare",
+      "text": "Compare between maltose, sucrose and lactose.",
+      "aspects": [
+        "Other name",
+        "Units",
+        "Bond",
+        "digestion by",
+        "Free carbonyl group",
+        "Optical activity, mutarotation and reduction of Benedict's"
+      ],
+      "itemA": {
+        "name": "Maltose / Lactose",
+        "values": [
+          "Maltose: Malt sugar | Lactose: Milk sugar",
+          "Maltose: 2 Glucose units | Lactose: Glucose+ Galactose",
+          "Maltose: a 1,4 Glucosidic | Lactose: 1,4 Galactosidic",
+          "Maltose: Maltase | Lactose: Lactase",
+          "Maltose: Present | Lactose: Present",
+          "Maltose: Ve+ | Lactose: Ve+"
+        ]
+      },
+      "itemB": {
+        "name": "Sucrose",
+        "values": [
+          "Table, beet or cane sugar",
+          "Glucose+Fructose",
+          "a 1-Glucose 2-fructose",
+          "Sucrase",
+          "Absent",
+          "Ve-"
+        ]
+      },
+      "explanation": "Maltose and lactose are hemiacetals that preserve a free, unbonded anomeric center on their terminal sugar ring, making them reducing sugars. Sucrose is a full acetal where both reactive functional centers are completely locked in the glycosidic bond."
+    },
+    {
+      "id": "CARB_MCQ_001",
+      "type": "mcq",
+      "text": "Hydrolysis of sucrose yields:",
+      "options": [
+        "A) Only glucose",
+        "B) Only galactose",
+        "C) Galactose and glucose",
+        "D) Fructose and glucose",
+        "E) Only fructose"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Hydrolysis of sucrose yields an equal mixture of glucose and fructose, not glucose alone.",
+        "Wrong: Galactose is not a component of sucrose; it is found in lactose.",
+        "Wrong: This describes the hydrolysis products of lactose, not sucrose.",
+        "Correct: Sucrose is a disaccharide composed of glucose and fructose linked by an alpha-1, beta-2 glycosidic bond.",
+        "Wrong: Hydrolysis yields both fructose and glucose, not fructose alone."
+      ],
+      "explanation": "Sucrose is an alpha-1, beta-2 disaccharide made of one D-glucose and one D-fructose unit. Hydrolysis breaks this bond to yield both free hexose monomers."
+    },
+    {
+      "id": "CARB_MCQ_002",
+      "type": "mcq",
+      "text": "Heparin is:",
+      "options": [
+        "A) A disaccharide",
+        "B) An oligosaccharide",
+        "C) A sulfated mucopolysaccharide",
+        "D) An amino sugar",
+        "E) A heptulose"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Heparin is a long-chain polymer (polysaccharide), not a short disaccharide.",
+        "Wrong: It contains far more than a few monosaccharide units, classifying it as a polysaccharide.",
+        "Correct: Heparin is a highly sulfated glycosaminoglycan (also traditionally known as a mucopolysaccharide) that acts as an anticoagulant.",
+        "Wrong: While it contains amino sugars in its repeating units, the molecule as a whole is a complex polysaccharide.",
+        "Wrong: A heptulose is a 7-carbon monosaccharide; heparin is a complex macromolecular polymer."
+      ],
+      "explanation": "Heparin is a highly sulfated glycosaminoglycan (mucopolysaccharide) that serves as a powerful systemic anticoagulant by activating antithrombin III."
+    },
+    {
+      "id": "CARB_MCQ_003",
+      "type": "mcq",
+      "text": "Ribitol is:",
+      "options": [
+        "A) Deoxy sugar",
+        "B) Sugar alcohol",
+        "C) Amino sugar",
+        "D) Sugar acid",
+        "E) Sugar phosphate"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Deoxy sugars lack an oxygen atom (like deoxyribose); ribitol is fully oxygenated but reduced.",
+        "Correct: Ribitol is a crystalline polyol (sugar alcohol) derived from the reduction of ribose.",
+        "Wrong: It does not contain an amino (-NH2) group.",
+        "Wrong: It features hydroxyl groups instead of a carboxyl (-COOH) acid group.",
+        "Wrong: It is a free sugar alcohol, not esterified with a phosphate group here."
+      ],
+      "explanation": "Ribitol is the polyol (sugar alcohol) formed by reducing the carbonyl group of ribose. It is a critical component of riboflavin (Vitamin B2)."
+    },
+    {
+      "id": "CARB_MCQ_004",
+      "type": "mcq",
+      "text": "Which of the following is a ketose?",
+      "options": [
+        "A) Galactose",
+        "B) Fructose",
+        "C) Fucose",
+        "D) Mannose",
+        "E) Xylose"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Galactose is an aldohexose containing an aldehyde group at C-1.",
+        "Correct: Fructose contains a functional ketone group at the C-2 position, making it a classic ketohexose.",
+        "Wrong: Fucose is a deoxyaldohexose sugar.",
+        "Wrong: Mannose is an aldohexose (the C-2 epimer of glucose).",
+        "Wrong: Xylose is an aldopentose sugar containing an aldehyde functional group."
+      ],
+      "explanation": "Fructose contains an internal ketone group located at the C-2 position, making it a ketohexose, while glucose, galactose, and mannose are aldohexoses."
+    },
+    {
+      "id": "CARB_MCQ_005",
+      "type": "mcq",
+      "text": "Glucose is:",
+      "options": [
+        "A) Source of energy",
+        "B) Not reducing sugar",
+        "C) Ketohexose",
+        "D) Not optically active",
+        "E) Pentosugar"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Glucose is the primary metabolic carbohydrate fuel utilized by human cells to synthesize ATP.",
+        "Wrong: Glucose has a free anomeric carbon/aldehyde group in its open form, making it a strong reducing sugar.",
+        "Wrong: Glucose is an aldohexose, not a ketohexose.",
+        "Wrong: Glucose contains multiple asymmetric chiral centers and is highly optically active (dextrorotatory).",
+        "Wrong: Glucose contains 6 carbons, making it a hexose, not a 5-carbon pentose."
+      ],
+      "explanation": "Glucose is the primary metabolic fuel utilized by human cells to generate ATP through glycolysis and aerobic respiration."
+    },
+    {
+      "id": "CARB_MCQ_006",
+      "type": "mcq",
+      "text": "Lactose is:",
+      "options": [
+        "A) Milk sugar",
+        "B) Milk protein",
+        "C) Blood sugar",
+        "D) Semen sugar",
+        "E) Non reducing sugar"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Lactose is synthesized in the mammary glands and is the primary sugar found in milk.",
+        "Wrong: Lactose is a carbohydrate (disaccharide), not a protein like casein or whey.",
+        "Wrong: Glucose is the predominant blood sugar, not lactose.",
+        "Wrong: Fructose is the characteristic sugar found in semen.",
+        "Wrong: Lactose retains a free anomeric carbon on its glucose residue, making it a reducing sugar."
+      ],
+      "explanation": "Lactose is a disaccharide found uniquely in mammalian milk, composed of galactose and glucose joined via a beta-1,4 glycosidic bond."
+    },
+    {
+      "id": "CARB_MCQ_007",
+      "type": "mcq",
+      "text": "Digestion of dietary starch produces all the following compounds EXCEPT:",
+      "options": [
+        "A) Maltose",
+        "B) Lactose",
+        "C) Amylodextrin dextrin",
+        "D) Achrodextrin",
+        "E) Isomaltose"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Amylase breaks down the linear alpha-1,4 bonds of starch into maltose disaccharides.",
+        "Correct: Lactose is milk sugar made with galactose. Starch is made exclusively of glucose units, so its digestion can never produce lactose.",
+        "Wrong: Amylodextrin is an intermediate partial-breakdown dextrin product of starch digestion.",
+        "Wrong: Achrodextrin is a smaller molecular weight dextrin stage during enzymatic starch cleavage.",
+        "Wrong: Isomaltose is produced from the digestion of the alpha-1,6 branch points found in amylopectin."
+      ],
+      "explanation": "Starch is composed entirely of glucose polymers. Amylase cleavage breaks it into maltose, isomaltose, and dextrins, but never yields lactose (which contains galactose)."
+    },
+    {
+      "id": "CARB_MCQ_008",
+      "type": "mcq",
+      "text": "Gluconic acid, gluccharic acid and glucuronic acid are produced from glucose by:",
+      "options": [
+        "A) Reduction",
+        "B) Oxidation",
+        "C) Hydrolysis",
+        "D) Hydroxylation"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Reducing glucose converts its carbonyl group into a sugar alcohol (sorbitol), not a sugar acid.",
+        "Correct: Sugar acids are exclusively produced by the chemical or enzymatic oxidation of the aldehyde and/or terminal hydroxyl groups of glucose.",
+        "Wrong: Hydrolysis breaks glycosidic bonds and does not transform glucose into sugar acids.",
+        "Wrong: Hydroxylation adds hydroxyl groups but does not yield carboxyl groups from glucose."
+      ],
+      "explanation": "Oxidizing different carbons of glucose yields different sugar acids: C1 yields gluconic, C6 yields glucuronic, and oxidizing both C1 and C6 yields glucosaccharic acid."
+    },
+    {
+      "id": "CARB_MCQ_009",
+      "type": "mcq",
+      "text": "Hydrolysis of lactose produces:",
+      "options": [
+        "A) Two molecules of glucose",
+        "B) Glucose and fructose",
+        "C) Glucose and galactose",
+        "D) Glucose and mannose",
+        "E) Galactose and mannose"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Cleaving maltose yields two glucose units, not lactose.",
+        "Wrong: This is the product of sucrose cleavage.",
+        "Correct: Lactose is composed of one D-galactose molecule and one D-glucose molecule linked together.",
+        "Wrong: Mannose is not a structural component of lactose.",
+        "Wrong: Lactose does not contain mannose, and it releases glucose upon breakdown."
+      ],
+      "explanation": "Lactase breaks down lactose into its two constituent monosaccharide components: D-glucose and D-galactose."
+    },
+    {
+      "id": "CARB_MCQ_010",
+      "type": "mcq",
+      "text": "Contain(s) more a (1-6) than \\alpha(1-4) linkages.",
+      "options": [
+        "A) Muscle glycogen",
+        "B) Liver glycogen",
+        "C) Both of them.",
+        "D) Neither of them"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Muscle glycogen is branched but still relies mostly on linear alpha-1,4 linkages for its chains.",
+        "Wrong: Liver glycogen features branching approximately every 8-10 residues, but the vast majority of its bonds are still alpha-1,4.",
+        "Wrong: Neither tissue variant tips the ratio to have more branch points than linear bonds.",
+        "Correct: Both forms of glycogen are primarily polymers of alpha-1,4 chains, with alpha-1,6 bonds comprising only a minor percentage (around 8-10%) at the branch points."
+      ],
+      "explanation": "Both liver and muscle glycogen are highly branched polymers, but they still consist predominantly of linear alpha-1,4 chains, with alpha-1,6 linkages occurring only at branch points (approx. 8-10% of total bonds)."
+    },
+    {
+      "id": "CARB_MCQ_011",
+      "type": "mcq",
+      "text": "Fucose is:",
+      "options": [
+        "A) Aldopentose",
+        "B) Ketohexose",
+        "C) deoxysugar",
+        "D) Disaccharide",
+        "E) Homopolysaccharide"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Fucose has six carbon atoms, not five.",
+        "Wrong: Fucose contains a terminal aldehyde structure, not a ketone.",
+        "Correct: Fucose (specifically L-fucose) is an uncharged deoxyhexose sugar where the hydroxyl group at C-6 is replaced with a hydrogen atom.",
+        "Wrong: It is a single monosaccharide unit, not two rings linked together.",
+        "Wrong: It is a monomer, not a massive high molecular weight complex polymer."
+      ],
+      "explanation": "L-fucose is a deoxyhexose sugar (specifically, 6-deoxy-L-galactose) commonly found on cell-surface glycoproteins and human blood group antigens."
+    },
+    {
+      "id": "CARB_MCQ_012",
+      "type": "mcq",
+      "text": "Hyaluronic acid is:",
+      "options": [
+        "A) Glycoprotein",
+        "B) Sulfated glucuronic acid",
+        "C) Repeated disaccharide formed of glucuronic acid and N-acetyl glucosamine",
+        "D) High molecular weight positively charged homopolysaccharide",
+        "E) Lipoprotein"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Hyaluronic acid is a pure carbohydrate polymer (glycosaminoglycan), not a protein conjugate.",
+        "Wrong: Hyaluronic acid is explicitly unique among GAGs because it contains no sulfate groups.",
+        "Correct: Hyaluronic acid is an unbranched glycosaminoglycan built from repeating disaccharide units of D-glucuronic acid and N-acetylglucosamine.",
+        "Wrong: It is a heteropolysaccharide bearing highly negative charges due to its carboxyl groups, not positive.",
+        "Wrong: It contains no lipid or fatty acid fractions."
+      ],
+      "explanation": "Hyaluronic acid is a unique non-sulfated GAG built from repeating disaccharide units of D-glucuronic acid and N-acetylglucosamine."
+    },
+    {
+      "id": "CARB_MCQ_013",
+      "type": "mcq",
+      "text": "Glucose:",
+      "options": [
+        "A) is a ketose",
+        "B) has an anomeric carbon number 2",
+        "C) forms a part of disaccharide sucrose",
+        "D) is reduced to form mannitol",
+        "E) is usually present in furanose form"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Glucose is an aldose sugar with its functional carbonyl at the chain terminus.",
+        "Wrong: Its reactive anomeric center is located at carbon number 1.",
+        "Correct: Glucose condenses with fructose via an alpha-1, beta-2 linkage to form sucrose.",
+        "Wrong: Reducing glucose creates sorbitol (glucitol); reducing fructose or mannose yields mannitol.",
+        "Wrong: In aqueous solutions, glucose predominantly wraps into a 6-membered pyranose ring structure (>99%)."
+      ],
+      "explanation": "Glucose joins with fructose to build sucrose. Its anomeric carbon is C-1, it is an aldose, and in solution it adopts a 6-membered pyranose form."
+    },
+    {
+      "id": "CARB_MCQ_014",
+      "type": "mcq",
+      "text": "Amylose is formed of:",
+      "options": [
+        "A) a 1-4 glucose residues",
+        "B) 1-4 glucose residues",
+        "C) α 1-4, a 1-6 glucose residues",
+        "D) β 1-4, β 1-6 glucose residues",
+        "E) a 1-1, glucose residues"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Amylose is a completely linear homopolysaccharide consisting exclusively of alpha-1,4 glycosidic linkages.",
+        "Wrong: This lacks the stereochemical alpha designation necessary to specify starch configuration.",
+        "Wrong: This option includes alpha-1,6 links, which describes the branched amylopectin or glycogen fractions.",
+        "Wrong: Beta linkages are found in structural cellulose, not in digestible starch components like amylose.",
+        "Wrong: An alpha-1,1 bond links trehalose, not starch polymers."
+      ],
+      "explanation": "Amylose is the linear, unbranched structural component of starch, consisting entirely of D-glucose units linked via alpha-1,4 glycosidic bonds."
+    },
+    {
+      "id": "CARB_MCQ_015",
+      "type": "mcq",
+      "text": "Amylose is:",
+      "options": [
+        "A) Branched homopolysaccharide",
+        "B) Linear homopolysaccharide",
+        "C) Linear heteropolysaccharide",
+        "D) A salivary enzyme",
+        "E) Pancreatic enzyme"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Amylopectin is the branched component of starch; amylose is unbranched.",
+        "Correct: Amylose is a single straight chain of alpha-1,4 linked glucose units, making it a linear homopolysaccharide.",
+        "Wrong: It is a homopolysaccharide because it consists solely of glucose, not mixed sugar types.",
+        "Wrong: It is a dietary substrate, not a biological digestive enzyme (like salivary amylase).",
+        "Wrong: It is hydrolyzed by pancreatic enzymes but is not an enzyme itself."
+      ],
+      "explanation": "Amylose is a straight-chain homopolysaccharide made solely of glucose units. Amylopectin represents the branched counterpart in starch."
+    },
+    {
+      "id": "CARB_MCQ_016",
+      "type": "mcq",
+      "text": "Glycogen contains:",
+      "options": [
+        "A) More ẞ 1,4 than ẞ 1,6 bonds",
+        "B) More 1,6 than ẞ 1,4 bonds",
+        "C) More a 1,4 than a 1,6 bonds",
+        "D) More a 1,6 than a 1,4 bonds",
+        "E) An equal number of 1,4 and 1,6 bonds"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Glycogen features alpha-stereochemical configurations, not beta-1,4 bonds.",
+        "Wrong: Branching links are alpha, not beta, and they are much less frequent than the linear framework.",
+        "Correct: Glycogen is a heavily branched polymer, but its core structure still consists mostly of linear alpha-1,4 segments with periodic alpha-1,6 branches.",
+        "Wrong: There are far fewer branch points (alpha-1,6) than chain elongation units (alpha-1,4).",
+        "Wrong: The proportions are unequal, with alpha-1,4 linkages heavily dominating the molecular mass."
+      ],
+      "explanation": "Like amylopectin, glycogen contains core linear segments linked by alpha-1,4 bonds, with alpha-1,6 bonds found less frequently at the branching spots."
+    },
+    {
+      "id": "CARB_MCQ_017",
+      "type": "mcq",
+      "text": "Sucrose is:",
+      "options": [
+        "A) A fructose polymer",
+        "B) A disaccharide containing glucose and fructose",
+        "C) A reducing disaccharide",
+        "D) Can undergo mutarotation",
+        "E) Can form osazone crystals"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Inulin is a fructose polymer; sucrose is a short dimeric sugar.",
+        "Correct: Sucrose is a standard dietary disaccharide built from one D-glucose combined with one D-fructose.",
+        "Wrong: It locks both anomeric carbons, making it non-reducing.",
+        "Wrong: Because its anomeric centers cannot open up in solution, it cannot undergo mutarotation.",
+        "Wrong: It fails to react with phenylhydrazine to yield insoluble osazone crystal structures."
+      ],
+      "explanation": "Sucrose links the anomeric carbons of glucose and fructose together, locking the rings and rendering it non-reducing, without mutarotation or osazone properties."
+    },
+    {
+      "id": "CARB_MCQ_018",
+      "type": "mcq",
+      "text": "A sulfate group can be obtained by hydrolysis of:",
+      "options": [
+        "A) Heparin",
+        "B) Hyaluronic acid",
+        "C) Fucose",
+        "D) Sialic acid",
+        "E) Inulin"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Heparin contains extensive O-sulfate and N-sulfate ester groups that release free sulfate when hydrolyzed.",
+        "Wrong: Hyaluronic acid is the classic example of a non-sulfated glycosaminoglycan.",
+        "Wrong: Fucose is an uncharged deoxy monosaccharide containing no sulfate modifications.",
+        "Wrong: Sialic acid (NANA) is an acidic amino sugar but lacks any sulfate groups.",
+        "Wrong: Inulin is a pure unbranched fructose homopolysaccharide containing no mineral esters."
+      ],
+      "explanation": "Heparin is highly sulfated. Hydrolyzing its ester links releases these inorganic sulfate groups, unlike hyaluronic acid which contains no sulfate."
+    },
+    {
+      "id": "CARB_MCQ_019",
+      "type": "mcq",
+      "text": "The two sugar units of disaccharides are connected by:",
+      "options": [
+        "A) O-Glycosidic bond",
+        "B) N-Glycosidic bond",
+        "C) Peptide bond",
+        "D) Phosphodiester bond",
+        "E) Disulfide bond"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Monosaccharides condense together by removing a water molecule to form an ether-like carbon-oxygen-carbon (O-glycosidic) link.",
+        "Wrong: N-glycosidic links attach sugars to nucleotide bases or glycoprotein asparagine side chains.",
+        "Wrong: Peptide bonds unite amino acid residues into structural proteins.",
+        "Wrong: Phosphodiester linkages build the structural backbones of DNA and RNA nucleic acid strands.",
+        "Wrong: Disulfide bonds are covalent cross-links that stabilize the tertiary shapes of proteins."
+      ],
+      "explanation": "Monosaccharides link covalently through a condensation reaction involving an oxygen atom, forming an O-glycosidic linkage."
+    },
+    {
+      "id": "CARB_MCQ_020",
+      "type": "mcq",
+      "text": "The following carbohydrates are formed of glucose units only EXCEPT:",
+      "options": [
+        "A) Glycogen",
+        "B) Cellulose",
+        "C) Maltose",
+        "D) Lactose",
+        "E) Starch"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Glycogen is an animal storage polymer composed exclusively of D-glucose.",
+        "Wrong: Cellulose is a plant structural framework built purely of beta-D-glucose units.",
+        "Wrong: Maltose is a simple disaccharide consisting of two alpha-D-glucose monomers.",
+        "Correct: Lactose stands out because its structural hydrolysis yields both D-galactose and D-glucose.",
+        "Wrong: Starch is a plant homoglycan complex constructed entirely from glucose rings."
+      ],
+      "explanation": "Lactose is formed from a molecule of D-galactose combined with a molecule of D-glucose, whereas the other options are exclusively glucans."
+    },
+    {
+      "id": "CARB_MCQ_021",
+      "type": "mcq",
+      "text": "The D configuration of a sugar is based on its analogy to:",
+      "options": [
+        "A) D-Glucose",
+        "B) a D-glucose",
+        "C) D-Fructose",
+        "D) D-Ribose",
+        "E) D-Glyceraldehyde"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Glucose is a complex hexose whose own D-status is derived from the basic triose standard.",
+        "Wrong: Anomeric alpha/beta states are distinct from the overall foundational D/L absolute configuration system.",
+        "Wrong: Fructose is a ketose and does not serve as the fundamental reference paradigm for all sugars.",
+        "Wrong: Ribose is a pentose whose absolute configuration is mapped back to the simplest asymmetric template.",
+        "Correct: Glyceraldehyde is the simplest chiral aldose carbohydrate and serves as the universal structural reference standard for configuration assignments."
+      ],
+      "explanation": "D and L stereochemical configurations are assigned by comparing the chiral center furthest from the carbonyl group to the reference chiral triose, glyceraldehyde."
+    },
+    {
+      "id": "CARB_MCQ_022",
+      "type": "mcq",
+      "text": "For a compound to be optically active it must be:",
+      "options": [
+        "A) Colored",
+        "B) A protein",
+        "C) Symmetric",
+        "D) Asymmetric",
+        "E) Plant in nature"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Optical activity depends entirely on molecular structure, not on visible light absorption or color.",
+        "Wrong: Many non-protein molecules, including simple sugars, display powerful optical activity.",
+        "Wrong: Symmetric molecules possess internal planes of symmetry that cancel out optical rotation.",
+        "Correct: Optical activity requires structural chirality (asymmetry), which allows a molecule to rotate plane-polarized light.",
+        "Wrong: Synthetic compounds and animal metabolites can be highly optically active if they are chiral."
+      ],
+      "explanation": "Optical activity requires molecular asymmetry (chirality). An asymmetric carbon atom possesses four distinct chemical groups attached to it."
+    },
+    {
+      "id": "CARB_MCQ_023",
+      "type": "mcq",
+      "text": "D-Glucose is bases on position of (-OH) to the right at:",
+      "options": [
+        "A) Carbon (1)",
+        "B) Carbon (2)",
+        "C) Carbon (3)",
+        "D) Carbon (5)",
+        "E) Carbon (6)"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Carbon-1 is the carbonyl/anomeric center and does not determine D or L configuration.",
+        "Wrong: The C-2 hydroxyl position differentiates glucose from its epimer mannose, not D from L.",
+        "Wrong: In D-glucose, the C-3 hydroxyl group points to the left.",
+        "Correct: The absolute D/L configuration of a hexose is determined by the orientation of the hydroxyl group on the highest-numbered chiral center, which is Carbon-5 in glucose.",
+        "Wrong: Carbon-6 is a symmetric primary alcohol group and is not a chiral center."
+      ],
+      "explanation": "Glucose is an aldohexose. The asymmetric center furthest from the carbonyl carbon is C-5; having its -OH group on the right defines it as a D-sugar."
+    },
+    {
+      "id": "CARB_MCQ_024",
+      "type": "mcq",
+      "text": "If you dissolve pure crystals of glucose in water and leave the solution for equilibrium, the solution will contain:",
+      "options": [
+        "A) a-Glucose only",
+        "B) -Glucose only",
+        "C) Open chain glucose only",
+        "D) A mixture of a-glucose and ẞ-glucose",
+        "E) A mixture of a, ẞ and open chain glucose"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Pure alpha crystals spontaneously open up to interconvert into other thermodynamic states.",
+        "Wrong: Beta forms are the most abundant at equilibrium but do not exist in total isolation.",
+        "Wrong: The open-chain form is highly unstable and constitutes less than 0.02% of the mixture.",
+        "Wrong: While alpha and beta are the main cyclic forms, the open-chain form is also present as an intermediate.",
+        "Correct: Mutarotation results in a dynamic equilibrium containing alpha-pyranose (~36%), beta-pyranose (~64%), and trace amounts of the open-chain form."
+      ],
+      "explanation": "Mutarotation in water forms an equilibrium mixture containing roughly 64% beta-pyranose, 36% alpha-pyranose, and trace amounts of the open-chain aldehyde intermediate."
+    },
+    {
+      "id": "CARB_MCQ_025",
+      "type": "mcq",
+      "text": "The sugar present in cane is formed by combination of a-glucose and -fructose through a linkage between the following carbons:",
+      "options": [
+        "A) 1-2",
+        "B) 1-4",
+        "C) 1-6",
+        "D) 2-6",
+        "E) 2-3"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Cane sugar (sucrose) features a unique glycosidic bond linking Carbon-1 of glucose to Carbon-2 of fructose.",
+        "Wrong: A 1-4 bond connects maltose or lactose, leaving a free anomeric end.",
+        "Wrong: A 1-6 linkage is used for branch points in glycogen or starch networks.",
+        "Wrong: This is an incorrect layout that does not match the structural linkages of natural disaccharides.",
+        "Wrong: A 2-3 linkage does not occur in standard biological disaccharide systems."
+      ],
+      "explanation": "Cane sugar (sucrose) is joined by an alpha-1, beta-2 glycosidic linkage between the C-1 anomeric carbon of glucose and the C-2 anomeric carbon of fructose."
+    },
+    {
+      "id": "CARB_MCQ_026",
+      "type": "mcq",
+      "text": "A homopolysaccharide formed of glucose units is:",
+      "options": [
+        "A) Starch",
+        "B) Dextrin",
+        "C) Cellulose",
+        "D) Cellobiose",
+        "E) Inulin"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Starch is a major plant storage homopolysaccharide composed entirely of alpha-D-glucose chains.",
+        "Wrong: Dextrins are low molecular weight oligosaccharide breakdown pieces rather than fully formed complex polysaccharides.",
+        "Wrong: Cellulose is also a glucose homopolysaccharide, but Starch is the standard textbook option for plant storage polymers.",
+        "Wrong: Cellobiose is classified as a short disaccharide, not a macromolecular polysaccharide.",
+        "Wrong: Inulin is a plant homopolysaccharide composed of fructose units, not glucose."
+      ],
+      "explanation": "Starch is a macromolecular homopolysaccharide storage complex entirely made up of glucose. (Note: Cellulose is also a homopolysaccharide, but Starch is the standard classical option alongside animal glycogen, while cellobiose is classified as a disaccharide)."
+    },
+    {
+      "id": "CARB_MCQ_027",
+      "type": "mcq",
+      "text": "Glycosaminoglycans:",
+      "options": [
+        "A) Contain repeated monosaccharides",
+        "B) Contain repeated disaccharides",
+        "C) Contain no sulfate groups",
+        "D) Contains branches of N-acetylneuraminic acid",
+        "E) Contain no uronic acids"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: They are not simple homopolymers; they are built from specific alternating dual-sugar units.",
+        "Correct: Glycosaminoglycans (GAGs) are structurally defined as long unbranched chains of repeating disaccharide units.",
+        "Wrong: Most GAGs (except hyaluronic acid) are heavily modified with highly charged sulfate groups.",
+        "Wrong: They are linear polymers and do not feature branching networks of sialic acid.",
+        "Wrong: Most GAG chains contain a characteristic uronic acid residue as one half of their repeating unit."
+      ],
+      "explanation": "Glycosaminoglycans (GAGs) are structural, unbranched polysaccharides consisting of characteristic repeating disaccharide units (an amino sugar and a uronic acid/galactose)."
+    },
+    {
+      "id": "CARB_MCQ_028",
+      "type": "mcq",
+      "text": "Inulin is a polymer of:",
+      "options": [
+        "A) Glucose",
+        "B) Galactose",
+        "C) Mannose",
+        "D) Fructose",
+        "E) Ribose"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Glucose polymers form starch, glycogen, or cellulose.",
+        "Wrong: Galactose does not polymerize into the storage molecule inulin.",
+        "Wrong: Mannose polymers are called mannans, distinct from inulin structures.",
+        "Correct: Inulin is a natural storage fructan homopolysaccharide composed of repeating fructose monomers.",
+        "Wrong: Ribose is a pentose that builds RNA structures, not storage inulin blocks."
+      ],
+      "explanation": "Inulin is a plant storage homopolysaccharide composed of fructose monomers linked by beta-2,1 bonds. It is used clinically to test glomerular filtration rate (GFR)."
+    },
+    {
+      "id": "CARB_MCQ_029",
+      "type": "mcq",
+      "text": "Honey contains which of the following sugars:",
+      "options": [
+        "A) Sucrose",
+        "B) Maltose",
+        "C) Isomaltose",
+        "D) Invert sugar",
+        "E) Lactose"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Sucrose is broken down by bees and is present in honey only in minimal unhydrolyzed amounts.",
+        "Wrong: Maltose is a cereal malt product, not the primary sugar component of bee honey.",
+        "Wrong: Isomaltose is a minor starch hydrolysis product.",
+        "Correct: Honey consists mainly of free glucose and fructose in equal amounts, created by the enzymatic inversion of sucrose.",
+        "Wrong: Lactose is milk sugar and does not occur in plant nectar or honey."
+      ],
+      "explanation": "Bee honey consists primarily of free glucose and fructose in equal proportions, created by the enzymatic breakdown of plant sucrose, which is known as invert sugar."
+    },
+    {
+      "id": "CARB_MCQ_030",
+      "type": "mcq",
+      "text": "The following are properties of lactose EXCEPT:",
+      "options": [
+        "A) It is a nonreducing sugar",
+        "B) Can undergo mutarotation",
+        "C) Formed of a-glucose and ẞ-galactose",
+        "D) Can reduce Benedict's reagent.",
+        "E) Can form osazone"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Lactose keeps a free anomeric carbon on its glucose ring, making it a functional reducing sugar. Therefore, calling it non-reducing is incorrect.",
+        "Wrong: It undergoes mutarotation because its hemiacetal glucose ring can open and close in solution.",
+        "Wrong: This correctly describes its monosaccharide composition and configuration.",
+        "Wrong: Because it is a reducing sugar, it successfully reduces copper ions in Benedict's reagent.",
+        "Wrong: Lactose reacts with phenylhydrazine to form characteristic broom-shaped osazone crystals."
+      ],
+      "explanation": "Lactose keeps a free, unbonded anomeric carbon on its glucose ring, making it a functional reducing sugar that can successfully reduce Benedict's reagent."
+    },
+    {
+      "id": "CARB_MCQ_031",
+      "type": "mcq",
+      "text": "Sorbitol is produced by reduction of:",
+      "options": [
+        "A) Glucose or fructose",
+        "B) Glucose or galactose",
+        "C) Glucose or mannose",
+        "D) Galactose or fructose",
+        "E) Galactose and xylulose"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Reducing the aldehyde of glucose or the ketone of fructose produces D-glucitol, commonly known as sorbitol.",
+        "Wrong: Reducing galactose yields galactitol (dulcitol), not sorbitol.",
+        "Wrong: Reducing mannose yields mannitol.",
+        "Wrong: Galactose conversion excludes this choice due to dulcitol production.",
+        "Wrong: Neither of these sugars yields sorbitol upon reduction."
+      ],
+      "explanation": "Reducing the C-1 aldehyde of glucose yields D-glucitol (sorbitol). Reducing the C-2 ketone of fructose creates a new chiral center, yielding both sorbitol and mannitol."
+    },
+    {
+      "id": "CARB_MCQ_032",
+      "type": "mcq",
+      "text": "Which of the following is a glycosaminoglycans:",
+      "options": [
+        "A) Inulin",
+        "B) Heparin",
+        "C) Glucosamine",
+        "D) Galactosamine",
+        "E) Sialic acid"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Inulin is a neutral plant fructan polymer, not an acidic GAG.",
+        "Correct: Heparin is a classic complex polyanionic glycosaminoglycan found within mast cells.",
+        "Wrong: Glucosamine is a single monomeric amino sugar, not a high molecular weight polymer chain.",
+        "Wrong: Galactosamine is a monosaccharide building block, not an intact glycosaminoglycan polysaccharide.",
+        "Wrong: Sialic acid is a modified 9-carbon acidic monosaccharide unit."
+      ],
+      "explanation": "Heparin is a classic, highly sulfated glycosaminoglycan. Glucosamine and galactosamine are monomeric amino sugars, not intact polyanionic chains."
+    },
+    {
+      "id": "CARB_MCQ_033",
+      "type": "mcq",
+      "text": "Glucose and galactose are epimers. This means that:",
+      "options": [
+        "A) They are mirror images of each other.",
+        "B) One is pyranose and the other is furanose.",
+        "C) They rotate plane polarized light in opposite directions.",
+        "D) They differ only in the configuration about carbon atom number 2.",
+        "E) They differ only in the configuration about carbon atom number 4."
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Mirror images are called enantiomers (like D and L forms), not epimers.",
+        "Wrong: This describes ring size structural isomers (6-membered vs 5-membered rings).",
+        "Wrong: Optical rotation direction alone does not define epimeric structural centers.",
+        "Wrong: Glucose and mannose are C-2 epimers; glucose and galactose are not.",
+        "Correct: Glucose and galactose are identical at every position except for the spatial orientation of the -OH group at Carbon-4."
+      ],
+      "explanation": "D-glucose and D-galactose are C-4 epimers, meaning their stereochemical structures are identical at every single position except around carbon-4."
+    },
+    {
+      "id": "CARB_MCQ_034",
+      "type": "mcq",
+      "text": "Hydrolysis of Lactose yields:",
+      "options": [
+        "A) Glucose only",
+        "B) Glucose and galactose",
+        "C) Glucose and fructose",
+        "D) Fructose and galactose",
+        "E) Fructose only."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Maltose yields glucose only, while lactose contains a galactose residue.",
+        "Correct: Lactose is milk disaccharide; its enzymatic cleavage yields its two components, glucose and galactose.",
+        "Wrong: This describes the breakdown products of sucrose.",
+        "Wrong: Lactose does not contain any fructose residues.",
+        "Wrong: Lactose contains no fructose and yields a glucose molecule upon cleavage."
+      ],
+      "explanation": "Lactose is cleaved by lactase to produce its two individual component hexose rings: D-glucose and D-galactose."
+    },
+    {
+      "id": "CARB_MCQ_035",
+      "type": "mcq",
+      "text": "Starch and glycogen are both polymers of:",
+      "options": [
+        "A) Glucose",
+        "B) Fructose",
+        "C) Mannose",
+        "D) Galactose",
+        "E) Ribose"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Both starch and glycogen are nutritional storage homopolysaccharides made entirely of alpha-D-glucose units.",
+        "Wrong: Fructose units build inulin polymers, not starch or glycogen.",
+        "Wrong: Mannose is a structural hexose component of specific hemicelluloses and glycoproteins.",
+        "Wrong: Galactose polymerizes into agar or pectin complexes, not starch.",
+        "Wrong: Ribose is a pentose sugar that forms nucleic acid backbones."
+      ],
+      "explanation": "Both are storage homoglycans composed strictly of repeating alpha-D-glucose units, differing only in their overall degree and frequency of chain branching."
+    },
+    {
+      "id": "CARB_MCQ_036",
+      "type": "mcq",
+      "text": "The reference sugar is:",
+      "options": [
+        "A) Glucose",
+        "B) Fructose",
+        "C) Mannose",
+        "D) Ribulose",
+        "E) Glyceraldehyde"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Glucose is a complex hexose that is classified based on the glyceraldehyde reference standard.",
+        "Wrong: Fructose is a ketose and is not used as the foundational standard for stereochemistry.",
+        "Wrong: Mannose is an aldohexose, not the reference standard.",
+        "Wrong: Ribulose is a ketopentose, not the standard.",
+        "Correct: Glyceraldehyde is the simplest chiral aldose carbohydrate and serves as the universal structural reference standard for configuration assignments."
+      ],
+      "explanation": "Glyceraldehyde is the simplest chiral aldose carbohydrate and serves as the universal structural reference standard for configuration assignments."
+    },
+    {
+      "id": "CARB_MCQ_037",
+      "type": "mcq",
+      "text": "Which of the following is a nonreducing sugar:",
+      "options": [
+        "A) Maltose",
+        "B) Sucrose",
+        "C) Lactose",
+        "D) Cellobiose",
+        "E) Isomaltose"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Maltose has a free anomeric C-1 on its second glucose ring, making it a reducing sugar.",
+        "Correct: In sucrose, the glycosidic bond links the anomeric carbons of both glucose and fructose, leaving no free carbonyl groups to act as a reducing agent.",
+        "Wrong: Lactose has a free reducing anomeric carbon on its glucose residue.",
+        "Wrong: Cellobiose is a reducing disaccharide produced by breaking down cellulose.",
+        "Wrong: Isomaltose contains a free reducing end, similar to maltose."
+      ],
+      "explanation": "In sucrose, the glycosidic bond connects the anomeric carbons of both glucose and fructose, leaving no free carbonyl groups to act as a reducing agent."
+    },
+    {
+      "id": "CARB_MCQ_038",
+      "type": "mcq",
+      "text": "The structure shown beside is that of:",
+      "image": "images/CARB_MCQ_038.jpg",
+      "options": [
+        "A) a-D-glucopyranose",
+        "B) B-D-glucopyranose",
+        "C) a-D-glucofuranose",
+        "D) B-L-glucofuranose",
+        "E) -D-fructofuranose"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: The image shows a six-membered pyranose ring of D-glucose with the anomeric C-1 hydroxyl group pointing down, designating it as the alpha anomer.",
+        "Wrong: In the beta anomer, the C-1 hydroxyl group points upward.",
+        "Wrong: This is a pyranose ring (6-membered), not a furanose ring (5-membered).",
+        "Wrong: The molecule has a D configuration with a 6-membered ring, not a beta-L-furanose structure.",
+        "Wrong: This is a glucose ring, not a fructose ring."
+      ],
+      "explanation": "The molecule displays a 6-membered pyranose ring of D-glucose where the anomeric hydroxyl group at carbon-1 points downward, designating it as the alpha-anomer."
+    },
+    {
+      "id": "CARB_MCQ_039",
+      "type": "mcq",
+      "text": "Osazone formation, mutarotation and reducing property are all based on the presence of:",
+      "options": [
+        "A) Presence of a form",
+        "B) Presence of ẞ form",
+        "C) Presence of cyclic structure form",
+        "D) Presence of D configuration",
+        "E) Presence of free carbonyl group"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: These properties do not depend on the alpha anomer configuration alone.",
+        "Wrong: The beta form alone does not determine these properties; they require interconversion through the open-chain form.",
+        "Wrong: Pure locked cyclic forms (like glycosides) lack these properties entirely.",
+        "Wrong: The D configuration specifies absolute stereochemistry, not chemical reactivity.",
+        "Correct: These properties require a free, unmasked anomeric carbon center that can transition into an open chain containing a reactive aldehyde or ketone."
+      ],
+      "explanation": "These classic chemical traits require a reactive, unmasked anomeric carbon center that can transition into an open-chain form containing a free aldehyde or ketone."
+    },
+    {
+      "id": "CARB_MCQ_040",
+      "type": "mcq",
+      "text": "The invert sugar is:",
+      "options": [
+        "A) Hydrolysis product of Lactose",
+        "B) Hydrolysis product of maltose",
+        "C) Hydrolysis product of sucrose",
+        "D) Hydrolysis product of Cellobiose",
+        "E) Hydrolysis product of terahalose"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Hydrolyzing lactose yields glucose and galactose, which does not invert optical rotation.",
+        "Wrong: Maltose hydrolyzes into glucose molecules only.",
+        "Correct: Invert sugar is an equimolar mixture of glucose and fructose formed by hydrolyzing sucrose, which reverses the optical rotation of the solution from dextrorotatory to levorotatory.",
+        "Wrong: Cellobiose cleavage produces glucose monomers only.",
+        "Wrong: Trehalose hydrolysis yields two glucose units."
+      ],
+      "explanation": "Invert sugar is an equimolar mixture of glucose and fructose formed by hydrolyzing sucrose, which changes the solution's optical rotation from dextrorotatory to levorotatory."
+    },
+    {
+      "id": "CARB_MCQ_041",
+      "type": "mcq",
+      "text": "The cane sugar is similar to:",
+      "options": [
+        "A) Malt sugar",
+        "B) Milk sugar",
+        "C) Beet sugar",
+        "D) Grape sugar",
+        "E) Invert sugar"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Malt sugar is maltose, which is a reducing disaccharide unlike sucrose.",
+        "Wrong: Milk sugar is lactose, which contains galactose.",
+        "Correct: Cane sugar and beet sugar are chemically identical; both are pure commercial sources of the disaccharide sucrose.",
+        "Wrong: Grape sugar is monomeric D-glucose.",
+        "Wrong: Invert sugar consists of free, hydrolyzed monosaccharides, whereas cane sugar is an intact disaccharide."
+      ],
+      "explanation": "Cane sugar and beet sugar are chemically identical; both are pure, natural sources of the disaccharide sucrose."
+    },
+    {
+      "id": "L1_MSTF_001",
+      "type": "multitf",
+      "text": "For sugars — indicate True (T) or False (F) for each statement:",
+      "statements": [
+        {
+          "text": "Sucrose is a non reducing sugar",
+          "answer": true
+        },
+        {
+          "text": "Glucose and mannose are epimers",
+          "answer": true
+        },
+        {
+          "text": "Fructose is the main blood sugar",
+          "answer": false
+        },
+        {
+          "text": "Amino sugars are important constituents of proteoglycans",
+          "answer": true
+        },
+        {
+          "text": "Heparin is a glucosaminoglycan act as anticoagulant",
+          "answer": true
+        }
+      ],
+      "explanation": "Sucrose is non-reducing because both anomeric carbons are locked in the glycosidic bond. Glucose and mannose are C-2 epimers. Glucose (not fructose) is the main blood sugar. Heparin is a highly sulfated glycosaminoglycan (GAG) that acts as an anticoagulant."
+    },
+    {
+      "id": "L1_MSTF_002",
+      "type": "multitf",
+      "text": "The following are ketose sugars:",
+      "statements": [
+        {
+          "text": "Mannose",
+          "answer": false
+        },
+        {
+          "text": "Galactose",
+          "answer": false
+        },
+        {
+          "text": "Fructose",
+          "answer": true
+        },
+        {
+          "text": "Ribulose",
+          "answer": true
+        },
+        {
+          "text": "Deoxyribose",
+          "answer": false
+        }
+      ],
+      "explanation": "Fructose (ketohexose) and Ribulose (ketopentose) contain a ketone group. Mannose, Galactose, and Deoxyribose are aldose sugars containing an aldehyde group."
+    },
+    {
+      "id": "L1_MSTF_003",
+      "type": "multitf",
+      "text": "The following compounds contain sugar residues:",
+      "statements": [
+        {
+          "text": "ATP",
+          "answer": true
+        },
+        {
+          "text": "Lecithin",
+          "answer": false
+        },
+        {
+          "text": "NAD+",
+          "answer": true
+        },
+        {
+          "text": "RNA",
+          "answer": true
+        },
+        {
+          "text": "Glutathione",
+          "answer": false
+        }
+      ],
+      "explanation": "ATP, NAD+, and RNA all contain D-ribose sugar residues. Lecithin is a phospholipid (phosphatidylcholine) and Glutathione is a tripeptide (Glu-Cys-Gly); neither contains a sugar moiety."
+    },
+    {
+      "id": "L1_MSTF_004",
+      "type": "multitf",
+      "text": "Carbon 1 of glucose may be:",
+      "statements": [
+        {
+          "text": "Phosphorylated",
+          "answer": true
+        },
+        {
+          "text": "Oxidized",
+          "answer": true
+        },
+        {
+          "text": "Linked to UDP",
+          "answer": true
+        },
+        {
+          "text": "Linked to amino group",
+          "answer": false
+        },
+        {
+          "text": "Reduced",
+          "answer": true
+        }
+      ],
+      "explanation": "Carbon 1 (anomeric carbon) of glucose can be phosphorylated (Glucose-1-P), oxidized to a carboxyl group (Gluconic acid), linked to UDP (UDP-Glucose), or reduced to an alcohol (Sorbitol). In amino sugars (like glucosamine), the amino group replaces the hydroxyl group at Carbon 2, not Carbon 1."
+    },
+    {
+      "id": "L1_MSTF_005",
+      "type": "multitf",
+      "text": "The sugar shown beside :",
+      "image": "images/L1_MSTF_005.jpg",
+      "statements": [
+        {
+          "text": "Contains a β-1,4 glycosidic bond",
+          "answer": true
+        },
+        {
+          "text": "Is a reducing sugar",
+          "answer": true
+        },
+        {
+          "text": "May undergo mutarotation",
+          "answer": true
+        },
+        {
+          "text": "Contains a furanose ring",
+          "answer": false
+        },
+        {
+          "text": "Is a sugar present in cane",
+          "answer": false
+        }
+      ],
+      "explanation": "The structure described/shown is Lactose (milk sugar). It has a β-1,4 glycosidic bond between galactose and glucose. It is a reducing sugar because its right-hand glucose ring has a free anomeric carbon, allowing it to open up, undergo mutarotation, and exist in pyranose (six-membered) rings, not furanose. Cane sugar is Sucrose."
+    },
+    {
+      "id": "L1_MSTF_006",
+      "type": "multitf",
+      "text": "The sugar shown in previous question :",
+      "image": "images/L1_MSTF_006.jpg",
+      "statements": [
+        {
+          "text": "Is derived from the digestion of starch by pancreatic α-amylase",
+          "answer": false
+        },
+        {
+          "text": "Is hydrolyzed to monosaccharides by sucrase",
+          "answer": false
+        },
+        {
+          "text": "Is found at a branch point in starch",
+          "answer": false
+        },
+        {
+          "text": "Is hydrolyzed to glucose and galactose",
+          "answer": true
+        },
+        {
+          "text": "Is hydrolyzed to glucose and fructose",
+          "answer": false
+        }
+      ],
+      "explanation": "Lactose is milk sugar and is hydrolyzed specifically by the enzyme lactase into D-glucose and D-galactose. Starch digestion yields maltose, maltotriose, and α-limit dextrins. Sucrase hydrolyzes sucrose into glucose and fructose."
+    },
+    {
+      "id": "L1_MSTF_007",
+      "type": "multitf",
+      "text": "Carbohydrates are usually:",
+      "statements": [
+        {
+          "text": "aldehyde or ketone derivatives of polyhydric alcohols",
+          "answer": true
+        },
+        {
+          "text": "are distributed only in animal tissues",
+          "answer": false
+        },
+        {
+          "text": "Red liquids",
+          "answer": false
+        },
+        {
+          "text": "Rarely soluble in organic solvents",
+          "answer": true
+        },
+        {
+          "text": "Soluble in water",
+          "answer": true
+        }
+      ],
+      "explanation": "Carbohydrates are chemically defined as polyhydroxy aldehydes or ketones. They are widely distributed in both plants and animals. They are generally white solids (not red liquids), highly polar, thus soluble in water and insoluble/rarely soluble in non-polar organic solvents."
+    },
+    {
+      "id": "L1_MSTF_008",
+      "type": "multitf",
+      "text": "For polysaccharides:",
+      "statements": [
+        {
+          "text": "Are formed of more than 10 monosaccharides and linked together by glycosidic bonds",
+          "answer": true
+        },
+        {
+          "text": "Polysaccharides are high molecular weight polymers of glucose",
+          "answer": false
+        },
+        {
+          "text": "Some polysaccharides when hydrolyzed yield mixture of hexoses and hexoses derivatives",
+          "answer": true
+        },
+        {
+          "text": "Homopolysaccharides are high molecular weight polymers of hexoses and hexose derivatives",
+          "answer": false
+        },
+        {
+          "text": "Polysaccharides may be attached to protein molecule to form proteoglycans",
+          "answer": true
+        }
+      ],
+      "explanation": "Polysaccharides contain >10 monosaccharides. Statement 78 is false because not all polysaccharides are made of glucose (e.g., inulin is made of fructose). Heteropolysaccharides (not homopolysaccharides) yield mixtures of different hexoses/derivatives upon hydrolysis. GAGs covalently bind to proteins to form proteoglycans."
+    },
+    {
+      "id": "L1_MSTF_009",
+      "type": "multitf",
+      "text": "For carbohydrates are usually (Chemical properties & classes):",
+      "statements": [
+        {
+          "text": "Reduction of aldoses or ketoses yields polyhydric alcohols",
+          "answer": true
+        },
+        {
+          "text": "Lactose is not a reducing sugar",
+          "answer": false
+        },
+        {
+          "text": "Sucrose is not a reducing sugar",
+          "answer": true
+        },
+        {
+          "text": "Glycosides are the condensation product of the hydroxyl group of an anomeric carbon with alcohol",
+          "answer": false
+        },
+        {
+          "text": "Polysaccharides may contain acetyl, sulfhydryl, and phosphate groups",
+          "answer": false
+        }
+      ],
+      "explanation": "Reduction of sugars converts carbonyl groups to alcohols (e.g., glucose to sorbitol). Lactose IS a reducing sugar, while Sucrose is NOT. Statement 85 is false because a glycoside is formed between the anomeric OH and an alcohol OR another sugar/aglycone. Statement 86 is false because standard structural polysaccharides typically don't contain sulfhydryl (-SH) groups (found in proteins)."
+    },
+    {
+      "id": "L1_M_001",
+      "type": "matching",
+      "text": "Match the following carbohydrate terms with their correct descriptions:",
+      "options": [
+        "A. a-Glucose and ẞ-glucose",
+        "B. Glyceraldehyde",
+        "C. Homopolysaccharides",
+        "D. Glucose, galactose and mannose",
+        "E. Formed of an equal number of glucose and fructose molecules",
+        "F. Formed of four sugar units.",
+        "G. Glucuronic acid"
+      ],
+      "pairs": [
+        {
+          "term": "87. Epimers",
+          "definition": "D. Glucose, galactose and mannose"
+        },
+        {
+          "term": "88. Anomers",
+          "definition": "A. a-Glucose and ẞ-glucose"
+        },
+        {
+          "term": "89. Invert sugar",
+          "definition": "E. Formed of an equal number of glucose and fructose molecules"
+        },
+        {
+          "term": "90. Reference sugar",
+          "definition": "B. Glyceraldehyde"
+        },
+        {
+          "term": "91. Sugar acid",
+          "definition": "G. Glucuronic acid"
+        }
+      ],
+      "explanation": "Glyceraldehyde is the reference sugar. Epimers differ at one chiral carbon. Anomers differ at the anomeric carbon (a vs B). Invert sugar is an equimolar mixture of glucose and fructose. Glucuronic acid is a sugar acid oxidized at C-6."
+    },
+    {
+      "id": "L1_M_002",
+      "type": "matching",
+      "text": "Match each carbohydrate with its correct constituent monosaccharide units or properties:",
+      "options": [
+        "A. Fructose only",
+        "B. Glucose only",
+        "C. Glucose and fructose",
+        "D. Glucose and galactose",
+        "E. Fructose and galactose"
+      ],
+      "pairs": [
+        {
+          "term": "92. Sucrose",
+          "definition": "C. Glucose and fructose"
+        },
+        {
+          "term": "93. Maltose",
+          "definition": "B. Glucose only"
+        },
+        {
+          "term": "94. Lactose",
+          "definition": "D. Glucose and galactose"
+        },
+        {
+          "term": "95. Invert sugar",
+          "definition": "C. Glucose and fructose"
+        },
+        {
+          "term": "96. Cellobiose",
+          "definition": "B. Glucose only"
+        }
+      ],
+      "explanation": "Maltose and Cellobiose are composed of glucose units only. Sucrose and Invert sugar contain glucose and fructose. Lactose is composed of glucose and galactose."
+    },
+    {
+      "id": "L1_M_003",
+      "type": "matching",
+      "text": "Match each Glycosaminoglycan (GAG) with its major physiological function or location:",
+      "options": [
+        "A. Binds collagen and holds fibers in strong network.",
+        "B. Present in scletra and maintain the overall shape of the eye",
+        "C. Acts as a lubricant in joint",
+        "D. Corneal trancparency",
+        "E. Anticoagulant"
+      ],
+      "pairs": [
+        {
+          "term": "97. Keratan sulfate",
+          "definition": "D. Corneal trancparency"
+        },
+        {
+          "term": "98. Dermatan sulfate",
+          "definition": "B. Present in scletra and maintain the overall shape of the eye"
+        },
+        {
+          "term": "99. Hyaluronic acid",
+          "definition": "C. Acts as a lubricant in joint"
+        },
+        {
+          "term": "100. Heparin",
+          "definition": "E. Anticoagulant"
+        },
+        {
+          "term": "101. Chondroitin sulfate",
+          "definition": "A. Binds collagen and holds fibers in strong network."
+        }
+      ],
+      "explanation": "Hyaluronic acid acts as a lubricant in joints. Heparin functions as an anticoagulant. Keratan sulfate maintains corneal transparency, while Dermatan sulfate maintains scleral shape."
+    },
+    {
+      "id": "L1_M_004",
+      "type": "matching",
+      "text": "Match the biological descriptions with the correct carbohydrate derivative or compound:",
+      "options": [
+        "A. N-Acetylgalactosamine",
+        "B. Ascorbic acid",
+        "C. N-Acetylglucosamine",
+        "D. L-fucose",
+        "E. Sialic acid"
+      ],
+      "pairs": [
+        {
+          "term": "102. 6-Deoxygalactose",
+          "definition": "D. L-fucose"
+        },
+        {
+          "term": "103. Essential for collagen synthesis",
+          "definition": "B. Ascorbic acid"
+        },
+        {
+          "term": "104. A Constituent of the polysaccharides of cartilage",
+          "definition": "A. N-Acetylgalactosamine"
+        },
+        {
+          "term": "105. Occurs with glucouronic acid in hyaluronic",
+          "definition": "C. N-Acetylglucosamine"
+        },
+        {
+          "term": "106. Derivative of neuraminic acid",
+          "definition": "E. Sialic acid"
+        }
+      ],
+      "explanation": "L-fucose is 6-deoxygalactose. Ascorbic acid is Vitamin C. Hyaluronic acid consists of D-glucuronic acid and N-acetylglucosamine. Sialic acid is derived from neuraminic acid."
+    },
+    {
+      "id": "L1_M_005",
+      "type": "matching",
+      "text": "Match each numbered disaccharide structure below with its correct letter (A-E) from the image beside:",
+      "image": "images/L1_M_005.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "107. Trehalose",
+          "definition": "B"
+        },
+        {
+          "term": "108. Cellobiose",
+          "definition": "D"
+        },
+        {
+          "term": "109. Maltose",
+          "definition": "E"
+        },
+        {
+          "term": "110. Lactose",
+          "definition": "A"
+        },
+        {
+          "term": "111. Sucrose",
+          "definition": "C"
+        }
+      ],
+      "explanation": "Identify the disaccharides based on their component monosaccharides and specific glycosidic linkages as labeled (A-E) in the structure diagram."
+    },
+    {
+      "id": "L1_M_006",
+      "type": "matching",
+      "text": "Match each disaccharide with its specific glycosidic linkage components:",
+      "options": [
+        "A. a-Glucose and a-glucose",
+        "B. B-Glucose and ẞ-glucose",
+        "C. a-Glucose and ẞ-galactose",
+        "D. a-Glucose and ẞ-fructose"
+      ],
+      "pairs": [
+        {
+          "term": "112. Lactose",
+          "definition": "C. a-Glucose and ẞ-galactose"
+        },
+        {
+          "term": "113. Sucrose",
+          "definition": "D. a-Glucose and ẞ-fructose"
+        },
+        {
+          "term": "114. Maltose",
+          "definition": "A. a-Glucose and a-glucose"
+        },
+        {
+          "term": "115. Cellobiose",
+          "definition": "B. B-Glucose and ẞ-glucose"
+        }
+      ],
+      "explanation": "Maltose has an a-1,4 linkage. Cellobiose has a B-1,4 linkage. Lactose consists of glucose and galactose. Sucrose has an a-1,B-2 linkage."
+    },
+    {
+      "id": "L1_M_007",
+      "type": "matching",
+      "text": "Match each carbohydrate example with its correct classification:",
+      "options": [
+        "A. Monosaccharide",
+        "B. Glycosaminoglycans",
+        "C. Disaccharide",
+        "D. Homopolysaccharide"
+      ],
+      "pairs": [
+        {
+          "term": "116. Lactose",
+          "definition": "C. Disaccharide"
+        },
+        {
+          "term": "117. Heparin",
+          "definition": "B. Glycosaminoglycans"
+        },
+        {
+          "term": "118. Starch",
+          "definition": "D. Homopolysaccharide"
+        },
+        {
+          "term": "119. Mannose",
+          "definition": "D. Homopolysaccharide"
+        }
+      ],
+      "explanation": "Lactose is a disaccharide, Heparin is a GAG, and Starch is a homopolysaccharide. (Note: standard classification considers mannose a monosaccharide, but mapped here per provided key)."
+    },
+    {
+      "id": "L1_M_008",
+      "type": "matching",
+      "text": "Match each numbered carbohydrate or phosphorylated intermediate with its correct letter (A-E) from the image beside:",
+      "image": "images/L1_M_008.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "120. a-D-galactopyranose",
+          "definition": "A"
+        },
+        {
+          "term": "121. a D-mannopyranose",
+          "definition": "A"
+        },
+        {
+          "term": "122. Fructose-6-phosphate",
+          "definition": "C"
+        },
+        {
+          "term": "123. Fructose 1,6 bisphosphate",
+          "definition": "E"
+        },
+        {
+          "term": "124. a-D-xylopyranose",
+          "definition": "B"
+        }
+      ],
+      "explanation": "Match the standard structures and phosphorylated derivatives of hexoses/pentoses with their respective alphabetical labels in the accompanying figure."
+    },
+    {
+      "id": "L1_M_009",
+      "type": "matching",
+      "text": "Match each numbered Glycosaminoglycan (GAG) structure with its correct letter (A-E) from the image beside:",
+      "image": "images/L1_M_009.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "125. Dermatan sulphate",
+          "definition": "E"
+        },
+        {
+          "term": "126. Chondriotin sulphate",
+          "definition": "D"
+        },
+        {
+          "term": "127. Hyaluronic acid",
+          "definition": "B"
+        },
+        {
+          "term": "128. Keratan sulfate",
+          "definition": "A"
+        },
+        {
+          "term": "129. Heparin",
+          "definition": "C"
+        }
+      ],
+      "explanation": "GAG structural repeating units can be identified in the image by their distinctive uronic acids and sulfation patterns (A through E)."
+    },
+    {
+      "id": "L1_M_010",
+      "type": "matching",
+      "text": "Match each numbered monosaccharide below with its correct letter (A-D) from the structural image beside:",
+      "image": "images/L1_M_010.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "pairs": [
+        {
+          "term": "130. Mannose",
+          "definition": "B"
+        },
+        {
+          "term": "131. Fructose",
+          "definition": "D"
+        },
+        {
+          "term": "132. Glucose",
+          "definition": "A"
+        },
+        {
+          "term": "133. Galactose",
+          "definition": "C"
+        }
+      ],
+      "explanation": "Identify the configuration of OH groups to distinguish between D-glucose (A), D-mannose (C-2 epimer, B), D-galactose (C-4 epimer, C), and the ketose D-fructose (D)."
+    }
+  ]
+}

@@ -1,0 +1,2120 @@
+{
+  "questions": [
+    {
+      "id": "L4_SA_001",
+      "type": "shortanswer",
+      "text": "What are enzymes?",
+      "answer": "Enzymes are specific protein catalysts that accelerate the rate of chemical reactions.",
+      "explanation": "Enzymes are biological molecules (mostly proteins) that significantly speed up chemical reactions within cells without being consumed in the process."
+    },
+    {
+      "id": "L4_SA_002",
+      "type": "shortanswer",
+      "text": "What are catalysts?",
+      "answer": "These are organic or inorganic substances that accelerate the rate of chemical reactions. The organic catalysts are enzymes but the inorganic catalysts are metals.",
+      "explanation": "A catalyst alters the reaction pathway by lowering activation energy. Biological catalysts are organic (enzymes), whereas non-biological catalysts are typically inorganic elements like metals."
+    },
+    {
+      "id": "L4_SA_003",
+      "type": "shortanswer",
+      "text": "What is Substrate?",
+      "answer": "It is the substance upon which the enzyme acts.",
+      "explanation": "The substrate binds to the specific active site of the enzyme to undergo a chemical transformation into products."
+    },
+    {
+      "id": "L4_SA_004",
+      "type": "shortanswer",
+      "text": "What is rate of chemical reactions?",
+      "answer": "It is the change in the amount (moles or grams) of starting materials (substrates) or products per unit time.",
+      "explanation": "Reaction rate indicates the velocity of a chemical process, mathematically represented as the consumption of reactants or formation of products over time."
+    },
+    {
+      "id": "L4_SA_005",
+      "type": "shortanswer",
+      "text": "What is catalytic site?",
+      "answer": "This is the active site or substrate binding site. It is the site in enzyme that accommodates specifically and temporary the substrate during chemical reaction.",
+      "explanation": "The catalytic or active site consists of specific amino acid residues that form temporary bonds with the substrate, stabilizing the transition state."
+    },
+    {
+      "id": "L4_SA_006",
+      "type": "shortanswer",
+      "text": "What is unit of enzyme activity?",
+      "answer": "It is the amount of enzyme causing transformation of one micromole (1 µmol) of a substrate per minute at 25° C under optimal conditions of measurement.",
+      "explanation": "Standard enzyme units quantify the catalytic rate under defined, controlled parameters of temperature, pH, and substrate saturation."
+    },
+    {
+      "id": "L4_SA_007",
+      "type": "shortanswer",
+      "text": "What is enzyme specific activity?",
+      "answer": "Is the number of units of enzyme activity per milligram of enzyme protein.",
+      "explanation": "Specific activity assesses enzyme purity; as an enzyme is purified, its specific activity increases because unwanted proteins are removed."
+    },
+    {
+      "id": "L4_SA_008",
+      "type": "shortanswer",
+      "text": "What is katal?",
+      "answer": "Is the amount of enzyme activity that transforms 1 mol of substrate per second.",
+      "explanation": "The katal (kat) is the SI unit of enzyme activity, reflecting a much larger scale of conversion than the traditional enzyme unit (U)."
+    },
+    {
+      "id": "L4_SA_009",
+      "type": "shortanswer",
+      "text": "What is enzyme activation energy?",
+      "answer": "It is the amount of energy required to raise all the molecules in one mole of a substance to the transition state.",
+      "explanation": "Activation energy represents the energy barrier that reactants must overcome to undergo a chemical reaction and transform into products."
+    },
+    {
+      "id": "L4_SA_010",
+      "type": "shortanswer",
+      "text": "What are the features of enzyme kinetics?",
+      "answer": "Enzymes lower activation energy. They increase the chemical reaction, but do not alter equilibrium of the reaction.",
+      "explanation": "Enzymes accelerate both the forward and reverse reaction rates equally, meaning they speed up the process but do not change the final ratio of products to reactants."
+    },
+    {
+      "id": "L4_SA_011",
+      "type": "shortanswer",
+      "text": "How are enzymes classified?",
+      "answer": "They are classified into six major classes. (1) Oxidoreductases, (2) transferases, (3) hydrolases, (4) lyases, (5) isomerases (6) ligases.",
+      "explanation": "Enzymes are systematically categorized by the International Union of Biochemistry (IUB) into six classes based on the exact type of chemical reaction they catalyze."
+    },
+    {
+      "id": "L4_SA_012",
+      "type": "shortanswer",
+      "text": "What is the function of oxidoreductases?",
+      "answer": "Transfer of hydrogen in oxidation-reduction reactions.",
+      "explanation": "Oxidoreductases catalyze reactions involving the gain or loss of electrons or hydrogen atoms between donor and acceptor molecules."
+    },
+    {
+      "id": "L4_SA_013",
+      "type": "shortanswer",
+      "text": "How do oxidoreductases transfer hydrogen in oxidation-reduction reactions?",
+      "answer": "S (oxidized) + Y (reduced) → S (reduced) + Y (oxidized).",
+      "explanation": "This equation demonstrates a coupled redox reaction where hydrogen/electrons are transferred from a reduced donor to an oxidized acceptor molecule."
+    },
+    {
+      "id": "L4_SA_014",
+      "type": "shortanswer",
+      "text": "Give an example of oxidoreductases.",
+      "answer": "Respiratory chain enzymes in mitochondria.",
+      "explanation": "Mitochondrial electron transport chain complexes utilize oxidoreductase activity to transfer electrons and establish a proton gradient for ATP production."
+    },
+    {
+      "id": "L4_SA_015",
+      "type": "shortanswer",
+      "text": "What is the function of transferases?",
+      "answer": "Transfer of groups other than hydrogen.",
+      "explanation": "Transferases move functional groups—such as methyl, phosphate, or amino groups—from one substrate molecule to another."
+    },
+    {
+      "id": "L4_SA_016",
+      "type": "shortanswer",
+      "text": "Give examples of transferase.",
+      "answer": "Transaminase and hexokinase.",
+      "explanation": "Transaminases transfer amino groups in amino acid metabolism, while hexokinase transfers a phosphate group from ATP to glucose."
+    },
+    {
+      "id": "L4_SA_017",
+      "type": "shortanswer",
+      "text": "What is the function of hydrolases?",
+      "answer": "Cleave bond after adding water.",
+      "explanation": "Hydrolases facilitate the breakdown of polymers into monomers by introducing a water molecule across the cleaved chemical bond."
+    },
+    {
+      "id": "L4_SA_018",
+      "type": "shortanswer",
+      "text": "Give an example of a hydrolase.",
+      "answer": "Peptidases.",
+      "explanation": "Peptidases (or proteases) belong to the hydrolase class and cleave peptide bonds within proteins via a hydrolytic mechanism."
+    },
+    {
+      "id": "L4_SA_019",
+      "type": "shortanswer",
+      "text": "What is the function of lyases?",
+      "answer": "Cleave bond without adding water.",
+      "explanation": "Lyases catalyze the elimination or addition of groups to eliminate/form double bonds without undergoing hydrolysis or oxidation."
+    },
+    {
+      "id": "L4_SA_020",
+      "type": "shortanswer",
+      "text": "Which enzyme will add water to a double bond, without breaking the bond?",
+      "answer": "Hydratase.",
+      "explanation": "Hydratases are a subcategory of lyases that catalyze the addition of water across carbon-carbon double bonds without cleaving the main carbon chain."
+    },
+    {
+      "id": "L4_SA_021",
+      "type": "shortanswer",
+      "text": "Give an example of lyase.",
+      "answer": "Aldolase.",
+      "explanation": "Aldolase functions in glycolysis by cleaving fructose 1,6-bisphosphate into two triose phosphates without utilizing water."
+    },
+    {
+      "id": "L4_SA_022",
+      "type": "shortanswer",
+      "text": "Compare between lyases and hydrolases:",
+      "answer": "Lyases are enzymes catalyze the removal of groups from substrate by mechanism other than hydrolysis (e.g. decarboxylase). Hydrolase catalyzes hydrolysis i.e. breakdown of a chemical bond by addition of water e.g. peptidase.",
+      "explanation": "The core difference lies in the dependency on water; hydrolases strictly require water to break bonds, whereas lyases cleave or form bonds via non-hydrolytic pathways."
+    },
+    {
+      "id": "L4_SA_023",
+      "type": "shortanswer",
+      "text": "Give an example of isomerase.",
+      "answer": "Phosphohexose isomerase.",
+      "explanation": "Phosphohexose isomerase converts glucose 6-phosphate into its structural isomer, fructose 6-phosphate, during glycolysis."
+    },
+    {
+      "id": "L4_SA_024",
+      "type": "shortanswer",
+      "text": "What is the function of ligases?",
+      "answer": "Condensation of two molecules with hydrolysis of ATP.",
+      "explanation": "Ligases catalyze the joining together of two large molecules, forming new chemical bonds coupled with the breakdown of a high-energy pyrophosphate bond in ATP."
+    },
+    {
+      "id": "L4_SA_025",
+      "type": "shortanswer",
+      "text": "Give an example of ligases.",
+      "answer": "Glutamine synthetase.",
+      "explanation": "Glutamine synthetase links glutamate and ammonia to form glutamine, directly utilizing energy derived from ATP hydrolysis."
+    },
+    {
+      "id": "L4_SA_026",
+      "type": "shortanswer",
+      "text": "What is the difference between synthetase and synthase?",
+      "answer": "Synthetases are ATP-dependent enzymes catalyzing synthetic reactions; they belong to ligases e.g. glutamine synthetase. Synthases are enzymes catalyzing synthetic reactions; but they do not require ATP directly; they belong to transferases.",
+      "explanation": "Synthetases must consume ATP directly to drive synthesis (ligases), while synthases perform synthetic or condensation reactions without a direct requirement for ATP (often transferases or lyases)."
+    },
+    {
+      "id": "L4_SA_027",
+      "type": "shortanswer",
+      "text": "Give an example of synthetases.",
+      "answer": "Glutamine synthetase.",
+      "explanation": "Glutamine synthetase requires the cleavage of ATP to power the synthesis of glutamine from glutamate."
+    },
+    {
+      "id": "L4_SA_028",
+      "type": "shortanswer",
+      "text": "Give examples of synthases.",
+      "answer": "Glycogen synthase, carbamoyl phosphate synthase, and citrate synthase.",
+      "explanation": "These enzymes synthesize complex biological molecules but do not rely on the direct, concurrent cleavage of ATP to drive the condensation."
+    },
+    {
+      "id": "L4_SA_029",
+      "type": "shortanswer",
+      "text": "What is holoenzyme?",
+      "answer": "Some enzymes are conjugated proteins and they are called holoenzyme. They are consisted of protein part called apoenzyme and non-protein part called coenzymes.",
+      "explanation": "A complete, catalytically active enzyme system is called a holoenzyme. Without its non-protein cofactor/coenzyme component, the remaining protein shell is inactive."
+    },
+    {
+      "id": "L4_SA_030",
+      "type": "shortanswer",
+      "text": "What are coenzymes?",
+      "answer": "A coenzyme is a low molecular weight, non-protein, organic substance, which is essential for the biological activity of some enzymes. Without coenzyme, these enzymes cannot catalyze any reaction. Coenzyme accepts one of the products of the reaction.",
+      "explanation": "Coenzymes act as transient carriers of specific functional groups, atoms, or electrons during enzymatic catalysis, frequently derived from vitamins."
+    },
+    {
+      "id": "L4_SA_031",
+      "type": "shortanswer",
+      "text": "How are coenzymes classified?",
+      "answer": "Those taking part in reactions catalyzed by oxidoreductases by donating or accepting hydrogen atoms or electrons and those coenzymes taking part in reactions transferring groups other than hydrogen.",
+      "explanation": "Functional classification divides coenzymes into redox-active carriers (like NAD+) and group-transfer carriers (like Coenzyme A or Pyridoxal Phosphate)."
+    },
+    {
+      "id": "L4_C_001",
+      "type": "compare",
+      "text": "Compare between apoenzyme and coenzyme:",
+      "aspects": [
+        "Structure",
+        "Effect of heat",
+        "Molecular weight",
+        "Dialysis"
+      ],
+      "itemA": {
+        "name": "Apoenzyme",
+        "values": [
+          "Protein",
+          "Heat labile",
+          "High",
+          "Non dialyzable"
+        ]
+      },
+      "itemB": {
+        "name": "Coenzyme",
+        "values": [
+          "Non-protein",
+          "Heat stable",
+          "Low",
+          "Dialyzable"
+        ]
+      },
+      "explanation": "Apoenzymes provide the structural backbone and substrate specificity but are heat-sensitive proteins, whereas coenzymes are stable, small organic molecules that directly participate in group or electron transfer."
+    },
+    {
+      "id": "L4_SA_032",
+      "type": "shortanswer",
+      "text": "Give some examples of coenzymes involved in oxidoreductases.",
+      "answer": "NAD, NADP, and FAD.",
+      "explanation": "These coenzymes act as vital electron and hydrogen shuttles in cellular respiration, alternate metabolic oxidations, and reductive biosyntheses."
+    },
+    {
+      "id": "L4_SA_033",
+      "type": "shortanswer",
+      "text": "What is the full name of NAD?",
+      "answer": "Nicotinamide adenine dinucleotide.",
+      "explanation": "NAD is a key coenzyme derived from niacin (Vitamin B3) essential for structural dehydrogenation and redox signaling."
+    },
+    {
+      "id": "L4_SA_034",
+      "type": "shortanswer",
+      "text": "What is FAD?",
+      "answer": "Flavin adenine dinucleotide.",
+      "explanation": "FAD is a riboflavin-derived (Vitamin B2) prosthetic group that handles two-electron redox transformations, shifting between FAD and FADH2."
+    },
+    {
+      "id": "L4_SA_035",
+      "type": "shortanswer",
+      "text": "Enumerate hydrogen carriers.",
+      "answer": "FMN, FAD, NAD, NADP, glutathione, lipoic acid and coenzyme A.",
+      "explanation": "These biomolecules carry hydrogen ions and reducing equivalents along various metabolic streams, ensuring metabolic redox homeostasis."
+    },
+    {
+      "id": "L4_SA_036",
+      "type": "shortanswer",
+      "text": "Enumerate electron carriers.",
+      "answer": "These are usually the metals acting as prosthetic group for some oxidoreductases. Fe+++ in cytochrome system, Cu++ for uricase, tyrosine hydroxylase and L-ascorbic acid oxidase.",
+      "explanation": "Transition metals alternate easily between oxidation states (e.g., Fe3+ / Fe2+ or Cu2+ / Cu+), rendering them optimal for single-electron relay mechanisms."
+    },
+    {
+      "id": "L4_SA_037",
+      "type": "shortanswer",
+      "text": "Give some examples of coenzymes involved in reactions other than hydrogen transfer.",
+      "answer": "Thiamine pyrophosphate, pyridoxal phosphate, biotin, and coenzyme A.",
+      "explanation": "These coenzymes are specialized for non-redox operations like decarboxylation (TPP), transamination (PLP), carboxylation (biotin), and acyl transfer (CoA)."
+    },
+    {
+      "id": "L4_SA_038",
+      "type": "shortanswer",
+      "text": "Give an account on properties of enzymes:",
+      "answer": "They are invariably proteins. They act within a moderate pH and temperature range. They are highly specific, catalyzing only one type of chemical reaction. There are 6 types of specificity.",
+      "explanation": "Enzymatic properties stem from their intricate tertiary protein configurations, which limit their activity to strict physiological margins of pH and temperature."
+    },
+    {
+      "id": "L4_SA_039",
+      "type": "shortanswer",
+      "text": "What are types of enzyme specificity?",
+      "answer": "Optical (stereo) specificity, group specificity, absolute specificity, relative specificity, reaction specificity, and dual specificity.",
+      "explanation": "Enzyme specificity guarantees tight metabolic control, ensuring that structural variants or unrelated pathways are not inappropriately processed."
+    },
+    {
+      "id": "L4_SA_040",
+      "type": "shortanswer",
+      "text": "What is optical specificity?",
+      "answer": "Enzymes act on one of 2 isomers e.g. maltase acts on α-glycosides and not on β glycosides.",
+      "explanation": "Stereospecificity demonstrates that the active site spatial arrangement is highly precise, recognizing exclusively one chiral enantiomer or geometric isomer."
+    },
+    {
+      "id": "L4_SA_041",
+      "type": "shortanswer",
+      "text": "What is group specificity?",
+      "answer": "Enzymes need the presence of certain group to act e.g. pepsin acts on peptide bonds.",
+      "explanation": "Group specificity means the enzyme interacts with a defined functional group or linkage, regardless of the structural identity of the surrounding molecule."
+    },
+    {
+      "id": "L4_SA_042",
+      "type": "shortanswer",
+      "text": "Give an example for group specificity.",
+      "answer": "Trypsin can hydrolyze peptide bonds formed by carboxyl groups of arginine or lysine residues.",
+      "explanation": "Trypsin restricts its endopeptidase activity exclusively to positions immediately adjacent to basic, positively charged side chains."
+    },
+    {
+      "id": "L4_SA_043",
+      "type": "shortanswer",
+      "text": "What is absolute specificity?",
+      "answer": "One enzyme acts only on one substrate e.g. urease enzyme acts only on urea.",
+      "explanation": "Absolute specificity represents the ultimate evolutionary refinement where the enzyme active center fits exactly one singular molecule."
+    },
+    {
+      "id": "L4_SA_044",
+      "type": "shortanswer",
+      "text": "Give an example for absolute specificity.",
+      "answer": "Urea is the only substrate for urease.",
+      "explanation": "Urease exhibits a strict requirement for urea, and cannot act on any structurally altered analogs or related amides."
+    },
+    {
+      "id": "L4_SA_045",
+      "type": "shortanswer",
+      "text": "What is relative specificity?",
+      "answer": "One enzyme acts on a group of compounds having the same type of bonds e.g. lipase enzymes act on different triacylglycerols.",
+      "explanation": "Relative or bond specificity permits a broader operational scope, allowing an enzyme to clear various molecules as long as the targeted chemical linkage is preserved."
+    },
+    {
+      "id": "L4_SA_046",
+      "type": "shortanswer",
+      "text": "What is reaction specificity?",
+      "answer": "There are six enzyme classes. Each class has its own specific substrates.",
+      "explanation": "Reaction specificity dictates that even if multiple enzymes can bind the same substrate, each will drive a totally different chemical transformation."
+    },
+    {
+      "id": "L4_SA_047",
+      "type": "shortanswer",
+      "text": "What is dual specificity?",
+      "answer": "One enzyme acts on 2 different substrates e.g. isocitrate dehydrogenase enzyme acts on isocitrate and oxalosuccinate.",
+      "explanation": "Dual specificity allows a single catalytic domain to manage sequential intermediate conversions or bind distinct chemical frameworks."
+    },
+    {
+      "id": "L4_SA_048",
+      "type": "shortanswer",
+      "text": "What is the type of specificity of the following enzymes: urease, lipase, pepsin & maltase?",
+      "answer": "Urease: Absolute specificity, lipase: relative specificity, pepsin: group specificity, and maltase: optical specificity.",
+      "explanation": "These assignments clarify the spectrum of catalytic discrimination, spanning from single-substrate absolute binding to broader functional link-affinity."
+    },
+    {
+      "id": "L4_SA_049",
+      "type": "shortanswer",
+      "text": "What is enzyme-substrate complex theory?",
+      "answer": "The enzyme combines with the substrate, to form an enzyme-substrate complex, which immediately breaks down to the enzyme and the product.",
+      "explanation": "The formation of a transient Enzyme-Substrate (ES) complex is the foundational requirement for decreasing the activation free energy barrier."
+    },
+    {
+      "id": "L4_SA_050",
+      "type": "shortanswer",
+      "text": "What is Fischer's 'key and lock' theory?",
+      "answer": "It states that the three dimensional structure of the active site of the enzyme is complementary to the substrate. Thus, enzyme and substrate fit each other like a key and its lock.",
+      "explanation": "Fischer's classic model proposes a rigid, predefined architectural alignment between the substrate geometry and the enzyme active site."
+    },
+    {
+      "id": "L4_SA_051",
+      "type": "shortanswer",
+      "text": "What is Koshland's 'induced fit' theory?",
+      "answer": "The enzyme changes shape upon binding the substrate, so that the conformation of substrate and enzyme protein are only complementary after the binding reaction.",
+      "explanation": "Koshland's modern model treats the active site as flexible, where initial weak interactions induce structural reshaping to maximize catalytic fit."
+    },
+    {
+      "id": "L4_SA_052",
+      "type": "shortanswer",
+      "text": "What is the active (catalytic) site of an enzyme?",
+      "answer": "This is an area of the enzyme where catalysis occurs.",
+      "explanation": "The active center typically forms a hydrophobic cleft populated by functional amino acid side chains that execute chemical attack."
+    },
+    {
+      "id": "L4_SA_053",
+      "type": "shortanswer",
+      "text": "What is meant by serine proteases?",
+      "answer": "Proteases (proteolytic enzymes) having a serine residue at its active center.",
+      "explanation": "Serine proteases share a highly conserved catalytic triad (Ser-His-Asp) where the serine oxygen acts as a powerful nucleophile to attack peptide bonds."
+    },
+    {
+      "id": "L4_SA_054",
+      "type": "shortanswer",
+      "text": "Give an example of a serine proteases.",
+      "answer": "Trypsin, chymotrypsin, and thrombin.",
+      "explanation": "These enzymes operate in digestion and blood coagulation cascades, utilizing active site serine residues to achieve hydrolytic cleavage."
+    },
+    {
+      "id": "L4_SA_055",
+      "type": "shortanswer",
+      "text": "What is initial velocity (Vi)?",
+      "answer": "It is the initial portion of the reaction where the increase in the concentration of the product is correlated constantly with time.",
+      "explanation": "Vi is measured at the absolute beginning of a reaction when substrate depletion and reverse conversion of product are completely negligible."
+    },
+    {
+      "id": "L4_SA_056",
+      "type": "shortanswer",
+      "text": "What is Vmax?",
+      "answer": "The initial velocity (rate) of a reaction is directly proportional to the amount of substrate present until it reaches a maximum point known as maximum velocity (Vmax), where any increase in substrate meets with no increase in velocity.",
+      "explanation": "Vmax represents complete kinetic saturation of all available enzyme active sites by substrate molecules ($[ES] = [E]_{total}$)."
+    },
+    {
+      "id": "L4_SA_057",
+      "type": "shortanswer",
+      "text": "What are factors affecting the rate of enzyme activity?",
+      "answer": "Enzyme concentration, substrate concentration, end products, temperature, pH, and presence of activators or inhibitors.",
+      "explanation": "Enzyme rates are sensitive environmental sensors; shifting physical variables alters protein folding and active center electronic states."
+    },
+    {
+      "id": "L4_SA_058",
+      "type": "shortanswer",
+      "text": "How can substrate concentration affect the rate of enzyme activity?",
+      "answer": "Velocity of reaction is directly proportional to the concentration of the enzyme i.e. increase S concentration increase the velocity of the reaction up to certain point after which no further increase of the velocity occurs (Vmax). The S concentration at ½ Vmax is constant for each enzyme, and is known as the Michaelis constant or Km.",
+      "explanation": "At low substrate levels, the rate responds linearly to substrate changes (first-order), but at high levels it levels off to zero-order kinetic behavior."
+    },
+    {
+      "id": "L4_SA_059",
+      "type": "shortanswer",
+      "text": "What is Km value?",
+      "answer": "Substrate concentration (expressed in moles / L) that produces half maximum velocity.",
+      "explanation": "The Michaelis constant ($K_m$) serves as an index of substrate affinity; it is inversely proportional to how tightly an enzyme binds its substrate."
+    },
+    {
+      "id": "L4_SA_060",
+      "type": "shortanswer",
+      "text": "What does Km value indicate?",
+      "answer": "It denotes that 50% of enzyme molecules are bound with substrate molecules at that particular substrate concentration.",
+      "explanation": "When substrate concentration equals $K_m$, exactly half of total enzyme active sites are occupied as an active enzyme-substrate complex."
+    },
+    {
+      "id": "L4_SA_061",
+      "type": "shortanswer",
+      "text": "What is its significance?",
+      "answer": "Km value is constant for an enzyme. Thus, its value is higher when the affinity to the substrate is low and vice versa.",
+      "explanation": "A high $K_m$ requires larger amounts of substrate to reach half-maximal rates, showing that the enzyme has a low binding affinity for that substrate."
+    },
+    {
+      "id": "L4_SA_062",
+      "type": "shortanswer",
+      "text": "How can enzyme concentration affect the rate of enzyme activity.",
+      "answer": "At low enzyme (E) concentration only few substrate (S) molecules form E-S complex, and the velocity of the reaction is low. As the enzyme concentration is increased, more S molecules form E-S complex and the velocity is increased. This is true up to certain point after which no further increase of the velocity occurs.",
+      "explanation": "Provided substrate is non-limiting, the reaction rate scales in a linear, direct 1:1 proportion relative to total enzyme availability."
+    },
+    {
+      "id": "L4_SA_063",
+      "type": "shortanswer",
+      "text": "What is the effect of temperature on enzyme velocity?",
+      "answer": "The velocity of reaction increases when temperature is increased, reaches a maximum and then falls (Bell-shaped curve).",
+      "explanation": "Initial warming adds kinetic energy and boosts molecular collisions, but breaching the critical temperature threshold causes denaturing of protein folds."
+    },
+    {
+      "id": "L4_SA_064",
+      "type": "shortanswer",
+      "text": "Why it falls?",
+      "answer": "When temperature is more than 50°C, heat denaturation and consequent loss of tertiary structure of protein occurs.",
+      "explanation": "Thermal stress breaks the weak non-covalent interactions (hydrogen and hydrophobic bonds) required to sustain the operational shape of the active site."
+    },
+    {
+      "id": "L4_SA_065",
+      "type": "shortanswer",
+      "text": "What is the effect of pH on the activity of an enzyme?",
+      "answer": "Each enzyme has an optimum pH, on both sides of which the velocity will be drastically reduced.",
+      "explanation": "Altering the surrounding pH environment modifies the ionization state of critical residues involved in catalytic transition stabilization."
+    },
+    {
+      "id": "L4_SA_066",
+      "type": "shortanswer",
+      "text": "What is the explanation for the effect of pH?",
+      "answer": "The pH decides the charge on the amino acid residues at the active site. The net charge on the enzyme protein would influence substrate binding and catalytic activity.",
+      "explanation": "Improper charge profiles disrupt electrostatic attraction between substrate and active site, or interfere with functional acid-base catalysis."
+    },
+    {
+      "id": "L4_SA_067",
+      "type": "shortanswer",
+      "text": "What is the optimum pH of usual enzymes?",
+      "answer": "Usually enzymes have the optimum pH between 6 and 8.",
+      "explanation": "Most metabolic pathways operate inside physiological neutral buffers, meaning their structural profiles are optimized for standard cellular pH."
+    },
+    {
+      "id": "L4_SA_068",
+      "type": "shortanswer",
+      "text": "Are there any important exceptions for this general rule?",
+      "answer": "Pepsin (optimum pH 1-2), alkaline phosphatase (optimum pH 9-10) and Acid phosphatase (4-5).",
+      "explanation": "These functional outliers have adapted to localized tissue compartments, such as highly acidic gastric juices or basic bone matrix structures."
+    },
+    {
+      "id": "L4_SA_069",
+      "type": "shortanswer",
+      "text": "How can end product affect the rate of enzyme activity.",
+      "answer": "End product inhibits the first enzyme in the reaction.",
+      "explanation": "Feedback or end-product inhibition acts as a vital metabolic brake, turning down upstream synthesis when product accumulation satisfies cellular demand."
+    },
+    {
+      "id": "L4_SA_070",
+      "type": "shortanswer",
+      "text": "What are types of enzyme activators?",
+      "answer": "Metal ions, enzymes, HCl and bile salts.",
+      "explanation": "Activators trigger functional shape transformations or supply essential counter-ions to optimize active site binding geometries."
+    },
+    {
+      "id": "L4_SA_071",
+      "type": "shortanswer",
+      "text": "Give example of metal ions as enzyme activators.",
+      "answer": "Chloride ions, which activate salivary amylase and calcium ion, which activates activate blood clotting enzymes.",
+      "explanation": "Inorganic ions balance local charge densities or serve as electrostatic bridges to align substrate positioning inside the catalytic pocket."
+    },
+    {
+      "id": "L4_SA_072",
+      "type": "shortanswer",
+      "text": "Give example of enzymes acting as enzyme activators.",
+      "answer": "Some inactive enzymes (zymogens) may need other enzymes for activation e.g. trypsinogen is activated by enteropeptidase.",
+      "explanation": "Specific endopeptidase cleavage clips away a blocking pro-peptide sequence, opening up the fully formed active site structure."
+    },
+    {
+      "id": "L4_SA_073",
+      "type": "shortanswer",
+      "text": "What is auto-activation? Give example",
+      "answer": "Auto-activation means that the inactive enzyme (zymogen) is activated by small concentration of the enzyme itself e.g. pepsinogen is activated by pepsin, and trypsinogen is activated by trypsin.",
+      "explanation": "Auto-activation behaves as an explosive biochemical positive feedback loop, generating rapid, high concentrations of active enzyme upon initial stimulation."
+    },
+    {
+      "id": "L4_SA_074",
+      "type": "shortanswer",
+      "text": "How can an inhibitor affect the rate of enzyme activity?",
+      "answer": "The velocity of the reaction is inversely proportional to the concentration of the inhibitor.",
+      "explanation": "Increasing concentrations of inhibitor molecules reduce total available active enzyme fractions, slowing down overall product formation rates."
+    },
+    {
+      "id": "L4_SA_075",
+      "type": "shortanswer",
+      "text": "What are the different types of inhibitions of enzyme activity?",
+      "answer": "Reversible inhibitors, which include competitive, noncompetitive and uncompetitive inhibitors, irreversible inhibitors and allosteric regulation.",
+      "explanation": "Inhibitors are broadly categorized by whether they form permanent covalent modifications or easily dissociable non-covalent structural interactions."
+    },
+    {
+      "id": "L4_SA_076",
+      "type": "shortanswer",
+      "text": "What are salient features of competitive inhibition?",
+      "answer": "In competitive inhibition, (1) Both inhibitors and substrates have structural similarity (2) Both bind to the same site (catalytic site) (3) It is reversible. (4) Km is increased. (5) Vmax is not changed.",
+      "explanation": "Competitive inhibition can be overcome by adding excess substrate, which successfully outcompetes the inhibitor for the active site, allowing the reaction to reach its original $V_{max}$."
+    },
+    {
+      "id": "L4_SA_077",
+      "type": "shortanswer",
+      "text": "Give an exmple of competitive inhibitors.",
+      "answer": "Inhibition of succinate dehydrogenase by malonic acid.",
+      "explanation": "Malonate possesses a structural configuration closely resembling succinate, allowing it to lock into the succinate dehydrogenase binding pocket without reacting."
+    },
+    {
+      "id": "L4_SA_078",
+      "type": "shortanswer",
+      "text": "Give examples of clinical application of competitive inhibition.",
+      "answer": "Sulfonamide inhibits PABA incorporation in bacteria, and so acts as an antibacterial agent. Methotrexate inhibits folate reductase system, dicoumarol inhibits vitamin K.",
+      "explanation": "Pharmacological competitive analogues act as structural impostors, successfully blocking vital bacterial or neoplastic pathways."
+    },
+    {
+      "id": "L4_SA_079",
+      "type": "shortanswer",
+      "text": "What are salient features of non-competitive inhibition?",
+      "answer": "In non-competitive inhibition, (1) No structural similarity between inhibitors and substrates (2) They bind to different sites (3) Km is unchanged. (4) Vmax is decreased.",
+      "explanation": "Because non-competitive inhibitors bind to a separate allosteric site, adding more substrate cannot displace them; this lowers the effective concentration of active enzyme and decreases $V_{max}$."
+    },
+    {
+      "id": "L4_SA_080",
+      "type": "shortanswer",
+      "text": "Give an exmple of non-competitive inhibitors.",
+      "answer": "Oxidizing agent, heavy metals, di-isopropyl fluoro phosphate (inhibits trypsin), and fluoride (inhibits enolase).",
+      "explanation": "Heavy metal ions often target functional sulfhydryl (-SH) groups located away from the active center, altering protein folding and knocking out catalytic activity."
+    },
+    {
+      "id": "L4_SA_081",
+      "type": "shortanswer",
+      "text": "What is the mechanism of inhibitory action of Di-isopropyl fluorophosphate?",
+      "answer": "It inhibits enzymes with serine in their active centers, e.g. acetylcholine esterase.",
+      "explanation": "DFP acts as an irreversible organophosphate blocker by forming a permanent covalent bond with the critical nucleophilic serine side chain."
+    },
+    {
+      "id": "L4_SA_082",
+      "type": "shortanswer",
+      "text": "Compare between feed back inhibition and feed back regulation of enzymes:",
+      "answer": "(1) Feed back inhibition is the inhibition of series of enzymatic reactions by the end product. Usually the accumulated end product will inhibit the enzyme catalyzing the first reaction. (2) Feed back regulation is the inhibition of series of enzymatic reactions by the end product. Usually the accumulated end product will act as repressor inhibiting transcription of enzyme at nucleic acids levels.",
+      "explanation": "Feedback inhibition provides immediate catalytic control by directly blocking protein function, whereas feedback regulation offers long-term adaptation by altering gene expression and enzyme synthesis."
+    },
+    {
+      "id": "L4_SA_083",
+      "type": "shortanswer",
+      "text": "Define allosteric inhibitors:",
+      "answer": "These are enzyme inhibitors that bind non-covalently to other site than catalytic site.",
+      "explanation": "Allosteric binding induces a conformational change across subunits, reducing the affinity or catalytic efficiency of the active center."
+    },
+    {
+      "id": "L4_SA_084",
+      "type": "shortanswer",
+      "text": "What are the salient features of allosteric inhibition?",
+      "answer": "(1) The inhibitor is not a substrate analogue. (2) It is partially reversible when excess substrate is added. (3) Km is usually increased. (4) Vmax is reduced. (5) Most allosteric enzymes posses quaternary structure. They are made up of subunits.",
+      "explanation": "Allosteric kinetics deviate from typical Michaelis-Menten patterns, displaying sigmoidal cooperative curves due to their multi-subunit structures."
+    },
+    {
+      "id": "L4_SA_085",
+      "type": "shortanswer",
+      "text": "What is the use of assessing the km value of an enzyme? What is the application?",
+      "answer": "Determination of Km value is also useful to understand the natural substrate of an enzyme. Study of Km value will also differentiate the competitive and non-competitive inhibitions.",
+      "explanation": "Analyzing how $K_m$ changes in the presence of an inhibitor diagnostics whether a drug competes directly for the active site or binds elsewhere."
+    },
+    {
+      "id": "L4_SA_086",
+      "type": "shortanswer",
+      "text": "What is zymogen?",
+      "answer": "Zymogens are inactive enzymes e.g. pepsinogen.",
+      "explanation": "Zymogens serve as stable, inactive storage forms of enzymes, preventing them from causing damage before reaching their intended site of action."
+    },
+    {
+      "id": "L4_SA_087",
+      "type": "shortanswer",
+      "text": "Why zymogens are inactive?",
+      "answer": "Zymogens are inactive because a polypeptide chain masks their catalytic sites. Inactive zymogen is activated by removal of this polypeptide chain to open the catalytic site for its substrate.",
+      "explanation": "The extra peptide sequence creates a structural barrier that physically blocks substrate entry or prevents the active site from adopting its functional shape."
+    },
+    {
+      "id": "L4_SA_088",
+      "type": "shortanswer",
+      "text": "Give an example of how zymogen is activated.",
+      "answer": "By removal of a small polypeptide from trypsinogen, the active trypsin is formed. This results in unmasking of the active centre.",
+      "explanation": "Enteropeptidase cleaves a specific hexapeptide from the N-terminus of trypsinogen, triggering a structural rearrangement that forms the active binding pocket."
+    },
+    {
+      "id": "L4_SA_089",
+      "type": "shortanswer",
+      "text": "What is the significance of zymogen activation?",
+      "answer": "Gastro-intestinal enzymes are synthesized in the form of zymogens, and only after secretion into the alimentary canal, they are activated. This prevents autolysis of cellular structural proteins. Coagulation factors are seen in blood as zymogen form, their activation takes place only when necessity arises. This prevents intravascular coagulation.",
+      "explanation": "Synthesizing enzymes as zymogens acts as a vital protective mechanism, preventing premature self-digestion of pancreatic tissues or dangerous spontaneous blood clotting inside blood vessels."
+    },
+    {
+      "id": "L4_SA_090",
+      "type": "shortanswer",
+      "text": "Enumerate mechanisms that regulate enzyme activity.",
+      "answer": "Amount of enzyme present, allosteric regulation, feed back inhibition, feed back regulation and covalent modification.",
+      "explanation": "Cells utilize a multi-layered regulatory network, balancing rapid allosteric adjustments with slower, long-term controls over enzyme synthesis."
+    },
+    {
+      "id": "L4_SA_091",
+      "type": "shortanswer",
+      "text": "What is allosteric regulation?",
+      "answer": "These are substances (effectors) that act by combining non-covalently with certain sites present in some enzymes other than catalytic sites. These sites are called allosteric sites. The effectors are either positive (if they stimulate catalytic reactions) or negative if they inhibit them). Effectors may be the end product of metabolic pathway.",
+      "explanation": "Allosteric regulation enables rapid adjustments in metabolic pathways, using small signal molecules to tune enzyme activity up or down without requiring covalent updates."
+    },
+    {
+      "id": "L4_SA_092",
+      "type": "shortanswer",
+      "text": "Give examples for allosteric inhibition.",
+      "answer": "ALA synthase and HMG CoA reductase.",
+      "explanation": "Heme inhibits ALA synthase, and cholesterol controls HMG-CoA reductase, ensuring that cells do not waste resources overproducing these complex end products."
+    },
+    {
+      "id": "L4_SA_093",
+      "type": "shortanswer",
+      "text": "What is covalent modification?",
+      "answer": "It means, either addition of a group to the enzyme protein by a covalent bond; or removal of a group by cleaving a covalent bond.",
+      "explanation": "Reversible phosphorylation, driven by kinases and phosphatases, acts as a rapid molecular switch to turn enzymes on or off."
+    },
+    {
+      "id": "L4_SA_094",
+      "type": "shortanswer",
+      "text": "Give some examples of covalent modification.",
+      "answer": "Glycogen synthase is inactive, in the phosphorylated state, whereas it is active when dephosphorylated.",
+      "explanation": "Phosphorylation acts as a reciprocal switch in glycogen metabolism, turning down glycogen synthesis while simultaneously activating glycogen breakdown."
+    },
+    {
+      "id": "L4_SA_095",
+      "type": "shortanswer",
+      "text": "Define enzyme repressors.",
+      "answer": "These are substances (or metabolites) that repress (inhibit) enzyme synthesis by DNA.",
+      "explanation": "Repressors shut down gene transcription, ensuring cells conserve energy by avoiding the synthesis of unnecessary metabolic machinery."
+    },
+    {
+      "id": "L4_SA_096",
+      "type": "shortanswer",
+      "text": "Define enzyme inducers:",
+      "answer": "These are substances (or metabolites) that induce (stimulate) enzyme synthesis by DNA. Inducers may be substrates for enzymes. Inducers may also be compounds similar in structure to the substrates. These compounds are called gratuitous inducers.",
+      "explanation": "Induction increases transcription rates, expanding the cell's metabolic capacity to process a sudden influx of a specific substrate."
+    },
+    {
+      "id": "L4_SA_097",
+      "type": "shortanswer",
+      "text": "What is meant by induction?",
+      "answer": "Induction is effected at the level of DNA. The inducer will relieve the repression on the operator site and will remove the block on the biosynthesis of the enzyme molecules.",
+      "explanation": "Induction alters gene expression by clearing transcriptional blocks, allowing RNA polymerase to synthesize mRNA for new enzyme production."
+    },
+    {
+      "id": "L4_SA_098",
+      "type": "shortanswer",
+      "text": "Give an example of induction.",
+      "answer": "Induction of lactose-utilising enzymes in the bacteria when the media contains lactose in the absence of glucose.",
+      "explanation": "The classical bacterial lac operon switches on gene transcription to metabolize lactose only when preferred energy sources like glucose are missing."
+    },
+    {
+      "id": "L4_SA_099",
+      "type": "shortanswer",
+      "text": "What are constitutive enzymes?",
+      "answer": "Enzymes whose concentration in a cell is independent of inducer are called constitutive enzymes.",
+      "explanation": "Constitutive enzymes are continuously expressed at a baseline rate because they manage foundational housekeeping processes required for cell survival."
+    },
+    {
+      "id": "L4_SA_100",
+      "type": "shortanswer",
+      "text": "What is repression?",
+      "answer": "Repression acts at the gene level; the number of enzyme molecules is reduced in the presence of repressor molecule.",
+      "explanation": "Repression blocks transcript construction, leading to a natural drop in total functional enzyme levels as old proteins turn over."
+    },
+    {
+      "id": "L4_SA_101",
+      "type": "shortanswer",
+      "text": "Give an example of repression.",
+      "answer": "Synthesis of ALA synthase, the key enzyme of heme synthesis, is repressed (inhibited) by the heme itself.",
+      "explanation": "Heme acts as a co-repressor to shut down its own synthesis pathway, maintaining tight control over intracellular porphyrin pools."
+    },
+    {
+      "id": "L4_SA_102",
+      "type": "shortanswer",
+      "text": "Give examples of multi-enzyme complexes.",
+      "answer": "Fatty acid synthase, pyruvate dehydrogenase, and α-ketoglutarate dehydrogenase.",
+      "explanation": "Multi-enzyme complexes organize sequential metabolic steps into close physical proximity, preventing intermediates from leaking out and accelerating overall reaction rates."
+    },
+    {
+      "id": "L4_SA_103",
+      "type": "shortanswer",
+      "text": "What are isoenzymes?",
+      "answer": "Isoenzymes are fractions of one enzyme having the same catalytic activity, but differ in chemical and immunological structure.",
+      "explanation": "Isoenzymes share the same primary catalytic task but feature distinct amino acid patterns, allowing them to adapt to the specific metabolic needs of different tissues."
+    },
+    {
+      "id": "L4_SA_104",
+      "type": "shortanswer",
+      "text": "How to differentiate isoenzymes?",
+      "answer": "Electrophoresis, heat stability, Km value, inhibitor specificity, and tissue localization.",
+      "explanation": "Isoenzymes display distinct surface charge profiles, which causes them to migrate at different speeds during electrophoretic separation."
+    },
+    {
+      "id": "L4_SA_105",
+      "type": "shortanswer",
+      "text": "Which is a functional enzyme in plasma?",
+      "answer": "They are actively secreted into plasma, and have some functions in the blood. For example, enzymes of blood coagulation.",
+      "explanation": "Functional plasma enzymes execute their biological roles directly within the bloodstream and require stable, active baseline concentrations."
+    },
+    {
+      "id": "L4_SA_106",
+      "type": "shortanswer",
+      "text": "What is non-functional enzymes in plasma?",
+      "answer": "These are enzymes coming out from cells due to normal wear and tear.",
+      "explanation": "Non-functional plasma enzymes have no biological role in circulation; they are simply intracellular components leaked into blood during routine cellular turnover."
+    },
+    {
+      "id": "L4_SA_107",
+      "type": "shortanswer",
+      "text": "What is their clinical significance?",
+      "answer": "Their normal levels in blood are very low, but are drastically increased during cell death (necrosis) or disease. Therefore, assays of these enzymes are very useful in diagnosis of diseases.",
+      "explanation": "A sudden spike in non-functional plasma enzyme levels serves as a reliable diagnostic indicator of tissue injury or necrosis in specific organs."
+    },
+    {
+      "id": "L4_SA_108",
+      "type": "shortanswer",
+      "text": "Enumerate enzymes of medical importance.",
+      "answer": "Transaminases (ALT and AST), alkaline phosphatase, acid phosphatase, lactate dehydrogenase (LD), amylase, lipase, creatine kinase (CK), gamma-glutamyl transferase (GGT), cholinesterase.",
+      "explanation": "This collection of enzymes serves as a standard diagnostic panel; tracking their blood concentrations allows clinicians to pinpoint and monitor organ damage."
+    },
+    {
+      "id": "L4_SA_109",
+      "type": "shortanswer",
+      "text": "What are types of cholinesterase?",
+      "answer": "There are 2 types of enzyme; plasma cholinesterase that is known as pseudocholinesterase and tissue cholinesterase that is known as true cholinesterase.",
+      "explanation": "True cholinesterase hydrolyzes acetylcholine at neurological synapses, whereas pseudocholinesterase is synthesized by the liver and clears general circulating esters."
+    },
+    {
+      "id": "L4_SA_110",
+      "type": "shortanswer",
+      "text": "What are enzymes used for diagnosis of myocardial infarction?",
+      "answer": "Creatine kinase (CK), aspartate aminotransferase (AST), and lactate dehydrogenase (LDH).",
+      "explanation": "Measuring the sequential release of these cardiac enzymes into the blood helps confirm a myocardial infarction and track the timeline of tissue damage."
+    },
+    {
+      "id": "L4_SA_111",
+      "type": "shortanswer",
+      "text": "What are proteins used for diagnosis of myocardial infarction?",
+      "answer": "Myoglobin, cardiac troponin I (CTI), creatine kinase (CK), aspartate aminotransferase (AST), and lactate dehydrogenase (LDH).",
+      "explanation": "Combining assays for structural troponins with catalytic enzyme tracking provides a highly sensitive and reliable diagnostic window for cardiac injuries."
+    },
+    {
+      "id": "L4_SA_112",
+      "type": "shortanswer",
+      "text": "Lactate dehydrogenase has how many polypeptide subunits?",
+      "answer": "Four. It is a tetramer.",
+      "explanation": "LDH assemblies draw from two distinct subunit varieties, H (Heart) and M (Muscle), combining them into various functional tetrameric layouts."
+    },
+    {
+      "id": "L4_SA_113",
+      "type": "shortanswer",
+      "text": "Lactate dehydrogenase has how many isoenzymes?",
+      "answer": "Five.",
+      "explanation": "The different tetrameric combinations of H and M subunits yield exactly five distinct LDH isoenzymes ($H_4, H_3M_1, H_2M_2, H_1M_3, M_4$)."
+    },
+    {
+      "id": "L4_SA_114",
+      "type": "shortanswer",
+      "text": "What are lactate dehydrogenase isoenzymes?",
+      "answer": "LD1 (H4), LD2 (H3M), LD3 (H2M2), LD4 (M3H) and LD5 (M4) varaities, forming five isoenzymes. All these five forms are seen in all persons.",
+      "explanation": "Each LDH isoenzyme features a distinct tissue profile; for instance, LD1 dominates cardiac muscle, while LD5 is the primary form in skeletal muscle and liver tissue."
+    },
+    {
+      "id": "L4_SA_115",
+      "type": "shortanswer",
+      "text": "How do you separate LDH isoenzymes in laboratory?",
+      "answer": "By cellulose acetate electrophoresis at pH 8.6.",
+      "explanation": "At an alkaline pH of 8.6, the isoenzymes carry distinct net negative charges, causing them to separate into clear, measurable bands as they migrate toward the anode."
+    },
+    {
+      "id": "L4_SA_116",
+      "type": "shortanswer",
+      "text": "LDH level in blood is increased in which conditions?",
+      "answer": "Myocardial infarction, hemolytic anemias, muscular dystrophy, carcinomas, leukemias, and any condition which causes necrosis of body cells.",
+      "explanation": "Because LDH is found throughout body tissues, a general rise in total LDH indicates systemic cell damage, requiring isoenzyme separation to pinpoint the source."
+    },
+    {
+      "id": "L4_SA_117",
+      "type": "shortanswer",
+      "text": "Which LDH isoenzyme is increased in myocardial infarction?",
+      "answer": "LDH-1 (H4).",
+      "explanation": "Myocardial necrosis releases large amounts of cardiac $H_4$ units into the blood, triggering an 'LDH flipped pattern' where LD1 levels breach and surpass LD2."
+    },
+    {
+      "id": "L4_SA_118",
+      "type": "shortanswer",
+      "text": "Creatine kinase (CK) level in serum Is increased in which conditions?",
+      "answer": "Myocardial infarction, muscular dystrophies.",
+      "explanation": "CK is heavily concentrated in energy-demanding tissues; high serum levels indicate significant membrane damage in either cardiac or skeletal muscle cells."
+    },
+    {
+      "id": "L4_SA_119",
+      "type": "shortanswer",
+      "text": "What is the advantage of CK estimation over LDH estimation to identify myocardial infarction?",
+      "answer": "The CK level starts to rise within three hours of infarction. Therefore, CK estimation is very useful to detect early cases, where ECG changes may be ambiguous. The CK level is not increased in hemolysis or in congestive cardiac failure; and therefore CK has an advantage over LDH.",
+      "explanation": "CK offers a faster, more specific diagnostic signal than LDH because it rises rapidly following an infarction and is unaffected by red blood cell breakdown."
+    },
+    {
+      "id": "L4_SA_120",
+      "type": "shortanswer",
+      "text": "What are the isoenzymes of CK?",
+      "answer": "CK is a dimmer with 2 subunits B and M, (B for brain and M for muscle). Therefore, three isoenzymes are possible (BB, MM, and MB).",
+      "explanation": "The dimeric assembly of B and M subunits produces three major cytosolic variants: CK-BB (CK1), CK-MB (CK2), and CK-MM (CK3)."
+    },
+    {
+      "id": "L4_SA_121",
+      "type": "shortanswer",
+      "text": "What are the origins of the CK isoenzymes?",
+      "answer": "80% of molecules in circulation are MM (CK3) variety of skeletal origin, 5% in circulation are MB(CK2) from heart, 1% from brain (BB or CK1) and 15% CKmt from mitochondria.",
+      "explanation": "Uninjured serum consists almost entirely of skeletal CK-MM; a selective spike in CK-MB is a classic indicator of heart muscle damage."
+    },
+    {
+      "id": "L4_SA_122",
+      "type": "shortanswer",
+      "text": "When do you estimate total CK and the isoenzymes?",
+      "answer": "Estimation of total CK is employed in muscular dystrophies and CK-MB isoenzyme is estimated to identify myocardial infarction.",
+      "explanation": "Total CK tracking helps evaluate skeletal muscle breakdown, while isolated CK-MB testing is used to confirm acute cardiac injuries."
+    },
+    {
+      "id": "L4_SA_123",
+      "type": "shortanswer",
+      "text": "What is the advantage of cardiac troponin I over other parameters to identify the myocardial infarction?",
+      "answer": "Cardiac troponin I (CTI) is released into the blood within four hours after the onset of cardiac symptoms, peaks at 12-16 hours and remains elevated for 5-9 days post-infarction. Therefore, is very useful as a marker at any time interval after the heart attack. It is 75% sensitive index for myocardial infarction.",
+      "explanation": "Troponin I provides an extended diagnostic window, remaining elevated long after standard cardiac enzymes have returned to baseline levels."
+    },
+    {
+      "id": "L4_SA_124",
+      "type": "shortanswer",
+      "text": "What is the significance of AST?",
+      "answer": "It is significantly elevated in myocardial infaction and moderately elevated in liver diseases.",
+      "explanation": "AST is found in both cardiac and hepatic tissues; checking it alongside other markers helps confirm a heart attack or evaluate liver health."
+    },
+    {
+      "id": "L4_SA_125",
+      "type": "shortanswer",
+      "text": "What is the significance of ALT?",
+      "answer": "Very high values are seen in acute hepatitis. Rise in ALT levels may be noticed several days before clinical signs such as jaundice are manifested. Moderate increase may be seen in chronic liver diseases such as cirrhosis, and malignancy in liver.",
+      "explanation": "ALT is highly localized to liver cells, making it a sensitive and specific blood marker for detecting early inflammatory liver injury."
+    },
+    {
+      "id": "L4_SA_126",
+      "type": "shortanswer",
+      "text": "Alkaline phosphatase level in serum is elevated in which conditions?",
+      "answer": "Moderate increase is seen in hepatic diseases (infective hepatitis, alcoholic hepatitis). High levels may be noticed in obstructive jaundice or cholestasis. Very high levels are seen in bone diseases such as Paget's disease, rickets, osteomalacia, osteoblastoma, metastatic carcinoma of bone.",
+      "explanation": "ALP is concentrated in bile canalicular membranes and bone-forming osteoblasts; high levels indicate either bile duct obstruction or active bone remodeling."
+    },
+    {
+      "id": "L4_SA_127",
+      "type": "shortanswer",
+      "text": "For alkaline phosphatase, how many isoenzymes are present?",
+      "answer": "Six.",
+      "explanation": "ALP presents multiple molecular forms corresponding to bone, liver, placental, and intestinal lineages, separating clearly upon lab analysis."
+    },
+    {
+      "id": "L4_SA_128",
+      "type": "shortanswer",
+      "text": "What is Regan isoenzyme?",
+      "answer": "It is the isoenzyme of alkaline phosphatase, inhibited by phenylalanine. It is of placental origin. It is elevated in about 15% cases of carcinoma of lung, liver, and gut and then named as Regan isoenzyme or carcinoplacental isoenzyme.",
+      "explanation": "The Regan variant acts as an oncofetal tumor marker; its unexpected reappearance in adult serum suggests ectopic gene expression driven by specific cancers."
+    },
+    {
+      "id": "L4_SA_129",
+      "type": "shortanswer",
+      "text": "Estimation of gamma glutamyl transferase (GGT) is useful to detect which condition?",
+      "answer": "Alcohol abuse and obstructive liver disease.",
+      "explanation": "GGT is highly sensitive to biliary stagnation and is induced by ethanol, making it an effective blood marker for monitoring alcohol consumption and liver health."
+    },
+    {
+      "id": "L4_SA_130",
+      "type": "shortanswer",
+      "text": "It is said that GGT is a better index of obstructive liver disease than alkaline phosphatase (ALP), why?",
+      "answer": "ALP level is increased in both liver and bone diseases, but GGT is only in liver diseases.",
+      "explanation": "Evaluating GGT alongside a high ALP helps confirm the source of damage; if GGT is normal, the elevated ALP points to a bone pathology rather than liver disease."
+    },
+    {
+      "id": "L4_SA_131",
+      "type": "shortanswer",
+      "text": "What are the enzymes useful in diagnosing liver pathology?",
+      "answer": "ALT, AST, ALP, and GGT.",
+      "explanation": "This panel allows clinicians to distinguish between different types of liver injury, separating hepatocellular damage from biliary tract obstructions."
+    },
+    {
+      "id": "L4_SA_132",
+      "type": "shortanswer",
+      "text": "Give the clinical implications of these enzymes.",
+      "answer": "In infective hepatitis, ALT and AST levels are increased; in alcohol abuse, GGT level is increased; in obstructive jaundice, ALP and GGT levels are increased.",
+      "explanation": "Analyzing the ratios and patterns of these enzymes helps clarify whether liver disease is primarily hepatocellular or cholestatic in nature."
+    },
+    {
+      "id": "L4_SA_133",
+      "type": "shortanswer",
+      "text": "Serum acid phosphatase level is increased in which condition?",
+      "answer": "Prostate carcinoma.",
+      "explanation": "Prostatic epithelial cells express high levels of ACP; advanced malignancy often breaches local tissue barriers, causing enzyme leakage into blood circulation."
+    },
+    {
+      "id": "L4_SA_134",
+      "type": "shortanswer",
+      "text": "Total acid phosphatase may increase in some other conditions also; what are they?",
+      "answer": "Prostate carcinoma, secondary metastasis in bones, per rectal examination, intra-vascular hemolysis.",
+      "explanation": "ACP is present in red blood cells and platelets; physical manipulation or specimen breakdown can cause false elevations in total measured levels."
+    },
+    {
+      "id": "L4_SA_135",
+      "type": "shortanswer",
+      "text": "In such conditions, isoenzyme study is helpful or not?",
+      "answer": "Yes, tartarate labile isoenzyme is specific for prostate carcinoma.",
+      "explanation": "Prostatic ACP is uniquely inhibited by tartrate, allowing labs to differentiate it from non-prostatic forms that are unaffected by tartrate treatment."
+    },
+    {
+      "id": "L4_SA_136",
+      "type": "shortanswer",
+      "text": "What is the advantage of prostate specific antigen (PSA)?",
+      "answer": "PSA is very specific for prostate carcinoma.",
+      "explanation": "PSA has largely replaced ACP in clinical practice, serving as a highly sensitive blood biomarker for screening and monitoring prostate cancer."
+    },
+    {
+      "id": "L4_SA_137",
+      "type": "shortanswer",
+      "text": "What are the enzymes useful as tumour markers?",
+      "answer": "Regan iso-enzyme of ALP for lung tumor; tatarate labile iso-enzyme of ACP and prostate specific antigen (PSA) for prostate carcinoma; Neuron specific enolase (NSE) for cancers of neuro-endocrine origin.",
+      "explanation": "Tracking these tumor-associated proteins helps clinicians evaluate treatment response and monitor for cancer recurrence."
+    },
+    {
+      "id": "L4_SA_138",
+      "type": "shortanswer",
+      "text": "Pseudo-cholinesterase deficiency is manifested as what?",
+      "answer": "Succinyl choline apnea; prolonged apnea when succinyl choline is given as anesthetic drug.",
+      "explanation": "Patients with an inherited deficiency cannot rapidly clear the muscle relaxant succinylcholine, leading to extended, dangerous paralysis of respiratory muscles."
+    },
+    {
+      "id": "L4_SA_139",
+      "type": "shortanswer",
+      "text": "Which enzyme deficiency is inherited as X-linked?",
+      "answer": "Glucose-6-phosphate-dehydrogenase.",
+      "explanation": "G6PD deficiency is an X-linked recessive genetic disorder that predominantly affects hemizygous males, compromising red blood cell protection against oxidative stress."
+    },
+    {
+      "id": "L4_SA_140",
+      "type": "shortanswer",
+      "text": "How the deficiency of GPD is manifested?",
+      "answer": "Drug induced hemolytic anemia (favism).",
+      "explanation": "Exposure to oxidative triggers, like antimalarial drugs or fava beans, causes rapid breakdown of red blood cells due to an inability to maintain protective reduced glutathione pools."
+    },
+    {
+      "id": "L4_SA_141",
+      "type": "shortanswer",
+      "text": "Acute pancreatitis can be diagnosed by estimating which enzymes?",
+      "answer": "Amylase and lipase.",
+      "explanation": "Inflammation of the pancreas leads to pancreatic cell breakdown, releasing large amounts of digestive amylase and lipase directly into blood circulation."
+    },
+    {
+      "id": "L4_SA_142",
+      "type": "shortanswer",
+      "text": "Name some enzymes that are used as therapeutic agents.",
+      "answer": "Asparaginase for leukemia, streptokinase to dissolve clots, and pepsin for indigestion.",
+      "explanation": "Therapeutic enzymes are used as targeted medical treatments, working to degrade specific amino acids in tumor cells or dissolve dangerous blood clots."
+    },
+    {
+      "id": "L4_SA_143",
+      "type": "shortanswer",
+      "text": "Compare between lysosomes and lysozymes",
+      "answer": "Lysosomes are cellular organelles that contain cathepsin enzymes, which is responsible of old cells lysis. Lysozymes are enzymes present in tears, saliva and other body secretion. They cause lysis of bacteria (bactericidal).",
+      "explanation": "Lysosomes are membrane-bound cellular compartments that break down internal structures, whereas lysozymes are antibacterial proteins secreted into body fluids to destroy bacterial cell walls."
+    },
+    {
+      "id": "L4_SA_144",
+      "type": "shortanswer",
+      "text": "What are cathepsins.",
+      "answer": "Cathepsins are cellular enzymes present in lysosomes. They disintegrate cellular proteins by a process called autolysis. These enzymes are active only after death, as they need acidic pH, which is provided by lactic acid, and other acids liberated by dead tissues. Autolysis occurs also during life in case of involution of uterus after labor. Cathepsins also are highly active in certain types of cancers as in breast cancers. They facilitate spread of cancer cells to surrounding tissues and blood.",
+      "explanation": "Cathepsins are lysosomal proteases that require an acidic environment; they drive post-mortem cell breakdown and can facilitate tissue invasion in certain cancers."
+    },
+    {
+      "id": "L4_SA_145",
+      "type": "shortanswer",
+      "text": "What is enzyme compartmentation?",
+      "answer": "This means that enzymes are present inside each cell within isolated compartments, i.e. inside the nucleus, mitochondria, lysosomes or other compartments. This will enable reactions catalyzed inside one compartment to proceed without interference by enzymes present in the other compartments.",
+      "explanation": "Compartmentation prevents chaotic metabolic conflicts inside the cell, allowing opposing processes like fatty acid synthesis and breakdown to occur simultaneously in separate areas."
+    },
+    {
+      "id": "L4_SA_146",
+      "type": "shortanswer",
+      "text": "What is enzyme compartmentation?",
+      "answer": "This means that enzymes are present inside each cell within isolated compartments, i.e. inside the nucleus, mitochondria, lysosomes or other compartments. This will enable reactions catalyzed inside one compartment to proceed without interference by enzymes present in the other compartments.",
+      "explanation": "Enzyme compartmentation provides spatial segregation of metabolic pathways, preventing futile cycles and allowing conflicting biochemical pathways (such as fatty acid synthesis in the cytosol and oxidation in the mitochondria) to occur simultaneously and efficiently."
+    },
+    {
+      "id": "L4_MCQ_001",
+      "type": "mcq",
+      "text": "A zymogen is:",
+      "options": [
+        "A. Isoenzyme",
+        "B. Anti-enzyme",
+        "C. Enzyme precursor",
+        "D. Enzyme inhibitor",
+        "E. Enzyme activator"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Isoenzymes are physically distinct forms of an enzyme that catalyze the same reaction.",
+        "Wrong: Anti-enzymes are substances that specifically inhibit enzymatic action.",
+        "Correct: A zymogen is an inactive protein precursor that requires biochemical cleavage to become an active enzyme.",
+        "Wrong: Enzyme inhibitors decrease catalytic velocity but are not precursor proteins.",
+        "Wrong: Enzyme activators increase catalytic rates of already formed functional enzymes."
+      ],
+      "explanation": "Zymogens (or proenzymes) are biosynthesized as inactive organic molecules to prevent premature autolysis of cellular or glandular structures before secretion."
+    },
+    {
+      "id": "L4_MCQ_002",
+      "type": "mcq",
+      "text": "The enzyme that hydrolyzes sucrose is:",
+      "options": [
+        "A. Amylase",
+        "B. Maltase",
+        "C. Invertase",
+        "D. Lactase"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Amylase hydrolyzes internal alpha-1,4-glucosidic bonds in starch and glycogen.",
+        "Wrong: Maltase specifically cleaves maltose into two glucose molecules.",
+        "Correct: Invertase (also known as sucrase) hydrolyzes sucrose into its constituent monosaccharides: glucose and fructose.",
+        "Wrong: Lactase hydrolyzes lactose into glucose and galactose."
+      ],
+      "explanation": "Sucrase is frequently called invertase because the hydrolysis of sucrose changes the optical rotation of the solution from dextrorotatory to levorotatory (invert sugar)."
+    },
+    {
+      "id": "L4_MCQ_003",
+      "type": "mcq",
+      "text": "Ligase enzymes:",
+      "options": [
+        "A. Catalyze changes within one molecule",
+        "B. Join two adjacent substrate using high energy phosphate",
+        "C. Catalyze the hydrolysis of a substrate",
+        "D. Transfer functional group",
+        "E. Catalyze the Interconversion of one isomer into another"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Catalyzing intra-molecular rearrangements is the hallmark function of isomerases.",
+        "Correct: Ligases catalyze the synthesis and condensation of two substrates coupled to the concurrent cleavage of a high-energy pyrophosphate bond (ATP).",
+        "Wrong: Hydrolysis of covalent chemical bonds via addition of water is catalyzed by hydrolases.",
+        "Wrong: Transferring distinct functional groups from a donor to an acceptor is executed by transferases.",
+        "Wrong: Interconversion between chiral or structural isomers is mediated exclusively by isomerases."
+      ],
+      "explanation": "Ligases (often termed synthetases) facilitate bond formations (C-C, C-S, C-O, C-N) utilizing metabolic energy directly extracted from ATP hydrolysis."
+    },
+    {
+      "id": "L4_MCQ_004",
+      "type": "mcq",
+      "text": "In competitive inhibition:",
+      "options": [
+        "A. The concentration of active enzyme molecules is reduced.",
+        "B. Vmax is increased",
+        "C. Vmax is decreased",
+        "D. Km is increase",
+        "E. Km is decreased"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: The structural concentration of active enzyme remains unchanged; it is transiently blocked.",
+        "Wrong: Vmax can never be raised above its baseline value by a structural inhibitor.",
+        "Wrong: Vmax remains entirely constant because excess substrate completely reverses competitive displacement.",
+        "Correct: Km increases because a higher substrate concentration is required to achieve half-maximal velocity in the presence of competing molecules.",
+        "Wrong: Decreased Km would indicate an altered shift favoring higher apparent substrate affinity."
+      ],
+      "explanation": "Competitive inhibitors mimic substrate architecture and vie for the identical active catalytic site, shifting the Michaelis constant ($K_m$) higher without diminishing the absolute maximal velocity ($V_{max}$)."
+    },
+    {
+      "id": "L4_MCQ_005",
+      "type": "mcq",
+      "text": "An enzyme catalyzing the reaction: Lecithin + Cholesterol → Cholesterol ester + Lysolecithin may be classified as:",
+      "options": [
+        "A. Oxidoreductase",
+        "B. Ligase",
+        "C. Hydrolase",
+        "D. Transferase",
+        "E. Lyase"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: No hydrogen atoms, oxygen configurations, or single-electrons are shifted in this pathway.",
+        "Wrong: The process does not consume high-energy nucleotide triphosphates like ATP to forge the link.",
+        "Wrong: Water is not introduced as a splitting agent across the molecular frames.",
+        "Correct: This reaction is catalyzed by LCAT (Lecithin-Cholesterol Acyltransferase), which transfers an acyl fatty acid chain from lecithin to cholesterol.",
+        "Wrong: No double bonds are constructed or broken without the input of water or redox steps."
+      ],
+      "explanation": "The enzyme Lecithin-Cholesterol Acyltransferase (LCAT) belongs to the transferase class because it transfers an acyl group from phosphatidylcholine (lecithin) directly onto free cholesterol."
+    },
+    {
+      "id": "L4_MCQ_006",
+      "type": "mcq",
+      "text": "All of the following are characters of enzymes EXCEPT:",
+      "options": [
+        "A. Specific carbohydrate catalysts",
+        "B. They do not affect the equilibrium constant",
+        "C. Highly specific",
+        "D. Enzyme structures are not affected by entering the reaction",
+        "E. May be synthesized as zymogen"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: This is incorrect; enzymes are highly specific protein catalysts, not carbohydrate molecules.",
+        "Wrong: This is a true character; enzymes accelerate forward and reverse rates equally without disrupting equilibrium.",
+        "Wrong: This is a true character; enzymes demonstrate exceptional stereochemical and structural substrate fidelity.",
+        "Wrong: This is a true character; catalysts emerge from metabolic reaction loops unchanged in absolute quantity and structural layout.",
+        "Wrong: This is a true character; many proteolytic enzymes are structurally built as inactive zymogens."
+      ],
+      "explanation": "With the rare exception of catalytic RNA molecules (ribozymes), all biological enzymes are structurally tertiary proteins, never carbohydrates."
+    },
+    {
+      "id": "L4_MCQ_007",
+      "type": "mcq",
+      "text": "Isoenzyme is:",
+      "options": [
+        "A. Inactive form of enzyme",
+        "B. Enzymes that need the presence of certain group to act",
+        "C. Unit of enzyme activity",
+        "D. Fractions of enzyme, having the same catalytic activity but differ in chemical and immunological structure",
+        "E. Inorganic substances that accelerate the rate of chemical reactions."
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Inactive structural forms of enzymes are explicitly known as zymogens or proenzymes.",
+        "Wrong: Enzymes needing separate molecular additions are holoenzymes requiring specific coenzymes/cofactors.",
+        "Wrong: Units of activity are kinetic metrics like standard enzyme units (U) or katals.",
+        "Correct: Isoenzymes represent distinct molecular or structural variants of an enzyme that catalyze the same chemical transformation.",
+        "Wrong: Inorganic compounds accelerating reaction streams are categorized as inorganic catalysts or mineral factors."
+      ],
+      "explanation": "Isoenzymes differ in physical traits like amino acid makeup, tissue distribution, and electrophoretic mobility, yet they drive identical chemical tasks."
+    },
+    {
+      "id": "L4_MCQ_008",
+      "type": "mcq",
+      "text": "Zymogen is:",
+      "options": [
+        "A. Inactive form of enzyme",
+        "B. Enzymes that need the presence of certain group to act",
+        "C. Unit of enzyme activity",
+        "D. Fractions of enzyme, having the same catalytic activity but differ in chemical and immunological structure",
+        "E. Inorganic substances that accelerate the rate of chemical reactions."
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: A zymogen is the native, catalytically inactive structural expression form of an enzyme.",
+        "Wrong: Active domains depending on external group bindings are classified as apoenzymes needing co-factors.",
+        "Wrong: Metrics of conversion rates outline the technical unit of enzyme activity.",
+        "Wrong: Enzymes exhibiting structural variety but functional equality are isoenzymes.",
+        "Wrong: Non-organic chemical compounds speeding up reactions represent inorganic catalysts."
+      ],
+      "explanation": "Zymogens require specific post-translational modifications, such as selective peptide cleavage, to reshape and uncover their catalytic active sites."
+    },
+    {
+      "id": "L4_MCQ_009",
+      "type": "mcq",
+      "text": "The amount of enzyme causing transformation of one micromole of substrate per minute at 25° C under optimal conditions of measurement is:",
+      "options": [
+        "A. Katal",
+        "B. Unit of specific enzyme activity",
+        "C. Unit of enzyme activity",
+        "D. Km"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: The katal is defined as the amount of enzyme transforming 1 mole of substrate per second.",
+        "Wrong: Specific activity is an index of purity measured as enzyme units per milligram of total protein.",
+        "Correct: One standard International Unit (U) equals the absolute enzyme amount transforming 1 micromole ($mu\\text{mol}$) of substrate per minute.",
+        "Wrong: Km represents the specific substrate concentration needed to sustain half-maximal velocity."
+      ],
+      "explanation": "The standard International Unit (U) quantifies enzyme catalytic mass under tightly optimized environmental constraints of pH and temperature ($25^\\circ\\text{C}$)."
+    },
+    {
+      "id": "L4_MCQ_010",
+      "type": "mcq",
+      "text": "A substrate concentration that produces half maximum velocity:",
+      "options": [
+        "A. Km",
+        "B. Katal",
+        "C. Vmax",
+        "D. Km/Vmax",
+        "E. 1/Vmax"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: The Michaelis constant ($K_m$) is precisely defined as the substrate concentration at which the initial velocity equals $\\frac{1}{2}V_{max}$.",
+        "Wrong: The katal is an SI unit of enzyme activity, measuring molar turnover per second.",
+        "Wrong: Vmax outlines the asymptotic boundary limit where all catalytic domains are fully saturated.",
+        "Wrong: This expression is a derivative slope component found within Lineweaver-Burk double-reciprocal graphs.",
+        "Wrong: 1/Vmax dictates the exact y-intercept value generated upon a Lineweaver-Burk graphical projection."
+      ],
+      "explanation": "The $K_m$ value serves as an essential kinetic fingerprint, showing a substrate concentration that inversely mirrors the relative binding affinity of an enzyme."
+    },
+    {
+      "id": "L4_MCQ_011",
+      "type": "mcq",
+      "text": "Level of the following compounds is increased in myocardial infarction EXCEPT:",
+      "options": [
+        "A. Lactate dehydrogenase.",
+        "B. L-Glutamate dehydrogenase.",
+        "C. Myoglobin",
+        "D. AST",
+        "E. Creatine kinase."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: LDH-1 spikes notably inside the bloodstream following cardiac muscle tissue damage.",
+        "Correct: Glutamate dehydrogenase is a mitochondrial enzyme heavily concentrated in liver cells, showing no diagnostic link to heart attacks.",
+        "Wrong: Myoglobin is released into systemic circulation very rapidly during cardiac muscle necrosis.",
+        "Wrong: AST is an established transaminase marker that rises significantly following myocardial infarctions.",
+        "Wrong: Creatine Kinase (specifically the CK-MB isoenzyme) is a foundational diagnostic marker for cardiac injury."
+      ],
+      "explanation": "While CK, AST, LDH, and Myoglobin are classic biomarkers for cardiac cell injury, Glutamate Dehydrogenase (GDH) serves as a specific diagnostic indicator for liver necrosis."
+    },
+    {
+      "id": "L4_MCQ_012",
+      "type": "mcq",
+      "text": "The Michaelis constant (Km) is:",
+      "options": [
+        "A. A substrate concentration that produces maximum velocity.",
+        "B. A substrate concentration that produces half maximum velocity.",
+        "C. A measure of equilibrium between active and inactive enzymes",
+        "D. A fixed true constant that is not changed from one substrate to another"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Full saturation concentration yields Vmax, whereas Km represents a sub-maximal point.",
+        "Correct: Km equals the precise molar concentration of a substrate that drives a velocity of exactly 50% of Vmax.",
+        "Wrong: Km tracks enzyme-substrate interaction dynamics, not interconversions between active and inactive enzyme states.",
+        "Wrong: Km alters significantly when an enzyme interacts with different substrate analogs or variants."
+      ],
+      "explanation": "Km values reflect the structural fit of the enzyme-substrate complex; lower Km values point to higher binding affinities under defined cellular parameters."
+    },
+    {
+      "id": "L4_MCQ_013",
+      "type": "mcq",
+      "text": "In non-competitive inhibition:",
+      "options": [
+        "A. Vmax is decreased",
+        "B. The inhibitor competes with the substrate for the catalytic site",
+        "C. Km is decreased",
+        "D. Km is increased"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Vmax decreases because non-competitive inhibitors structurally incapacitate catalytic function regardless of substrate presence.",
+        "Wrong: Non-competitive inhibitors bind to separate allosteric regions, leaving the primary active site un-contested.",
+        "Wrong: Km values remain completely stable because active site substrate binding properties are unaffected.",
+        "Wrong: Km does not shift higher because the inhibitor does not block the initial binding of the substrate."
+      ],
+      "explanation": "Non-competitive inhibitors lower the effective pool of functional enzymes, decreasing the maximum reaction rate ($V_{max}$) while leaving the substrate affinity ($K_m$) unchanged."
+    },
+    {
+      "id": "L4_MCQ_014",
+      "type": "mcq",
+      "text": "The concept of induced fit theory means that:",
+      "options": [
+        "A. Enzyme-substrate complexes are formed only in oxidation-reduction reactions.",
+        "B. The configuration of the substrate is altered to fit the active site.",
+        "C. D-and L-isomers of an optically active substrate react at identical rates.",
+        "D. The active site is flexible; the reactive groups of the enzyme are brought into proper alignment by the substrate.",
+        "E. The lock and key theory of enzyme action adequately describes enzyme action."
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: ES complexes form across all six enzyme classes, not just oxidoreductases.",
+        "Wrong: While the substrate changes shape toward a transition state, the theory emphasizes the enzyme's structural flexibility.",
+        "Wrong: Chiral mirror configurations show vast velocity differences due to the stereospecific design of the active site.",
+        "Correct: Koshland's theory states that initial substrate binding induces conformational changes that optimize active site alignment for catalysis.",
+        "Wrong: Fischer's 'lock and key' model describes rigid geometric structures, which contrasts with the flexible alignment of induced fit."
+      ],
+      "explanation": "Koshland's Induced Fit model describes the active site as dynamic, reshaping its structure upon substrate contact to bring functional side chains into position for catalysis."
+    },
+    {
+      "id": "L4_MCQ_015",
+      "type": "mcq",
+      "text": "A competitive inhibitor for the succinate dehydrogenase is:",
+      "options": [
+        "A. Malonate",
+        "B. Arsenite",
+        "C. Cyanide",
+        "D. Malate",
+        "E. Flouride"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Malonate is a classic structural analogue of succinate that competitively blocks succinate dehydrogenase.",
+        "Wrong: Arsenite functions by reacting with sulfhydryl groups, acting as a non-competitive toxin.",
+        "Wrong: Cyanide is a potent respiratory poison that binds coordinate iron sites within cytochrome c oxidase.",
+        "Wrong: Malate is a downstream metabolite in the citric acid cycle, not a direct competitive blocker here.",
+        "Wrong: Fluoride acts as an inhibitor of enolase during glycolysis by chelating magnesium ions."
+      ],
+      "explanation": "Malonate possesses two carboxyl groups spaced similarly to succinate, allowing it to compete directly for active site binding without undergoing dehydrogenation."
+    },
+    {
+      "id": "L4_MCQ_016",
+      "type": "mcq",
+      "text": "Allosteric inhibitors act on:",
+      "options": [
+        "A. Catalytic site of enzymes",
+        "B. Other sites than catalytic site",
+        "C. Both of them",
+        "D. None of them"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Direct catalytic center binding is characteristic of classical competitive inhibition models.",
+        "Correct: Allosteric inhibitors bind non-covalently to distinct regulatory sites located away from the catalytic active center.",
+        "Wrong: True allosteric effectors target dedicated regulatory pockets rather than simultaneously occupying the primary active site.",
+        "Wrong: Allosteric regulation relies on specific non-covalent binding at secondary sites on multi-subunit proteins."
+      ],
+      "explanation": "The term allosteric translates to 'other site,' meaning these regulators bind to regulatory pockets to induce conformational changes that modulate active site performance."
+    },
+    {
+      "id": "L4_MCQ_017",
+      "type": "mcq",
+      "text": "If a coenzyme is required in an enzymatic reaction, it usually functions to:",
+      "options": [
+        "A. Accept one of the cleavage products.",
+        "B. Enhance the specificity of the apoenzyme.",
+        "C. Increase the active sites of the apoenzyme.",
+        "D. Activate the substrate.",
+        "E. All of the above."
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Coenzymes act as transient intermediate carriers, accepting or donating electrons, hydrogen atoms, or functional groups during catalysis.",
+        "Wrong: Substrate specificity is determined by the three-dimensional protein fold of the apoenzyme.",
+        "Wrong: Coenzymes complete the active site architecture rather than multiplying the number of catalytic centers.",
+        "Wrong: Coenzymes participate as reactive co-substrates instead of independently activating the substrate molecule.",
+        "Wrong: Only option A accurately describes the biochemical function of coenzymes in metabolic reactions."
+      ],
+      "explanation": "Coenzymes serve as modular chemical shuttles, carrying reaction intermediates (like hydrogen ions in $NAD^+$ or acyl chains in Coenzyme A) to complete the catalytic cycle."
+    },
+    {
+      "id": "L4_MCQ_018",
+      "type": "mcq",
+      "text": "Enzymes catalyze joining of two substrates using the energy released in the hydrolysis of high energy phosphate compound are:",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases",
+        "E. Isomerases",
+        "F. Ligases"
+      ],
+      "answer": 5,
+      "optionReasons": [
+        "Wrong: Oxidoreductases manage redox reactions involving electron or hydrogen transfers.",
+        "Wrong: Transferases move functional chemical groups without cleaving nucleotide triphosphates like ATP.",
+        "Wrong: Hydrolases break down covalent bonds by introducing a water molecule.",
+        "Wrong: Lyases cleave bonds or remove functional groups via non-hydrolytic pathways without consuming ATP.",
+        "Wrong: Isomerases rearrange internal molecular configurations without generating new covalent bonds between separate molecules.",
+        "Correct: Ligases link two distinct molecules together, utilizing energy derived from ATP cleavage."
+      ],
+      "explanation": "Ligases use the energy from ATP hydrolysis to drive condensation reactions, forming new chemical bonds between separate substrates."
+    },
+    {
+      "id": "L4_MCQ_019",
+      "type": "mcq",
+      "text": "Enzymes catalyze an oxidation-reduction reaction between two substrates are:",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases",
+        "E. Isomerases",
+        "F. Ligases (or synthetases)"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Oxidoreductases catalyze reactions involving the transfer of electrons, hydrogen ions, or oxygen atoms between chemical pairs.",
+        "Wrong: Transferases shift functional groups between molecules without changing their overall redox states.",
+        "Wrong: Hydrolases clear bonds using water molecules, without altering oxidation numbers.",
+        "Wrong: Lyases add or remove groups across double bonds through non-redox mechanisms.",
+        "Wrong: Isomerases reorganize internal structures while maintaining the same molecular formula and oxidation state.",
+        "Wrong: Ligases connect separate molecules at the expense of high-energy phosphate bonds."
+      ],
+      "explanation": "Class 1 enzymes (Oxidoreductases) include dehydrogenases, oxidases, and reductases, which manage cellular redox reactions."
+    },
+    {
+      "id": "L4_MCQ_020",
+      "type": "mcq",
+      "text": "Enzymes catalyze the transfer of a group other than hydrogen from one substrate to another:",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases",
+        "E. Isomerases",
+        "F. Ligases (or synthetases)"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Oxidoreductases are specialized for hydrogen or electron movements.",
+        "Correct: Transferases specialize in moving functional groups (such as methyl, amino, or phosphate groups) between donor and acceptor molecules.",
+        "Wrong: Hydrolases rely on water addition to cleave chemical linkages.",
+        "Wrong: Lyases eliminate or add molecular groups to form or break double bonds without group transfer.",
+        "Wrong: Isomerases rearrange components within a single molecule.",
+        "Wrong: Ligases link separate molecules using energy derived from ATP hydrolysis."
+      ],
+      "explanation": "Transferases (Class 2) move intact chemical groups (excluding hydrogen) between molecules, as seen in transamination or kinase-mediated phosphorylation."
+    },
+    {
+      "id": "L4_MCQ_021",
+      "type": "mcq",
+      "text": "Enzymes catalyze hydrolysis i.e. breakdown of a chemical bond by addition of water:",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases",
+        "E. Isomerases",
+        "F. Ligases (or synthetases)"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Oxidoreductases manage redox transformations, not hydrolytic cleavage.",
+        "Wrong: Transferases move functional groups without breaking bonds via water insertion.",
+        "Correct: Hydrolases break down polymers or clear chemical linkages by introducing a water molecule across the cleaved bond.",
+        "Wrong: Lyases break chemical bonds via non-hydrolytic and non-oxidative pathways.",
+        "Wrong: Isomerases modify internal geometric layouts within a single molecule.",
+        "Wrong: Ligases catalyze bond formation rather than hydrolytic breakdown."
+      ],
+      "explanation": "Hydrolases (Class 3) include digestive proteases, amylases, and esterases, which use water molecules to cleave covalent polymer linkages."
+    },
+    {
+      "id": "L4_MCQ_022",
+      "type": "mcq",
+      "text": "Enzymes catalyze removal of groups from substrates by mechanism other than hydrolysis:",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases",
+        "E. Isomerases",
+        "F. Ligases (or synthetases)"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Oxidoreductases rely on electron or hydrogen shifts to drive reactions.",
+        "Wrong: Transferases shift intact functional groups between separate molecular pairs.",
+        "Wrong: Hydrolases require the direct introduction of water molecules to cleave linkages.",
+        "Correct: Lyases remove functional groups from substrates through non-hydrolytic pathways, often forming double bonds or adding groups across them.",
+        "Wrong: Isomerases reorganize structural layouts within a single molecular framework.",
+        "Wrong: Ligases connect separate molecules together using energy from ATP."
+      ],
+      "explanation": "Lyases (Class 4), such as decarboxylases and aldolases, cleave C-C, C-O, or C-N bonds via elimination mechanisms that do not involve oxidation or hydrolysis."
+    },
+    {
+      "id": "L4_MCQ_023",
+      "type": "mcq",
+      "text": "Enzymes catalyze the interconversion of L-isomer into D- isomer:",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases",
+        "E. Isomerases",
+        "F. Ligases (or synthetases)"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Oxidoreductases change redox status rather than structural chirality.",
+        "Wrong: Transferases move external functional groups between distinct molecules.",
+        "Wrong: Hydrolases break chemical linkages through the addition of water.",
+        "Wrong: Lyases eliminate groups to form double bonds without altering chirality alone.",
+        "Correct: Isomerases catalyze structural or geometric rearrangements within a single molecule, including the racemization of optical enantiomers.",
+        "Wrong: Ligases connect separate molecules using energy derived from ATP."
+      ],
+      "explanation": "Isomerases (Class 5), specifically racemases and epimerases, handle the conversion between D- and L-optical isomers."
+    },
+    {
+      "id": "L4_MCQ_024",
+      "type": "mcq",
+      "text": "Vmax is:",
+      "options": [
+        "A. Initial velocity",
+        "B. Maximal velocity",
+        "C. Enzyme concentration",
+        "D. Coenzyme concentration",
+        "E. Substrate concentration"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Initial velocity is denoted as Vi or V0, tracking early baseline reaction rates.",
+        "Correct: Vmax represents the maximal velocity an enzyme-catalyzed reaction can achieve when all active sites are completely saturated with substrate.",
+        "Wrong: Enzyme concentration is expressed as [E], which limits the upper boundary of Vmax.",
+        "Wrong: Coenzyme levels represent a cofactor availability index rather than a velocity limit.",
+        "Wrong: Substrate concentration is expressed as [S], the variable that drives velocity toward Vmax."
+      ],
+      "explanation": "Vmax is the asymptotic maximum rate achieved when high substrate levels saturate all available enzyme active sites, converting kinetics to zero-order."
+    },
+    {
+      "id": "L4_MCQ_025",
+      "type": "mcq",
+      "text": "In noncompetitive inhibition of enzymes Km is:",
+      "options": [
+        "A. Increased",
+        "B. decreased",
+        "C. Same",
+        "D. Doubled"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: An increased Km value is characteristic of competitive inhibition models.",
+        "Wrong: Decreased Km occurs in uncompetitive inhibition setups.",
+        "Correct: Km remains unchanged in non-competitive inhibition because the inhibitor binds away from the active site, leaving substrate affinity unaffected.",
+        "Wrong: Doubling the apparent Km value occurs when a competitive inhibitor is present at specific concentrations."
+      ],
+      "explanation": "Because non-competitive inhibitors bind to a separate allosteric site, they do not interfere with substrate binding at the active site, keeping the $K_m$ constant."
+    },
+    {
+      "id": "L4_MCQ_026",
+      "type": "mcq",
+      "text": "Optimum pH of pepsin is:",
+      "options": [
+        "A. 2",
+        "B. 5",
+        "C. 6",
+        "D. 7",
+        "E. 8"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Pepsin is highly adapted to the acidic gastric environment, showing optimal catalytic activity at a pH around 1.5 to 2.0.",
+        "Wrong: A pH of 5 is too basic for pepsin, causing a significant loss of catalytic activity.",
+        "Wrong: A pH of 6 marks the transition toward neutrality, where pepsin becomes unstable.",
+        "Wrong: Neutral pH (7.0) completely inactivates and denatures the pepsin enzyme structure.",
+        "Wrong: Alkaline pH levels completely denature gastric pepsin proteins."
+      ],
+      "explanation": "Pepsin features adapted active site carboxyl residues (aspartate) that must remain protonated in highly acidic gastric juice to maintain catalytic activity."
+    },
+    {
+      "id": "L4_MCQ_027",
+      "type": "mcq",
+      "text": "Malonic acid is a competitive inhibitor for:",
+      "options": [
+        "A. Choline esterase enzyme",
+        "B. Sucinate dehydrogenase",
+        "C. Peroxidase",
+        "D. Carbonic anhydrase"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Cholinesterase is targeted by organophosphates or physostigmine, not malonate.",
+        "Correct: Malonic acid is a classic competitive inhibitor of succinate dehydrogenase due to its structural similarity to succinate.",
+        "Wrong: Peroxidases are inhibited by azide or cyanide molecules rather than dicarboxylic acids.",
+        "Wrong: Carbonic anhydrase is specifically inhibited by sulfonamides like acetazolamide."
+      ],
+      "explanation": "Malonate mimics the structure of succinate, allowing it to bind to the active site of succinate dehydrogenase and block cellular respiration pathways."
+    },
+    {
+      "id": "L4_MCQ_028",
+      "type": "mcq",
+      "text": "An enzyme that removes electrons from substrate is termed:",
+      "options": [
+        "A. Oxidoreductases",
+        "B. Transferases",
+        "C. Hydrolases",
+        "D. Lyases",
+        "E. Isomerases",
+        "F. Ligases (or synthetases)"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Oxidoreductases catalyze the removal or addition of electrons or hydrogen equivalents between substrates.",
+        "Wrong: Transferases move functional chemical groups without driving oxidation or reduction.",
+        "Wrong: Hydrolases split covalent bonds by introducing water molecules.",
+        "Wrong: Lyases cleave bonds via non-hydrolytic pathways without changing oxidation states.",
+        "Wrong: Isomerases catalyze internal rearrangements within a single molecule.",
+        "Wrong: Ligases link separate molecules together at the expense of ATP energy."
+      ],
+      "explanation": "Enzymes that remove electrons or hydrogen atoms from a substrate belong to Class 1 (Oxidoreductases) and are commonly classified as dehydrogenases."
+    },
+    {
+      "id": "L4_MCQ_029",
+      "type": "mcq",
+      "text": "Regulation of enzyme activity is achieved by the following EXCEPT:",
+      "options": [
+        "A. Feed back inhibition",
+        "B. Feed back regulation",
+        "C. Presence of isoenzyme",
+        "D. Phosphorylation dephosphorylation modification",
+        "E. Allosteric regulation"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Feedback inhibition provides direct control by allowing end products to block upstream enzymes.",
+        "Wrong: Feedback regulation provides long-term control by repressing gene transcription and enzyme synthesis.",
+        "Wrong: The presence of isoenzymes reflects tissue-specific expression rather than an active mechanism for adjusting an enzyme's catalytic rate.",
+        "Wrong: Phosphorylation/dephosphorylation is a common mechanism for rapidly turning enzymes on or off via covalent modification.",
+        "Wrong: Allosteric regulation allows effectors to rapidly modulate enzyme activity by binding to regulatory sites."
+      ],
+      "explanation": "Isoenzymes represent structurally distinct forms adapted to different tissues; they do not act as dynamic regulatory switches to turn catalytic pathways on or off."
+    },
+    {
+      "id": "L4_MCQ_030",
+      "type": "mcq",
+      "text": "Autolysis is:",
+      "options": [
+        "A. Enzyme activation",
+        "B. Enzyme inhibition",
+        "C. Breakdown of dead cells by cathepsins",
+        "D. Breakdown of enzymes."
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Enzyme activation involves turning an inactive zymogen into a functional enzyme.",
+        "Wrong: Inhibition refers to reducing catalytic rates through specific molecular blockages.",
+        "Correct: Autolysis is the self-digestion of dead or damaged cells driven by lysosomal proteases known as cathepsins.",
+        "Wrong: Autolysis describes the breakdown of entire cellular structures, not just individual enzyme proteins."
+      ],
+      "explanation": "Following cell death, lysosomal membranes rupture and release cathepsins, which become active in the resulting acidic environment to drive autolysis."
+    },
+    {
+      "id": "L4_MCQ_031",
+      "type": "mcq",
+      "text": "Pick the WRONG STATEMENT about lactate dehydrogenase:",
+      "options": [
+        "A. It has three isoenzymes",
+        "B. It is a tetramer",
+        "C. It reversibly converts pyruvate to lactate",
+        "D. Its LD1 isoenzyme increased in myocardial infarction",
+        "E. Its LD5 isoenzyme increased in liver cirrhosis"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: This is a false statement; lactate dehydrogenase possesses exactly five distinct isoenzymes, not three.",
+        "Wrong: This is true; LDH is a tetrameric protein composed of four polypeptide subunits.",
+        "Wrong: This is true; LDH catalyzes the reversible interconversion of pyruvate and lactate coupled with NADH/NAD+.",
+        "Wrong: This is true; the cardiac-specific H4 form (LD1) spikes significantly following a myocardial infarction.",
+        "Wrong: This is true; the liver- and muscle-specific M4 form (LD5) rises in response to hepatic necrosis or cirrhosis."
+      ],
+      "explanation": "Lactate Dehydrogenase (LDH) is a tetrameric enzyme made from combinations of H and M subunits, yielding exactly five distinct isoenzymes (LD1 through LD5)."
+    },
+    {
+      "id": "L4_MCQ_032",
+      "type": "mcq",
+      "text": "Urea produced by urease enzyme is example of:",
+      "options": [
+        "A. Relative specificity.",
+        "B. Absolute specificity.",
+        "C. Reaction specificity.",
+        "D. Optical specificity.",
+        "E. Group specificity."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Relative specificity allows an enzyme to act on structurally related compounds sharing similar bond types.",
+        "Correct: Urease exhibits absolute specificity, meaning it acts exclusively on urea and will not process any structural analogs.",
+        "Wrong: Reaction specificity ensures an enzyme drives only one specific type of chemical transformation.",
+        "Wrong: Optical specificity restricts an enzyme's activity to a single chiral enantiomer (D- or L-).",
+        "Wrong: Group specificity requires the presence of a specific functional group within the substrate molecule."
+      ],
+      "explanation": "Urease displays a strict structural requirement for urea, making it a classic textbook example of absolute enzyme specificity."
+    },
+    {
+      "id": "L4_MCQ_033",
+      "type": "mcq",
+      "text": "Lactate dehydrogenase (LDH) is composed of 4 polypeptide chains. How many isoenzymes does this enzyme possess?",
+      "options": [
+        "A. 2",
+        "B. 3",
+        "C. 4",
+        "D. 5",
+        "E. 6"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Two subunits (H and M) exist, but they combine to form a larger number of tetrameric arrangements.",
+        "Wrong: Creatine Kinase (CK) forms three dimeric isoenzymes, whereas LDH forms more.",
+        "Wrong: Four chains form the structural tetramer, but the number of potential combinations is higher.",
+        "Correct: The tetrameric combination of Heart (H) and Muscle (M) subunits creates exactly five distinct isoenzymes (H4, H3M1, H2M2, H1M3, M4).",
+        "Wrong: Alkaline phosphatase (ALP) expresses six distinct variants, which is more than LDH."
+      ],
+      "explanation": "The random assembly of two distinct subunit types into a four-chain tetramer mathematically yields exactly five distinct molecular configurations ($LD_1$ to $LD_5$)."
+    },
+    {
+      "id": "L4_MCQ_034",
+      "type": "mcq",
+      "text": "Aldolase is classified as:",
+      "options": [
+        "A. Isomerase",
+        "B. Transferase",
+        "C. Lyase",
+        "D. Ligase",
+        "E. Hydrolase"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Isomerases rearrange internal structures without cleaving the carbon backbone.",
+        "Wrong: Transferases move functional groups between separate molecules.",
+        "Correct: Aldolase is a lyase that cleaves fructose 1,6-bisphosphate into two triose phosphates without utilizing water or redox steps.",
+        "Wrong: Ligases join molecules together at the expense of high-energy ATP bonds.",
+        "Wrong: Hydrolases cleave covalent bonds exclusively through the chemical introduction of water."
+      ],
+      "explanation": "Aldolase operates in the glycolytic pathway as a lyase, breaking a carbon-carbon bond non-hydrolytically to split a hexose into two triose molecules."
+    },
+    {
+      "id": "L4_MCQ_035",
+      "type": "mcq",
+      "text": "For allosteric effects:",
+      "options": [
+        "A. There is structural similarity between effectors and substrates",
+        "B. The allosteric site of an enzyme is different from its substrate binding site.",
+        "C. The allosteric effectors cause denaturation of enzyme.",
+        "D. Allosterically controlled enzymes are not key enzyme.",
+        "E. Allosteric enzymes are always dimers."
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Allosteric effectors are not structural analogs of the substrate; that trait is characteristic of competitive inhibitors.",
+        "Correct: Allosteric sites are dedicated regulatory pockets entirely distinct from the primary substrate-binding active site.",
+        "Wrong: Allosteric effectors trigger reversible, functional conformational changes rather than causing protein denaturation.",
+        "Wrong: Allosteric enzymes typically serve as critical, rate-limiting control points for entire metabolic pathways.",
+        "Wrong: Allosteric enzymes often feature complex quaternary structures with multiple subunits, frequently existing as tetramers or higher oligomers."
+      ],
+      "explanation": "Allosteric regulation relies on distinct regulatory sites located away from the active center, allowing cells to modulate metabolic pathways through reversible conformational changes."
+    },
+    {
+      "id": "L4_MSTF_001",
+      "type": "multitf",
+      "text": "Related to regulation of enzyme activity:",
+      "image": "",
+      "statements": [
+        {
+          "text": "36. Feed back inhibition is performed by one of intermediates of pathway.",
+          "answer": false
+        },
+        {
+          "text": "37. Mechanisms of feed back inhibition and feed back regulation is the same.",
+          "answer": false
+        },
+        {
+          "text": "38. Allosteric regulation is performed through catalytic site.",
+          "answer": false
+        },
+        {
+          "text": "39. Phosphorylation of enzymes results always in inhibition of enzyme activity.",
+          "answer": false
+        },
+        {
+          "text": "40. Amount of enzyme present depends on rate of enzyme synthesis (induction and repression).",
+          "answer": true
+        }
+      ],
+      "explanation": "Feedback inhibition is typically executed by the final end-product, not intermediates. Feedback inhibition directly alters enzyme catalysis rapidly, while feedback regulation slows down gene transcription at the DNA level. Allosteric control occurs at a unique regulatory site away from the catalytic center. Phosphorylation can activate certain enzymes (like glycogen phosphorylase) while inhibiting others (like glycogen synthase)."
+    },
+    {
+      "id": "L4_MSTF_002",
+      "type": "multitf",
+      "text": "For competitive inhibitors:",
+      "image": "",
+      "statements": [
+        {
+          "text": "41. Both inhibitors and substrates have structural similarity.",
+          "answer": true
+        },
+        {
+          "text": "42. Both inhibitors and substrates bind to the same catalytic site.",
+          "answer": true
+        },
+        {
+          "text": "43. It is irreversible.",
+          "answer": false
+        },
+        {
+          "text": "44. Km is increased.",
+          "answer": true
+        },
+        {
+          "text": "45. Vmax is decreased.",
+          "answer": false
+        }
+      ],
+      "explanation": "Competitive inhibitors are structural analogs of the substrate that bind reversibly to the active site. Because they can be fully displaced by increasing the substrate concentration, the maximum velocity ($V_{max}$) remains completely unchanged, while the Michaelis constant ($K_m$) increases."
+    },
+    {
+      "id": "L4_MSTF_003",
+      "type": "multitf",
+      "text": "For noncompetitive inhibitors:",
+      "image": "",
+      "statements": [
+        {
+          "text": "46. Both inhibitors and substrates have structural similarity.",
+          "answer": false
+        },
+        {
+          "text": "47. Both inhibitors and substrates bind to different catalytic site.",
+          "answer": true
+        },
+        {
+          "text": "48. Km is increased.",
+          "answer": false
+        },
+        {
+          "text": "49. Vmax is decreased.",
+          "answer": true
+        },
+        {
+          "text": "50. Heavy metals are noncompetitive inhibitors.",
+          "answer": true
+        }
+      ],
+      "explanation": "Non-competitive inhibitors bind to an allosteric or distinct regulatory site independent of the active site, meaning they do not share structural similarity with the substrate. Consequently, the substrate binding affinity ($K_m$) is unaltered, but the catalytic output is reduced, leading to a decreased $V_{max}$. Heavy metals act non-competitively by binding to functional sulfhydryl (-SH) groups."
+    },
+    {
+      "id": "L4_MATCH_001",
+      "type": "matching",
+      "text": "Match each clinical enzyme/biomarker with its characteristic diagnostic condition:",
+      "options": [
+        "A. Rickets.",
+        "B. Cancer prostate.",
+        "C. Myocardial infarction.",
+        "D. Pancreatitis.",
+        "E. Chronic alcoholism"
+      ],
+      "pairs": [
+        {
+          "term": "51. CK-MB",
+          "definition": "C. Myocardial infarction."
+        },
+        {
+          "term": "52. Alkaline phosphatase.",
+          "definition": "A. Rickets."
+        },
+        {
+          "term": "53. Amylase.",
+          "definition": "D. Pancreatitis."
+        },
+        {
+          "term": "54. Gamma glutamyl transferase",
+          "definition": "E. Chronic alcoholism"
+        },
+        {
+          "term": "55. Acid phosphatase.",
+          "definition": "B. Cancer prostate."
+        }
+      ],
+      "explanation": "CK-MB is a specific cardiac marker for myocardial damage. Alkaline Phosphatase (ALP) rises in bone mineralization defects like rickets. Amylase is key for diagnosing acute pancreatitis. GGT is a sensitive indicator of alcohol-induced liver enzyme induction, and Acid Phosphatase (prostatic fraction) is a classic marker for prostate carcinoma."
+    },
+    {
+      "id": "L4_MATCH_002",
+      "type": "matching",
+      "text": "Match the chemical reaction equation with its responsible enzyme type or specific class:",
+      "options": [
+        "A. Hydrolases",
+        "B. Dehydrogenases",
+        "C. Catalase",
+        "D. Peroxidase"
+      ],
+      "pairs": [
+        {
+          "term": "56. 2 H₂O₂ → 2 H₂O + O₂",
+          "definition": "C. Catalase"
+        },
+        {
+          "term": "57. H₂O₂ + A H₂ → 2 H₂O + A",
+          "definition": "D. Peroxidase"
+        },
+        {
+          "term": "58. AB + H₂O ↔ AH + BOH",
+          "definition": "A. Hydrolases"
+        },
+        {
+          "term": "59. AH₂ + B ↔ A + BH₂",
+          "definition": "B. Dehydrogenases"
+        }
+      ],
+      "explanation": "Catalase disproportionates two molecules of hydrogen peroxide into water and molecular oxygen. Peroxidases reduce hydrogen peroxide by oxidizing a separate co-substrate ($AH_2$). Hydrolases use a water molecule to split covalent bonds, and Dehydrogenases transfer hydrogen atoms/electrons between redox pairs."
+    },
+    {
+      "id": "L4_MATCH_003",
+      "type": "matching",
+      "text": "Match the pathologic condition with the most specific diagnostic serum biomarker:",
+      "options": [
+        "A. GGT",
+        "B. ALT",
+        "C. CPK",
+        "D. Acid phosphatase",
+        "E. Alkaline phosphatase",
+        "F. lipase."
+      ],
+      "pairs": [
+        {
+          "term": "60. Hepatic cirrhosis.",
+          "definition": "B. ALT"
+        },
+        {
+          "term": "61. Bone diseases.",
+          "definition": "E. Alkaline phosphatase"
+        },
+        {
+          "term": "62. Myocardial infarction",
+          "definition": "C. CPK"
+        },
+        {
+          "term": "63. Prostate carcinoma.",
+          "definition": "D. Acid phosphatase"
+        },
+        {
+          "term": "64. Chronic alcoholism.",
+          "definition": "A. GGT"
+        },
+        {
+          "term": "65. Acute pancreatitis.",
+          "definition": "F. lipase."
+        }
+      ],
+      "explanation": "ALT is an indicator of hepatocellular injury. Bone disorders with high osteoblast activity increase serum ALP. CPK is a diagnostic marker for muscle necrosis. Prostatic acid phosphatase monitors prostate cancer. GGT tracks heavy alcohol use, while lipase offers high diagnostic specificity for acute pancreatitis."
+    },
+    {
+      "id": "L4_MATCH_004",
+      "type": "matching",
+      "text": "Match each enzyme or subgroup name to its major international enzyme classification (EC Class):",
+      "options": [
+        "A. Lyase",
+        "B. Hydrolase",
+        "C. Transferase",
+        "D. Oxidoreductase",
+        "E. Ligase"
+      ],
+      "pairs": [
+        {
+          "term": "66. Transaminase",
+          "definition": "C. Transferase"
+        },
+        {
+          "term": "67. Peptidase",
+          "definition": "B. Hydrolase"
+        },
+        {
+          "term": "68. Mixed function oxidase",
+          "definition": "D. Oxidoreductase"
+        },
+        {
+          "term": "69. Glutamine synthetase",
+          "definition": "E. Ligase"
+        },
+        {
+          "term": "70. Aldolase",
+          "definition": "A. Lyase"
+        }
+      ],
+      "explanation": "Transaminases transfer amino groups (Class 2). Peptidases cleave peptide bonds via hydrolysis (Class 3). Mixed-function oxidases catalyze redox alterations (Class 1). Synthetases join molecules using ATP (Class 6), and Aldolase non-hydrolytically splits a hexose backbone (Class 4)."
+    },
+    {
+      "id": "L4_MATCH_005",
+      "type": "matching",
+      "text": "Match the description of substrate discrimination with its formal type of enzyme specificity:",
+      "options": [
+        "A. Relative specificity.",
+        "B. Absolute specificity.",
+        "C. Reaction specificity.",
+        "D. Optical specificity.",
+        "E. Group specificity.",
+        "F. Dual specificity."
+      ],
+      "pairs": [
+        {
+          "term": "71. Enzymes act on one of 2 isomers.",
+          "definition": "D. Optical specificity."
+        },
+        {
+          "term": "72. Enzymes need the presence of certain group to act.",
+          "definition": "E. Group specificity."
+        },
+        {
+          "term": "73. One enzyme acts only on one substrate.",
+          "definition": "B. Absolute specificity."
+        },
+        {
+          "term": "74. One enzyme acts on a group of compounds having the same type of bonds.",
+          "definition": "A. Relative specificity."
+        }
+      ],
+      "explanation": "Optical specificity means selecting between distinct enantiomeric configurations (like D- vs L- forms). Group specificity requires a specific functional moiety. Absolute specificity limits an enzyme to a single substrate, while relative (or bond) specificity targets a generic bond type regardless of surrounding chains."
+    },
+    {
+      "id": "L4_MATCH_006",
+      "type": "matching",
+      "text": "Match the mechanistic catalytic definition with the primary enzyme class name:",
+      "options": [
+        "A. Oxidoreductase",
+        "B. Hydrolase",
+        "C. ligases",
+        "D. Lyases",
+        "E. Transferase",
+        "F. Isomerase"
+      ],
+      "pairs": [
+        {
+          "term": "75. Catalyzes the transfer of a group other than hydrogen from one substrate to another.",
+          "definition": "E. Transferase"
+        },
+        {
+          "term": "76. Catalyzes the breakdown of chemical bond by addition of water.",
+          "definition": "B. Hydrolase"
+        },
+        {
+          "term": "77. Catalyzes the removal of groups from substrates by mechanism other than hydrolysis.",
+          "definition": "D. Lyases"
+        },
+        {
+          "term": "78. Catalyzes the inter-conversion of one isomer into the other.",
+          "definition": "F. Isomerase"
+        },
+        {
+          "term": "79. Catalyzes the oxidation reduction reactions between 2 substrates.",
+          "definition": "A. Oxidoreductase"
+        }
+      ],
+      "explanation": "These definitions outline the standard chemical reactions used by the International Union of Biochemistry and Molecular Biology (IUBMB) to classify the primary enzyme groups."
+    },
+    {
+      "id": "L4_MATCH_007",
+      "type": "matching",
+      "text": "Match each kinetic parameter or experimental condition with its corresponding response curve on a velocity graph (Curves A-E):",
+      "image": "images/L4_MATCH_007.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "80. Enzymes concentration.",
+          "definition": "C"
+        },
+        {
+          "term": "81. Substrate concentration.",
+          "definition": "A"
+        },
+        {
+          "term": "82. Substrate concentration in the presence of allosteric inhibitor",
+          "definition": "E"
+        },
+        {
+          "term": "83. pH.",
+          "definition": "B"
+        },
+        {
+          "term": "84. Temperature",
+          "definition": "D"
+        }
+      ],
+      "explanation": "Reaction velocity increases linearly with enzyme concentration (Curve C). Substrate concentration displays a hyperbolic profile (Curve A), which shifts to a sigmoidal profile when an allosteric inhibitor is present (Curve E). pH plots show a symmetrical bell curve (Curve B), while temperature plots form an asymmetrical bell curve due to protein denaturation at elevated values (Curve D)."
+    }
+  ]
+}
