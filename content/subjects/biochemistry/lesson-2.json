@@ -1,0 +1,1844 @@
+{
+  "questions": [
+    {
+      "id": "L2_SA_001",
+      "type": "shortanswer",
+      "text": "What are lipids?",
+      "answer": "Lipids are a heterogeneous group of compounds related to fatty acids. Many of them are esters of fatty acids and alcohol.",
+      "explanation": "They are defined by their solubility characteristics rather than a common structural feature."
+    },
+    {
+      "id": "L2_SA_002",
+      "type": "shortanswer",
+      "text": "Are lipids hydrophilic or hydrophobic?",
+      "answer": "Lipids are hydrophobic, because they are insoluble in water and soluble in fat solvents (as benzene and ether).",
+      "explanation": "The long hydrocarbon chains of fatty acids give them their non-polar, hydrophobic nature."
+    },
+    {
+      "id": "L2_SA_003",
+      "type": "shortanswer",
+      "text": "How are lipids classified?",
+      "answer": "Simple, compound, and derived lipids.",
+      "explanation": "This major classification is based on their chemical composition and structural complexity."
+    },
+    {
+      "id": "L2_SA_004",
+      "type": "shortanswer",
+      "text": "What are simple lipids?",
+      "answer": "Esters of fatty acids with various alcohols e.g., triacylglycerols (fats and oils) and waxes.",
+      "explanation": "Neutral fats (triacylglycerols) are the most abundant simple lipids in the human body."
+    },
+    {
+      "id": "L2_SA_005",
+      "type": "shortanswer",
+      "text": "What are compound lipids?",
+      "answer": "Esters of fatty acids with alcohol and conjugated to another chemical group e.g., phospholipids, glycolipids, and lipoproteins.",
+      "explanation": "Compound lipids contain additional moieties like phosphate, carbohydrates, or proteins."
+    },
+    {
+      "id": "L2_SA_006",
+      "type": "shortanswer",
+      "text": "What are derived lipids?",
+      "answer": "Substances derived from simple and compound lipids by hydrolysis (as fatty acids and glycerol), including water-insoluble but fat-solvent soluble compounds like cholesterol and ketone bodies.",
+      "explanation": "Derived lipids retain the physical properties of lipids despite structural differences."
+    },
+    {
+      "id": "L2_SA_007",
+      "type": "shortanswer",
+      "text": "Classify fatty acids based on the carbon chain length.",
+      "answer": "Depending on the total number of carbon atoms, they are classified as even-chain and odd-chain fatty acids.",
+      "explanation": "They can also be classified by length into short, medium, long, and very long chain fatty acids."
+    },
+    {
+      "id": "L2_SA_008",
+      "type": "shortanswer",
+      "text": "Which type of fatty acid chain is prevalent in the human body?",
+      "answer": "Even-chain fatty acids.",
+      "explanation": "This is because physiological fatty acid synthesis builds chains by adding 2-carbon units (Acetyl-CoA) at a time."
+    },
+    {
+      "id": "L2_SA_009",
+      "type": "shortanswer",
+      "text": "Are fatty acids classified in any other way?",
+      "answer": "Yes, they are also classified as saturated or unsaturated, and linear or branched fatty acids.",
+      "explanation": "Unsaturated fatty acids can be further divided into monounsaturated (MUFA) and polyunsaturated (PUFA)."
+    },
+    {
+      "id": "L2_SA_010",
+      "type": "shortanswer",
+      "text": "What fatty acids are generally present in human fat?",
+      "answer": "Mainly Oleic acid, followed by palmitic acid and linoleic acid.",
+      "explanation": "Oleic acid is a monounsaturated fat (18:1), palmitic is saturated (16:0), and linoleic is polyunsaturated (18:2)."
+    },
+    {
+      "id": "L2_SA_011",
+      "type": "shortanswer",
+      "text": "How many carbon atoms and double bonds are present in oleic acid?",
+      "answer": "18 carbons, with one double bond (18:1 Δ9).",
+      "explanation": "Oleic acid is the premier representative of Omega-9 (n-9) monounsaturated fatty acids."
+    },
+    {
+      "id": "L2_SA_012",
+      "type": "shortanswer",
+      "text": "Name some unsaturated fatty acids.",
+      "answer": "Oleic, linoleic, linolenic, and arachidonic acids.",
+      "explanation": "Unsaturated fatty acids possess one or more carbon-to-carbon double bonds."
+    },
+    {
+      "id": "L2_SA_013",
+      "type": "shortanswer",
+      "text": "Name some polyunsaturated fatty acids.",
+      "answer": "Linoleic, linolenic, and arachidonic acids.",
+      "explanation": "These are crucial components of cell membranes and precursors for signaling molecules."
+    },
+    {
+      "id": "L2_SA_014",
+      "type": "shortanswer",
+      "text": "What do you mean by polyunsaturated fatty acids (PUFA)?",
+      "answer": "Fatty acids having more than one double bond in their aliphatic chain.",
+      "explanation": "Examples include omega-3 and omega-6 fatty acids."
+    },
+    {
+      "id": "L2_SA_015",
+      "type": "shortanswer",
+      "text": "Define essential fatty acids.",
+      "answer": "These are polyunsaturated fatty acids that cannot be synthesized in the body due to the lack of specific desaturase enzymes. They must be obtained in the diet, e.g., linoleic, linolenic, and arachidonic acids.",
+      "explanation": "Strictly speaking, linoleic and linolenic are true essentials, while arachidonic becomes essential if linoleic is deficient."
+    },
+    {
+      "id": "L2_SA_016",
+      "type": "shortanswer",
+      "text": "What are the functions of essential fatty acids?",
+      "answer": "Normal growth, and the synthesis of phospholipids, cholesterol esters, and eicosanoids.",
+      "explanation": "They maintain structural integrity of membranes and regulate cellular inflammation."
+    },
+    {
+      "id": "L2_SA_017",
+      "type": "shortanswer",
+      "text": "What is the relationship between essential fatty acids and phospholipids?",
+      "answer": "Essential fatty acids enter into the structure of phospholipids, mainly esterified at the 2nd position (C-2) of glycerol.",
+      "explanation": "Phospholipase A2 specifically cleaves the fatty acid at the C-2 position to release arachidonic acid during inflammation."
+    },
+    {
+      "id": "L2_SA_018",
+      "type": "shortanswer",
+      "text": "What is the importance of cholesterol esterification with essential fatty acids?",
+      "answer": "Cholesterol esterified with essential fatty acids is rapidly metabolized and cleared by the liver. This prevents the precipitation of free cholesterol along the endothelium of blood vessels, thereby preventing atherosclerosis.",
+      "explanation": "Polyunsaturated fatty acids promote healthier transport and metabolism of cholesterol particles."
+    },
+    {
+      "id": "L2_SA_019",
+      "type": "shortanswer",
+      "text": "What are the primary precursors for eicosanoids?",
+      "answer": "Mainly arachidonic acid (20:4 n-6).",
+      "explanation": "Eicosanoids derived from arachidonic acid act as highly potent local hormones."
+    },
+    {
+      "id": "L2_SA_020",
+      "type": "shortanswer",
+      "text": "What are the main types of eicosanoids?",
+      "answer": "They comprise the prostanoids, leukotrienes (LTs), and lipoxins (LXs). Prostanoids include prostaglandins (PGs), prostacyclins (PGIs), and thromboxanes (TXs).",
+      "explanation": "Cyclooxygenase (COX) produces prostanoids, while lipoxygenase (LOX) produces leukotrienes and lipoxins."
+    },
+    {
+      "id": "L2_SA_021",
+      "type": "shortanswer",
+      "text": "What are the functions of key eicosanoids (Prostacyclin, Thromboxane, Leukotriene)?",
+      "answer": "Prostacyclin (PGI2) inhibits platelet aggregation and acts as a vasodilator. Thromboxane A2 (TXA2) stimulates platelet aggregation and acts as a vasoconstrictor. Leukotriene A4 (LTA4) and derivatives act as mediators of allergic reactions and inflammation.",
+      "explanation": "The balance between PGI2 and TXA2 is critical for cardiovascular homeostasis."
+    },
+    {
+      "id": "L2_SA_022",
+      "type": "shortanswer",
+      "text": "What is the chemical structure of linoleic acid?",
+      "answer": "18 carbons, with two double bonds (18:2 n-6).",
+      "explanation": "It has double bonds at positions 9 and 12, making it an essential Omega-6 fatty acid."
+    },
+    {
+      "id": "L2_SA_023",
+      "type": "shortanswer",
+      "text": "What is the chemical structure of linolenic acid?",
+      "answer": "18 carbons, with three double bonds (18:3 n-3).",
+      "explanation": "Specifically alpha-linolenic acid, an essential Omega-3 fatty acid."
+    },
+    {
+      "id": "L2_SA_024",
+      "type": "shortanswer",
+      "text": "What is the chemical structure of arachidonic acid?",
+      "answer": "20 carbons, with four double bonds (20:4 n-6).",
+      "explanation": "Its double bonds are situated at positions 5, 8, 11, and 14."
+    },
+    {
+      "id": "L2_SA_025",
+      "type": "shortanswer",
+      "text": "Which dietary sources contain a high amount of PUFA?",
+      "answer": "Vegetable oils such as sunflower oil, linseed (flaxseed) oil, and corn oil.",
+      "explanation": "Fish oils are also excellent sources of very long-chain PUFAs like EPA and DHA."
+    },
+    {
+      "id": "L2_SA_026",
+      "type": "shortanswer",
+      "text": "Which lipid sources contain very low levels of PUFA?",
+      "answer": "Coconut oil and animal fats.",
+      "explanation": "These sources are predominantly high in saturated fatty acids, making them solid or semi-solid at room temperature."
+    },
+    {
+      "id": "L2_SA_027",
+      "type": "shortanswer",
+      "text": "What is meant by the hardening (hydrogenation) of oils?",
+      "answer": "This is the process of chemical saturation where hydrogen atoms are added to unsaturated fatty acids in liquid oils, converting them into solid fats (like margarine).",
+      "explanation": "Partial hydrogenation can inadvertently produce unhealthy trans-fatty acids."
+    },
+    {
+      "id": "L2_SA_028",
+      "type": "shortanswer",
+      "text": "What industrial conditions favor the hardening of oils?",
+      "answer": "It is usually manufactured at high temperatures and in the presence of nickel (Ni) as a catalyst.",
+      "explanation": "The nickel catalyst accelerates the addition of hydrogen across carbon-carbon double bonds."
+    },
+    {
+      "id": "L2_SA_029",
+      "type": "shortanswer",
+      "text": "What is meant by drying oils?",
+      "answer": "A drying oil is an oil that, when spread in a thin layer, undergoes oxidation by atmospheric oxygen and changes into a dry, hard, protective film.",
+      "explanation": "Oils with highly unsaturated chains (like linseed oil) exhibit this property and are used in paints."
+    },
+    {
+      "id": "L2_SA_030",
+      "type": "shortanswer",
+      "text": "What is meant by volatile fatty acids?",
+      "answer": "They are short-chain fatty acids (containing 2 to 6 carbon atoms) that can be distilled by steam.",
+      "explanation": "Examples include acetic acid (2C), butyric acid (4C), and valeric acid (5C)."
+    },
+    {
+      "id": "L2_SA_031",
+      "type": "shortanswer",
+      "text": "What is the physiological advantage of storing energy as triacylglycerols in the body?",
+      "answer": "Space requirement is less, storage does not require water (highly hydrophobic/anhydrous), they can be mobilized whenever required, and the storage capacity in adipose tissue is virtually unlimited.",
+      "explanation": "TAGs yield more than twice the energy per gram (9 kcal/g) compared to glycogen/carbohydrates (4 kcal/g)."
+    },
+    {
+      "id": "L2_SA_032",
+      "type": "shortanswer",
+      "text": "Give an account of the alkali hydrolysis of neutral fat.",
+      "answer": "Alkali hydrolysis produces a saponification fraction (soaps), which consists of sodium and potassium salts of fatty acids, and a non-saponification fraction (like cholesterol) that is unaffected by alkali.",
+      "explanation": "Boiling neutral fat with NaOH yields glycerol and sodium soaps."
+    },
+    {
+      "id": "L2_SA_033",
+      "type": "shortanswer",
+      "text": "What is saponification?",
+      "answer": "The hydrolysis of fat by alkali, resulting in glycerol and salts of fatty acids (soap).",
+      "explanation": "Saponification splits ester bonds using strong bases like KOH or NaOH."
+    },
+    {
+      "id": "L2_SA_034",
+      "type": "shortanswer",
+      "text": "What is the saponification number (value)?",
+      "answer": "This is the number of milligrams of KOH necessary to saponify (combine with) all fatty acids present in one gram of fat.",
+      "explanation": "It serves as an analytical parameter to estimate molecular weight of fatty acids in a lipid sample."
+    },
+    {
+      "id": "L2_SA_035",
+      "type": "shortanswer",
+      "text": "Does the saponification number of a fat increase or decrease with the presence of short-chain fatty acids?",
+      "answer": "It increases. Fats that possess a high percentage of short-chain fatty acids have a greater saponification number than those possessing long-chain fatty acids.",
+      "explanation": "Short-chain fatty acids have less molecular weight, meaning there are more molecules (and more ester bonds to cleave) per single gram of fat."
+    },
+    {
+      "id": "L2_SA_036",
+      "type": "shortanswer",
+      "text": "What is the iodine number (value)?",
+      "answer": "This is the number of grams of iodine necessary to saturate all unsaturated fatty acids present in 100 grams of fat.",
+      "explanation": "Halogens like iodine readily add across double bonds in fatty acid chains."
+    },
+    {
+      "id": "L2_SA_037",
+      "type": "shortanswer",
+      "text": "What is the analytical significance of the iodine number?",
+      "answer": "It gives an accurate idea about the degree of unsaturation of the fatty acids present in a fat sample.",
+      "explanation": "A higher iodine value indicates a more highly unsaturated fat (more double bonds)."
+    },
+    {
+      "id": "L2_SA_038",
+      "type": "shortanswer",
+      "text": "What is the acid number (value)?",
+      "answer": "This is the number of milligrams of KOH necessary to neutralize the free fatty acids present in one gram of fat.",
+      "explanation": "It measures the amount of hydrolytic cleavage that has already taken place in stored lipids."
+    },
+    {
+      "id": "L2_SA_039",
+      "type": "shortanswer",
+      "text": "What is the significance of the acid number?",
+      "answer": "It is important for the detection of lipid rancidity. Normally, the acid number is zero. After rancidity, free fatty acids are produced in excess.",
+      "explanation": "An elevated acid value is a definitive chemical indicator of spoiled, unpalatable fat."
+    },
+    {
+      "id": "L2_SA_040",
+      "type": "shortanswer",
+      "text": "What is the acetyl number (value)?",
+      "answer": "This is the number of milligrams of KOH necessary to neutralize the acetic acid liberated by the hydrolysis of one gram of acetylated fat.",
+      "explanation": "It measures the free hydroxyl groups present in the fat molecules."
+    },
+    {
+      "id": "L2_SA_041",
+      "type": "shortanswer",
+      "text": "What is the significance of the acetyl number?",
+      "answer": "The acetyl value is utilized to detect the presence of hydroxy fatty acids (fatty acids containing -OH groups).",
+      "explanation": "An example of a hydroxy fatty acid is ricinoleic acid found in castor oil."
+    },
+    {
+      "id": "L2_SA_042",
+      "type": "shortanswer",
+      "text": "Which chemical index is used as a test for the degree of fatty acid unsaturation?",
+      "answer": "The iodine number.",
+      "explanation": "It counts double bonds by quantifying halogen absorption."
+    },
+    {
+      "id": "L2_SA_043",
+      "type": "shortanswer",
+      "text": "Which chemical index serves as a test for the percentage of short-chain fatty acids in fat?",
+      "answer": "The saponification number.",
+      "explanation": "Saponification number is inversely proportional to the mean molecular weight of fatty acids present."
+    },
+    {
+      "id": "L2_SA_044",
+      "type": "shortanswer",
+      "text": "What is lipid rancidity?",
+      "answer": "It is a chemical deterioration of triacylglycerols caused by partial oxidation or hydrolysis of fatty acids, leading to an unpleasant odor, toxic bioproducts, and an unpalatable taste.",
+      "explanation": "Rancidity can happen via oxidative pathways or hydrolytic microbial enzyme pathways."
+    },
+    {
+      "id": "L2_SA_045",
+      "type": "shortanswer",
+      "text": "What causes the unpleasant odor and taste of rancid oils?",
+      "answer": "Partial oxidation of fatty acids by atmospheric oxygen, bacteria, or moisture, with the subsequent formation of volatile epoxides, aldehydes, ketones, and short-chain peroxides.",
+      "explanation": "These degradation breakdown products have highly pungent, noxious chemical profiles."
+    },
+    {
+      "id": "L2_SA_046",
+      "type": "shortanswer",
+      "text": "Enumerate some biological or chemical enhancers of rancidity.",
+      "answer": "Lead, copper, heme compounds, and the lipoxygenase enzyme present in plant/animal tissues.",
+      "explanation": "Transition metals act as catalysts that rapidly accelerate free radical chain reactions during lipid peroxidation."
+    },
+    {
+      "id": "L2_SA_047",
+      "type": "shortanswer",
+      "text": "How can lipid rancidity be prevented?",
+      "answer": "By incorporating antioxidants such as vitamins E, A, and C, and substances containing sulfhydryl (-SH) groups like the amino acid cysteine.",
+      "explanation": "Antioxidants break the autoxidation chain reaction by scavenging lipid peroxide radicals."
+    },
+    {
+      "id": "L2_SA_048",
+      "type": "shortanswer",
+      "text": "What are phospholipids?",
+      "answer": "These are compound lipids containing fatty acids, an alcohol, a phosphoric acid residue, and frequently a nitrogenous base.",
+      "explanation": "They form the fundamental amphipathic backbone of all cell membranes."
+    },
+    {
+      "id": "L2_SA_049",
+      "type": "shortanswer",
+      "text": "Give notable examples of phospholipids.",
+      "answer": "Lecithin, plasmalogen, sphingomyelin, cephalin, lysolecithin, cardiolipin, phosphatidylinositol, and phosphatidylserine.",
+      "explanation": "They can be subdivided into glycerophospholipids or sphingophospholipids depending on the alcohol core."
+    },
+    {
+      "id": "L2_SA_050",
+      "type": "shortanswer",
+      "text": "Which phospholipids contain choline as their nitrogenous base?",
+      "answer": "Lecithin, choline plasmalogen, and sphingomyelin.",
+      "explanation": "Choline is a critical quaternary ammonium cation in physiological lipid chemistry."
+    },
+    {
+      "id": "L2_SA_051",
+      "type": "shortanswer",
+      "text": "What is the chemical name for lecithin?",
+      "answer": "Phosphatidylcholine.",
+      "explanation": "Lecithin is the most abundant phospholipid component within mammalian cellular bilayers."
+    },
+    {
+      "id": "L2_SA_052",
+      "type": "shortanswer",
+      "text": "What is the nitrogenous base present in lecithin?",
+      "answer": "Choline.",
+      "explanation": "Choline also serves as a building block for the neurotransmitter acetylcholine."
+    },
+    {
+      "id": "L2_SA_053",
+      "type": "shortanswer",
+      "text": "What are the complete hydrolytic products of lecithin?",
+      "answer": "Glycerol + 1 Saturated fatty acid + 1 Unsaturated fatty acid + Phosphate + Choline.",
+      "explanation": "The saturated fatty acid is typically at C-1, and the unsaturated is at C-2."
+    },
+    {
+      "id": "L2_SA_054",
+      "type": "shortanswer",
+      "text": "What is the major physiological function of dipalmitoyl lecithin?",
+      "answer": "It acts as a primary lung surfactant component.",
+      "explanation": "It prevents alveolar collapse at the end of expiration by lowering surface tension."
+    },
+    {
+      "id": "L2_SA_055",
+      "type": "shortanswer",
+      "text": "What is lung surfactant and how does it work?",
+      "answer": "It is a dipalmitoyl lecithin-rich mixture continuously secreted by Type II alveolar epithelial cells, forming a monolayer over the watery surface of alveoli. It lowers surface tension, facilitating lung expansion during inspiration and preventing alveolar walls from sticking together/collapsing during expiration.",
+      "explanation": "Without surfactant, the high surface tension of water would cause small alveoli to collapse."
+    },
+    {
+      "id": "L2_SA_056",
+      "type": "shortanswer",
+      "text": "What are the chemical constituents of pulmonary surfactant?",
+      "answer": "Mainly dipalmitoyl lecithin, along with cholesterol and surfactant-specific proteins A, B, and C (SP-A, SP-B, SP-C).",
+      "explanation": "The protein components are vital for spreading the phospholipid film over the alveolus."
+    },
+    {
+      "id": "L2_SA_057",
+      "type": "shortanswer",
+      "text": "What is the clinical significance of low levels of lung surfactants?",
+      "answer": "Low levels lead to Respiratory Distress Syndrome (RDS), also known as Hyaline Membrane Disease, a major cause of neonatal morbidity and mortality.",
+      "explanation": "RDS is characterized by severe hypoxemia and high work of breathing."
+    },
+    {
+      "id": "L2_SA_058",
+      "type": "shortanswer",
+      "text": "Why may premature babies suffer from respiratory distress syndrome?",
+      "answer": "Due to the developmental deficiency or immaturity of lungs to produce sufficient lung surfactants.",
+      "explanation": "Surfactant synthesis rises dramatically in fetal lungs only after the 32nd week of gestation."
+    },
+    {
+      "id": "L2_SA_059",
+      "type": "shortanswer",
+      "text": "What are sphingolipids?",
+      "answer": "Lipids that contain the long aliphatic amino alcohol sphingosine, attached to a fatty acid via an amide linkage to form a ceramide core. They include phosphosphingolipids and glycosphingolipids.",
+      "explanation": "Unlike glycerolipids, sphingolipids do not utilize glycerol as their backbone."
+    },
+    {
+      "id": "L2_SA_060",
+      "type": "shortanswer",
+      "text": "What is sphingomyelin?",
+      "answer": "It is a phosphosphingoside (the only major sphingolipid that is also a phospholipid).",
+      "explanation": "Sphingomyelin is highly concentrated in the myelin sheath protecting nerve axons."
+    },
+    {
+      "id": "L2_SA_061",
+      "type": "shortanswer",
+      "text": "On complete hydrolysis of sphingomyelin, what chemical components are obtained?",
+      "answer": "Sphingosine + 1 Fatty acid + Phosphate + Choline.",
+      "explanation": "It lacks glycerol entirely; ceramide joined to phosphorylcholine yields sphingomyelin."
+    },
+    {
+      "id": "L2_SA_062",
+      "type": "shortanswer",
+      "text": "What is phosphatidic acid?",
+      "answer": "A glycerol molecule where carbon atoms 1 and 2 are esterified to fatty acids, and carbon atom 3 is esterified to a phosphoric acid group.",
+      "explanation": "Phosphatidic acid is the simplest glycerophospholipid and acts as an intermediate for TAG and phospholipid synthesis."
+    },
+    {
+      "id": "L2_SA_063",
+      "type": "shortanswer",
+      "text": "What is Cephalin?",
+      "answer": "Phosphatidyleethanolamine.",
+      "explanation": "Like lecithin, it is a prominent component of cellular membrane bilayers, especially in brain tissue."
+    },
+    {
+      "id": "L2_SA_064",
+      "type": "shortanswer",
+      "text": "What is cardiolipin chemically?",
+      "answer": "Diphosphatidylglycerol.",
+      "explanation": "Cardiolipin is exclusively localized within the inner mitochondrial membrane, essential for electron transport chain functions."
+    },
+    {
+      "id": "L2_SA_065",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of cephalin?",
+      "answer": "Glycerol + 1 Saturated fatty acid + 1 Unsaturated fatty acid + Phosphate + Ethanolamine.",
+      "explanation": "The structure is identical to lecithin, but ethanolamine replaces choline as the polar head base."
+    },
+    {
+      "id": "L2_SA_066",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of plasmalogen?",
+      "answer": "Glycerol + Unsaturated ether-linked alcohol (alkyl/alkenyl ether) + 1 Fatty acid + Phosphate + Choline (or Ethanolamine).",
+      "explanation": "Plasmalogens are distinguished by having an ether linkage instead of an ester linkage at the C-1 position of glycerol."
+    },
+    {
+      "id": "L2_SA_067",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of cardiolipin?",
+      "answer": "2 units of phosphatidic acid united together by a central bridging glycerol molecule.",
+      "explanation": "Its full breakdown yields 3 units of glycerol, 4 fatty acids, and 2 phosphate groups."
+    },
+    {
+      "id": "L2_SA_068",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of phosphatidylserine?",
+      "answer": "Glycerol + 1 Saturated fatty acid + 1 Unsaturated fatty acid + Phosphate + Serine.",
+      "explanation": "Serine provides an amino acid polar head group. Its flipping to the outer membrane leaflet signals apoptosis."
+    },
+    {
+      "id": "L2_SA_069",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of phosphatidylinositol?",
+      "answer": "Glycerol + 1 Saturated fatty acid + 1 Unsaturated fatty acid + Phosphate + Inositol.",
+      "explanation": "Inositol is a six-carbon cyclic polyalcohol (cyclohexane-1,2,3,4,5,6-hexol)."
+    },
+    {
+      "id": "L2_SA_070",
+      "type": "shortanswer",
+      "text": "What is the signaling significance of phosphatidylinositol?",
+      "answer": "It is a precursor of phosphatidylinositol 4,5-bisphosphate (PIP2), which is cleaved into inositol triphosphate (IP3) and diacylglycerol (DAG), acting as important 2nd messengers for hormonal action.",
+      "explanation": "IP3 triggers calcium release from the endoplasmic reticulum, while DAG activates Protein Kinase C."
+    },
+    {
+      "id": "L2_SA_071",
+      "type": "shortanswer",
+      "text": "Name the core phospholipids that contain glycerol as their alcohol backbone.",
+      "answer": "Lecithin, plasmalogen, cephalin, lysolecithin, cardiolipin, phosphatidylinositol, and phosphatidylserine.",
+      "explanation": "These are comprehensively grouped as glycerophospholipids."
+    },
+    {
+      "id": "L2_SA_072",
+      "type": "shortanswer",
+      "text": "Enumerate the primary physiological functions of phospholipids.",
+      "answer": "Structural constituents of cell membranes, neurotransmitter components, methyl donors (lecithin), lung surfactants (dipalmitoyl lecithin), lipotropic factors to prevent fatty liver, blood coagulation factors (cephalin), second messengers (phosphatidylinositol), and as bile components to keep cholesterol soluble.",
+      "explanation": "Deficiency of phospholipids in bile can lead to the precipitation of cholesterol gallstones."
+    },
+    {
+      "id": "L2_SA_073",
+      "type": "shortanswer",
+      "text": "In an aqueous environment, amphipathic phospholipids can aggregate into what structures?",
+      "answer": "Micelles and liposomes (lipid bilayers).",
+      "explanation": "Liposomes are synthetic spherical vesicles containing bilayer membranes used for target-specific drug delivery."
+    },
+    {
+      "id": "L2_SA_074",
+      "type": "shortanswer",
+      "text": "Name important lipids containing sphingosine instead of glycerol.",
+      "answer": "Sphingomyelin, kerasin, nervone, cerebron, and gangliosides.",
+      "explanation": "These are broadly classified under sphingolipids."
+    },
+    {
+      "id": "L2_SA_075",
+      "type": "shortanswer",
+      "text": "What are glycolipids?",
+      "answer": "Compound lipids containing sphingosine, a fatty acid, and a carbohydrate residue (lacking phosphate). They include cerebrosides (kerasin, nervone, cerebron) and gangliosides.",
+      "explanation": "They act as cell-surface markers and receptors on plasma membranes."
+    },
+    {
+      "id": "L2_SA_076",
+      "type": "shortanswer",
+      "text": "Name some specific cerebrosides.",
+      "answer": "Kerasin, nervone, and cerebron.",
+      "explanation": "They are monoglycosylceramides, primarily found in neural tissues."
+    },
+    {
+      "id": "L2_SA_077",
+      "type": "shortanswer",
+      "text": "What basic structural components does a cerebroside contain?",
+      "answer": "Sphingosine, a fatty acid, and a hexose sugar (typically galactose or glucose).",
+      "explanation": "They contain no phosphoric acid or nitrogenous base core."
+    },
+    {
+      "id": "L2_SA_078",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of the cerebroside kerasin?",
+      "answer": "Sphingosine + Lignoceric acid + Galactose.",
+      "explanation": "Lignoceric acid is a saturated 24-carbon fatty acid."
+    },
+    {
+      "id": "L2_SA_079",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of the cerebroside cerebron?",
+      "answer": "Sphingosine + Cerebronic acid + Galactose.",
+      "explanation": "Cerebronic acid is a hydroxy derivative of lignoceric acid (2-hydroxylignoceric acid)."
+    },
+    {
+      "id": "L2_SA_080",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of the cerebroside nervon?",
+      "answer": "Sphingosine + Nervonic acid + Galactose.",
+      "explanation": "Nervonic acid is an unsaturated 24-carbon fatty acid (24:1 n-9)."
+    },
+    {
+      "id": "L2_SA_081",
+      "type": "shortanswer",
+      "text": "What are the hydrolytic products of gangliosides?",
+      "answer": "Sphingosine + Fatty acid + 3 molecules of hexoses (galactose/glucose) + Hexosamine + Sialic acid (N-acetylneuraminic acid - NANA).",
+      "explanation": "The presence of sialic acid gives gangliosides a negative charge at physiological pH."
+    },
+    {
+      "id": "L2_SA_082",
+      "type": "shortanswer",
+      "text": "Name some clinical lipid storage diseases (sphingolipidoses).",
+      "answer": "Tay-Sachs disease, Niemann-Pick disease, and Gaucher's disease.",
+      "explanation": "These genetic disorders are caused by a deficiency of specific lysosomal hydrolases, leading to sphingolipid accumulation."
+    },
+    {
+      "id": "L2_SA_083",
+      "type": "shortanswer",
+      "text": "What are the major biomedical functions of cholesterol?",
+      "answer": "It is an essential structural component of animal cell membranes (modulating fluidity) and serves as the metabolic precursor for Vitamin D3, steroid hormones, and bile acids.",
+      "explanation": "Cholesterol is synthesized from acetyl-CoA units in the body."
+    },
+    {
+      "id": "L2_SA_084",
+      "type": "shortanswer",
+      "text": "What are steroid hormones classified into?",
+      "answer": "Female sex hormones, male sex hormones, glucocorticoids, and mineralocorticoids.",
+      "explanation": "They all feature the four fused hydrocarbon rings known as the cyclopentanoperhydrophenanthrene (sterane) nucleus."
+    },
+    {
+      "id": "L2_SA_085",
+      "type": "shortanswer",
+      "text": "Name the major female sex steroid hormones.",
+      "answer": "Progesterone and estrogens (Estrone E1, Estradiol E2, and Estriol E3).",
+      "explanation": "Estradiol (E2) is the most potent estrogen during reproductive years."
+    },
+    {
+      "id": "L2_SA_086",
+      "type": "shortanswer",
+      "text": "Name the major male sex steroid hormones.",
+      "answer": "Testosterone and other related androgens (like dihydrotestosterone).",
+      "explanation": "Androgens are responsible for masculine secondary sex characteristics."
+    },
+    {
+      "id": "L2_SA_087",
+      "type": "shortanswer",
+      "text": "Enumerate key biological substances possessing a steroid nucleus.",
+      "answer": "Cholesterol, vitamin D group, female sex hormones (progesterone and estrogens), male sex hormones (testosterone and androgens), glucocorticoids, and mineralocorticoids.",
+      "explanation": "Plants also have steroids called phytosterols, but cholesterol is distinct to animal cells."
+    },
+    {
+      "id": "L2_SA_088",
+      "type": "shortanswer",
+      "text": "What are the major physiological functions of testosterone?",
+      "answer": "It stimulates the development of male primary and secondary sex characters and reproductive organs, drives sperm formation (spermatogenesis), and exhibits strong anabolic effects on proteins (muscle building).",
+      "explanation": "Testosterone is synthesized mainly by Leydig cells in the testes."
+    },
+    {
+      "id": "L2_SA_089",
+      "type": "shortanswer",
+      "text": "What are the major physiological functions of estrogens?",
+      "answer": "They stimulate the development of female secondary sex characters and organs (uterus, fat/hair distribution, voice pitch). Estradiol (E2) also exerts crucial anabolic effects on bones and cartilage.",
+      "explanation": "Estrogens are mainly synthesized by the granulosa cells of the ovaries."
+    },
+    {
+      "id": "L2_SA_090",
+      "type": "shortanswer",
+      "text": "What are the primary functions of progesterone?",
+      "answer": "It prepares the uterine endometrium for blastocyst implantation, stabilizes and maintains pregnancy (prevents abortion), stimulates breast acini development, inhibits lactation in late pregnancy, and antagonizes certain actions of estrogens at target tissues.",
+      "explanation": "Progesterone is secreted predominantly by the corpus luteum and later by the placenta."
+    },
+    {
+      "id": "L2_SA_091",
+      "type": "shortanswer",
+      "text": "What are the functions of mineralocorticoids?",
+      "answer": "They control the renal tubular reabsorption of water and minerals, specifically stimulating sodium retention and potassium/hydrogen excretion.",
+      "explanation": "Aldosterone is the principal mineralocorticoid secreted by the adrenal cortex."
+    },
+    {
+      "id": "L2_SA_092",
+      "type": "shortanswer",
+      "text": "What are the functions of cortisol?",
+      "answer": "Cortisol is a major glucocorticoid that regulates the metabolism of carbohydrates (promoting gluconeogenesis), proteins, and lipids, and modulates immune/inflammatory responses.",
+      "explanation": "It is released from the adrenal zona fasciculata in response to ACTH and stress."
+    },
+    {
+      "id": "L2_SA_093",
+      "type": "shortanswer",
+      "text": "What do you mean by amphipathic lipids?",
+      "answer": "Amphipathic molecules are those that contain both a water-soluble (polar/hydrophilic) part and a water-insoluble (non-polar/hydrophobic) part. Phospholipids and glycolipids are classic examples.",
+      "explanation": "This dual property causes them to spontaneously assemble into biological membranes."
+    },
+    {
+      "id": "L2_SA_094",
+      "type": "shortanswer",
+      "text": "Why are phospholipids amphipathic and how does this affect membrane assembly?",
+      "answer": "Because they possess polar groups (glycerol, phosphate, and nitrogenous bases) and a non-polar group (hydrocarbon chains of fatty acids). They assemble into bilayers in cell membranes where non-polar groups face inward toward each other, and polar groups face outward toward water, facilitating selective transport across membranes.",
+      "explanation": "This lipid bilayer configuration acts as an effective hydrophobic barrier to polar molecules."
+    },
+    {
+      "id": "L2_SA_095",
+      "type": "shortanswer",
+      "text": "Name important free radicals and reactive chemical species.",
+      "answer": "Superoxide anion radical, hydroperoxyl radical, hydrogen peroxide, hydroxyl radical, lipid peroxide radical, nitric oxide, and peroxynitrite.",
+      "explanation": "Hydroxyl radical (.OH) is considered the most highly reactive and destructive free radical among them."
+    },
+    {
+      "id": "L2_SA_096",
+      "type": "shortanswer",
+      "text": "What are the defining characteristics of Reactive Oxygen Species (ROS)?",
+      "answer": "Extreme chemical reactivity, short lifespan, generation of new ROS via self-propagating chain reactions, and widespread oxidative damage to various body tissues.",
+      "explanation": "ROS can damage proteins, nucleic acids, and lipids indiscriminately."
+    },
+    {
+      "id": "L2_SA_097",
+      "type": "shortanswer",
+      "text": "What enzymes are responsible for generating ROS in activated macrophages during the oxidative burst?",
+      "answer": "NADPH oxidase, superoxide dismutase, and myeloperoxidase.",
+      "explanation": "This pathway is crucial for respiratory burst to destroy phagocytosed pathogens."
+    },
+    {
+      "id": "L2_SA_098",
+      "type": "shortanswer",
+      "text": "What are the deleterious biological effects of ROS on cellular structures?",
+      "answer": "Protein damage and loss of function, lipid peroxidation causing cell membrane and mitochondrial damage, structural DNA damage resulting in cell death, dangerous mutations, and cancer initiation.",
+      "explanation": "Lipid peroxidation of PUFAs in membranes disrupts cell permeability and homeostasis."
+    },
+    {
+      "id": "L2_SA_099",
+      "type": "shortanswer",
+      "text": "What are the primary endogenous free radical scavenging enzymes?",
+      "answer": "Superoxide dismutase (SOD), glutathione peroxidase, glutathione reductase, and catalase.",
+      "explanation": "SOD converts superoxide to H2O2, which is then safely neutralized by catalase or glutathione peroxidase to water."
+    },
+    {
+      "id": "L2_SA_100",
+      "type": "shortanswer",
+      "text": "ROS-induced oxidative stress is linked to the development of which clinical diseases?",
+      "answer": "Chronic inflammation, rheumatoid arthritis, acute inflammations, bronchopulmonary dysplasia, respiratory distress syndrome, cataracts, atherosclerosis, and peptic ulcers.",
+      "explanation": "Oxidized LDL particles play a central role in initiating foam cell formation in atherosclerosis."
+    },
+    {
+      "id": "L2_SA_101",
+      "type": "shortanswer",
+      "text": "Name some important dietary antioxidants.",
+      "answer": "Alpha-tocopherol (Vitamin E), Vitamin C (ascorbic acid), Vitamin A, and beta-carotene.",
+      "explanation": "Vitamin E is the premier chain-breaking antioxidant located directly inside lipid membranes."
+    },
+    {
+      "id": "L2_SA_102",
+      "type": "shortanswer",
+      "text": "What are mixed micelles in lipid digestion?",
+      "answer": "These are spherical aggregates formed by a combination of amphipathic bile salts with dietary lipids, positioning polar groups outside toward water and non-polar lipids inside.",
+      "explanation": "Micelle formation is mandatory for facilitating the transport and absorption of hydrophobic lipids across the intestinal brush border."
+    },
+    {
+      "id": "L2_SA_103",
+      "type": "shortanswer",
+      "text": "Summarize the overall biochemical functions of lipids in the human body.",
+      "answer": "They make diet palatable, serve as concentrated energy storage, supply fat-soluble vitamins (A, D, E, K), serve as subcutaneous thermal insulation, transport blood lipids via lipoproteins, enter structural membranes (phospholipids/cholesterol), and provide essential fatty acids and steroid hormones.",
+      "explanation": "Lipids play vital structural, metabolic, regulatory, and protective roles across all systems."
+    },
+    {
+      "id": "L2_C_001",
+      "type": "compare",
+      "text": "Compare between Oils and Solid Fats based on their physical and chemical properties:",
+      "aspects": [
+        "State at Room Temperature",
+        "Sources",
+        "Fatty Acid Structure",
+        "Saponification Number"
+      ],
+      "itemA": {
+        "name": "Oils",
+        "values": [
+          "Liquid at room temperature",
+          "Predominantly derived from plants",
+          "Rich in unsaturated fatty acids (kinked chains, lower melting points)",
+          "High saponification number (generally possess shorter or more compact fatty acid chains per gram)"
+        ]
+      },
+      "itemB": {
+        "name": "Solid Fats",
+        "values": [
+          "Solid at room temperature",
+          "Predominantly derived from animals",
+          "Rich in saturated fatty acids (straight chains that pack tightly together)",
+          "Low saponification number (generally possess longer fatty acid chains on average)"
+        ]
+      },
+      "explanation": "The physical state of a lipid at room temperature is primarily governed by its degree of unsaturation. Unsaturated chains in oils prevent tight packing, keeping them liquid, whereas saturated chains in solid fats align closely to form a solid matrix."
+    },
+    {
+      "id": "L2_C_002",
+      "type": "compare",
+      "text": "Compare between Triacylglycerols (Neutral Fats) and Waxes:",
+      "aspects": [
+        "Chemical Composition",
+        "Melting Point / Physical State",
+        "Susceptibility to Rancidity",
+        "Acrolein Test"
+      ],
+      "itemA": {
+        "name": "Triacylglycerols",
+        "values": [
+          "Glycerol + 3 Fatty acids (ester bonds)",
+          "Varies; can be either solids or liquids at room temperature depending on fatty acid composition",
+          "They may undergo oxidative or hydrolytic rancidity over time",
+          "Positive (due to the heating and dehydration of the glycerol backbone into acrolein gas)"
+        ]
+      },
+      "itemB": {
+        "name": "Waxes",
+        "values": [
+          "Long-chain Fatty acids + Higher molecular weight monohydric Fatty alcohols",
+          "Consistently solid at room temperature with relatively high melting points",
+          "They do not undergo rancidity (highly resistant to atmospheric oxidation and chemical degradation)",
+          "Negative (because they lack a glycerol backbone entirely, so no acrolein can be formed)"
+        ]
+      },
+      "explanation": "The Acrolein test is a definitive diagnostic tool to differentiate between glycerophospholipids/triacylglycerols and non-glycerol based lipids like waxes. Dehydration of glycerol by KHSO4 yields the pungent-smelling acrolein vapor."
+    },
+    {
+      "id": "L2_MCQ_001",
+      "type": "mcq",
+      "text": "The fatty acid essential for life in man is:",
+      "options": [
+        "A. Butyric acid",
+        "B. Palmitic acid",
+        "C. Stearic acid",
+        "D. Oleic acid",
+        "E. Linolenic acid"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Butyric acid is a short-chain volatile fatty acid synthesized by the body or gut flora.",
+        "Wrong: Palmitic acid is a saturated fatty acid that can be synthesized de novo in the human body.",
+        "Wrong: Stearic acid is an 18-carbon saturated fatty acid synthesized natively.",
+        "Wrong: Oleic acid is an omega-9 monounsaturated fatty acid that the body can readily produce.",
+        "Correct: Linolenic acid is an essential polyunsaturated fatty acid (PUFA) that humans cannot synthesize."
+      ],
+      "explanation": "Essential fatty acids like linoleic and linolenic acids must be provided in the diet because human tissues lack the desaturase enzymes required to introduce double bonds beyond carbon 9."
+    },
+    {
+      "id": "L2_MCQ_002",
+      "type": "mcq",
+      "text": "Which of the following is NOT a constituent of gangliosides?",
+      "options": [
+        "A. Glycerol",
+        "B. Sialic acid",
+        "C. Hexose sugar",
+        "D. Sphingosine",
+        "E. Long chain fatty acid"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Gangliosides are sphingolipids and do not contain a glycerol backbone.",
+        "Wrong: Sialic acid (NANA) is a defining characteristic component of all gangliosides.",
+        "Wrong: Oligosaccharide chains composed of hexose sugars (glucose/galactose) are present.",
+        "Wrong: Sphingosine is the fundamental structural amino alcohol backbone of all sphingolipids.",
+        "Wrong: A long-chain fatty acid is attached via an amide linkage to sphingosine to form the ceramide base."
+      ],
+      "explanation": "Gangliosides are complex glycosphingolipids composed of a ceramide (sphingosine + fatty acid) attached to an oligosaccharide chain that contains at least one molecule of sialic acid. They contain absolutely no glycerol."
+    },
+    {
+      "id": "L2_MCQ_003",
+      "type": "mcq",
+      "text": "The process of hydrolysis of triacylglycerols by an alkali is:",
+      "options": [
+        "A. Esterification",
+        "B. Reduction",
+        "C. Saponification",
+        "D. Oxidation",
+        "E. Hydrolysis"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Esterification is the synthesis of an ester from an acid and an alcohol.",
+        "Wrong: Reduction involves the gain of electrons or hydrogen atoms.",
+        "Correct: Saponification is specifically the alkaline hydrolysis of triacylglycerols to produce glycerol and salts of fatty acids (soaps).",
+        "Wrong: Oxidation involves the loss of electrons or reaction with oxygen.",
+        "Wrong: Hydrolysis is a broad term; alkaline hydrolysis of fats has the specific diagnostic name of saponification."
+      ],
+      "explanation": "Boiling triacylglycerols with an alkali like NaOH or KOH cleaves the ester bonds, yielding glycerol and the alkali salts of the fatty acids, which function as soaps."
+    },
+    {
+      "id": "L2_MCQ_004",
+      "type": "mcq",
+      "text": "A substance NOT steroid in nature is:",
+      "options": [
+        "A. Testosterone",
+        "B. Ergosterol",
+        "C. Progesterone",
+        "D. Prostaglandin"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Testosterone is a male sex steroid hormone possessing the cyclopentanoperhydrophenanthrene nucleus.",
+        "Wrong: Ergosterol is a plant sterol serving as a precursor to Vitamin D2, containing a steroid core.",
+        "Wrong: Progesterone is a female sex steroid hormone synthesized from cholesterol.",
+        "Correct: Prostaglandins are eicosanoids derived from polyunsaturated fatty acids like arachidonic acid, not steroids."
+      ],
+      "explanation": "Prostaglandins are synthesized from 20-carbon polyunsaturated fatty acids (primarily arachidonic acid) and possess a cyclopentane ring, making them chemically distinct from molecules built on a steroid nucleus."
+    },
+    {
+      "id": "L2_MCQ_005",
+      "type": "mcq",
+      "text": "Stearic acid is:",
+      "options": [
+        "A. Essential fatty acid",
+        "B. Short chain fatty acid",
+        "C. Unsaturated fatty acid",
+        "D. Possessing 18 carbon atoms"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: It is non-essential since it can be synthesized by the human body.",
+        "Wrong: It is a long-chain fatty acid, not a short-chain one.",
+        "Wrong: It is a fully saturated fatty acid containing zero double bonds.",
+        "Correct: Stearic acid is a saturated long-chain fatty acid with the chemical formula C18H36O2."
+      ],
+      "explanation": "Stearic acid is a classic 18-carbon saturated fatty acid (18:0) frequently found in animal fats and plant butters."
+    },
+    {
+      "id": "L2_MCQ_006",
+      "type": "mcq",
+      "text": "Addition of choline to phosphatidic acid produces:",
+      "options": [
+        "A. Lysolecithin",
+        "B. Phosphatidyl serine",
+        "C. Plasmalogen",
+        "D. Lecithin"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Lysolecithin is produced by removing a fatty acid from lecithin, not by synthesizing it directly from phosphatidic acid.",
+        "Wrong: Phosphatidylserine is formed when serine is added instead of choline.",
+        "Wrong: Plasmalogens contain an ether/alkenyl linkage at C-1 rather than an ester linkage.",
+        "Correct: Phosphatidylcholine is commonly known as lecithin, formed by esterifying a choline base to the phosphate group of phosphatidic acid."
+      ],
+      "explanation": "Phosphatidic acid is the structural blueprint for glycerophospholipids. Attaching a choline head group to its phosphate moiety generates phosphatidylcholine (lecithin)."
+    },
+    {
+      "id": "L2_MCQ_007",
+      "type": "mcq",
+      "text": "Hydrolysis of sphingomyelin produces all the following EXCEPT:",
+      "options": [
+        "A. One fatty acid",
+        "B. Serine",
+        "C. Sphingosine",
+        "D. Phosphate",
+        "E. Choline"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: One fatty acid molecule is released as it is joined to sphingosine via an amide bond.",
+        "Correct: Free serine amino acid is not a direct hydrolytic product of sphingomyelin synthesis breakdown.",
+        "Wrong: Sphingosine is the essential core amino alcohol component released.",
+        "Wrong: Phosphate is cleaved from the phosphorylcholine head group.",
+        "Wrong: Choline is liberated from the hydrophilic polar head cluster."
+      ],
+      "explanation": "While sphingosine itself is biosynthetically derived from serine and palmitoyl-CoA, the direct chemical hydrolysis of a mature sphingomyelin molecule yields sphingosine, a single fatty acid, phosphoric acid, and choline."
+    },
+    {
+      "id": "L2_MCQ_008",
+      "type": "mcq",
+      "text": "Phospholipids:",
+      "options": [
+        "A. Always contain choline and glycerol.",
+        "B. An important source of energy during fasting.",
+        "C. Are a major component of membranes.",
+        "D. Are the main lipid content of VLDL."
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Not all phospholipids contain choline (e.g., cephalin contains ethanolamine) or glycerol (sphingomyelin contains sphingosine).",
+        "Wrong: Triacylglycerols, not phospholipids, are the primary energy source during fasting storage.",
+        "Correct: Phospholipids are amphipathic molecules that spontaneously organize into bilayers, forming the framework of biological membranes.",
+        "Wrong: Triacylglycerols are the main lipid cargo transported by VLDLs."
+      ],
+      "explanation": "The amphipathic nature of phospholipids makes them uniquely suited to form the structural boundaries of cells and intracellular organelles."
+    },
+    {
+      "id": "L2_MCQ_009",
+      "type": "mcq",
+      "text": "The following are essential fatty acids in man EXCEPT:",
+      "options": [
+        "A. Oleic",
+        "B. Linoleic",
+        "C. Linolenic",
+        "D. Arachidonic"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Oleic acid is a monounsaturated fatty acid (18:1 n-9) that human cells can synthesize natively.",
+        "Wrong: Linoleic acid is an omega-6 essential fatty acid that must be derived from diet.",
+        "Wrong: Linolenic acid is an omega-3 essential fatty acid that cannot be produced de novo.",
+        "Wrong: Arachidonic acid is traditionally grouped as essential because it becomes required if its dietary precursor linoleic acid is deficient."
+      ],
+      "explanation": "Oleic acid is easily synthesized in the human body by the action of the stearoyl-CoA desaturase enzyme on stearic acid."
+    },
+    {
+      "id": "L2_MCQ_010",
+      "type": "mcq",
+      "text": "Which of the following is a polyunsaturated fatty acid?",
+      "options": [
+        "A. Oleic",
+        "B. Linoleic",
+        "C. Nervonic",
+        "D. Palmitic",
+        "E. Palmitoleic"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Oleic acid has only 1 double bond (monounsaturated).",
+        "Correct: Linoleic acid has 2 double bonds, qualifying it as a polyunsaturated fatty acid.",
+        "Wrong: Nervonic acid is a monounsaturated long-chain fatty acid (24:1).",
+        "Wrong: Palmitic acid is a saturated fatty acid with no double bonds.",
+        "Wrong: Palmitoleic acid is a monounsaturated fatty acid (16:1)."
+      ],
+      "explanation": "Polyunsaturated fatty acids (PUFAs) are defined as fatty acid chains containing two or more carbon-to-carbon double bonds. Linoleic acid has two double bonds (18:2)."
+    },
+    {
+      "id": "L2_MCQ_011",
+      "type": "mcq",
+      "text": "All the following are essential fatty acids in man EXCEPT:",
+      "options": [
+        "A. Oleic",
+        "B. Linoleic",
+        "C. Linolenic",
+        "D. Arachidonic",
+        "E. Clupadonic"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Oleic acid is non-essential because human cells possess Δ9-desaturase to form it.",
+        "Wrong: Linoleic is a strictly essential omega-6 fatty acid.",
+        "Wrong: Linolenic is a strictly essential omega-3 fatty acid.",
+        "Wrong: Arachidonic is synthesized from linoleic acid and becomes essential if linoleic intake is inadequate.",
+        "Wrong: Clupadonic acid is a highly unsaturated long-chain fatty acid structurally related to the essential family lines."
+      ],
+      "explanation": "Oleic acid is a non-essential monounsaturated omega-9 fatty acid that can be fully synthesized by human tissues."
+    },
+    {
+      "id": "L2_MCQ_012",
+      "type": "mcq",
+      "text": "Rancidity is defined as:",
+      "options": [
+        "A. Hydrogenation of unsaturated fatty acids",
+        "B. Hydrolysis of triacylglycerols by alkali",
+        "C. Synthesis of triacylglycerols",
+        "D. Toxic reactions of triacylglycerols",
+        "E. Hydroxylation of fatty acids"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Hydrogenation is the chemical hardening process that solidifies oils.",
+        "Wrong: Alkaline hydrolysis is saponification, which creates soaps.",
+        "Wrong: Synthesis of triacylglycerols is esterification/lipogenesis.",
+        "Correct: Rancidity refers to the auto-oxidation or hydrolytic degradation of fats leading to highly toxic bioproducts, noxious odors, and spoiled taste.",
+        "Wrong: Hydroxylation is the enzymatic introduction of hydroxyl groups into a chain."
+      ],
+      "explanation": "Rancidity involves chemical or enzymatic breakdown pathways that yield harmful aldehydes, epoxides, and lipid peroxides."
+    },
+    {
+      "id": "L2_MCQ_013",
+      "type": "mcq",
+      "text": "The precursor of all steroids is:",
+      "options": [
+        "A. Progesterone",
+        "B. Testosterone",
+        "C. Cholesterol",
+        "D. Calcitriol",
+        "E. Cholic acid"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Progesterone is a steroid intermediate derived from pregnenolone.",
+        "Wrong: Testosterone is an androgenic hormone branch terminal product.",
+        "Correct: Cholesterol serves as the fundamental physiological precursor from which all steroid hormones, bile acids, and vitamin D are synthesized.",
+        "Wrong: Calcitriol is active Vitamin D, synthesized down-pathway from cholesterol roots.",
+        "Wrong: Cholic acid is a bile acid produced by the chemical modification of cholesterol."
+      ],
+      "explanation": "Cholesterol provides the indispensable four-fused-ring sterol skeleton that undergoes selective enzymatic modifications to create all steroid families."
+    },
+    {
+      "id": "L2_MCQ_014",
+      "type": "mcq",
+      "text": "Which fatty acid is NOT unsaturated?",
+      "options": [
+        "A. Oleic acid",
+        "B. Linoleic acid",
+        "C. Palmitoleic acid",
+        "D. Stearic acid",
+        "E. Arachidonic acid"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Oleic acid is monounsaturated (18:1).",
+        "Wrong: Linoleic acid is polyunsaturated (18:2).",
+        "Wrong: Palmitoleic acid is monounsaturated (16:1).",
+        "Correct: Stearic acid is a saturated fatty acid containing no double bonds.",
+        "Wrong: Arachidonic acid is polyunsaturated (20:4)."
+      ],
+      "explanation": "Stearic acid is a saturated C18 fatty acid, meaning its hydrocarbon tail is saturated with hydrogen atoms and contains exclusively single carbon-carbon bonds."
+    },
+    {
+      "id": "L2_MCQ_015",
+      "type": "mcq",
+      "text": "The following are sphingosine-containing lipids EXCEPT:",
+      "options": [
+        "A. Plasmalogen",
+        "B. Kerasin",
+        "C. Nervon",
+        "D. Ganglioside",
+        "E. Sphingomyelin"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Plasmalogens utilize a glycerol core with an ether-linked alcohol, not a sphingosine chain.",
+        "Wrong: Kerasin is a cerebroside built on a sphingosine backbone.",
+        "Wrong: Nervon is a galactocerebroside built on a sphingosine backbone.",
+        "Wrong: Gangliosides are complex glycosphingolipids containing sphingosine.",
+        "Wrong: Sphingomyelin is a classic phosphosphingoside structured around sphingosine."
+      ],
+      "explanation": "Plasmalogens are specialized ether glycerophospholipids that use glycerol as their base alcohol structural component."
+    },
+    {
+      "id": "L2_MCQ_016",
+      "type": "mcq",
+      "text": "Which of the following is a lung surfactant?",
+      "options": [
+        "A. Dipalmitoyl cephalin",
+        "B. Dipalmitoyl lecithin",
+        "C. Plasmalogen",
+        "D. Cardiolipin",
+        "E. Ceramide"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Cephalin is phosphatidyl ethanolamine, not the chief surfactant component.",
+        "Correct: Dipalmitoyl lecithin (dipalmitoylphosphatidylcholine) is the primary surface tension-lowering agent in the lungs.",
+        "Wrong: Plasmalogens are found in cardiovascular tissues but do not act as lung surfactants.",
+        "Wrong: Cardiolipin is an inner mitochondrial membrane constituent.",
+        "Wrong: Ceramide is a hydrophobic sphingolipid structural intermediate."
+      ],
+      "explanation": "Dipalmitoyl lecithin reduces surface tension at the alveolar air-liquid interface, preventing the collapse of the lungs during expiration."
+    },
+    {
+      "id": "L2_MCQ_017",
+      "type": "mcq",
+      "text": "Which of the following is NOT a phospholipid?",
+      "options": [
+        "A. Cerebroside",
+        "B. Plasmalogen",
+        "C. Sphingomyelin",
+        "D. Cephalin",
+        "E. Lecithin"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Cerebrosides are glycolipids; they contain sugar groups and entirely lack a phosphate group.",
+        "Wrong: Plasmalogens contain a phosphate residue and are classified as phospholipids.",
+        "Wrong: Sphingomyelin contains a phosphate moiety, bridging phospholipids and sphingolipids.",
+        "Wrong: Cephalin is phosphatidylethanolamine, a major structural phospholipid.",
+        "Wrong: Lecithin is phosphatidylcholine, an abundant membrane phospholipid."
+      ],
+      "explanation": "Cerebrosides are neutral glycosphingolipids consisting of ceramide linked to a monosaccharide unit without any esterified phosphate."
+    },
+    {
+      "id": "L2_MCQ_018",
+      "type": "mcq",
+      "text": "Number of mg of KOH necessary to neutralize the free fatty acids present in one gram of fat is:",
+      "options": [
+        "A. Acetyl value",
+        "B. Iodine value",
+        "C. Saponification value",
+        "D. Acid value",
+        "E. None of the above"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Acetyl value quantifies free hydroxyl groups in fatty acids.",
+        "Wrong: Iodine value measures the degree of carbon chain unsaturation.",
+        "Wrong: Saponification value determines total fatty acids (both free and esterified) per gram.",
+        "Correct: Acid value is specifically defined as the milligrams of KOH required to neutralize the unesterified free fatty acids in one gram of fat.",
+        "Wrong: Option D is the correct biological definition."
+      ],
+      "explanation": "The acid value is an analytical measure used to monitor hydrolytic rancidity, as deterioration breaks ester links to release measurable free acids."
+    },
+    {
+      "id": "L2_MCQ_019",
+      "type": "mcq",
+      "text": "Amphipathic lipids are formed of:",
+      "options": [
+        "A. Nonpolar lipids.",
+        "B. Polar lipids.",
+        "C. Polar and nonpolar lipids.",
+        "D. Neutral fat.",
+        "E. Waxes."
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Purely nonpolar lipids are hydrophobic and do not possess amphipathic behaviors.",
+        "Wrong: Purely polar components lack the necessary hydrophobic tails to form bilayers.",
+        "Correct: Amphipathic molecules are defined by having both a hydrophilic polar domain and a hydrophobic nonpolar domain.",
+        "Wrong: Neutral fats (TAGs) are purely hydrophobic nonpolar storage molecules.",
+        "Wrong: Waxes are highly hydrophobic long ester chains with no significant polar charges."
+      ],
+      "explanation": "The dual polarity of amphipathic lipids allows them to interface with both aqueous environments and hydrophobic matrices, driving the assembly of biological membranes."
+    },
+    {
+      "id": "L2_MCQ_020",
+      "type": "mcq",
+      "text": "Hydrolysis of lecithin yields the following products EXCEPT:",
+      "options": [
+        "A. Saturated fatty acid",
+        "B. Choline",
+        "C. Glycerol",
+        "D. Phosphate",
+        "E. Ethanolamine"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: A saturated fatty acid is standardly esterified at the C-1 position of lecithin.",
+        "Wrong: Choline is the defining nitrogenous base released upon lecithin hydrolysis.",
+        "Wrong: Glycerol forms the chemical ester backbone of lecithin.",
+        "Wrong: Phosphate is a fundamental constituent linked to carbon 3 of the glycerol core.",
+        "Correct: Ethanolamine is released during the hydrolysis of cephalin, not lecithin."
+      ],
+      "explanation": "Lecithin is phosphatidylcholine. Breaking its ester and phosphodiester bonds yields glycerol, a saturated fatty acid, an unsaturated fatty acid, phosphoric acid, and choline."
+    },
+    {
+      "id": "L2_MCQ_021",
+      "type": "mcq",
+      "text": "The test of unsaturation of fatty acid is:",
+      "options": [
+        "A. Saponification number",
+        "B. Acid number",
+        "C. Iodine number",
+        "D. Acetyl number"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Saponification number measures the average fatty acid molecular weight/chain length.",
+        "Wrong: Acid number evaluates the quantity of unesterified free fatty acids.",
+        "Correct: Iodine number determines the degree of unsaturation by measuring halogen absorption across double bonds.",
+        "Wrong: Acetyl number gauges the density of hydroxy-fatty acid groups."
+      ],
+      "explanation": "Because iodine adds quantitatively across carbon-carbon double bonds, the weight of iodine absorbed by a fat sample directly reflects its level of unsaturation."
+    },
+    {
+      "id": "L2_MCQ_022",
+      "type": "mcq",
+      "text": "All of the following phospholipids contain choline EXCEPT:",
+      "options": [
+        "A. Lecithin",
+        "B. Cephalin",
+        "C. Plasmalogen",
+        "D. Sphingomyelin"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Lecithin is phosphatidylcholine and naturally contains choline.",
+        "Correct: Cephalin is phosphatidylethanolamine and contains ethanolamine as its nitrogenous base instead of choline.",
+        "Wrong: Choline-containing plasmalogens exist abundantly in cardiac tissue structures.",
+        "Wrong: Sphingomyelin features a phosphorylcholine head cluster containing choline."
+      ],
+      "explanation": "Cephalin is characterized by an ethanolamine (or serine) head group, making it structurally distinct from choline-based phospholipids."
+    },
+    {
+      "id": "L2_MCQ_023",
+      "type": "mcq",
+      "text": "Hydrogenation of oleic acid produces:",
+      "options": [
+        "A. Linoleic acid",
+        "B. Linolenic acid",
+        "C. Stearic acid",
+        "D. Palmitic acid",
+        "E. Arachidonic acid"
+      ],
+      "answer": 2,
+      "optionReasons": [
+        "Wrong: Linoleic acid is more unsaturated than oleic, not less.",
+        "Wrong: Linolenic acid contains three double bonds, requiring dehydrogenation, not hydrogenation.",
+        "Correct: Oleic acid is an 18-carbon monounsaturated acid; hydrogenating its single double bond fully saturates it into 18-carbon stearic acid.",
+        "Wrong: Palmitic acid is a 16-carbon chain, while oleic has 18 carbons.",
+        "Wrong: Arachidonic acid is a highly unsaturated 20-carbon fatty acid."
+      ],
+      "explanation": "Hydrogenation adds hydrogen atoms across double bonds, converting unsaturated fatty acids into their fully saturated counterparts of the identical carbon length (18:1 → 18:0)."
+    },
+    {
+      "id": "L2_MCQ_024",
+      "type": "mcq",
+      "text": "The following conjugated lipids contain glycerol EXCEPT:",
+      "options": [
+        "A. Lecithin",
+        "B. Cephalin",
+        "C. Plasmalogen",
+        "D. Cardiolipin",
+        "E. Cerebroside"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Lecithin is built on a glycerol backbone.",
+        "Wrong: Cephalin is built on a glycerol backbone.",
+        "Wrong: Plasmalogen is built on a modified glycerol core.",
+        "Wrong: Cardiolipin consists of two phosphatidic acids linked by a central glycerol.",
+        "Correct: Cerebroside is a sphingolipid containing a sphingosine backbone, not glycerol."
+      ],
+      "explanation": "Cerebrosides belong to the sphingolipid superfamily, utilizing the long-chain amino alcohol sphingosine rather than glycerol as their structural skeleton."
+    },
+    {
+      "id": "L2_MCQ_025",
+      "type": "mcq",
+      "text": "Antioxidant is a substance that:",
+      "options": [
+        "A. Produces rancidity",
+        "B. Prevents rancidity",
+        "C. Produces Hardening of oils",
+        "D. Produces emulsification of oils"
+      ],
+      "answer": 1,
+      "optionReasons": [
+        "Wrong: Pro-oxidants and transition metals accelerate rancidity.",
+        "Correct: Antioxidants actively intercept free radical chain reactions, halting lipid peroxidation and preventing rancidity.",
+        "Wrong: Hardening of oils requires hydrogen gas and a metal catalyst.",
+        "Wrong: Emulsification is performed by amphipathic surfactants like bile salts."
+      ],
+      "explanation": "Antioxidants like Vitamin E act as chain breakers by sacrificing electrons to stabilize lipid peroxyl radicals, preserving fats from oxidative breakdown."
+    },
+    {
+      "id": "L2_MCQ_026",
+      "type": "mcq",
+      "text": "Which of the following is NOT steroid?",
+      "options": [
+        "A. Vitamin D3",
+        "B. Testosterone",
+        "C. Cholesterol",
+        "D. Prostacyclin",
+        "E. Progesterone"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Vitamin D3 is synthesized from a cholesterol precursor and retains a modified steroid derivative skeleton.",
+        "Wrong: Testosterone is a classic steroid hormone.",
+        "Wrong: Cholesterol is the foundational animal sterol containing the steroid core.",
+        "Correct: Prostacyclin is an eicosanoid derivative of arachidonic acid, not a steroid.",
+        "Wrong: Progesterone is a major steroid hormone involved in pregnancy."
+      ],
+      "explanation": "Prostacyclin (PGI2) is a local signaling lipid belong to the eicosanoid family, synthesized via the cyclooxygenase pathway from polyunsaturated fatty acids."
+    },
+    {
+      "id": "L2_MCQ_027",
+      "type": "mcq",
+      "text": "The following are plasma lipoproteins EXCEPT:",
+      "options": [
+        "A. Chylomicrons",
+        "B. Very low density lipoproteins (VLDL)",
+        "C. Low density lipoproteins (LDL)",
+        "D. Very high density lipoproteins (VHDL)",
+        "E. High density lipoproteins (HDL)"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Chylomicrons transport dietary lipids from the intestines.",
+        "Wrong: VLDL delivers endogenous triacylglycerols from the liver.",
+        "Wrong: LDL delivers cholesterol to peripheral extrahepatic tissues.",
+        "Correct: There is no physiological plasma lipoprotein classification named 'Very high density lipoprotein' (VHDL).",
+        "Wrong: HDL mediates reverse cholesterol transport back to the liver."
+      ],
+      "explanation": "Plasma lipoproteins are classified into Chylomicrons, VLDL, IDL, LDL, and HDL based on their density profiles during ultracentrifugation analysis."
+    },
+    {
+      "id": "L2_MCQ_028",
+      "type": "mcq",
+      "text": "An unsaturated fatty acid with 4 double bonds is:",
+      "options": [
+        "A. Oleic",
+        "B. Palmitoleic",
+        "C. Linoleic",
+        "D. Linolenic",
+        "E. Arachidonic"
+      ],
+      "answer": 4,
+      "optionReasons": [
+        "Wrong: Oleic acid has 1 double bond.",
+        "Wrong: Palmitoleic acid has 1 double bond.",
+        "Wrong: Linoleic acid has 2 double bonds.",
+        "Wrong: Linolenic acid has 3 double bonds.",
+        "Correct: Arachidonic acid is an omega-6 polyunsaturated fatty acid containing 20 carbons and exactly 4 double bonds (20:4)."
+      ],
+      "explanation": "Arachidonic acid's four double bonds are located at positions 5, 8, 11, and 14, rendering it highly flexible and reactive for local hormone synthesis."
+    },
+    {
+      "id": "L2_MCQ_029",
+      "type": "mcq",
+      "text": "The phospholipid cardiolipin is found almost exclusively in:",
+      "options": [
+        "A. Mitochondrial membrane",
+        "B. Plasma membrane",
+        "C. Lysosomal membrane",
+        "D. Smooth endoplasmic reticular membrane",
+        "E. Rough endoplasmic reticular membrane"
+      ],
+      "answer": 0,
+      "optionReasons": [
+        "Correct: Cardiolipin (diphosphatidylglycerol) is specialized and restricted to the inner mitochondrial membrane.",
+        "Wrong: It is not present in significant amounts within the cell's outer plasma membrane.",
+        "Wrong: Lysosomes contain acidic phospholipids but lack cardiolipin.",
+        "Wrong: The smooth endoplasmic reticulum does not concentrate cardiolipin.",
+        "Wrong: The rough endoplasmic reticulum is not a site for cardiolipin localization."
+      ],
+      "explanation": "Cardiolipin is vital for structural stabilization of electron transport chain super-complexes within the inner mitochondrial membrane, optimizing ATP production."
+    },
+    {
+      "id": "L2_MCQ_030",
+      "type": "mcq",
+      "text": "A second messenger for hormonal action is derived from:",
+      "options": [
+        "A. Phosphatidyl choline",
+        "B. Phosphatidyl serine",
+        "C. Phosphatidyl ethanolamine",
+        "D. Phosphatidyl inositol",
+        "E. Dipalmitoyl lecithin"
+      ],
+      "answer": 3,
+      "optionReasons": [
+        "Wrong: Phosphatidylcholine does not standardly cleave into IP3 or DAG signal loops.",
+        "Wrong: Phosphatidylserine is involved in blood coagulation and apoptosis signaling.",
+        "Wrong: Phosphatidylethanolamine is primarily a membrane building block.",
+        "Correct: Phosphatidylinositol 4,5-bisphosphate (PIP2) is cleaved by Phospholipase C into IP3 and DAG, which act as classic intracellular second messengers.",
+        "Wrong: Dipalmitoyl lecithin functions primarily as a biophysical pulmonary surfactant."
+      ],
+      "explanation": "Hormonal binding to G-protein coupled receptors activates Phospholipase C, which cleaves phosphatidylinositol derivatives to release signaling cascades that mobilize intracellular calcium."
+    },
+    {
+      "id": "L2_MSTF_001",
+      "type": "multitf",
+      "text": "For Rancidity:",
+      "statements": [
+        {
+          "text": "31. Has only one type, which is oxidative rancidity.",
+          "answer": false
+        },
+        {
+          "text": "32. Is the formation of peroxides and epoxides of fatty acids.",
+          "answer": true
+        },
+        {
+          "text": "33. Can be prevented by vitamin E.",
+          "answer": true
+        },
+        {
+          "text": "34. Results from exposure of fat to oxygen, bacteria or moisture.",
+          "answer": true
+        },
+        {
+          "text": "35. Is enhanced by vitamin C.",
+          "answer": false
+        }
+      ],
+      "explanation": "Rancidity can be oxidative (producing epoxides/peroxides via chemical auto-oxidation) or hydrolytic (induced by moisture or bacterial lipases). Vitamin E acts as an antioxidant to prevent it, while Vitamin C works alongside it as a scavenger, not an enhancer."
+    },
+    {
+      "id": "L2_MSTF_002",
+      "type": "multitf",
+      "text": "Regarding Fatty acids:",
+      "statements": [
+        {
+          "text": "36. Are mostly aliphatic in human.",
+          "answer": true
+        },
+        {
+          "text": "37. Are all insoluble in water.",
+          "answer": false
+        },
+        {
+          "text": "38. In human, are not required at all in diet.",
+          "answer": false
+        },
+        {
+          "text": "39. All must be supplied by the diet.",
+          "answer": false
+        },
+        {
+          "text": "40. Their last -CH3 is the omega carbon.",
+          "answer": true
+        }
+      ],
+      "explanation": "Human fatty acids are largely aliphatic (straight-chain hydro-carbons). Short-chain fatty acids (like acetic or butyric acid) are actually water-soluble. Essential fatty acids are required in the diet, whereas non-essential ones can be synthesized de novo. The terminal methyl carbon is designated as the omega (ω) carbon."
+    },
+    {
+      "id": "L2_MSTF_003",
+      "type": "multitf",
+      "text": "Lipids are characterized as a:",
+      "statements": [
+        {
+          "text": "41. Source of energy for some body cells.",
+          "answer": true
+        },
+        {
+          "text": "42. Poorly soluble in water.",
+          "answer": true
+        },
+        {
+          "text": "43. Structural components of cell membranes.",
+          "answer": true
+        },
+        {
+          "text": "44. Composed of only carbon, hydrogen and oxygen.",
+          "answer": false
+        },
+        {
+          "text": "45. Needs bile salts for absorption.",
+          "answer": true
+        }
+      ],
+      "explanation": "Lipids serve as powerful energy stores and structural cell membrane barriers. While simple lipids contain only C, H, and O, compound lipids contain other elements like Phosphorus (phospholipids) and Nitrogen. Due to their hydrophobic nature, amphipathic bile salts are mandatory for their micellar emulsification and intestinal absorption."
+    },
+    {
+      "id": "L2_MSTF_004",
+      "type": "multitf",
+      "text": "For Cholesterol:",
+      "statements": [
+        {
+          "text": "46. Is a simple lipid.",
+          "answer": false
+        },
+        {
+          "text": "47. Is the precursor of all steroid hormones.",
+          "answer": true
+        },
+        {
+          "text": "48. In liver it may be converted into bile acids.",
+          "answer": true
+        },
+        {
+          "text": "49. Is the precursor of vitamin D2.",
+          "answer": false
+        },
+        {
+          "text": "50. Enters in the structure of every body cell.",
+          "answer": true
+        }
+      ],
+      "explanation": "Cholesterol is classified as a derived lipid (specifically a sterol), not a simple lipid. It is the architectural precursor for bile acids, cell membrane fluid dynamics, and all mammalian steroid hormones. It serves as the precursor for Vitamin D3 (7-dehydrocholesterol), whereas D2 is derived from plant ergosterol."
+    },
+    {
+      "id": "L2_MSTF_005",
+      "type": "multitf",
+      "text": "Concerning Triacylglycerols (TAGs):",
+      "statements": [
+        {
+          "text": "51. Reacts with alkalies to form soap.",
+          "answer": true
+        },
+        {
+          "text": "52. Are stored mainly in the body in the liver.",
+          "answer": false
+        },
+        {
+          "text": "53. Their specific gravity is less than one.",
+          "answer": true
+        },
+        {
+          "text": "54. Give negative acrolein test.",
+          "answer": false
+        },
+        {
+          "text": "55. Can be hydrolyzed by pancreatic lipase enzyme.",
+          "answer": true
+        }
+      ],
+      "explanation": "Triacylglycerols react with alkalies to form soaps (saponification) and are dynamically digested by pancreatic lipase. They are stored primarily in adipose tissue, not the liver (excess storage in the liver leads to pathological fatty liver). They float on water because their specific gravity is less than 1.0, and they give a highly positive Acrolein test due to their glycerol content."
+    },
+    {
+      "id": "L2_MSTF_006",
+      "type": "multitf",
+      "text": "Regarding Lecithin:",
+      "statements": [
+        {
+          "text": "56. Is a glycolipid.",
+          "answer": false
+        },
+        {
+          "text": "57. Acts as a body store of choline.",
+          "answer": true
+        },
+        {
+          "text": "58. Upon hydrolysis, it gives a sphingosine base, saturated fatty acid, unsaturated fatty acid, phosphate and choline.",
+          "answer": false
+        },
+        {
+          "text": "59. Dipalmitoyl lecithin acts as a surfactant in the lung.",
+          "answer": true
+        },
+        {
+          "text": "60. Acts as an activator factor in coagulation mechanism.",
+          "answer": false
+        }
+      ],
+      "explanation": "Lecithin (phosphatidylcholine) is a phospholipid, not a glycolipid, and serves as a vital cellular reservoir of choline. Dipalmitoyl lecithin is the physiological lung surfactant that maintains alveolar stability. Note: True chemical hydrolysis of lecithin yields glycerol, not sphingosine."
+    },
+    {
+      "id": "L2_MSTF_007",
+      "type": "multitf",
+      "text": "For Essential fatty acids:",
+      "statements": [
+        {
+          "text": "61. Are those that can be formed by the body.",
+          "answer": false
+        },
+        {
+          "text": "62. Are polyunsaturated fatty acids.",
+          "answer": true
+        },
+        {
+          "text": "63. Are important for normal growth.",
+          "answer": true
+        },
+        {
+          "text": "64. Are rich in triacylglycerols of animal origin as butter and lards.",
+          "answer": false
+        },
+        {
+          "text": "65. Include arachidonic acid (20 carbons) which is a precursor of eicosanoids.",
+          "answer": true
+        }
+      ],
+      "explanation": "Essential fatty acids cannot be manufactured by human tissues and must be supplied via the diet. They are highly polyunsaturated (PUFAs) and rich in vegetable oils, whereas animal fats (butter/lard) are loaded with saturated fats. Arachidonic acid (20:4) functions as the key substrate for downstream eicosanoid cascades."
+    },
+    {
+      "id": "L2_MSTF_008",
+      "type": "multitf",
+      "text": "General structural facts for lipids:",
+      "statements": [
+        {
+          "text": "66. Cholesterol is a plant sterol having double bonds.",
+          "answer": false
+        },
+        {
+          "text": "67. Phosphocholine is present in lecithin and plasmalogen.",
+          "answer": true
+        },
+        {
+          "text": "68. Linoleic acid is an essential fatty acid with 4 double bonds.",
+          "answer": false
+        },
+        {
+          "text": "69. Dipalmitoyl lecithin acts as a lung surfactant which prevents respiratory distress syndrome.",
+          "answer": true
+        },
+        {
+          "text": "70. Phospholipids act as structural components of cell membranes.",
+          "answer": true
+        },
+        {
+          "text": "71. Prostaglandins are derived from arachidonic acid.",
+          "answer": true
+        }
+      ],
+      "explanation": "Cholesterol is strictly an animal sterol (phytosterols are found in plants). Phosphocholine serves as the polar cluster for both lecithin and choline-plasmalogen variants. Linoleic acid contains 2 double bonds (18:2), while arachidonic acid contains 4 double bonds (20:4). Cellular membranes are composed of a structural phospholipid bilayer, and local prostaglandins are synthesized from arachidonic acid."
+    },
+    {
+      "id": "L2_M_001",
+      "type": "matching",
+      "text": "Match the numbered steroid derivatives with their corresponding chemical structures (labeled A-E) from the provided lecture diagram:",
+      "image": "images/L2_M_001.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "72. Vitamin D3",
+          "definition": "C"
+        },
+        {
+          "term": "73. Lithocholic acid",
+          "definition": "E"
+        },
+        {
+          "term": "74. Cortisol",
+          "definition": "D"
+        },
+        {
+          "term": "75. Testosterone",
+          "definition": "B"
+        },
+        {
+          "term": "76. Cholesterol",
+          "definition": "A"
+        }
+      ],
+      "explanation": "These steroid compounds share the core cyclopentanoperhydrophenanthrene nucleus but differ in their side chains and oxidation states: Cholesterol (A) has the native aliphatic tail, Testosterone (B) is the primary androgen, Vitamin D3 (C) has a split B-ring, Cortisol (D) contains specific glucocorticoid hydroxyl groups, and Lithocholic acid (E) is a secondary bile acid."
+    },
+    {
+      "id": "L2_M_002",
+      "type": "matching",
+      "text": "Match the following lipid classes and compounds with their correct metabolic description or chemical definition:",
+      "image": "",
+      "options": [
+        "A. Derived from arachidonic acid.",
+        "B. Esters of fatty acids and alcohol other than glycerol.",
+        "C. Surfactant in the lung.",
+        "D. An alcohol of animal origin.",
+        "E. Unsaturated fatty acid has one double bond."
+      ],
+      "pairs": [
+        {
+          "term": "77. Dipalmitoyl lecithin",
+          "definition": "C. Surfactant in the lung."
+        },
+        {
+          "term": "78. Waxes",
+          "definition": "B. Esters of fatty acids and alcohol other than glycerol."
+        },
+        {
+          "term": "79. Cholesterol",
+          "definition": "D. An alcohol of animal origin."
+        },
+        {
+          "term": "80. Oleic acid",
+          "definition": "E. Unsaturated fatty acid has one double bond."
+        },
+        {
+          "term": "81. Eicosanoids",
+          "definition": "A. Derived from arachidonic acid."
+        }
+      ],
+      "explanation": "Dipalmitoyl lecithin lowers surface tension in alveoli. Waxes feature high-molecular-weight monohydric alcohols. Cholesterol is an animal sterol alcohol. Oleic acid is 18:1 (n-9) monounsaturated, and eicosanoids are local mediators oxidized from arachidonic acid."
+    },
+    {
+      "id": "L2_M_003",
+      "type": "matching",
+      "text": "Match the designated fatty acids, bases, and compound lipids with their structural representations (labeled A-E) in the lecture figure:",
+      "image": "images/L2_M_003.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "82. Palmitic acid",
+          "definition": "B"
+        },
+        {
+          "term": "83. Linoleic acid",
+          "definition": "D"
+        },
+        {
+          "term": "84. Oleic acid",
+          "definition": "C"
+        },
+        {
+          "term": "85. Sphingosine",
+          "definition": "A"
+        },
+        {
+          "term": "86. Lecithin",
+          "definition": "E"
+        }
+      ],
+      "explanation": "Based on core biochemistry structures: Sphingosine (A) is an amino alcohol backbone, Palmitic acid (B) is a straight 16:0 chain, Oleic acid (C) is 18:1 with one kink, Linoleic acid (D) is 18:2 with two kinks, and Lecithin (E) is a complex glycerophospholipid with a choline head."
+    },
+    {
+      "id": "L2_M_004",
+      "type": "matching",
+      "text": "Match the following steroid hormones and bile components with their prominent physiological role in the human body:",
+      "image": "",
+      "options": [
+        "A. Stimulate the development of secondary male sex characters.",
+        "B. Important in digestion and absorption of lipids.",
+        "C. Stimulate the development of secondary female sex characters.",
+        "D. Control the metabolism of carbohydrate, lipids and proteins.",
+        "E. Prepare the uterus for implantation of the fertilized ovum."
+      ],
+      "pairs": [
+        {
+          "term": "87. Progesterone",
+          "definition": "E. Prepare the uterus for implantation of the fertilized ovum."
+        },
+        {
+          "term": "88. Estrogens",
+          "definition": "C. Stimulate the development of secondary female sex characters."
+        },
+        {
+          "term": "89. Glucocorticoids",
+          "definition": "D. Control the metabolism of carbohydrate, lipids and proteins."
+        },
+        {
+          "term": "90. Bile salts",
+          "definition": "B. Important in digestion and absorption of lipids."
+        },
+        {
+          "term": "91. Testosterone",
+          "definition": "A. Stimulate the development of secondary male sex characters."
+        }
+      ],
+      "explanation": "Progesterone maintains the endometrial lining for pregnancy. Estrogens drive female secondary characteristics, while Testosterone drives male ones. Glucocorticoids (like cortisol) govern substrate macronutrient metabolism, and amphipathic bile salts emulsify dietary fats."
+    },
+    {
+      "id": "L2_M_005",
+      "type": "matching",
+      "text": "Match the plasma lipoproteins and lipid transport complexes with their correct electrophoretic properties, synthesis markers, or metabolic pathways:",
+      "image": "",
+      "options": [
+        "A. Synthesized in the kidney",
+        "B. Contain 99% protein",
+        "C. Contain apolipoproteins B48",
+        "D. Equivalent to pre beta-Lipoproteins",
+        "E. Transport cholesterol from peripheral tissues to liver",
+        "F. Derived from circulating IDL"
+      ],
+      "pairs": [
+        {
+          "term": "92. Chylomicrons",
+          "definition": "C. Contain apolipoproteins B48"
+        },
+        {
+          "term": "93. VLDL",
+          "definition": "D. Equivalent to pre beta-Lipoproteins"
+        },
+        {
+          "term": "94. LDL",
+          "definition": "F. Derived from circulating IDL"
+        },
+        {
+          "term": "95. HDL",
+          "definition": "E. Transport cholesterol from peripheral tissues to liver"
+        },
+        {
+          "term": "96. Free fatty acids Albumin complex",
+          "definition": "B. Contain 99% protein"
+        }
+      ],
+      "explanation": "Chylomicrons carry ApoB-48 of intestinal origin. VLDLs track as pre-beta-lipoproteins on electrophoresis. LDL is generated in circulation via the degradation of IDL by hepatic lipase. HDL performs reverse cholesterol transport, and free fatty acids are transported bound to plasma albumin."
+    },
+    {
+      "id": "L2_M_006",
+      "type": "matching",
+      "text": "Match the following complex compound lipids and constituent fatty acids with their molecular structural formulas (labeled A-E) shown in the figure:",
+      "image": "images/L2_M_006.jpg",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "pairs": [
+        {
+          "term": "97. Triacylglycerol",
+          "definition": "D"
+        },
+        {
+          "term": "98. Plasmalogen",
+          "definition": "E"
+        },
+        {
+          "term": "99. Lipositol",
+          "definition": "C"
+        },
+        {
+          "term": "100. Dipalmitoyl lecithin",
+          "definition": "A"
+        },
+        {
+          "term": "101. Linoleic acid",
+          "definition": "B"
+        }
+      ],
+      "explanation": "Dipalmitoyl lecithin (A) displays two identical saturated palmitoyl chains. Linoleic acid (B) is a free polyunsaturated acid chain. Lipositol (C) contains a characteristic inositol ring cluster. Triacylglycerol (D) shows 3 esterified fatty acids to a glycerol base, and Plasmalogen (E) is distinct due to its ether/alkenyl configuration at C-1."
+    }
+  ]
+}

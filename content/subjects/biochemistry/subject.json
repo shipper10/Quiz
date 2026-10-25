@@ -1,0 +1,65 @@
+{
+  "id": "biochemistry",
+  "title": "الكيمياء الحيوية",
+  "subtitle": "Biochemistry",
+  "description": "Oraby's Illustrated Reviews of Biochemistry — Q&A",
+  "color": "green",
+  "dir": "ltr",
+  "lang": "en",
+  "sources": [
+    {
+      "id": "oraby",
+      "title": "Oraby's Illustrated Reviews of Biochemistry"
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "title": "Carbohydrate Chemistry",
+      "file": "lesson-1.json",
+      "summary": "Carbohydrates are polyhydroxy aldehydes or ketones. Monosaccharides are the simplest units. Disaccharides (sucrose, lactose, maltose) and polysaccharides (starch, glycogen, cellulose) are key forms. Glucose is the primary energy fuel.",
+      "source": "oraby",
+      "count": 186
+    },
+    {
+      "id": "lesson-2",
+      "title": "Lipids Chemistry",
+      "file": "lesson-2.json",
+      "summary": "Lipids are hydrophobic biomolecules including fatty acids, triglycerides, phospholipids, and steroids. Saturated fats have no double bonds; unsaturated fats have one or more. Phospholipids form the cell membrane bilayer.",
+      "source": "oraby",
+      "count": 149
+    },
+    {
+      "id": "lesson-3",
+      "title": "Amino Acids & Proteins",
+      "file": "lesson-3.json",
+      "summary": "20 standard amino acids each with α-carbon, amino group, carboxyl group, and R-group. Proteins have 4 structure levels. Peptide bond links amino acids. 9 essential amino acids must come from diet.",
+      "source": "oraby",
+      "count": 272
+    },
+    {
+      "id": "lesson-4",
+      "title": "Enzymes Chemistry",
+      "file": "lesson-4.json",
+      "summary": "Enzymes are biological catalysts (mostly proteins). They lower activation energy without being consumed. Key concepts: active site, Km, Vmax, competitive vs non-competitive inhibition, cofactors, coenzymes.",
+      "source": "oraby",
+      "count": 192
+    },
+    {
+      "id": "lesson-5",
+      "title": "Nucleic Acids",
+      "file": "lesson-5.json",
+      "summary": "DNA stores genetic information; RNA expresses it. Nucleotides = nitrogenous base + pentose sugar + phosphate. DNA is a double-stranded antiparallel helix. RNA is single-stranded.",
+      "source": "oraby",
+      "count": 59
+    },
+    {
+      "id": "lesson-6",
+      "title": "Vitamins",
+      "file": "lesson-6.json",
+      "summary": "Vitamins are essential organic micronutrients. Fat-soluble: A, D, E, K (stored in body fat). Water-soluble: B-complex, C (not stored, excreted in urine). Many B-vitamins act as coenzymes.",
+      "source": "oraby",
+      "count": 223
+    }
+  ]
+}

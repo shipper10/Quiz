@@ -1,0 +1,12 @@
+name: Validate content
+on:
+  push:
+    paths: ['content/**', 'tools/**']
+  pull_request:
+    paths: ['content/**', 'tools/**']
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/validate.py
